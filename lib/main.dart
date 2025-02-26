@@ -11,7 +11,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
-  runApp(MyApp());
+  runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {
@@ -41,9 +41,7 @@ class AuthScreen extends StatelessWidget {
     return Scaffold(
       backgroundColor: Colors.blue,
       appBar: AppBar(
-        title: Center(
-          child: Text('Login/Signup'),
-        ),
+        title: Center(child: Text('Login/Signup')),
         backgroundColor: Colors.red,
       ),
       body: Padding(
@@ -272,7 +270,7 @@ class LoginScreenState extends State<LoginScreen> {
 }
 
 class CategoryScreen extends StatelessWidget {
-  final List<String> categories = ["BCS", "Primary", "NTRCA"];
+  final List<String> categories = ["BCS 46", "Primary", "NTRCA"];
 
   CategoryScreen({super.key});
 
@@ -340,12 +338,14 @@ class MCQScreenState extends State<MCQScreen> {
   late AudioPlayer _audioPlayer;
 
   final Map<String, List<Map<String, dynamic>>> categorizedQuestions = {
-    "BCS": [
+    "BCS 46": [
       {
-        'question': 'What is the capital of France?',
-        'answers': ['Paris', 'London', 'Berlin', 'Madrid'],
-        'correctAnswer': 'Paris',
-        'hint': 'It is known as the "City of Light".',
+        'question':
+            'প্রশ্ন ১. পাহাড়পুরের ‘সোমপুর মহাবিহার’ বাংলার কোন শাসন আমলের স্থাপত্য কীর্তির নিদর্শন?',
+        'answers': ['ক) মৌর্য', 'খ) পাল', 'গ) গুপ্ত', 'ঘ) চন্দ্র'],
+        'correctAnswer': 'খ) পাল',
+        'hint':
+            'নওগা জেলার পাহাড়পুরে অবস্থিত সোমপুর মহাবিহার প্রাচীন বাংলার ❝পাল রাজবংশের❞ শাসনামলে অষ্টম শতকের শেষের দিকে বা নবম শতকের শুরুর দিকে স্থাপিত হয়।',
       },
       {
         'question': 'Who wrote "To Kill a Mockingbird"?',
@@ -493,7 +493,7 @@ class MCQScreenState extends State<MCQScreen> {
         'user': user.email ?? user.uid,
         'score': score,
         'timestamp': FieldValue.serverTimestamp(),
-        // ignore: body_might_complete_normally_catch_error
+      // ignore: body_might_complete_normally_catch_error
       }).catchError((error) {});
     }
   }
@@ -546,101 +546,112 @@ class MCQScreenState extends State<MCQScreen> {
           ),
         ],
       ),
-      body: isQuizFinished
-          ? Center(
-              child: Column(
-                mainAxisAlignment: MainAxisAlignment.center,
-                children: [
-                  Text(
-                    'Quiz Finished!',
-                    style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
-                  ),
-                  SizedBox(height: 20),
-                  Text(
-                    'Your Score: $score/${questions.length}',
-                    style: TextStyle(fontSize: 20),
-                  ),
-                  SizedBox(height: 10),
-                  Text(
-                    'Correct Answers: $correctAnswers',
-                    style: TextStyle(fontSize: 20, color: Colors.green),
-                  ),
-                  SizedBox(height: 10),
-                  Text(
-                    'Incorrect Answers: $incorrectAnswers',
-                    style: TextStyle(fontSize: 20, color: Colors.red),
-                  ),
-                  SizedBox(height: 10),
-                  Text(
-                    'Skipped Questions: $skippedQuestions',
-                    style: TextStyle(fontSize: 20, color: Colors.orange),
-                  ),
-                  SizedBox(height: 20),
-                  Text(
-                    'High Score: $highScore',
-                    style: TextStyle(fontSize: 20, color: Colors.blue),
-                  ),
-                  SizedBox(height: 20),
-                  ElevatedButton(
-                    onPressed: resetQuiz,
-                    child: Text('Restart Quiz'),
-                  ),
-                ],
-              ),
-            )
-          : Padding(
-              padding: const EdgeInsets.all(16.0),
-              child: Column(
-                crossAxisAlignment: CrossAxisAlignment.stretch,
-                children: [
-                  LinearProgressIndicator(
-                    value: (currentQuestionIndex + 1) / questions.length,
-                    backgroundColor: Colors.grey[300],
-                    valueColor: AlwaysStoppedAnimation(Colors.blue),
-                  ),
-                  SizedBox(height: 20),
-                  Text(
-                    'Question ${currentQuestionIndex + 1}/${questions.length}',
-                    style: TextStyle(fontSize: 18, color: Colors.grey),
-                  ),
-                  SizedBox(height: 20),
-                  Text(
-                    questions[currentQuestionIndex]['question'],
-                    style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
-                  ),
-                  SizedBox(height: 20),
-                  ...(questions[currentQuestionIndex]['answers']
-                          as List<String>)
-                      .map((answer) => Padding(
-                            padding: const EdgeInsets.symmetric(vertical: 8.0),
-                            child: ElevatedButton(
-                              onPressed: () => answerQuestion(answer),
-                              style: ElevatedButton.styleFrom(
-                                padding: EdgeInsets.symmetric(vertical: 16),
-                                shape: RoundedRectangleBorder(
-                                  borderRadius: BorderRadius.circular(10),
+      body: SingleChildScrollView(
+        child: isQuizFinished
+            ? Center(
+                child: Column(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    Text(
+                      'Quiz Finished!',
+                      style:
+                          TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
+                    ),
+                    SizedBox(height: 20),
+                    Text(
+                      'Your Score: $score/${questions.length}',
+                      style: TextStyle(fontSize: 20),
+                    ),
+                    SizedBox(height: 10),
+                    Text(
+                      'Correct Answers: $correctAnswers',
+                      style: TextStyle(fontSize: 20, color: Colors.green),
+                    ),
+                    SizedBox(height: 10),
+                    Text(
+                      'Incorrect Answers: $incorrectAnswers',
+                      style: TextStyle(fontSize: 20, color: Colors.red),
+                    ),
+                    SizedBox(height: 10),
+                    Text(
+                      'Skipped Questions: $skippedQuestions',
+                      style: TextStyle(fontSize: 20, color: Colors.orange),
+                    ),
+                    SizedBox(height: 20),
+                    Text(
+                      'High Score: $highScore',
+                      style: TextStyle(fontSize: 20, color: Colors.blue),
+                    ),
+                    SizedBox(height: 20),
+                    ElevatedButton(
+                      onPressed: resetQuiz,
+                      child: Text('Restart Quiz'),
+                    ),
+                  ],
+                ),
+              )
+            : Padding(
+                padding: const EdgeInsets.all(16.0),
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.stretch,
+                  children: [
+                    LinearProgressIndicator(
+                      value: (currentQuestionIndex + 1) / questions.length,
+                      backgroundColor: Colors.grey[300],
+                      valueColor: AlwaysStoppedAnimation(Colors.blue),
+                    ),
+                    SizedBox(height: 10),
+                    Text(
+                      'Question ${currentQuestionIndex + 1}/${questions.length}',
+                      style: TextStyle(fontSize: 18, color: Colors.grey),
+                    ),
+                    SizedBox(height: 10),
+                    Text(
+                      questions[currentQuestionIndex]['question'],
+                      style:
+                          TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
+                    ),
+                    SizedBox(height: 10),
+                    ...(questions[currentQuestionIndex]['answers']
+                            as List<String>)
+                        .map((answer) => Padding(
+                              padding:
+                                  const EdgeInsets.symmetric(vertical: 8.0),
+                              child: ElevatedButton(
+                                onPressed: () => answerQuestion(answer),
+                                style: ElevatedButton.styleFrom(
+                                  padding: EdgeInsets.symmetric(vertical: 16),
+                                  shape: RoundedRectangleBorder(
+                                    borderRadius: BorderRadius.circular(10),
+                                  ),
+                                ),
+                                child: Text(
+                                  answer,
+                                  style: TextStyle(fontSize: 18),
                                 ),
                               ),
-                              child: Text(
-                                answer,
-                                style: TextStyle(fontSize: 18),
-                              ),
-                            ),
-                          )),
-                  SizedBox(height: 20),
-                  ElevatedButton(
-                    onPressed: () =>
-                        showHintDialog(questions[currentQuestionIndex]['hint']),
-                    child: Text('Show Hint'),
-                  ),
-                  SizedBox(height: 20),
-                  ElevatedButton(
-                    onPressed: skipQuestion,
-                    child: Text('Skip Question'),
-                  ),
-                ],
+                            )),
+                    SizedBox(height: 10),
+                    ElevatedButton(
+                      onPressed: () => showHintDialog(
+                          questions[currentQuestionIndex]['hint']),
+                      child: Text(
+                        'Show Hint',
+                        style: TextStyle(color: Colors.green),
+                      ),
+                    ),
+                    SizedBox(height: 10),
+                    ElevatedButton(
+                      onPressed: skipQuestion,
+                      child: Text(
+                        'Skip Question',
+                        style: TextStyle(color: Colors.red),
+                      ),
+                    ),
+                  ],
+                ),
               ),
-            ),
+      ),
     );
   }
 }
@@ -660,6 +671,8 @@ class LeaderboardScreen extends StatelessWidget {
         builder: (context, snapshot) {
           if (snapshot.connectionState == ConnectionState.waiting) {
             return Center(child: CircularProgressIndicator());
+          } else if (!snapshot.hasData || snapshot.data!.docs.isEmpty) {
+            return Center(child: Text('No scores available.'));
           } else {
             final scores = snapshot.data!.docs;
             return ListView.builder(
