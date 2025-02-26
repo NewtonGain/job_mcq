@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "355935041178",
+    "project_id": "job-mcq-712e4",
+    "storage_bucket": "job-mcq-712e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355935041178:android:0ab10e0284af6096681123",
+        "android_client_info": {
+          "package_name": "com.example.job_mcq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgElMYVS0fOXME4wFkGf0gC2yFKzJ8eIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
