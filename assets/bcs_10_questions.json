@@ -1,0 +1,77 @@
+[
+    {
+      "question": "1.‘আনারস’ এবং ‘চাবি’ শব্দ দুটি বাংলা ভাষা গ্রহণ করেছে-",
+      "answers": [
+        {"text": "A.পর্তুগিজ ভাষা হতে", "score": 1},
+        {"text": "B.আরবি ভাষা হতে", "score": 0},
+        {"text": "C.দেশী ভাষা হতে", "score": 0},
+        {"text": "D.ওলন্দাজ ভাষা হতে", "score": 0}
+      ],
+      "correct_answer": "A.পর্তুগিজ ভাষা হতে",
+      "hint": "পর্তুগিজ ভাষা হতে আগত অন্যান্য বাংলা শব্দ হলো আলকাতরা, আলপিন, আলমারি, পেরেক, জানালা, বারান্দা, কামরা, ইংরেজ, গুদাম, গির্জা, পাদ্রি, কেরানি, আয়া, পেঁপে, পেয়ারা, আতা, আচার, পাউরুটি, তামাক, বোতাম, ফিতা, টুপি, সেমিজ, কামিজ, সাবান, তোয়ালে, গামলা, বালতি ইত্যাদি।"
+    }
+    ,
+    {
+      "question": "2. শুদ্ধ বানান কোনটি?",
+      "answers": [
+        {"text": "A.মূমুর্ষু ", "score": 0},
+        {"text": "B.মুমূর্ষু ", "score": 1},
+        {"text": "C.মূমূর্ষ ", "score": 0},
+        {"text": "D মুমূর্ষ.  ", "score": 0}
+      ],
+      "correct_answer": "B.মুমূর্ষু ",
+      "hint": " "
+    }
+    
+    ,
+    {
+      "question": "2. ",
+      "answers": [
+        {"text": "A. ", "score": 1},
+        {"text": "B.  ", "score": 0},
+        {"text": "C.  ", "score": 0},
+        {"text": "D .  ", "score": 0}
+      ],
+      "correct_answer": " ",
+      "hint": " "
+    }
+    
+    ,
+    {
+      "question": "2. ",
+      "answers": [
+        {"text": "A. ", "score": 1},
+        {"text": "B.  ", "score": 0},
+        {"text": "C.  ", "score": 0},
+        {"text": "D .  ", "score": 0}
+      ],
+      "correct_answer": " ",
+      "hint": " "
+    }
+    
+    ,
+    {
+      "question": "2. ",
+      "answers": [
+        {"text": "A. ", "score": 1},
+        {"text": "B.  ", "score": 0},
+        {"text": "C.  ", "score": 0},
+        {"text": "D .  ", "score": 0}
+      ],
+      "correct_answer": " ",
+      "hint": " "
+    }
+    
+    ,
+    {
+      "question": "2. ",
+      "answers": [
+        {"text": "A. ", "score": 1},
+        {"text": "B.  ", "score": 0},
+        {"text": "C.  ", "score": 0},
+        {"text": "D .  ", "score": 0}
+      ],
+      "correct_answer": " ",
+      "hint": " "
+    }
+  ]

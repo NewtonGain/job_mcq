@@ -1,0 +1,24 @@
+[
+    {
+      "question": "What is the capital of Bangladesh?",
+      "answers": [
+        {"text": "Dhaka", "score": 1},
+        {"text": "Chittagong", "score": 0},
+        {"text": "Khulna", "score": 0},
+        {"text": "Rajshahi", "score": 0}
+      ],
+      "correct_answer": "Dhaka",
+      "hint": "It's the largest city in Bangladesh."
+    },
+    {
+      "question": "Who is the current Prime Minister of Bangladesh?",
+      "answers": [
+        {"text": "Sheikh Hasina", "score": 1},
+        {"text": "Khaleda Zia", "score": 0},
+        {"text": "Hussain Muhammad Ershad", "score": 0},
+        {"text": "Ziaur Rahman", "score": 0}
+      ],
+      "correct_answer": "Sheikh Hasina",
+      "hint": "She is the leader of the Awami League."
+    }
+  ]
