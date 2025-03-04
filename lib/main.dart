@@ -4,7 +4,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:firebase_core/firebase_core.dart';
-import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:confetti/confetti.dart';
 
 void main() async {
@@ -80,17 +79,25 @@ class SubCategoryPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    // Create a Mapping for Subcategories based on Exam Type
+    final subCategories = {
+      'BCS': ['10', '11', '12'],
+      'NTRCA': ['3', '11', '12'],
+      'Primary': ['188', '11', '12']
+    };
+
     return Scaffold(
       appBar: AppBar(title: Text('$examType Exam Questions')),
-      body: Center(
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          crossAxisAlignment: CrossAxisAlignment.stretch,
-          children: [
-            _buildSubCategoryButton(context, '$examType 10', '10'),
-            _buildSubCategoryButton(context, '$examType 2', '2'),
-            _buildSubCategoryButton(context, '$examType 3', '3'),
-          ],
+      body: SingleChildScrollView(
+        child: Center(
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            crossAxisAlignment: CrossAxisAlignment.stretch,
+            children: subCategories[examType]!.map((subCategory) {
+              return _buildSubCategoryButton(
+                  context, '$examType $subCategory', subCategory);
+            }).toList(),
+          ),
         ),
       ),
     );
@@ -538,27 +545,6 @@ class ResultsPage extends StatelessWidget {
                           context,
                           MaterialPageRoute(builder: (context) => HomePage()),
                         );
-                      }),
-                      _buildActionButton(context, 'Save Score', Colors.green,
-                          () async {
-                        try {
-                          await FirebaseFirestore.instance
-                              .collection('scores')
-                              .add({
-                            'score': score,
-                            'totalQuestions': totalQuestions,
-                            'wrongAttempts': wrongAttempts,
-                            'skipCount': skipCount,
-                            'timestamp': FieldValue.serverTimestamp(),
-                          });
-                          // ignore: use_build_context_synchronously
-                          ScaffoldMessenger.of(context).showSnackBar(
-                              SnackBar(content: Text('Score saved!')));
-                        } catch (e) {
-                          // ignore: use_build_context_synchronously
-                          ScaffoldMessenger.of(context).showSnackBar(SnackBar(
-                              content: Text('Failed to save score: $e')));
-                        }
                       }),
                     ],
                   ),

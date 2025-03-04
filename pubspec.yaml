@@ -70,12 +70,11 @@ dev_dependencies:
 
 flutter:
   assets:
-    - assets/bcs_questions.json
-    - assets/ntrca_questions.json
-    - assets/primary_questions.json
     - assets/bcs_10_questions.json
-    - assets/bcs_2_questions.json
-    - assets/bcs_3_questions.json
+    - assets/bcs_11_questions.json
+    - assets/bcs_12_questions.json
+    - assets/bcs_13_questions.json
+    - assets/bcs_14_questions.json
     - assets/ntrca_1_questions.json
     - assets/ntrca_2_questions.json
     - assets/ntrca_3_questions.json
