@@ -1,0 +1,1102 @@
+[
+    {
+        "question": "1. ‘সুন্দর হে, দাও দাও সুন্দর জীবন। হউক দূর অকল্যাণ সকল অশোভন।’ - চরণ দুটি কার লেখা?",
+        "answers": [
+            {"text": "A. কাজী নজরুল ইসলাম", "score": 1},
+            {"text": "B. রবীন্দ্রনাথ ঠাকুর", "score": 0},
+            {"text": "C. গোলাম মোস্তফা", "score": 0},
+            {"text": "D. শেখ ফজলল করিম", "score": 0}
+        ],
+        "correct_answer": "A. কাজী নজরুল ইসলাম",
+        "hint": "হিন্দু-মুসলমানের সম্প্রীতিতে বিশ্বাসী লেখক হিসেবে পরিচিত শেখ ফজলল করিমের (১৮৮২-১৯৩৬) ‘পরিত্রাণ কাব্য’ কবিতার চরণ এটি।"
+    },
+    {
+        "question": "2. আকাবা কোন দেশের সমুদ্র বন্দর?",
+        "answers": [
+            {"text": "A. মিয়ানমার", "score": 0},
+            {"text": "B. জর্ডান", "score": 1},
+            {"text": "C. ইরাক", "score": 0},
+            {"text": "D. ইসরাইল", "score": 0}
+        ],
+        "correct_answer": "B. জর্ডান",
+        "hint": "জর্ডানের একমাত্র সমুদ্রবন্দর আকাবা।"
+    },
+    {
+        "question": "3. ‘ক্রুজিরো’ কোন দেশের মুদ্রার নাম?",
+        "answers": [
+            {"text": "A. লুক্সেমবার্গ", "score": 0},
+            {"text": "B. ব্রাজিল", "score": 1},
+            {"text": "C. কম্বোডিয়া", "score": 0},
+            {"text": "D. মঙ্গোলিয়া", "score": 0}
+        ],
+        "correct_answer": "B. ব্রাজিল",
+        "hint": "ব্রাজিলের সাবেক মুদ্রা ক্রুজিরো।"
+    },
+    {
+        "question": "4. The World Economic Forum কর্তৃক নির্ধারিত International Competitiveness Ranking –এ ১৯৯৩ সালে কোন দেশ সর্বোচ্চ স্থান অধিকার করেছে?",
+        "answers": [
+            {"text": "A. যুক্তরাষ্ট্র", "score": 1},
+            {"text": "B. জাপান", "score": 0},
+            {"text": "C. জার্মানি", "score": 0},
+            {"text": "D. দক্ষিণ কোরিয়া", "score": 0}
+        ],
+        "correct_answer": "A. যুক্তরাষ্ট্র",
+        "hint": "১৯৯৩ সালে যুক্তরাষ্ট্র এই র্যাংকিংয়ে সর্বোচ্চ অবস্থান অধিকার করেছিল।"
+    },
+    {
+        "question": "5. পৃথিবীর বিভিন্ন দেশের মধ্যে জনসংখ্যার দিক থেকে বাংলাদেশের স্থান কততম?",
+        "answers": [
+            {"text": "A. অষ্টম", "score": 1},
+            {"text": "B. নবম", "score": 0},
+            {"text": "C. দ্বাদশ", "score": 0},
+            {"text": "D. চতুর্দশ", "score": 0}
+        ],
+        "correct_answer": "A. অষ্টম",
+        "hint": "UNFPA -এর বিশ্ব জনসংখ্যা রিপোর্ট ২০২২ অনুযায়ী বাংলাদেশ বিশ্বের ৮ম জনসংখ্যার দেশ।"
+    },
+    {
+        "question": "6. বাংলাদেশের ভূ-উপগ্রহ কেন্দ্রের সংখ্যা কয়টি?",
+        "answers": [
+            {"text": "A. এক", "score": 0},
+            {"text": "B. দুই", "score": 0},
+            {"text": "C. তিন", "score": 1},
+            {"text": "D. চার", "score": 0}
+        ],
+        "correct_answer": "C. তিন",
+        "hint": "বাংলাদেশে মোট তিনটি ভূ-উপগ্রহ কেন্দ্র রয়েছে।"
+    },
+    {
+        "question": "7. গঙ্গা-ব্রহ্মপুত্র –মেঘনার সম্মিলিত নদী অববাহিকার কত শতাংশ বাংলাদেশের অন্তর্ভুক্ত?",
+        "answers": [
+            {"text": "A. ৪", "score": 0},
+            {"text": "B. ১৪", "score": 0},
+            {"text": "C. ৭", "score": 0},
+            {"text": "D. ৩৩", "score": 1}
+        ],
+        "correct_answer": "D. ৩৩",
+        "hint": "ব্রহ্মপুত্র-মেঘনা সম্মিলিত নদী অববাহিকার প্রায় ৩৩ শতাংশ বাংলাদেশে অবস্থিত।"
+    },
+    {
+        "question": "8. গ্রিনিচ মান সময় অপেক্ষা বাংলাদেশ সময় কত ঘণ্টা আগে?",
+        "answers": [
+            {"text": "A. ৬ ঘণ্টা", "score": 1},
+            {"text": "B. সাড়ে ৫ ঘণ্টা", "score": 0},
+            {"text": "C. সাড়ে ৬ ঘণ্টা", "score": 0},
+            {"text": "D. ৫ ঘণ্টা", "score": 0}
+        ],
+        "correct_answer": "A. ৬ ঘণ্টা",
+        "hint": "বাংলাদেশের স্থানীয় সময় গ্রিনিচ সময় থেকে ৬ ঘণ্টা আগে।"
+    },
+    {
+        "question": "9. The speaker failed to make the audience__ to him patiently. - Which of the following is the correct verb form in the blank above?",
+        "answers": [
+            {"text": "A. to listen", "score": 0},
+            {"text": "B. listening", "score": 0},
+            {"text": "C. listened", "score": 0},
+            {"text": "D. listen", "score": 1}
+        ],
+        "correct_answer": "D. listen",
+        "hint": "make শব্দটির পর verb-এর মূলরূপটি ব্যবহৃত হয়।"
+    },
+    {
+        "question": "10. Which of the following ages in literary history is the latest?",
+        "answers": [
+            {"text": "A. The Augustan Age", "score": 0},
+            {"text": "B. The Victorian Age", "score": 0},
+            {"text": "C. The Georgian Age", "score": 1},
+            {"text": "D. The Restoration Age", "score": 0}
+        ],
+        "correct_answer": "C. The Georgian Age",
+        "hint": "Georgian age হলো প্রদত্ত age গুলোর মধ্যে সর্বশেষ।"
+    },
+    {
+        "question": "11. Wisdom শব্দের বাংলা অর্থ-",
+        "answers": [
+            {"text": "A. জ্ঞান", "score": 0},
+            {"text": "B. বুদ্ধি", "score": 0},
+            {"text": "C. মেধা", "score": 0},
+            {"text": "D. প্রজ্ঞা", "score": 1}
+        ],
+        "correct_answer": "D. প্রজ্ঞা",
+        "hint": "Wisdom শব্দটির অর্থ প্রজ্ঞা।"
+    },
+    {
+        "question": "12. The first English dictionary was completed by-",
+        "answers": [
+            {"text": "A. Iazak Walton", "score": 0},
+            {"text": "B. Samuel Johnson", "score": 1},
+            {"text": "C. Samuel Butler", "score": 0},
+            {"text": "D. Sir Thomas Browne", "score": 0}
+        ],
+        "correct_answer": "B. Samuel Johnson",
+        "hint": "Samuel Johnson কে ‘Father of the English Dictionary’ বলা হয়।"
+    },
+    {
+        "question": "13. স্বাধীনতা যুদ্ধকালে বাংলাদেশকে কয়টি সেক্টরে ভাগ করা হয়েছিল?",
+        "answers": [
+            {"text": "A. ৯টি", "score": 0},
+            {"text": "B. ১০টি", "score": 0},
+            {"text": "C. ১১টি", "score": 1},
+            {"text": "D. ১২টি", "score": 0}
+        ],
+        "correct_answer": "C. ১১টি",
+        "hint": "বাংলাদেশকে ১১টি সেক্টরে বিভক্ত করা হয়েছিল।"
+    },
+    {
+        "question": "14. নিম্নের কোন আন্তর্জাতিক সংস্থার সদর দপ্তর বাংলাদেশে অবস্থিত?",
+        "answers": [
+            {"text": "A. IJO", "score": 0},
+            {"text": "B. APEC", "score": 0},
+            {"text": "C. SAARC", "score": 1},
+            {"text": "D. ADB", "score": 0}
+        ],
+        "correct_answer": "C. SAARC",
+        "hint": "SAARC-এর সদর দপ্তর বাংলাদেশের থানা কাঠমান্ডুতে অবস্থিত।"
+    },
+    {
+        "question": "15. ওয়াল স্ট্রিট কোথায় অবস্থিত?",
+        "answers": [
+            {"text": "A. ডালাস", "score": 0},
+            {"text": "B. লন্ডন", "score": 0},
+            {"text": "C. নিউইয়র্ক", "score": 1},
+            {"text": "D. হংকং", "score": 0}
+        ],
+        "correct_answer": "C. নিউইয়র্ক",
+        "hint": "ওয়াল স্ট্রিট যুক্তরাষ্ট্রের বৃহত্তম শহর নিউইয়র্কে অবস্থিত।"
+    },
+    {
+        "question": "16. আকাশ নীল দেখায় কেন?",
+        "answers": [
+            {"text": "A. নীল আলোর তরঙ্গ দৈর্ঘ্য বেশি বলে", "score": 0},
+            {"text": "B. নীল সমুদ্রের প্রতিফলনের ফলে", "score": 0},
+            {"text": "C. নীল আলোর বিক্ষেপণ অপেক্ষাকৃত বেশি বলে", "score": 1},
+            {"text": "D. নীল আলোর প্রতিফলন বেশি বলে", "score": 0}
+        ],
+        "correct_answer": "C. নীল আলোর বিক্ষেপণ অপেক্ষাকৃত বেশি বলে",
+        "hint": "বায়ুমণ্ডলের ধূলিকণায় বিক্ষিপ্ত নীল আলো ছড়ায় বলে আকাশ নীল দেখায়।"
+    },
+    {
+        "question": "17. ১ বর্গইঞ্চি কত বর্গ সেন্টিমিটারের সমান?",
+        "answers": [
+            {"text": "A. ০.০৯২৯", "score": 0},
+            {"text": "B. ৭.৩২", "score": 0},
+            {"text": "C. ৬.৪৫", "score": 1},
+            {"text": "D. ৬৪.৫০", "score": 0}
+        ],
+        "correct_answer": "C. ৬.৪৫",
+        "hint": "১ বর্গ ইঞ্চি সাধারণত ৬.৪৫ বর্গ সেন্টিমিটারের সমান হয়।"
+    },
+    {
+        "question": "18. যে ভূমিতে ফসল জন্মায় না-",
+        "answers": [
+            {"text": "A. পতিত", "score": 0},
+            {"text": "B. অনুর্বর", "score": 1},
+            {"text": "C. ঊষর", "score": 0},
+            {"text": "D. বন্ধ্যা", "score": 0}
+        ],
+        "correct_answer": "B. অনুর্বর",
+        "hint": "অনুর্বর- যে জমির উর্বরতা শক্তি নেই।"
+    },
+    {
+        "question": "19. ‘অপমান’ শব্দের ‘অপ’ উপসর্গটি কোন অর্থে ব্যবহৃত?",
+        "answers": [
+            {"text": "A. বিপরীত", "score": 1},
+            {"text": "B. নিকৃষ্ট", "score": 0},
+            {"text": "C. বিকৃত", "score": 0},
+            {"text": "D. অভাব", "score": 0}
+        ],
+        "correct_answer": "A. বিপরীত",
+        "hint": "অপ উপসর্গ বিপরীত অর্থে ব্যবহৃত।"
+    },
+    {
+        "question": "20. ‘সোনালী কাবিন’ এর রচয়িতা কে?",
+        "answers": [
+            {"text": "A. হাসান হাফিজুর রহমান", "score": 0},
+            {"text": "B. আল-মাহমুদ", "score": 1},
+            {"text": "C. হুমায়ুন আজাদ", "score": 0},
+            {"text": "D. শক্তি চট্টোপাধ্যায়", "score": 0}
+        ],
+        "correct_answer": "B. আল-মাহমুদ",
+        "hint": "'সোনালী কাবিন' আল-মাহমুদ রচিত সনেট জাতীয় কাব্য।"
+    },
+    {
+        "question": "21. My uncle has three sons, ___ work in the same office. Which of the following is the best form of pronoun in the above sentence?",
+        "answers": [
+            {"text": "A. All of them", "score": 0},
+            {"text": "B. Who all", "score": 0},
+            {"text": "C. They all", "score": 0},
+            {"text": "D. All of whom", "score": 1}
+        ],
+        "correct_answer": "D. All of whom",
+        "hint": "all of whom অর্থ যাদের সকলেই।"
+    },
+    {
+        "question": "22. People always remember patriots. Which of the following is the best passive form of the above sentence?",
+        "answers": [
+            {"text": "A. The patriots will always be remembered by people", "score": 0},
+            {"text": "B. The patriots are always being remembered", "score": 0},
+            {"text": "C. People are always remembered by the patriots", "score": 0},
+            {"text": "D. The patriots are always remembered", "score": 1}
+        ],
+        "correct_answer": "D. The patriots are always remembered",
+        "hint": "Passive voice রূপে সমস্যাসমূহ উল্লেখ করা হয়।"
+    },
+    {
+        "question": "23. রবীন্দ্রনাথ ঠাকুর তাঁর রচিত কোন নাটকটি কাজী নজরুল ইসলামকে উৎসর্গ করেছিলেন?",
+        "answers": [
+            {"text": "A. বিসর্জন", "score": 0},
+            {"text": "B. ডাকঘর", "score": 0},
+            {"text": "C. বসন্ত", "score": 1},
+            {"text": "D. অচলায়তন", "score": 0}
+        ],
+        "correct_answer": "C. বসন্ত",
+        "hint": "'বসন্ত' নাটকটি কাজী নজরুল ইসলামকে উৎসর্গ করা হয়েছে।"
+    },
+    {
+        "question": "24. বাংলা একাডেমি থেকে প্রকাশিত ত্রৈমাসিক সাহিত্য পত্রিকার নাম–",
+        "answers": [
+            {"text": "A. সুন্দরম", "score": 0},
+            {"text": "B. লোকায়ত", "score": 0},
+            {"text": "C. উত্তরাধিকার", "score": 1},
+            {"text": "D. কিছুধ্বনি", "score": 0}
+        ],
+        "correct_answer": "C. উত্তরাধিকার",
+        "hint": "বাংলা একাডেমি থেকে প্রকাশিত সাহিত্য পত্রিকার নাম উত্তরাধিকার।"
+    },
+    {
+        "question": "25. ‘ঢাকা মুসলিম সাহিত্য সমাজ’ এর প্রধান লেখক ছিলেন–",
+        "answers": [
+            {"text": "A. কাজী আবদুল ওদুদ, আবুল হুসেন প্রমুখ", "score": 1},
+            {"text": "B. মোহাম্মদ বরকত উল্লাহ, আবুল কালাম শামসুদ্দীন প্রমুখ", "score": 0},
+            {"text": "C. মোহম্মদ আকরাম খাঁ, মুহম্মদ শহীদুল্লাহ প্রমুখ", "score": 0},
+            {"text": "D. কাজী ইমদাদুল হক, মোহাম্মদ ওয়াজেদ আলী প্রমুখ", "score": 0}
+        ],
+        "correct_answer": "A. কাজী আবদুল ওদুদ, আবুল হুসেন প্রমুখ",
+        "hint": "ঢাকা মুসলিম সাহিত্য সমাজের মূল ভাবযোগী ছিলেন কাজী আবদুল ওদুদ ও আবুল হুসেন।"
+    },
+    {
+        "question": "26. পরস্পরকে স্পর্শ করে আছে এমন তিনটি বৃত্তের কেন্দ্র  এবং  হলে  কেন্দ্রিক বৃত্তের ব্যাস হবে-",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. P কেন্দ্রিক бৃত্তের ব্যাস হবে।", "score": 0}
+        ],
+        "correct_answer": "D. P কেন্দ্রিক বৃত্তের ব্যাস হবে।",
+        "hint": "পরিসর নির্ণয়ে ক্ষেত্রভাগের ধারণা লাগে।"
+    },
+    {
+        "question": "27.  এবং  সরল রেখা তিনটি দ্বারা গঠিত ত্রিভুজটি-",
+        "answers": [
+            {"text": "A. সমবাহু", "score": 0},
+            {"text": "B. বিষমবাহু", "score": 0},
+            {"text": "C. সমকোণী", "score": 0},
+            {"text": "D. সমদ্বিবাহু", "score": 0}
+        ],
+        "correct_answer": "A. সমবাহু",
+        "hint": "ত্রিভুজটি হিশেবে তা চিহ্নিত করা হয়।"
+    },
+    {
+        "question": "28. ১ থেকে ৯৯ পর্যন্ত সংখ্যার যোগফল-",
+        "answers": [
+            {"text": "A. ৪৮৫০", "score": 0},
+            {"text": "B. ৪৯৫০", "score": 1},
+            {"text": "C. ৫৭৫০", "score": 0},
+            {"text": "D. ৫৯৫০", "score": 0}
+        ],
+        "correct_answer": "B. ৪৯৫০",
+        "hint": "প্রথম পদ ১ , শেষ পদ ৯৯, পদ সংখ্যা ৯৯।"
+    },
+    {
+        "question": "29.  হলে,  এর মান কত?",
+        "answers": [
+            {"text": "A. 0", "score": 0},
+            {"text": "B. 1", "score": 0},
+            {"text": "C. 2", "score": 0},
+            {"text": "D. 3", "score": 0}
+        ],
+        "correct_answer": "C. 2",
+        "hint": "বিভিন্ন রাসায়নিক সংকেত পড়ে বিশ্লেষণ করতে হয়।"
+    },
+    {
+        "question": "30. ইসলামিক উন্নয়ন ব্যাংককে (IDB) দেয়া বাংলাদেশের চাঁদার হার কত?",
+        "answers": [
+            {"text": "A. ২৫.০ মিলিয়ন ইসলামিক দিনার", "score": 0},
+            {"text": "B. ১৫.৫ মিলিয়ন ইসলামিক দিনার", "score": 0},
+            {"text": "C. ১০.০ মিলিয়ন ইসলামিক দিনার", "score": 1},
+            {"text": "D. কোনো চাঁদা দিতে হয় না", "score": 0}
+        ],
+        "correct_answer": "C. ১০.০ মিলিয়ন ইসলামিক দিনার",
+        "hint": "IDB কার্যক্রম শুরু ২০ অক্টোবর ১৯৭৫।"
+    },
+    {
+        "question": "31. ‘ঠক চাচা’ চরিত্রটি কোন উপন্যাসে পাওয়া যায়?",
+        "answers": [
+            {"text": "A. আলালের ঘরের দুলাল", "score": 1},
+            {"text": "B. জোহরা", "score": 0},
+            {"text": "C. মৃত্যুক্ষুধা", "score": 0},
+            {"text": "D. হাজার বছর ধরে", "score": 0}
+        ],
+        "correct_answer": "A. আলালের ঘরের দুলাল",
+        "hint": "বাংলা সাহিত্যের প্রথম উপন্যাস আলালের ঘরের দুলাল।"
+    },
+    {
+        "question": "32. ‘বঙ্গদর্শন’ পত্রিকা কোন সালে প্রথম প্রকাশিত হয়?",
+        "answers": [
+            {"text": "A. ১৮৬৫", "score": 0},
+            {"text": "B. ১৮৭২", "score": 1},
+            {"text": "C. ১৮৭৫", "score": 0},
+            {"text": "D. ১৮৮১", "score": 0}
+        ],
+        "correct_answer": "B. ১৮৭২",
+        "hint": "বঙ্কিমচন্দ্র চট্টোপাধ্যায় রচিত বিখ্যাত সাহিত্য পত্রিকা ‘বঙ্গদর্শন’ ১৮৭২ সালে প্রকাশিত হয়।"
+    },
+    {
+        "question": "33. What is the meaning of the word ‘intrepid’?",
+        "answers": [
+            {"text": "A. arrogant", "score": 0},
+            {"text": "B. belligerent", "score": 0},
+            {"text": "C. questioning", "score": 0},
+            {"text": "D. fearless", "score": 1}
+        ],
+        "correct_answer": "D. fearless",
+        "hint": "'Intrepid' অর্থ সাহসী, নির্ভীক।"
+    },
+    {
+        "question": "34. What is the meaning of the expression ‘bottom line’?",
+        "answers": [
+            {"text": "A. The final step", "score": 0},
+            {"text": "B. The end of a road", "score": 0},
+            {"text": "C. The last line of a book", "score": 0},
+            {"text": "D. The essential point", "score": 1}
+        ],
+        "correct_answer": "D. The essential point",
+        "hint": "'Bottom line' মানে গুরুত্বপূর্ণ প্রসঙ্গ বা বিষয়।"
+    },
+    {
+        "question": "35. The word ‘plurality’ means-",
+        "answers": [
+            {"text": "A. The letter ‘S’", "score": 0},
+            {"text": "B. Men and women", "score": 0},
+            {"text": "C. Chaos and confusion", "score": 0},
+            {"text": "D. The holding of more than one office at a time", "score": 1}
+        ],
+        "correct_answer": "D. The holding of more than one office at a time",
+        "hint": "'Plurality' মানে বহুত্ব, একের অধিক।"
+    },
+    {
+        "question": "36. ‘Paediatric’ relates to the treatment of-",
+        "answers": [
+            {"text": "A. Adults", "score": 0},
+            {"text": "B. Children", "score": 1},
+            {"text": "C. Old people", "score": 0},
+            {"text": "D. Women", "score": 0}
+        ],
+        "correct_answer": "B. Children",
+        "hint": "'Paediatric' অর্থ শিশু বিষয়ক চিকিৎসা বিজ্ঞান।"
+    },
+    {
+        "question": "37. ‘Boot leg’ means to-",
+        "answers": [
+            {"text": "A. distribute", "score": 0},
+            {"text": "B. export", "score": 0},
+            {"text": "C. import", "score": 0},
+            {"text": "D. smuggle", "score": 1}
+        ],
+        "correct_answer": "D. smuggle",
+        "hint": "'Boot leg' মানে চোরা কারবার করা।"
+    },
+    {
+        "question": "38. বাংলাদেশে সারা বছর নাব্য নদীপথের দৈর্ঘ্য কত?",
+        "answers": [
+            {"text": "A. ৮,০০০ কিমি.", "score": 0},
+            {"text": "B. ৫,২০০ কিমি.", "score": 1},
+            {"text": "C. ১১,০০০ কিমি.", "score": 0},
+            {"text": "D. ৮,৫০০ কিমি.", "score": 0}
+        ],
+        "correct_answer": "B. ৫,২০০ কিমি.",
+        "hint": "বাংলাদেশে নাব্য নদীপথের দৈর্ঘ্য ৫,২০০ কি.মি.।"
+    },
+    {
+        "question": "39. বাংলাদেশের GDP –তে কৃষিখাতের অবদান কত শতাংশ?",
+        "answers": [
+            {"text": "A. ৮০", "score": 0},
+            {"text": "B. ৭৫", "score": 0},
+            {"text": "C. ৩২", "score": 1},
+            {"text": "D. ১০", "score": 0}
+        ],
+        "correct_answer": "C. ৩২",
+        "hint": "বাংলাদেশের GDP- তে কৃষিখাতের অবদান ১১.৫০%।"
+    },
+    {
+        "question": "40. বাংলাদেশ ও মিয়ানমার কোন নদী দ্বারা বিভক্ত?",
+        "answers": [
+            {"text": "A. নাফ", "score": 1},
+            {"text": "B. কর্ণফুলী", "score": 0},
+            {"text": "C. নবগঙ্গা", "score": 0},
+            {"text": "D. ভাগীরথী", "score": 0}
+        ],
+        "correct_answer": "A. নাফ",
+        "hint": "নাফ নদী বাংলাদেশ ও মিয়ানমারের মধ্যে সীমানা নির্ধারণ করছে।"
+    },
+    {
+        "question": "41. বিশ্বব্যাংক-এর কোন অঙ্গ সংগঠনটি ‘Soft loan Window’ নামে পরিচিত?",
+        "answers": [
+            {"text": "A. IBRD", "score": 0},
+            {"text": "B. IDA", "score": 1},
+            {"text": "C. IFC", "score": 0},
+            {"text": "D. EDI", "score": 0}
+        ],
+        "correct_answer": "B. IDA",
+        "hint": "IDA অর্থ International Development Agency।"
+    },
+    {
+        "question": "42. আফ্রিকা মহাদেশের মানচিত্রে Horns of Africa – তে কোন দেশটি অবস্থিত?",
+        "answers": [
+            {"text": "A. ইথিওপিয়া", "score": 1},
+            {"text": "B. নাইজেরিয়া", "score": 0},
+            {"text": "C. কেনিয়া", "score": 0},
+            {"text": "D. সুদান", "score": 0}
+        ],
+        "correct_answer": "A. ইথিওপিয়া",
+        "hint": "Horn of Africa অঞ্চলে ইথিওপিয়া অবস্থিত।"
+    },
+    {
+        "question": "43. ১৯৯৬ সালের অলিম্পিক গেমস কোথায় অনুষ্ঠিত হয়েছিল?",
+        "answers": [
+            {"text": "A. লসএঞ্জেলস", "score": 0},
+            {"text": "B. আটলান্টা", "score": 1},
+            {"text": "C. টোকিও", "score": 0},
+            {"text": "D. নয়াদিল্লি", "score": 0}
+        ],
+        "correct_answer": "B. আটলান্টা",
+        "hint": "১৯৯৬ সালের অলিম্পিক গেমস আটলান্টা জর্জিয়াতে অনুষ্ঠিত হয়।"
+    },
+    {
+        "question": "44. ১৯৯২ সালের Wimbledon টেনিস প্রতিযোগিতায় men’s singles –এ কে চ্যাম্পিয়ন হন?",
+        "answers": [
+            {"text": "A. Boris Becker", "score": 0},
+            {"text": "B. Mechael Stich", "score": 0},
+            {"text": "C. Andre Agassi", "score": 1},
+            {"text": "D. Stefan Edberg", "score": 0}
+        ],
+        "correct_answer": "C. Andre Agassi",
+        "hint": "১৯৯২ সালের Wimbledon টেনিস প্রতিযোগিতায় চ্যাম্পিয়ন হন আন্দ্রে আগাসি।"
+    },
+    {
+        "question": "45. কোন নেতা ফরায়েজী আন্দোলনের নেতৃত্ব দেন?",
+        "answers": [
+            {"text": "A. তিতুমীর", "score": 0},
+            {"text": "B. সৈয়দ আহমদ বেরেলভি", "score": 0},
+            {"text": "C. দুদু মিয়া", "score": 1},
+            {"text": "D. হাজী শরীয়তউল্লাহ", "score": 0}
+        ],
+        "correct_answer": "C. দুদু মিয়া",
+        "hint": "হাজী শরীয়তউল্লাহর নেতৃত্বে ফরায়েজী আন্দোলন গঠিত হয়েছিল।"
+    },
+    {
+        "question": "46. তেঁতুলিয়া কোন জেলায় অবস্থিত?",
+        "answers": [
+            {"text": "A. দিনাজপুর", "score": 0},
+            {"text": "B. পঞ্চগড়", "score": 1},
+            {"text": "C. জয়পুরহাট", "score": 0},
+            {"text": "D. লালমনিরহাট", "score": 0}
+        ],
+        "correct_answer": "B. পঞ্চগড়",
+        "hint": "পঞ্চগড় জেলায় অবস্থিত তেঁতুলিয়া বাংলাদেশে সর্বউত্তরের উপজেলা।"
+    },
+    {
+        "question": "47. কে বাংলার রাজধানী ঢাকা থেকে মুর্শিদাবাদে স্থানান্তরিত করেন?",
+        "answers": [
+            {"text": "A. নবাব সিরাজউদ্দৌলা", "score": 0},
+            {"text": "B. নবাব মুর্শিদকুলি খাঁ", "score": 1},
+            {"text": "C. সুবাদার ইসলাম খান", "score": 0},
+            {"text": "D. নবাব শায়েস্তা খান", "score": 0}
+        ],
+        "correct_answer": "B. নবাব মুর্শিদকুলি খাঁ",
+        "hint": "নবাব মুর্শিদকুলি খাঁ ঢাকা থেকে মুর্শিদাবাদে স্থানান্তর করেন।"
+    },
+    {
+        "question": "48. ১৯০৫ সালে নবগঠিত প্রদেশের প্রথম লেফটেন্যান্ট গভর্নর ছিলেন-",
+        "answers": [
+            {"text": "A. ব্যামফিল্ড ফুলার", "score": 1},
+            {"text": "B. লর্ড মিন্টো", "score": 0},
+            {"text": "C. লর্ড কার্জন", "score": 0},
+            {"text": "D. ওয়ারেন হেস্টিংস", "score": 0}
+        ],
+        "correct_answer": "A. ব্যামফিল্ড ফুলার",
+        "hint": "১৯০৫ সালে নবগঠিত পূর্ববাংলা ও আসামের প্রথম লেফটেন্যান্ট গভর্নর ব্যামফিল্ড ফুলার ছিলেন।"
+    },
+    {
+        "question": "49. হিমছড়ি কোন শহরের নিকট অবস্থিত?",
+        "answers": [
+            {"text": "A. চট্টগ্রাম", "score": 0},
+            {"text": "B. খুলনা", "score": 0},
+            {"text": "C. কক্সবাজার", "score": 1},
+            {"text": "D. রাজশাহী", "score": 0}
+        ],
+        "correct_answer": "C. কক্সবাজার",
+        "hint": "হিমছড়ি কক্সবাজার জেলার নৈসর্গিক সৌন্দর্যের অন্যতম স্থান।"
+    },
+    {
+        "question": "50. Are you doing anything special ___ the weekend? -Fill in the gap with appropriate preposition.",
+        "answers": [
+            {"text": "A. in", "score": 0},
+            {"text": "B. for", "score": 0},
+            {"text": "C. on", "score": 1},
+            {"text": "D. at", "score": 0}
+        ],
+        "correct_answer": "C. on",
+        "hint": "the weekend অর্থ at the end of the week।"
+    },
+    {
+        "question": "51. বাংলাদেশের কোন অঞ্চলকে ‘৩৬০ আউলিয়ার দেশ’ বলা হয়?",
+        "answers": [
+            {"text": "A. চট্টগ্রাম", "score": 0},
+            {"text": "B. সিলেট", "score": 1},
+            {"text": "C. ঢাকা", "score": 0},
+            {"text": "D. রাজশাহী", "score": 0}
+        ],
+        "correct_answer": "B. সিলেট",
+        "hint": "বাংলাদেশের সিলেট অঞ্চলকে ৩৬০ আউলিয়ার দেশ বলা হয়।"
+    },
+    {
+        "question": "52. বাংলাদেশের পানি সম্পদের চাহিদা সবচেয়ে বেশি কোন খাতে?",
+        "answers": [
+            {"text": "A. আবাসিক", "score": 0},
+            {"text": "B. কৃষি", "score": 1},
+            {"text": "C. পরিবহন", "score": 0},
+            {"text": "D. শিল্প", "score": 0}
+        ],
+        "correct_answer": "B. কৃষি",
+        "hint": "বাংলাদেশ কৃষিপ্রধান দেশ।"
+    },
+    {
+        "question": "53. নিচের কোন তারিখে পিএলও- ইসরাইল পারস্পরিক স্বীকৃতি দলিলে স্বাক্ষর করে?",
+        "answers": [
+            {"text": "A. ১০ সেপ্টেম্বর, ১৯৯৩", "score": 0},
+            {"text": "B. ১১ সেপ্টেম্বর, ১৯৯৩", "score": 0},
+            {"text": "C. ১৩ সেপ্টেম্বর, ১৯৯৩", "score": 1},
+            {"text": "D. ২০ সেপ্টেম্বর, ১৯৯৩", "score": 0}
+        ],
+        "correct_answer": "C. ১৩ সেপ্টেম্বর, ১৯৯৩",
+        "hint": "পিএলও এবং ইসরাইল চুক্তিতে স্বাক্ষর করে ১৩ সেপ্টেম্বর, ১৯৯৩।"
+    },
+    {
+        "question": "54. রিওডি জেনিরিওতে অনুষ্ঠিত ‘ধরিত্রী সম্মেলনে’ কত দেশের প্রতিনিধি অংশগ্রহণ করেছিল?",
+        "answers": [
+            {"text": "A. ১৫০", "score": 0},
+            {"text": "B. ১৫৬", "score": 0},
+            {"text": "C. ১৭৮", "score": 0},
+            {"text": "D. ১৭৯", "score": 1}
+        ],
+        "correct_answer": "D. ১৭৯",
+        "hint": "১৯৯২ সালে বিশ্বের ১৭৯ দেশের অংশগ্রহণে ধরিত্রী সম্মেলন অনুষ্ঠিত হয়।"
+    },
+    {
+        "question": "55. ‘Club of Vienna’ কি?",
+        "answers": [
+            {"text": "A. অস্ট্রিয়ার একটি বিখ্যাত পান্থশালা", "score": 0},
+            {"text": "B. পশ্চিম ইউরোপের প্রধান বাণিজ্যিক ব্যাংকগুলোর বাৎসরিক সভা", "score": 0},
+            {"text": "C. একটি বিশ্ব উন্নয়ন সংক্রান্ত গবেষণা প্রতিষ্ঠান", "score": 0},
+            {"text": "D. পশ্চিম ইউরোপের চিত্রশিল্পীদের একটি সংগঠন", "score": 1}
+        ],
+        "correct_answer": "D. পশ্চিম ইউরোপের চিত্রশিল্পীদের একটি সংগঠন",
+        "hint": "Club of Vienna западноевропейских художниковের একটি সংগঠন।"
+    },
+    {
+        "question": "56. জাতিসংঘ ‘আদিবাসী বর্ষ’ হিসেবে কোন সালকে ঘোষণা করেছে?",
+        "answers": [
+            {"text": "A. ১৯৯১ সাল", "score": 0},
+            {"text": "B. ১৯৯২ সাল", "score": 0},
+            {"text": "C. ১৯৯৩ সাল", "score": 1},
+            {"text": "D. ১৯৯৪ সাল", "score": 0}
+        ],
+        "correct_answer": "C. ১৯৯৩ সাল",
+        "hint": "জাতিসংঘ ১৯৯৩ সালকে ‘আদিবাসী বর্ষ’ ঘোষণা করেছে।"
+    },
+    {
+        "question": "57. ১৯৯৩ সালে জাতিসংঘের তত্ত্বাবধানে কম্বোডিয়ায় অনুষ্ঠিত নির্বাচনে কোন দল বিজয়ী হয়েছে?",
+        "answers": [
+            {"text": "A. ফুনসিনপেক", "score": 1},
+            {"text": "B. সিপিপি", "score": 0},
+            {"text": "C. খেমাররুজ", "score": 0},
+            {"text": "D. কেপিএলএনএফ", "score": 0}
+        ],
+        "correct_answer": "A. ফুনসিনপেক",
+        "hint": "১৯৯৩ সালে কম্বোডিয়ায় জাতিসংঘের তত্ত্বাবেধনে ফুনসিনপেক নির্বাচনে জয়লাভ করে।"
+    },
+    {
+        "question": "58. ‘স্ট্রোক’ আকস্মিক অজ্ঞান বা মৃত্যুর কারণ হতে পারে- এটি কি ?",
+        "answers": [
+            {"text": "A. হৃৎপিণ্ডের সজোরে সংকোচন বা বন্ধ হয়ে যাওয়া", "score": 0},
+            {"text": "B. মস্তিষ্কে রক্তক্ষরণ এবং রক্ত প্রবাহে বাধা", "score": 1},
+            {"text": "C. হৃৎপিণ্ডের অংশবিশেষের অসাড়তা", "score": 0},
+            {"text": "D. ফুসফুস হঠাৎ বিকল হয়ে যাওয়া", "score": 0}
+        ],
+        "correct_answer": "B. মস্তিষ্কে রক্তক্ষরণ এবং রক্ত প্রবাহে বাধা",
+        "hint": "স্ট্রোকের কারণে মস্তিষ্কে রক্ত সরবরাহ বন্ধ হয়ে যায়।"
+    },
+    {
+        "question": "59. কোনটি রক্তের কাজ নয়?",
+        "answers": [
+            {"text": "A. কলা (Tissue) হতে ফুসফুসে বর্জ্য পদার্থ বহন করা", "score": 0},
+            {"text": "B. ক্ষুদ্রান্ত্র হতে কলাতে খাদ্যের সারবস্তু বহন করা", "score": 0},
+            {"text": "C. হরমোন বিতরণ করা", "score": 0},
+            {"text": "D. জারক রস (enzyme) বিতরণ করা", "score": 1}
+        ],
+        "correct_answer": "D. জারক রস (enzyme) বিতরণ করা",
+        "hint": "রক্তের কয়েকটি কার্য সমূহ উল্লেখ করা হয়, তবে জারক রস বিতরণ এখানে অন্তর্ভুক্ত নয়।"
+    },
+    {
+        "question": "60. ডিজিটাল ঘড়ি বা ক্যালকুলেটরে কালচে অনুজ্জ্বল লেখা ফুটে ওঠে তা কিসের ভিত্তিতে তৈরি?",
+        "answers": [
+            {"text": "A. এলইডি", "score": 0},
+            {"text": "B. সিলিকন চিপ", "score": 0},
+            {"text": "C. এলসিডি", "score": 1},
+            {"text": "D. আইসি", "score": 0}
+        ],
+        "correct_answer": "C. এলসিডি",
+        "hint": "ডিজিটাল ডিভাইসে এলসিডির মাধ্যমে কালচে লেখাগুলো ফুটে ওঠে।"
+    },
+    {
+        "question": "61. Which of the following is a correct sentence?",
+        "answers": [
+            {"text": "A. He was too clever not to miss the point", "score": 0},
+            {"text": "B. He was so clever to miss the point", "score": 0},
+            {"text": "C. He was too clever to miss the point", "score": 1},
+            {"text": "D. He was too clever to grasp the point", "score": 0}
+        ],
+        "correct_answer": "C. He was too clever to miss the point",
+        "hint": "Too + adjective + to + verb structure indicates an inability to do something."
+    },
+    {
+        "question": "62. The ‘Poet Laureate’ is -",
+        "answers": [
+            {"text": "A. the best poet of the country", "score": 0},
+            {"text": "B. a winner of the Noble Prize in poetry", "score": 0},
+            {"text": "C. the Court Poet England", "score": 1},
+            {"text": "D. a classical poet", "score": 0}
+        ],
+        "correct_answer": "C. the Court Poet England",
+        "hint": "ইংল্যান্ডের রাজ কবিকে Poet Laureate বলা হয়।"
+    },
+    {
+        "question": "63. Which of the following school of literary writings is connected with a medical theory?",
+        "answers": [
+            {"text": "A. Comedy of Manners", "score": 0},
+            {"text": "B. Theater of the Absurd", "score": 0},
+            {"text": "C. Heroic Tragedy", "score": 0},
+            {"text": "D. Comedy of Humours", "score": 1}
+        ],
+        "correct_answer": "D. Comedy of Humours",
+        "hint": "Comedy of Humours একটি বিশেষ নাট্যরূপ যেখানে মানুষের আচরণ নিয়ে আলোচনা করা হয়।"
+    },
+    {
+        "question": "64. Who of the following was both a poet and painter?",
+        "answers": [
+            {"text": "A. Keats", "score": 0},
+            {"text": "B. Donne", "score": 0},
+            {"text": "C. Blake", "score": 1},
+            {"text": "D. Spenser", "score": 0}
+        ],
+        "correct_answer": "C. Blake",
+        "hint": "William Blake ছিলেন একজন কবি এবং চিত্রকর।"
+    },
+    {
+        "question": "65. ট্রাজেডি, কমেডি ও ফার্সের মূল পার্থক্য-",
+        "answers": [
+            {"text": "A. জীবনানুভূতির গভীরতায়", "score": 1},
+            {"text": "B. দৃষ্টিভঙ্গির সূক্ষ্মতায়", "score": 0},
+            {"text": "C. কাহিনীর সরলতা ও জটিলতায়", "score": 0},
+            {"text": "D. ভাষার প্রকারভেদে", "score": 0}
+        ],
+        "correct_answer": "A. জীবনানুভূতির গভীরতায়",
+        "hint": "প্রতিটি শৈলী ভিন্ন ধরনের জীবনানুভূতির ভিত্তিতে গঠিত।"
+    },
+    {
+        "question": "66. সাধু ভাষা ও চলিত ভাষার পার্থক্য-",
+        "answers": [
+            {"text": "A. তৎসম ও অতৎসম শব্দের ব্যবহারে", "score": 0},
+            {"text": "B. ক্রিয়াপদ ও সর্বনাম পদের রূপে", "score": 0},
+            {"text": "C. শব্দের কথা ও লেখ্য রূপে", "score": 1},
+            {"text": "D. বাক্যের সরলতা ও জটিলতায়", "score": 0}
+        ],
+        "correct_answer": "C. শব্দের কথা ও লেখ্য রূপে",
+        "hint": "সাধু ভাষার শব্দ ব্যবহারে এর লেখা ও কথা আলাদা।"
+    },
+    {
+        "question": "67. ‘সমকাল’ পত্রিকার সম্পাদক ছিলেন-",
+        "answers": [
+            {"text": "A. বিনয় ঘোষ", "score": 1},
+            {"text": "B. সিকান্দার আবু জাফর", "score": 0},
+            {"text": "C. মোহাম্মদ আকরম খাঁ", "score": 0},
+            {"text": "D. তফাজ্জল হোসেন", "score": 0}
+        ],
+        "correct_answer": "A. বিনয় ঘোষ",
+        "hint": "'সমকাল' পত্রিকার সম্পাদক বিনয় ঘোষ ছিলেন।"
+    },
+    {
+        "question": "68. ‘প্রভাত চিন্তা’, ‘নিভৃত চিন্তা,’ ‘নিশীথ চিন্তা’ প্রভৃতি গ্রন্থের রচয়িতা-",
+        "answers": [
+            {"text": "A. কালীপ্রসন্ন সিংহ", "score": 0},
+            {"text": "B. কালীপ্রসন্ন ঘোষ", "score": 1},
+            {"text": "C. কৃষ্ণচন্দ্র মজুমদার", "score": 0},
+            {"text": "D. এস ওয়াজেদ আলী", "score": 0}
+        ],
+        "correct_answer": "B. কালীপ্রসন্ন ঘোষ",
+        "hint": "'প্রভাত চিন্তা', 'নিভৃত চিন্তা', 'নিশীথ চিন্তা' গ্রন্থের লেখক কালীপ্রসন্ন ঘোষ।"
+    },
+    {
+        "question": "69. ‘সুশিক্ষিত লোক মাত্রই স্বশিক্ষিত’ এই উক্তিটি কার?",
+        "answers": [
+            {"text": "A. রবীন্দ্রনাথ ঠাকুর", "score": 0},
+            {"text": "B. কাজী আবদুল ওদুদ", "score": 0},
+            {"text": "C. মোহম্মদ লুৎফর রহমান", "score": 0},
+            {"text": "D. প্রমথ চৌধুরী", "score": 1}
+        ],
+        "correct_answer": "D. প্রমথ চৌধুরী",
+        "hint": "প্রমথ চৌধুরী বলেছেন, 'সুশিক্ষিত লোক মাত্রই স্বশিক্ষিত'।"
+    },
+    {
+        "question": "70. বাতাসের নাইট্রোজেন কিভাবে মাটির উর্বরতা বৃদ্ধি করে?",
+        "answers": [
+            {"text": "A. সরাসরি মাটিতে মিশ্রিত হয়ে জৈব বস্তু প্রস্তুত করে", "score": 0},
+            {"text": "B. ব্যাকটেরিয়ার সাহায্যে উদ্ভিদের গ্রহণ ও উপযোগী বস্তু প্রস্তুত করে", "score": 1},
+            {"text": "C. পানিতে মিশে মাটিতে শোষিত হওয়ার ফলে", "score": 0},
+            {"text": "D. মাটির অজৈব লবণকে পরিবর্তিত করে", "score": 0}
+        ],
+        "correct_answer": "B. ব্যাকটেরিয়ার সাহায্যে উদ্ভিদের গ্রহণ ও উপযোগী বস্তু প্রস্তুত করে",
+        "hint": "বাতাসের নাইট্রোজেন সরাসরি গ্রহণ করতে পারে না এবং এটি ব্যাকটেরিয়ায় কিভাবে মাটির জন্য উপযোগী হয়।"
+    },
+    {
+        "question": "71. ‘গ্রিনহাউজ ইফেক্টের’ পরিণতিতে বাংলাদেশের সবচেয়ে গুরুতর প্রত্যক্ষ ক্ষতি কি হবে?",
+        "answers": [
+            {"text": "A. উত্তাপ অনেক বেড়ে যাবে", "score": 0},
+            {"text": "B. নিম্নভূমি নিমজ্জিত হবে", "score": 1},
+            {"text": "C. সাইক্লোনের প্রবণতা বাড়বে", "score": 0},
+            {"text": "D. বৃষ্টিপাত কমে যাবে", "score": 0}
+        ],
+        "correct_answer": "B. নিম্নভূমি নিমজ্জিত হবে",
+        "hint": "গ্রিন হাউজ ইফেক্টের কারণে নিম্নভূমি স্থায়ী পানিতে নিমজ্জিত হওয়ার সম্ভবনা রয়েছে।"
+    },
+    {
+        "question": "72. নিত্য ব্যবহার্য বহু ‘এরোসোলের’ কৌটায় এখন লেখা থাকে ‘সিএফসি’ বিহীন। সিএফসি গ্যাস কেন ক্ষতিকারক?",
+        "answers": [
+            {"text": "A. ফুসফুসে রোগ সৃষ্টি করে", "score": 0},
+            {"text": "B. গ্রিন হাউজ ইফেক্টে অবদান রাখে", "score": 0},
+            {"text": "C. ওজোনস্তরে ফুটো সৃষ্টি করে", "score": 1},
+            {"text": "D. দাহ্য বলে অগ্নিকাণ্ডের সম্ভব্য ঘটায়", "score": 0}
+        ],
+        "correct_answer": "C. ওজোনস্তরে ফুটো সৃষ্টি করে",
+        "hint": "সিএফসি গ্যাস ওজোন স্তরকে ফুটো করে দেয়।"
+    },
+    {
+        "question": "73. ৬৪ কিলোগ্রাম বালি ও পাথরের টুকরোর মিশ্রণে বালির পরিমাণ ২৫%। কত কিলোগ্রাম বালি মিশালে নতুন মিশ্রণে পাথরের টুকরের পরিমাণ ৪০% হবে?",
+        "answers": [
+            {"text": "A. ৯.৬", "score": 0},
+            {"text": "B. ১১.০", "score": 0},
+            {"text": "C. ৪৮.০", "score": 0},
+            {"text": "D. ৫৬.০", "score": 1}
+        ],
+        "correct_answer": "D. ৫৬.০",
+        "hint": "বালির পরিমাণ এবং টুকরের পরিমাণের সাথে যুক্ত করে হিসাব করতে হবে।"
+    },
+    {
+        "question": "74. কোন সংখ্যার ২৭ অংশ ৬৪- এর সমান?",
+        "answers": [
+            {"text": "A. ১১২", "score": 0},
+            {"text": "B. ২৪৮", "score": 1},
+            {"text": "C. ২১৭", "score": 0},
+            {"text": "D. ২২৪", "score": 0}
+        ],
+        "correct_answer": "B. ২৪৮",
+        "hint": "গাণিতিক লজিক দিয়ে প্রবণতামূলক সংখ্যা বের করতে হবে।"
+    },
+    {
+        "question": "75. একটি ৫০ মিটার লম্বা মই একটি খাড়া দেওয়ালের সাথে হেলান দিয়ে রাখা হয়েছে। মইয়ের এক প্রান্ত মাটি হতে ৪০ মিটার উচ্চে দেয়ালকে স্পর্শ করে। মই-এর অপর প্রান্ত হতে দেওয়ালের দূরত্ব (মিটারে)-",
+        "answers": [
+            {"text": "A. ১০", "score": 0},
+            {"text": "B. ৩০", "score": 0},
+            {"text": "C. ২০", "score": 1},
+            {"text": "D. ২৫", "score": 0}
+        ],
+        "correct_answer": "C. ২০",
+        "hint": "পিথাগোরাসের তত্ত্ব প্রয়োগের মাধ্যমে দূরত্ব নির্ধারণ করা সম্ভব।"
+    },
+    {
+        "question": "76.  হলে  এর মান কত?",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. ", "score": 0}
+        ],
+        "correct_answer": " ",
+        "hint": " "
+    },
+    {
+        "question": "77. কোন সংখ্যাটি বৃহত্তম?",
+        "answers": [
+            {"text": "A. ০.৩", "score": 0},
+            {"text": "B. ০.৩", "score": 1},
+            {"text": "C. ২.৫", "score": 0},
+            {"text": "D. ১.৩", "score": 0}
+        ],
+        "correct_answer": "B. ০.৩",
+        "hint": "মৌলিক সংখ্যা বিশ্লেষণ করে হতে হবে।"
+    },
+    {
+        "question": "78. শুদ্ধ বানানটি নির্দেশ করুন-",
+        "answers": [
+            {"text": "A. মুহুর্মুহু", "score": 1},
+            {"text": "B. মূহুর্মুহু", "score": 0},
+            {"text": "C. মুর্হমূহু", "score": 0},
+            {"text": "D. মুর্হুর্মূহু", "score": 0}
+        ],
+        "correct_answer": "A. মুহুর্মুহু",
+        "hint": "শুদ্ধ বানান হলো মুহুর্মুহু।"
+    },
+    {
+        "question": "79. ‘দ্যুলोक’ শব্দের যথার্থ সন্ধি –বিচ্ছেদ কোনটি?",
+        "answers": [
+            {"text": "A. দুঃ + লোক", "score": 0},
+            {"text": "B. দিব্ + লোক", "score": 1},
+            {"text": "C. দ্বি + লোক", "score": 0},
+            {"text": "D. দ্বিঃ + লোক", "score": 0}
+        ],
+        "correct_answer": "B. দিব্ + লোক",
+        "hint": "দ্যুলোক= দিব্‌ + লোক; এটি একটি নিপাতনে সিদ্ধ ব্যঞ্জনসন্ধি।"
+    },
+    {
+        "question": "80. ‘তাপ’ শব্দের বিপরীতার্থক শব্দ-",
+        "answers": [
+            {"text": "A. শৈত্য", "score": 1},
+            {"text": "B. শীতল", "score": 0},
+            {"text": "C. উত্তাপ", "score": 0},
+            {"text": "D. হিম", "score": 0}
+        ],
+        "correct_answer": "A. শৈত্য",
+        "hint": "‘তাপ’ শব্দের বিপরীতার্থক শব্দ হলো শৈত্য।"
+    },
+    {
+        "question": "81. আলট্রাসনোগ্রাফি কি?",
+        "answers": [
+            {"text": "A. নতুন ধরনের এক্সরে", "score": 0},
+            {"text": "B. ছোট তরঙ্গদৈর্ঘ্যের শব্দের দ্বারা ইমেজিং", "score": 1},
+            {"text": "C. শরীরের অভ্যন্তরের শব্দ বিশ্লেষণ", "score": 0},
+            {"text": "D. শক্তিশালী শব্দ দিয়ে পিত্তপাথর বিচূর্ণীকরণ", "score": 0}
+        ],
+        "correct_answer": "B. ছোট তরঙ্গদৈর্ঘ্যের শব্দের দ্বারা ইমেজিং",
+        "hint": "আলট্রাসনোগ্রাফিতে শব্দের মাধ্যমে অভ্যন্তরীণ পরীক্ষা করা হয়।"
+    },
+    {
+        "question": "82. বাংলাদেশের তড়িৎ-এর কম্পাঙ্ক (frequency) প্রতি সেকেন্ডে ৫০ সাইকেল –এর তাৎপর্য কি?",
+        "answers": [
+            {"text": "A. প্রতি সেকেন্ডে বিদ্যুৎ প্রবাহ ৫০ বার বন্ধ হয়", "score": 0},
+            {"text": "B. প্রতি সেকেন্ডে বিদ্যুৎ প্রবাহ ৫০ একক দৈর্ঘ্য অতিক্রম করে", "score": 0},
+            {"text": "C. প্রতি সেকেন্ডে বিদ্যুৎ প্রবাহ ৫০ বার দিক বদলায়", "score": 1},
+            {"text": "D. প্রতি সেকেন্ডে বিদ্যুৎ প্রবাহ ৫০ বার উঠানামা করে", "score": 0}
+        ],
+        "correct_answer": "C. প্রতি সেকেন্ডে বিদ্যুৎ প্রবাহ ৫০ বার দিক বদলায়",
+        "hint": "কম্পাঙ্ক অনুযায়ী বিদ্যুৎ প্রবাহ ঘণ্টায় ওঠানামা করে।"
+    },
+    {
+        "question": "83. নদীর একপাশ থেকে গুন টেনে নৌকাকে মাঝ নদীতে রেখেই সামনের দিকে নেয়া সম্ভব হয় কিভাবে?",
+        "answers": [
+            {"text": "A. যথাযথভাবে হাল ঘুরিয়ে", "score": 0},
+            {"text": "B. নদী স্রোতের সুকৌশল ব্যবহার", "score": 1},
+            {"text": "C. গুন টানার সময় টানটি সামনের দিকে রেখে", "score": 0},
+            {"text": "D. পাল ব্যবহার করে", "score": 0}
+        ],
+        "correct_answer": "B. নদী স্রোতের সুকৌশল ব্যবহার",
+        "hint": "নৌকাকে মাঝ নদীতে রাখতে স্রোতের সুক্ষ্ম ব্যবহার হয়।"
+    },
+    {
+        "question": "84. নিচের কোন দেশটি Group of Seven (G-7) এর সদস্য নয়?",
+        "answers": [
+            {"text": "A. কানাডা", "score": 0},
+            {"text": "B. ইতালি", "score": 0},
+            {"text": "C. সোয়েডেন", "score": 1},
+            {"text": "D. জাপান", "score": 0}
+        ],
+        "correct_answer": "C. সোয়েডেন",
+        "hint": "Group of Seven (G-7) বিশ্বের প্রধান সাতটি উন্নত অর্থনীতির দেশ নিয়ে গঠিত।"
+    },
+    {
+        "question": "85. বিশ্বের কোন শহর ‘নিষিদ্ধ শহর’ নামে পরিচিত?",
+        "answers": [
+            {"text": "A. লাসা", "score": 1},
+            {"text": "B. উলানবাটোর", "score": 0},
+            {"text": "C. পিয়ংইয়ং", "score": 0},
+            {"text": "D. কাবুল", "score": 0}
+        ],
+        "correct_answer": "A. লাসা",
+        "hint": "তিব্বতের রাজধানী লাসা ঊনবিংশ শতাব্দীর বিদেশিদের জন্য নিষিদ্ধ শহর।"
+    },
+    {
+        "question": "86. ‘League of Arab States’-এর বর্তমান সদর দপ্তর কোথায় অবস্থিত?",
+        "answers": [
+            {"text": "A. তিউনেসিয়া", "score": 0},
+            {"text": "B. কায়রো", "score": 1},
+            {"text": "C. রাবাত", "score": 0},
+            {"text": "D. জেদ্দা", "score": 0}
+        ],
+        "correct_answer": "B. কায়রো",
+        "hint": "আরব লীগের সদর দপ্তর মিশরের রাজধানী কায়রোতে অবস্থিত।"
+    },
+    {
+        "question": "87. বাংলাদেশের নিচু উল্লিখিত কোন সময়ের জন্য জাতিসংঘ নিরাপত্তা পরিষদে অস্থায়ী সদস্য নির্বাচিত হয়েছিল?",
+        "answers": [
+            {"text": "A. ১৯৭৮ – ৭৯", "score": 0},
+            {"text": "B. ১৯৭৯ – ৮০", "score": 1},
+            {"text": "C. ১৯৮০ – ৮১", "score": 0},
+            {"text": "D. ১৯৮২ – ৮৩", "score": 0}
+        ],
+        "correct_answer": "B. ১৯৭৯ – ৮০",
+        "hint": "বাংলাদেশ প্রথমবার জাতিসংঘ নিরাপত্তা পরিষদের অস্থায়ী সদস্য নির্বাচিত হয়।"
+    },
+    {
+        "question": "88. The United Nations University কোন শহরে অবস্থিত?",
+        "answers": [
+            {"text": "A. লন্ডন", "score": 0},
+            {"text": "B. ব্রাসেলস", "score": 0},
+            {"text": "C. নিউইয়র্ক", "score": 0},
+            {"text": "D. টোকিও", "score": 1}
+        ],
+        "correct_answer": "D. টোকিও",
+        "hint": "জাতিসংঘ বিশ্ববিদ্যালয় টোকিওতে অবস্থিত।"
+    },
+    {
+        "question": "89. বাংলাদেশের মোট রপ্তানি আয়ে রেডিমেড গার্মেন্টস-এর অংশ কত?",
+        "answers": [
+            {"text": "A. ৭৫%", "score": 0},
+            {"text": "B. ৫৬%", "score": 0},
+            {"text": "C. ৩৫%", "score": 1},
+            {"text": "D. ৬০%", "score": 0}
+        ],
+        "correct_answer": "C. ৩৫%",
+        "hint": "রপ্তানি আয়ে রেডিমেড গার্মেন্টস-এর অংশ কমপক্ষে ৩৫%।"
+    },
+    {
+        "question": "90. বাংলাদেশ জাতীয় সংসদের নির্ধারিত আসনে মহিলা সদস্যের সংখ্যা কত?",
+        "answers": [
+            {"text": "A. ৩০", "score": 0},
+            {"text": "B. ৩২", "score": 0},
+            {"text": "C. ৩৫", "score": 0},
+            {"text": "D. ৪০", "score": 1}
+        ],
+        "correct_answer": "D. ৪০",
+        "hint": "নারীদের সংরক্ষিত আসন সংখ্যা বর্তমানে ৪০ টি।"
+    },
+    {
+        "question": "91. ‘ইচ্ছা’ বিশেষ্যের বিশেষণ নির্দেশ করুন।",
+        "answers": [
+            {"text": "A. ইচ্ছাময়", "score": 1},
+            {"text": "B. ঐচ্ছিক", "score": 0},
+            {"text": "C. ইচ্ছুক", "score": 0},
+            {"text": "D. অনিচ্ছা", "score": 0}
+        ],
+        "correct_answer": "A. ইচ্ছাময়",
+        "hint": "'ইচ্ছা' শব্দের বিশেষণ হলো 'ইচ্ছাময়'।"
+    },
+    {
+        "question": "92. কোন বাক্যটিতে সমধাতুজ কর্ম আছে?",
+        "answers": [
+            {"text": "A. সে বই পড়ছে", "score": 1},
+            {"text": "B. সে গভীর চিন্তায় মগ্ন", "score": 0},
+            {"text": "C. সে ঘুমিয়ে আছে", "score": 0},
+            {"text": "D. সে যে চাল চেলেছে তাতে তাকে ষড়যন্ত্রকারী ছাড়া আর কিছু বলা যায় না", "score": 0}
+        ],
+        "correct_answer": "A. সে বই পড়ছে",
+        "hint": "'চাল' এবং 'চেলেছে' সমধাতুজ কর্ম।"
+    },
+    {
+        "question": "93. What is the synonym of ‘incredible’?",
+        "answers": [
+            {"text": "A. Unbelievable", "score": 1},
+            {"text": "B. Unthinkable", "score": 0},
+            {"text": "C. Unlikely", "score": 0},
+            {"text": "D. Unthinking", "score": 0}
+        ],
+        "correct_answer": "A. Unbelievable",
+        "hint": "'Incredible' অর্থ অবিশ্বাস্য।"
+    },
+    {
+        "question": "94. What is the antonym of ‘famous’?",
+        "answers": [
+            {"text": "A. Opaque", "score": 0},
+            {"text": "B. Illiterate", "score": 0},
+            {"text": "C. Obscure", "score": 1},
+            {"text": "D. Immature", "score": 0}
+        ],
+        "correct_answer": "C. Obscure",
+        "hint": "'Famous' এর antonym 'obscure'।"
+    },
+    {
+        "question": "95. ‘Plebiscite’ is a term related to ____?",
+        "answers": [
+            {"text": "A. Medicine", "score": 0},
+            {"text": "B. Technology", "score": 0},
+            {"text": "C. Law", "score": 0},
+            {"text": "D. Politics", "score": 1}
+        ],
+        "correct_answer": "D. Politics",
+        "hint": "'Plebiscite' অর্থ গণভোট।"
+    },
+    {
+        "question": "96. Who wrote ‘beauty is truth, truth is beauty’?",
+        "answers": [
+            {"text": "A. Shakespeare", "score": 0},
+            {"text": "B. Wordsworth", "score": 0},
+            {"text": "C. Keats", "score": 1},
+            {"text": "D. Eliot", "score": 0}
+        ],
+        "correct_answer": "C. Keats",
+        "hint": "John Keats এই উক্তিটি করেছেন।"
+    },
+    {
+        "question": "97. Many islands make up ___.",
+        "answers": [
+            {"text": "A. an isles", "score": 0},
+            {"text": "B. an archipelago", "score": 1},
+            {"text": "C. a peninsula", "score": 0},
+            {"text": "D. a continent", "score": 0}
+        ],
+        "correct_answer": "B. an archipelago",
+        "hint": "অনেকগুলো দ্বীপ মিলিয়ে একটি দ্বীপপুঞ্জ গঠিত হয়।"
+    },
+    {
+        "question": "98. বাংলাদেশের সরকারি মেডিকেল কলেজের সংখ্যা কত?",
+        "answers": [
+            {"text": "A. ৮", "score": 0},
+            {"text": "B. ১০", "score": 0},
+            {"text": "C. ১২", "score": 0},
+            {"text": "D. ১৩", "score": 1}
+        ],
+        "correct_answer": "D. ১৩",
+        "hint": "দেশে সরকারি মেডিকেল কলেজের সংখ্যা ৩৮টি।"
+    },
+    {
+        "question": "99. সেন্টমার্টিন দ্বীপ-এর অপর নাম কি?",
+        "answers": [
+            {"text": "A. নারিকেল জিঞ্জিরা", "score": 1},
+            {"text": "B. সোনাদিয়া", "score": 0},
+            {"text": "C. কুতুবদিয়া", "score": 0},
+            {"text": "D. নিঝুম দ্বীপ", "score": 0}
+        ],
+        "correct_answer": "A. নারিকেল জিঞ্জিরা",
+        "hint": "নারিকেল গাছের প্রতুলতার জন্য সেন্টমার্টিন দ্বীপের নাম নারিকেল জিঞ্জিরা।"
+    },
+    {
+        "question": "100. ২০০০ সাল নাগাল বাংলাদেশের জনসংখ্যা দাঁড়াবে-",
+        "answers": [
+            {"text": "A. ২০০ মিলিয়ন", "score": 0},
+            {"text": "B. ১২০ মিলিয়ন", "score": 1},
+            {"text": "C. ১০০ মিলিয়ন", "score": 0},
+            {"text": "D. ২৩০ মিলিয়ন", "score": 0}
+        ],
+        "correct_answer": "B. ১২০ মিলিয়ন",
+        "hint": "২০০০ সালের জনসংখ্যা প্রশ্নে দেশের জনসংখ্যা দাঁড়াবে ১২০ মিলিয়ন।"
+    }
+]

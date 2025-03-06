@@ -1,0 +1,2204 @@
+[
+    {
+        "question": "1. আন্তর্জাতিক বিচার আদালত রোহিঙ্গা গণহত্যা বিষয়ক অন্তর্বর্তীকালীন রায়ে মিয়ানমারকে কয়টি নির্দিষ্ট ব্যবস্থা গ্রহণের কথা বলেছে?",
+        "answers": [
+            {"text": "A. ৩টি", "score": 0},
+            {"text": "B. ২টি", "score": 0},
+            {"text": "C. ৫টি", "score": 0},
+            {"text": "D. ৪টি", "score": 1}
+        ],
+        "correct_answer": "D. ৪টি",
+        "hint": "মিয়ানমারের বিরুদ্ধে আদালত ৪টি আদেশ প্রদান করেছে।"
+    },
+    {
+        "question": "2. কোন দুটি দেশের মধ্যে সীমান্ত বিরোধ নিষ্পত্তির জন্য ২০১৯ সালে নোবেল শান্তি পুরস্কার দেয়া হয়?",
+        "answers": [
+            {"text": "A. ক্যামেরুন এবং ইথিওপিয়া", "score": 1},
+            {"text": "B. পেরু এবং ভেনেজুয়েলা", "score": 0},
+            {"text": "C. ইথিওপিয়া এবং ইরিত্রিয়া", "score": 0},
+            {"text": "D. মালি ও সেনেগাল", "score": 0}
+        ],
+        "correct_answer": "A. ক্যামেরুন এবং ইথিওপিয়া",
+        "hint": "২০১৯ সালে আবি আহমেদ আলি ইথিওপিয়া ও ইরিত্রিয়ার সীমান্ত বিরোধ নিষ্পত্তির জন্য পুরস্কার পেয়েছেন।"
+    },
+    {
+        "question": "3. ব্রিটিশ ভারতের রাজধানী কলকাতা থেকে দিল্লীতে স্থানান্তরিত হয় কত সালে?",
+        "answers": [
+            {"text": "A. ১৯১২ সালে", "score": 1},
+            {"text": "B. ১৯১৩ সালে", "score": 0},
+            {"text": "C. ১৯১৪ সালে", "score": 0},
+            {"text": "D. ১৯১৫ সালে", "score": 0}
+        ],
+        "correct_answer": "A. ১৯১২ সালে",
+        "hint": "কলকাতা থেকে দিল্লিতে রাজধানী ১৯১২ সালে স্থানান্তরিত হয়।"
+    },
+    {
+        "question": "4. আন্তর্জাতিক মুদ্রা তহবিল কোন সালে গঠিত হয়?",
+        "answers": [
+            {"text": "A. ১৯৪৪ সালে", "score": 1},
+            {"text": "B. ১৯৪৫ সালে", "score": 0},
+            {"text": "C. ১৯৪৮ সালে", "score": 0},
+            {"text": "D. ১৯৪৯ সালে", "score": 0}
+        ],
+        "correct_answer": "A. ১৯৪৪ সালে",
+        "hint": "IMF ১৯৪৪ সালে গঠিত হয়।"
+    },
+    {
+        "question": "5. জাতিসংঘের কোন সংস্থাটি করোনা ভাইরাসকে ‘Pandemic’ ঘোষণা করেছে?",
+        "answers": [
+            {"text": "A. ECOSOC", "score": 0},
+            {"text": "B. FAO", "score": 0},
+            {"text": "C. WHO", "score": 1},
+            {"text": "D. HRC", "score": 0}
+        ],
+        "correct_answer": "C. WHO",
+        "hint": "WHO করোনা ভাইরাসকে Pandemic ঘোষণা করেছে।"
+    },
+    {
+        "question": "6. যুক্তরাষ্ট্রের রাষ্ট্রপতি নির্বাচনে ডেমোক্রেটিক দলের মনোনয়নের জন্য ন্যূনতম কতজন ডেলিগেটের সমর্থন প্রয়োজন?",
+        "answers": [
+            {"text": "A. ২৫০০", "score": 0},
+            {"text": "B. ১৯৯১", "score": 1},
+            {"text": "C. ১৯৫০", "score": 0},
+            {"text": "D. ১৮৯০", "score": 0}
+        ],
+        "correct_answer": "B. ১৯৯১",
+        "hint": "ডেমোক্রেটিক পার্টির মনোনয়ন লাভের জন্য ১৯৯১ জন ডেলিগেটের সমর্থন প্রয়োজন।"
+    },
+    {
+        "question": "7. ট্রান্সপারেন্সি ইন্টারন্যাশনাল কোন দেশ ভিত্তিক আন্তর্জাতিক সংস্থা?",
+        "answers": [
+            {"text": "A. সুইডেন", "score": 0},
+            {"text": "B. মার্কিন যুক্তরাষ্ট্র", "score": 0},
+            {"text": "C. যুক্তরাজ্য", "score": 0},
+            {"text": "D. জার্মানি", "score": 1}
+        ],
+        "correct_answer": "D. জার্মানি",
+        "hint": "ট্রান্সপারেন্সি ইন্টারন্যাশনাল জার্মানি ভিত্তিক একটি সংস্থা।"
+    },
+    {
+        "question": "8. সামরিক ভাষায় ‘WMD’ অর্থ কী?",
+        "answers": [
+            {"text": "A. Weapons of Mass Destruction", "score": 1},
+            {"text": "B. Worldwide Mass Destruction", "score": 0},
+            {"text": "C. Weapons of Missile Defence", "score": 0},
+            {"text": "D. Weapons for Massive Destruction", "score": 0}
+        ],
+        "correct_answer": "A. Weapons of Mass Destruction",
+        "hint": "'WMD' মানে হলো গণবিধ্বংসী অস্ত্র।"
+    },
+    {
+        "question": "9. ২০২০ সালে প্রকাশিত ‘আইনের শাসন’ সূচকে শীর্ষস্থান অর্জনকারী দেশের নাম কী?",
+        "answers": [
+            {"text": "A. ডেনমার্ক", "score": 1},
+            {"text": "B. নরওয়ে", "score": 0},
+            {"text": "C. জার্মানি", "score": 0},
+            {"text": "D. সিঙ্গাপুর", "score": 0}
+        ],
+        "correct_answer": "A. ডেনমার্ক",
+        "hint": "আইনের শাসন সূচকে শীর্ষ দেশ হলো ডেনমার্ক।"
+    },
+    {
+        "question": "10. ইনকা সভ্যতা কোন অঞ্চলে বিরাজমান ছিল?",
+        "answers": [
+            {"text": "A. দক্ষিণ আমেরিকা", "score": 1},
+            {"text": "B. আফ্রিকা", "score": 0},
+            {"text": "C. মধ্যপ্রাচ্য", "score": 0},
+            {"text": "D. ইউরোপ", "score": 0}
+        ],
+        "correct_answer": "A. দক্ষিণ আমেরিকা",
+        "hint": "ইনকা সভ্যতা দক্ষিণ আমেরিকার Andes পর্বতমালায় গড়ে উঠেছিল।"
+    },
+    {
+        "question": "11. নিচের কোন দেশটিতে রাশিয়ার সামরিক ঘাঁটির সুবিধা বিদ্যমান?",
+        "answers": [
+            {"text": "A. কিউবা", "score": 0},
+            {"text": "B. ভিয়েতনাম", "score": 1},
+            {"text": "C. উজবেকিস্তান", "score": 0},
+            {"text": "D. সোমালিয়া", "score": 0}
+        ],
+        "correct_answer": "B. ভিয়েতনাম",
+        "hint": "ভিয়েতনামে রাশিয়ার সামরিক ঘাঁটি রয়েছে।"
+    },
+    {
+        "question": "12. ফিনল্যান্ড কোন দেশের উপনিবেশ ছিল?",
+        "answers": [
+            {"text": "A. রাশিয়া", "score": 0},
+            {"text": "B. ডেনমার্ক", "score": 0},
+            {"text": "C. সুইডেন", "score": 1},
+            {"text": "D. ইংল্যান্ড", "score": 0}
+        ],
+        "correct_answer": "C. সুইডেন",
+        "hint": "ফিনল্যান্ড দীর্ঘ সময় সুইডেনের অধীন ছিল।"
+    },
+    {
+        "question": "13. এশিয়াকে আফ্রিকা মহাদেশ থেকে পৃথক করেছে কোন প্রণালী?",
+        "answers": [
+            {"text": "A. জিব্রাল্টার প্রণালী", "score": 0},
+            {"text": "B. বসফরাস প্রণালী", "score": 0},
+            {"text": "C. বাবেল মান্দেব প্রণালী", "score": 1},
+            {"text": "D. বেরিং প্রণালী", "score": 0}
+        ],
+        "correct_answer": "C. বাবেল মান্দেব প্রণালী",
+        "hint": "এশিয়া ও আফ্রিকাকে আলাদা করেছে বাবেল মান্দেব প্রণালী।"
+    },
+    {
+        "question": "14. জাতিসংঘের কোন সংস্থা বার্ষিক বিশ্ব বিনিয়োগ প্রতিবেদন প্রকাশ করে?",
+        "answers": [
+            {"text": "A. WTO", "score": 0},
+            {"text": "B. MIGA", "score": 0},
+            {"text": "C. World Bank", "score": 0},
+            {"text": "D. UNCTAD", "score": 1}
+        ],
+        "correct_answer": "D. UNCTAD",
+        "hint": "UNCTAD বিশ্ব বিনিয়োগ প্রতিবেদন প্রকাশ করে।"
+    },
+    {
+        "question": "15. আন্তর্জাতিক আদালতে মিয়ানমার কর্তৃক রোহিঙ্গা গণহত্যার অভিযোগে মামলা করে কোন দেশ?",
+        "answers": [
+            {"text": "A. নাইজেরিয়া", "score": 0},
+            {"text": "B. গাম্বিয়া", "score": 1},
+            {"text": "C. বাংলাদেশ", "score": 0},
+            {"text": "D. আলজেরিয়া", "score": 0}
+        ],
+        "correct_answer": "B. গাম্বিয়া",
+        "hint": "গাম্বিয়া আন্তর্জাতিক আদালতে মামলা করেছে।"
+    },
+    {
+        "question": "16. কোন বিদেশি রাষ্ট্র বাংলাকে অন্যতম রাষ্ট্রভাষার মর্যাদা দিয়েছে?",
+        "answers": [
+            {"text": "A. রুয়ান্ডা", "score": 0},
+            {"text": "B. সিয়েরালিয়ন", "score": 1},
+            {"text": "C. সুদান", "score": 0},
+            {"text": "D. লাইবেরিয়া", "score": 0}
+        ],
+        "correct_answer": "B. সিয়েরালিয়ন",
+        "hint": "সিয়েরালিয়ন বাংলাকে রাষ্ট্রভাষা হিসেবে স্বীকৃতি দিয়েছে।"
+    },
+    {
+        "question": "17. জাতিসংঘ নামকরণ করেন-",
+        "answers": [
+            {"text": "A. রুজভেল্ট", "score": 1},
+            {"text": "B. স্টালিন", "score": 0},
+            {"text": "C. চার্চিল", "score": 0},
+            {"text": "D. দ্যা গল", "score": 0}
+        ],
+        "correct_answer": "A. রুজভেল্ট",
+        "hint": "জাতিসংঘের নামকরণ করেছেন রুজভেল্ট।"
+    },
+    {
+        "question": "18. কোন মুসলিম দেশ সামরিক জোট ন্যাটোর সদস্য?",
+        "answers": [
+            {"text": "A. সৌদি আরব", "score": 0},
+            {"text": "B. মালয়েশিয়া", "score": 0},
+            {"text": "C. পাকিস্তান", "score": 0},
+            {"text": "D. তুরস্ক", "score": 1}
+        ],
+        "correct_answer": "D. তুরস্ক",
+        "hint": "তুরস্ক ন্যাটো এর সদস্য রাষ্ট্র।"
+    },
+    {
+        "question": "19. নর্থ আটলান্টিক ট্রিটি অর্গানাইজেশন কোন বছর প্রতিষ্ঠিত হয়?",
+        "answers": [
+            {"text": "A. ১৯৪৫ সালে", "score": 0},
+            {"text": "B. ১৯৪৯ সালে", "score": 1},
+            {"text": "C. ১৯৪৮ সালে", "score": 0},
+            {"text": "D. ১৯৫১ সালে", "score": 0}
+        ],
+        "correct_answer": "B. ১৯৪৯ সালে",
+        "hint": "ন্যাটো ১৯৪৯ সালে প্রতিষ্ঠিত হয়।"
+    },
+    {
+        "question": "20. জার্মানীর প্রথম নারী চ্যান্সেলর কে?",
+        "answers": [
+            {"text": "A. অ্যানেগরেট ক্রাম্প", "score": 0},
+            {"text": "B. লিনা হেডরিচ", "score": 0},
+            {"text": "C. অ্যাঞ্জেলা মারকেল", "score": 1},
+            {"text": "D. পেট্রা কেলি", "score": 0}
+        ],
+        "correct_answer": "C. অ্যাঞ্জেলা মারকেল",
+        "hint": "অ্যাঞ্জেলা মারকেল জার্মানীর প্রথম নারী চ্যান্সেলর।"
+    },
+    {
+        "question": "21. একই পরিমাণ বৃষ্টিপাত অঞ্চলসমূহকে যে কাল্পনিক রেখার সাহায্যে দেখানো হয় তার নাম-",
+        "answers": [
+            {"text": "A. আইসোপ্লিথ", "score": 0},
+            {"text": "B. আইসোহাইট", "score": 1},
+            {"text": "C. আইসোহ্যালাইন", "score": 0},
+            {"text": "D. আইসোথার্ম", "score": 0}
+        ],
+        "correct_answer": "B. আইসোহাইট",
+        "hint": "আইসোহাইট সমবৃষ্টিপাত অঞ্চলকে জোড়ায়।"
+    },
+    {
+        "question": "22. বাংলাদেশের সবচেয়ে প্রাচীন বসতি কোনটি?",
+        "answers": [
+            {"text": "A. ময়নামতি", "score": 0},
+            {"text": "B. পুণ্ড্রবর্ধন", "score": 1},
+            {"text": "C. পাহাড়পুর", "score": 0},
+            {"text": "D. সোনারগাঁ", "score": 0}
+        ],
+        "correct_answer": "B. পুণ্ড্রবর্ধন",
+        "hint": "পুণ্ড্রবর্ধন বাংলাদেশের প্রাচীন বসতি।"
+    },
+    {
+        "question": "23. নিচের কোনটি সত্য নয়?",
+        "answers": [
+            {"text": "A. ইরাবতী মায়ানমারের একটি নদী", "score": 0},
+            {"text": "B. গোবি মরুভূমি ভারতে অবস্থিত", "score": 1},
+            {"text": "C. থর মরুভূমি ভারতের পশ্চিমাংশে অবস্থিত", "score": 0},
+            {"text": "D. সাজেক ভ্যালি বাংলাদেশে অবস্থিত", "score": 0}
+        ],
+        "correct_answer": "B. গোবি মরুভূমি ভারতে অবস্থিত",
+        "hint": "গোবি মরুভূমি চীন ও মঙ্গোলিয়ার অঞ্চল।"
+    },
+    {
+        "question": "24. দক্ষিণ গোলার্ধে উষ্ণতম মাস কোনটি?",
+        "answers": [
+            {"text": "A. জানুয়ারি", "score": 1},
+            {"text": "B. ফেব্রুয়ারি", "score": 0},
+            {"text": "C. ডিসেম্বর", "score": 0},
+            {"text": "D. মে", "score": 0}
+        ],
+        "correct_answer": "A. জানুয়ারি",
+        "hint": "দক্ষিণ গোলার্ধে জানুয়ারি উষ্ণতম মাস।"
+    },
+    {
+        "question": "25. মার্বেল কোন ধরনের শিলা?",
+        "answers": [
+            {"text": "A. রূপান্তরিত শিলা", "score": 1},
+            {"text": "B. আগ্নেয় শিলা", "score": 0},
+            {"text": "C. পাললিক শিলা", "score": 0},
+            {"text": "D. মিশ্র শিলা", "score": 0}
+        ],
+        "correct_answer": "A. রূপান্তরিত শিলা",
+        "hint": "মার্বেল হলো রূপান্তরিত শিলা।"
+    },
+    {
+        "question": "26. মধ্যম উচ্চতার মেঘ কোনটি?",
+        "answers": [
+            {"text": "A. সিরাস", "score": 0},
+            {"text": "B. নিম্বাস", "score": 0},
+            {"text": "C. কিউম্যুলাস", "score": 1},
+            {"text": "D. স্ট্রেটাস", "score": 0}
+        ],
+        "correct_answer": "C. কিউম্যুলাস",
+        "hint": "কিউম্যুলাস হলো মধ্যম উচ্চতার মেঘ।"
+    },
+    {
+        "question": "27. ‘বেঙ্গল ফ্যান’- ভূমিরূপটি কোথায় অবস্থিত?",
+        "answers": [
+            {"text": "A. মধুপুর গড়ে", "score": 0},
+            {"text": "B. বঙ্গোপসাগরে", "score": 1},
+            {"text": "C. হাওর অঞ্চলে", "score": 0},
+            {"text": "D. টারশিয়ারি পাহাড়ে", "score": 0}
+        ],
+        "correct_answer": "B. বঙ্গোপসাগরে",
+        "hint": "'বেঙ্গল ফ্যান' বঙ্গোপসাগরের নীচে অবস্থিত।"
+    },
+    {
+        "question": "28. UDMC এর পূর্ণরূপ হলো-",
+        "answers": [
+            {"text": "A. United Disaster Management Centne", "score": 0},
+            {"text": "B. Union Disaster Management Committee", "score": 0},
+            {"text": "C. Union Disaster Management Centre", "score": 1},
+            {"text": "D. none of the above", "score": 0}
+        ],
+        "correct_answer": "C. Union Disaster Management Centre",
+        "hint": "UDMC এর পূর্ণরূপ হলো Union Disaster Management Centre।"
+    },
+    {
+        "question": "29. ২০১৫ সালের প্যারিস চুক্তির সাথে সম্পর্কিত বিষয়বস্তু হলো:",
+        "answers": [
+            {"text": "A. আপদ ঝুঁকি হ্রাস", "score": 0},
+            {"text": "B. জলবায়ু পরিবর্তন হ্রাস", "score": 1},
+            {"text": "C. জনসংখ্যা বৃদ্ধি হ্রাস", "score": 0},
+            {"text": "D. সমুদ্র পরিবহন ব্যবস্থাপনা", "score": 0}
+        ],
+        "correct_answer": "B. জলবায়ু পরিবর্তন হ্রাস",
+        "hint": "প্যারিস চুক্তির মূল লক্ষ্য হলো জলবায়ু পরিবর্তন হ্রাস।"
+    },
+    {
+        "question": "30. ‘বঙ্গবন্ধু দ্বীপ’- কোথায় অবস্থিত?",
+        "answers": [
+            {"text": "A. মেঘনা মোহনায়", "score": 1},
+            {"text": "B. সুন্দরবনের দক্ষিণে", "score": 0},
+            {"text": "C. পদ্মা এবং যমুনার সংযোগস্থলে", "score": 0},
+            {"text": "D. টেকনাফের দক্ষিণে", "score": 0}
+        ],
+        "correct_answer": "A. মেঘনা মোহনায়",
+        "hint": "'বঙ্গবন্ধু দ্বীপ' মেঘনা মোহনায় অবস্থিত।"
+    },
+    {
+        "question": "31. আলোকবর্ষ ব্যবহার করে কী পরিমাপ করা হয়?",
+        "answers": [
+            {"text": "A. দূরত্ব", "score": 1},
+            {"text": "B. সময়", "score": 0},
+            {"text": "C. ভর", "score": 0},
+            {"text": "D. ওজন", "score": 0}
+        ],
+        "correct_answer": "A. দূরত্ব",
+        "hint": "আলোকবর্ষ দূরত্ব মাপতে ব্যবহৃত হয়।"
+    },
+    {
+        "question": "32. সূর্যের নিকটতম নক্ষত্রের নাম-",
+        "answers": [
+            {"text": "A. ভেগা", "score": 0},
+            {"text": "B.iproxim A. Proxima Centauri", "score": 1},
+            {"text": "C. আলফা সেন্টউরি A", "score": 0},
+            {"text": "D. আলফা সেন্টউরি B", "score": 0}
+        ],
+        "correct_answer": "B. Proxima Centauri",
+        "hint": "সূর্যের নিকটতম নক্ষত্র হলো Proxima Centauri।"
+    },
+    {
+        "question": "33. ১০০ ওয়াট-এর একটি বৈদ্যুতিক বাল্ব ১ ঘণ্টা চললে কত শক্তি ব্যয় হয়?",
+        "answers": [
+            {"text": "A. ১০০ জুল", "score": 0},
+            {"text": "B. ৬০ জুল", "score": 0},
+            {"text": "C. ৬০০০ জুল", "score": 0},
+            {"text": "D. ৩৬০০০০ জুল", "score": 1}
+        ],
+        "correct_answer": "D. ৩৬০০০০ জুল",
+        "hint": "১ ঘণ্টা = ৩৬০০ সেকেন্ড তাই শক্তি = শক্তি × সময়।"
+    },
+    {
+        "question": "34. ইলেকট্রিক বাল্ব-এর ফিলামেন্ট যার দ্বারা তৈরি-",
+        "answers": [
+            {"text": "A. আয়রন", "score": 0},
+            {"text": "B. কার্বন", "score": 0},
+            {"text": "C. টাংস্টেন", "score": 1},
+            {"text": "D. লেড", "score": 0}
+        ],
+        "correct_answer": "C. টাংস্টেন",
+        "hint": "بৈদ্যুতিক বাল্বের ফিলামেন্ট টাংস্টেন দ্বারা তৈরি।"
+    },
+    {
+        "question": "35. গ্রাফিন (graphene) কার বহুরূপী?",
+        "answers": [
+            {"text": "A. কার্বন", "score": 1},
+            {"text": "B. কার্বন ও অক্সিজেন", "score": 0},
+            {"text": "C. কার্বন ও হাইড্রোজেন", "score": 0},
+            {"text": "D. কার্বন ও নাইট্রোজেন", "score": 0}
+        ],
+        "correct_answer": "A. কার্বন",
+        "hint": "গ্রাফিন হলো কার্বনের একটি বিশেষ রূপ।"
+    },
+    {
+        "question": "36. আইনস্টাইন নোবেল পুরস্কার পান-",
+        "answers": [
+            {"text": "A. আপেক্ষিক তত্ত্বের উপর", "score": 0},
+            {"text": "B. মহাকর্ষীয় ধ্রুবক আবিষ্কারের জন্য", "score": 0},
+            {"text": "C. কৃষ্ণগহ্বর আবিষ্কারের জন্য", "score": 0},
+            {"text": "D. আলোক তড়িৎ ক্রিয়ার ব্যাখ্যা প্রদানের জন্য", "score": 1}
+        ],
+        "correct_answer": "D. আলোক তড়িৎ ক্রিয়ার ব্যাখ্যা প্রদানের জন্য",
+        "hint": "আইনস্টাইন আলোক তড়িৎ ক্রিয়ার জন্য নোবেল পুরস্কার লাভ করেন।"
+    },
+    {
+        "question": "37. মানবদেহে লোহিত কণিকার আয়ুষ্কাল কত দিন?",
+        "answers": [
+            {"text": "A. ৭ দিন", "score": 0},
+            {"text": "B. ৩০ দিন", "score": 0},
+            {"text": "C. ১৮০ দিন", "score": 0},
+            {"text": "D. উপরেকোনটিই নয়", "score": 1}
+        ],
+        "correct_answer": "D. উপরেকোনটিই নয়",
+        "hint": "লোহিত কণিকার সময়কাল ১২০ দিন।"
+    },
+    {
+        "question": "38. নদীর পানির ক্ষেত্রে কোনটি সত্য?",
+        "answers": [
+            {"text": "A. COD > BOD", "score": 1},
+            {"text": "B. COD < BOD", "score": 0},
+            {"text": "C. COD = BOD", "score": 0},
+            {"text": "D. উর্ধ্বের কিছু নয়", "score": 0}
+        ],
+        "correct_answer": "A. COD > BOD",
+        "hint": "COD সাধারণত BOD থেকে বেশি হয়ে থাকে।"
+    },
+    {
+        "question": "39. পাথফাইন্ডার- এর মঙ্গলে অবতরণ সাল-",
+        "answers": [
+            {"text": "A. ১৯৯০", "score": 0},
+            {"text": "B. ১৯৯৫", "score": 0},
+            {"text": "C. ১৯৯৭", "score": 1},
+            {"text": "D. ২০০০", "score": 0}
+        ],
+        "correct_answer": "C. ১৯৯৭",
+        "hint": "পাথফাইন্ডার ১৯৯৭ সালে মঙ্গলে অবতরণ করে।"
+    },
+    {
+        "question": "40. ওজোন স্তর বায়ুমণ্ডলের কোন স্তরে অবস্থিত?",
+        "answers": [
+            {"text": "A. স্ট্রাটোমণ্ডল", "score": 1},
+            {"text": "B. ট্রপোমণ্ডল", "score": 0},
+            {"text": "C. মেসোমণ্ডল", "score": 0},
+            {"text": "D. তাপমণ্ডল", "score": 0}
+        ],
+        "correct_answer": "A. স্ট্রাটোমণ্ডল",
+        "hint": "ওজোন স্তর স্ট্র্যাটোস্ফিয়ার এর অংশ।"
+    },
+    {
+        "question": "41. কাঁদুনে গ্যাসের অপর নাম কী?",
+        "answers": [
+            {"text": "A. ক্লোরোপিক্রিন", "score": 1},
+            {"text": "B. মিথেন", "score": 0},
+            {"text": "C. নাইট্রোজেন", "score": 0},
+            {"text": "D. ইথেন", "score": 0}
+        ],
+        "correct_answer": "A. ক্লোরোপিক্রিন",
+        "hint": "কাঁদুনে গ্যাসের অপর নাম হলো ক্লোরোপিক্রিন।"
+    },
+    {
+        "question": "42. কোন পানিতে অক্সিজেনের পরিমাণ বেশি?",
+        "answers": [
+            {"text": "A. পুকুরের পানিতে", "score": 0},
+            {"text": "B. লেকের পানিতে", "score": 0},
+            {"text": "C. নদীর পানিতে", "score": 1},
+            {"text": "D. সাগরের পানিতে", "score": 0}
+        ],
+        "correct_answer": "C. নদীর পানিতে",
+        "hint": "নদীর পানিতে অক্সিজেনের পরিমাণ তুলনামূলকভাবে বেশি।"
+    },
+    {
+        "question": "43. হার্ট থেকে রক্ত বাইরে নিয়ে যায় যে রক্তনালী-",
+        "answers": [
+            {"text": "A. ভেইন", "score": 0},
+            {"text": "B. আর্টারি", "score": 1},
+            {"text": "C. ক্যাপিলারি", "score": 0},
+            {"text": "D. নার্ভ", "score": 0}
+        ],
+        "correct_answer": "B. আর্টারি",
+        "hint": "রক্ত ধমনী (আর্টারি) দ্বারা বাইরে নিয়ে যায়।"
+    },
+    {
+        "question": "44. প্রোটিন তৈরি হয়-",
+        "answers": [
+            {"text": "A. ফ্যাটি অ্যাসিড দিয়ে", "score": 0},
+            {"text": "B. নিউক্লিক অ্যাসিড দিয়ে", "score": 0},
+            {"text": "C. অ্যামিনো অ্যাসিড দিয়ে", "score": 1},
+            {"text": "D. উপরের কোনটিই নয়", "score": 0}
+        ],
+        "correct_answer": "C. অ্যামিনো অ্যাসিড দিয়ে",
+        "hint": "প্রোটিন অ্যামিনো অ্যাসিড দিয়ে তৈরি হয়।"
+    },
+    {
+        "question": "45. কোনটি পানিতে দ্রবীভূত হয় না?",
+        "answers": [
+            {"text": "A. গ্লিসারিন", "score": 0},
+            {"text": "B. ফিটকিরি", "score": 0},
+            {"text": "C. সোডিয়াম ক্লোরাইড", "score": 0},
+            {"text": "D. ক্যালসিয়াম কার্বোনেট", "score": 1}
+        ],
+        "correct_answer": "D. ক্যালসিয়াম কার্বোনেট",
+        "hint": "ক্যালসিয়াম কার্বোনেট পানিতে দ্রবীভূত হয় না।"
+    },
+    {
+        "question": "46. যে ইলেক্ট্রনিক লজিক গেইটের আউটপুট লজিক 0 শুধুমাত্র যখন সকল ইনপুট লজিক 1 তার নাম-",
+        "answers": [
+            {"text": "A. AND গেইট", "score": 1},
+            {"text": "B. OR গেইট", "score": 0},
+            {"text": "C. NAND গেইট", "score": 0},
+            {"text": "D. উপরের কোনটিই নয়", "score": 0}
+        ],
+        "correct_answer": "A. AND গেইট",
+        "hint": "AND গেইটের আউটপুট 0 হবে যখন ইনপুট 1।"
+    },
+    {
+        "question": "47. নিচের কোনটির যোগাযোগের দূরত্ব সবচেয়ে কম?",
+        "answers": [
+            {"text": "A. Wi-Fi", "score": 0},
+            {"text": "B. Bluetooth", "score": 1},
+            {"text": "C. Wi-Max", "score": 0},
+            {"text": "D. Cellular network", "score": 0}
+        ],
+        "correct_answer": "B. Bluetooth",
+        "hint": "Bluetooth এর যোগাযোগের দূরত্ব ১০-১০০ মিটার।"
+    },
+    {
+        "question": "48. নিচের কোনটি ১০০ এর ১ কমপ্লিমেন্ট?",
+        "answers": [
+            {"text": "A. ১১১", "score": 0},
+            {"text": "B. ১০১", "score": 0},
+            {"text": "C. ০১১", "score": 1},
+            {"text": "D. ০০১", "score": 0}
+        ],
+        "correct_answer": "C. ০১১",
+        "hint": "১০০ এর ১ এর পরিপূরক ০১১।"
+    },
+    {
+        "question": "49. RFID বলতে বুঝায়-",
+        "answers": [
+            {"text": "A. Random Frequency Identification", "score": 0},
+            {"text": "B. Random Frequency Information", "score": 0},
+            {"text": "C. Radio Frequency Information", "score": 0},
+            {"text": "D. Radio Frequency Identification", "score": 1}
+        ],
+        "correct_answer": "D. Radio Frequency Identification",
+        "hint": "RFID অর্থ হচ্ছে Radio Frequency Identification।"
+    },
+    {
+        "question": "50. নিচের কোনটি সঠিক নয়?",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. ", "score": 0}
+        ],
+        "correct_answer": "A. ",
+        "hint": "সঠিক তথ্য নির্ধারণ করতে হবে।"
+    },
+    {
+        "question": "51. Apache এক ধরনের-",
+        "answers": [
+            {"text": "A. Database Management System (DBMS)", "score": 0},
+            {"text": "B. Web Server", "score": 1},
+            {"text": "C. Web Browser", "score": 0},
+            {"text": "D. Protocol", "score": 0}
+        ],
+        "correct_answer": "B. Web Server",
+        "hint": "Apache হলো ওয়েব সার্ভার।"
+    },
+    {
+        "question": "52. ক্লাউড কম্পিউটিং এর সার্ভিস মডেল কোনটি?",
+        "answers": [
+            {"text": "A. অবকাঠামোগত", "score": 0},
+            {"text": "B. প্লাটফর্মভিত্তিক", "score": 0},
+            {"text": "C. সফটওয়্যার", "score": 0},
+            {"text": "D. উপরের সবগুলো", "score": 1}
+        ],
+        "correct_answer": "D. উপরের সবগুলো",
+        "hint": "ক্লাউড কম্পিউটিংয়ের সার্ভিস মডেল তিনটি।"
+    },
+    {
+        "question": "53. কোন নেটওয়ার্ক টপোলজিতে হাব (hub) ব্যবহার করা হয়?",
+        "answers": [
+            {"text": "A. বাস টপোলজি", "score": 1},
+            {"text": "B. রিং টপোলজি", "score": 0},
+            {"text": "C. স্টার টপোলজি", "score": 0},
+            {"text": "D. ট্রি টপোলজি", "score": 0}
+        ],
+        "correct_answer": "A. বাস টপোলজি",
+        "hint": "Bus topology-তে হাব ব্যবহার হয়।"
+    },
+    {
+        "question": "54. একটি কম্পিউটার boot করতে পারে না যদি তাতে না থাকে-",
+        "answers": [
+            {"text": "A. Compiler", "score": 0},
+            {"text": "B. Loader", "score": 0},
+            {"text": "C. Operating system", "score": 1},
+            {"text": "D. Bootstrap", "score": 0}
+        ],
+        "correct_answer": "C. Operating system",
+        "hint": "একটি কম্পিউটার boot করতে অপারেটিং সিস্টেম থাকা প্রয়োজন।"
+    },
+    {
+        "question": "55. নিচের কোনটি anti-virus সফটওয়্যার নয়?",
+        "answers": [
+            {"text": "A. Oracle", "score": 1},
+            {"text": "B. McAfee", "score": 0},
+            {"text": "C. Norton", "score": 0},
+            {"text": "D. Kaspersky", "score": 0}
+        ],
+        "correct_answer": "A. Oracle",
+        "hint": "Oracle একটি ডাটাবেস ম্যানেজমেন্ট সিস্টেম, অ্যান্টিভাইরাস নয়।"
+    },
+    {
+        "question": "56. যে কম্পিউটার ভাষায় সবকিছু শুধুমাত্র বাইনারি কোডে লেখা হয় তাকে বলে-",
+        "answers": [
+            {"text": "A. Machine language", "score": 1},
+            {"text": "B. C", "score": 0},
+            {"text": "C. Java", "score": 0},
+            {"text": "D. Python", "score": 0}
+        ],
+        "correct_answer": "A. Machine language",
+        "hint": "Machine language হলো কম্পিউটারের মৌলিক ভাষা।"
+    },
+    {
+        "question": "57. API মানে-",
+        "answers": [
+            {"text": "A. Advanced Processing Information", "score": 0},
+            {"text": "B. Application Processing Information", "score": 0},
+            {"text": "C. Application Programming Interface", "score": 1},
+            {"text": "D. Application Processing Interface", "score": 0}
+        ],
+        "correct_answer": "C. Application Programming Interface",
+        "hint": "API এর পূর্ণরূপ হলো Application Programming Interface।"
+    },
+    {
+        "question": "58. মাইক্রোসফ্ট IIS হচ্ছে একটি-",
+        "answers": [
+            {"text": "A. ইমেইল সার্ভার", "score": 0},
+            {"text": "B. ওয়েব সার্ভার", "score": 1},
+            {"text": "C. ডাটাবেইস সার্ভার", "score": 0},
+            {"text": "D. ফাইল সার্ভার", "score": 0}
+        ],
+        "correct_answer": "B. ওয়েব সার্ভার",
+        "hint": "Microsoft IIS হলো একটি ওয়েব সার্ভার।"
+    },
+    {
+        "question": "59. ব্লুটুথ কত দূরত্ব পর্যন্ত কাজ করে?",
+        "answers": [
+            {"text": "A. ১০-৩০ মিটার", "score": 0},
+            {"text": "B. ১০-৫০ মিটার", "score": 0},
+            {"text": "C. ১০-১০০ মিটার", "score": 1},
+            {"text": "D. ১০-৩০০ মিটার", "score": 0}
+        ],
+        "correct_answer": "C. ১০-১০০ মিটার",
+        "hint": "Bluetooth এর যোগাযোগের দূরত্ব ১০-১০০ মিটার।"
+    },
+    {
+        "question": "60. একটি সিস্টেম যেখানে আইটেমগুলো এক প্রান্তে সংযোজিত হয় কিন্তু অন্য প্রান্ত থেকে সরানো হয় তার নাম-",
+        "answers": [
+            {"text": "A. Array", "score": 0},
+            {"text": "B. Linked list", "score": 0},
+            {"text": "C. Stack", "score": 1},
+            {"text": "D. Queue", "score": 0}
+        ],
+        "correct_answer": "C. Stack",
+        "hint": "Stack এর মাধ্যমে এক প্রান্তে যুক্ত তথ্য সরানো হয়।"
+    },
+    {
+        "question": "61. ∆ABC এর ∠A=40° এবং ∠B=80°। ∠C এর সমদ্বিখণ্ডক AB বাহুকে D বিন্দুতে ছেদ করলে ∠CDA=?",
+        "answers": [
+            {"text": "A. ১", "score": 0},
+            {"text": "B. ১", "score": 0},
+            {"text": "C. ৯", "score": 0},
+            {"text": "D. ৮", "score": 1}
+        ],
+        "correct_answer": "D. ৮",
+        "hint": "ত্রিভুজের কোণ গণনা করতে হবে।"
+    },
+    {
+        "question": "62. ৫ জন পুরুষ ও ৪ জন মহিলার একটি দল থেকে একজন পুরুষ ও দুইজন মহিলা নিয়ে কত প্রকারে একটি কমিটি গঠন করা যাবে?",
+        "answers": [
+            {"text": "A. ১০", "score": 0},
+            {"text": "B. ১৫", "score": 1},
+            {"text": "C. ২৫", "score": 0},
+            {"text": "D. ৩০", "score": 0}
+        ],
+        "correct_answer": "B. ১৫",
+        "hint": "কমিটি গঠনের সংখ্যা নির্ধারণ করতে হবে।"
+    },
+    {
+        "question": "63. হলে,  এর মান কত?",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. ", "score": 0}
+        ],
+        "correct_answer": "A. ",
+        "hint": "মান বের করার জন্য গণনা করুন।"
+    },
+    {
+        "question": "64.  হলে,  এর মান কত?",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. ", "score": 0}
+        ],
+        "correct_answer": "A. ",
+        "hint": "গণনা ভিত্তিক মান নির্ধারণ কার্যকর করতে হবে।"
+    },
+    {
+        "question": "65. ০.১২ + ০.০০১২ + ০.০০০০ ১২ + ........ ধারাটির অসীম পদ পর্যন্ত যোগফল -",
+        "answers": [
+            {"text": "A. ৪", "score": 0},
+            {"text": "B. ৪৯", "score": 1},
+            {"text": "C. ১১", "score": 0},
+            {"text": "D. ১", "score": 0}
+        ],
+        "correct_answer": "B. ৪৯",
+        "hint": "যোগফল নির্ধারণের জন্য ধারাটি দেখতে হবে।"
+    },
+    {
+        "question": "66. কত?",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. ", "score": 0}
+        ],
+        "correct_answer": "A. ",
+        "hint": "গণনা করতে হবে।"
+    },
+    {
+        "question": "67. হলে,  এবং  এর কোন মানের জন্য  হবে?",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. ", "score": 0}
+        ],
+        "correct_answer": "A. ",
+        "hint": "গণনা করতে হবে।"
+    },
+    {
+        "question": "68. একটি আয়তক্ষেত্রের দৈর্ঘ্য ৫% বৃদ্ধি করলে তার ক্ষেত্রফল শতকরা কত বৃদ্ধি পাবে?",
+        "answers": [
+            {"text": "A. ৫%", "score": 0},
+            {"text": "B. ১০%", "score": 1},
+            {"text": "C. ২০%", "score": 0},
+            {"text": "D. ২৫%", "score": 0}
+        ],
+        "correct_answer": "B. ১০%",
+        "hint": "ক্ষেত্রফল বৃদ্ধির শতাংশ বের করতে হবে।"
+    },
+    {
+        "question": "69. চিনির মূল্য ১০% কমে যাওয়ায় চিনির ব্যবহার শতকরা কত ভাগ বাড়ালে চিনি বাবদ খরচ একই থাকবে?",
+        "answers": [
+            {"text": "A. ৮%", "score": 0},
+            {"text": "B. ১২%", "score": 1},
+            {"text": "C. ১০%", "score": 0},
+            {"text": "D. ১১%", "score": 0}
+        ],
+        "correct_answer": "B. ১২%",
+        "hint": "চিনির ব্যবহার বৃদ্ধির শতাংশ বের করতে হবে।"
+    },
+    {
+        "question": "70. ৬ সে.মি. ব্যাসার্ধ বিশিষ্ট বৃত্তের অন্তঃস্থ একটি সমবাহু ত্রিভুজের ক্ষেত্রফল-",
+        "answers": [
+            {"text": "A. ২", "score": 0},
+            {"text": "B. ৩", "score": 0},
+            {"text": "C. ৩", "score": 1},
+            {"text": "D. ৪", "score": 0}
+        ],
+        "correct_answer": "C. ৩",
+        "hint": "ঐ বৃত্তের ক্ষেত্রফল নির্ণয় করতে হবে।"
+    },
+    {
+        "question": "71.  এবং   এর মধ্যে বড় ভগ্নাংশটি-",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. ", "score": 0}
+        ],
+        "correct_answer": "A. ",
+        "hint": "ভগ্নাংশগুলোকে তুলনা করতে হবে।"
+    },
+    {
+        "question": "72.  এবং  হলে,  এর মান কত?",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. ", "score": 0}
+        ],
+        "correct_answer": "A. ",
+        "hint": "গণনা সম্পন্ন করে বের করতে হবে।"
+    },
+    {
+        "question": "73. বার্ষিক ১০% মুনাফায় ৮০০ টাকার ২ বছরের চক্রবৃদ্ধি মূলধন কত?",
+        "answers": [
+            {"text": "A. ৯৪০ টাকা", "score": 0},
+            {"text": "B. ৯৬০ টাকা", "score": 1},
+            {"text": "C. ৯৬৮ টাকা", "score": 0},
+            {"text": "D. ৯৮০ টাকা", "score": 0}
+        ],
+        "correct_answer": "B. ৯৬০ টাকা",
+        "hint": "চক্রবৃদ্ধি মুনাফার প্রক্রিয়া ব্যবহার করুন।"
+    },
+    {
+        "question": "74.  কত?",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. ", "score": 0}
+        ],
+        "correct_answer": "A. ",
+        "hint": "মান নির্ধারণের জন্য গণনা করতে হবে।"
+    },
+    {
+        "question": "75. ১ থেকে ৪৪০ পর্যন্ত সংখ্যাগুলোর একটি দৈবচয়ন পদ্ধতিতে নেওয়া হলে সংখ্যাটি বর্গসংখ্যা হওয়ার সম্ভাবনা-",
+        "answers": [
+            {"text": "A. ১", "score": 0},
+            {"text": "B. ১", "score": 1},
+            {"text": "C. ১", "score": 0},
+            {"text": "D. ১", "score": 0}
+        ],
+        "correct_answer": "B. ১",
+        "hint": "বর্গসংখ্যার গণনা সম্পন্ন করুন।"
+    },
+    {
+        "question": "76. ৫০ মিনিট আগে সময় ছিল ৪ টা বেজে ৪৫ মিনিট, ৬টা বাজতে আর কতক্ষণ সময় বাকি আছে?",
+        "answers": [
+            {"text": "A. ১৫ মিনিট", "score": 1},
+            {"text": "B. ২০ মিনিট", "score": 0},
+            {"text": "C. ২৫ মিনিট", "score": 0},
+            {"text": "D. ৩০ মিনিট", "score": 0}
+        ],
+        "correct_answer": "A. ১৫ মিনিট",
+        "hint": "মোট সময় জেনে নিয়ে সময়ের হিসাব করতে হবে।"
+    },
+    {
+        "question": "77. স্ক্রু ও ঘড়ির কাঁটার ঘূর্ণন গতির দিক-",
+        "answers": [
+            {"text": "A. একই দিকে", "score": 1},
+            {"text": "B. উল্টো দিকে", "score": 0},
+            {"text": "C. উলম্ব রেখায়", "score": 0},
+            {"text": "D. সমান্তরালে", "score": 0}
+        ],
+        "correct_answer": "A. একই দিকে",
+        "hint": "স্ক্রু ও ঘড়ির কাঁটার ঘূর্ণন একই দিকে থাকে।"
+    },
+    {
+        "question": "78. নিচের কোনটি সবচেয়ে ছোট সংখ্যা?",
+        "answers": [
+            {"text": "A. ১", "score": 0},
+            {"text": "B. ৫", "score": 0},
+            {"text": "C. ১", "score": 1},
+            {"text": "D. ৪", "score": 0}
+        ],
+        "correct_answer": "C. ১",
+        "hint": "প্রশ্নের মধ্যে সর্বনিম্ন সংখ্যা বের করুন।"
+    },
+    {
+        "question": "79. ০.১২ + ০.০০১২ + ০.০০০০ ১২ + ....... ধারাটির অসীম পদ পর্যন্ত যোগফল-",
+        "answers": [
+            {"text": "A. ৪", "score": 0},
+            {"text": "B. ৩", "score": 0},
+            {"text": "C. ১", "score": 1},
+            {"text": "D. ১", "score": 0}
+        ],
+        "correct_answer": "C. ১",
+        "hint": "অসীম ধারার যোগফল বের করতে হবে।"
+    },
+    {
+        "question": "80. একজন ব্যক্তির বেতন ৫% কমেছে। কিন্তু এক বছর পর তা আবার ৫% বেড়েছে। মোটের উপর তার বেতন শতকরা কত বৃদ্ধি বা হ্রাস পেয়েছে?",
+        "answers": [
+            {"text": "A. ০.৫% বেড়েছে", "score": 0},
+            {"text": "B. ০.২৫% বেড়েছে", "score": 1},
+            {"text": "C. ০.২৫% কমেছে", "score": 0},
+            {"text": "D. ০.৫% কমেছে", "score": 0}
+        ],
+        "correct_answer": "B. ০.২৫% বেড়েছে",
+        "hint": "বেতনের বৃদ্ধির পরিমাণ গণনা করতে হবে।"
+    },
+    {
+        "question": "81. কোন বানানটি শুদ্ধ?",
+        "answers": [
+            {"text": "A. Incyclopedia", "score": 0},
+            {"text": "B. Encyclopedia", "score": 1},
+            {"text": "C. Enciclopadia", "score": 0},
+            {"text": "D. Encyclopedea", "score": 0}
+        ],
+        "correct_answer": "B. Encyclopedia",
+        "hint": "শুদ্ধ বানান হলো Encyclopedia।"
+    },
+    {
+        "question": "82. ঘড়ি : কাঁটা :: থার্মোমিটার : ?",
+        "answers": [
+            {"text": "A. ফারেনহাইট", "score": 0},
+            {"text": "B. তাপমাত্রা", "score": 0},
+            {"text": "C. চিকিৎসা", "score": 0},
+            {"text": "D. পারদ", "score": 1}
+        ],
+        "correct_answer": "D. পারদ",
+        "hint": "থার্মোমিটারে তাপমাত্রা নির্ধারণে ব্যবহার হয় পারদ।"
+    },
+    {
+        "question": "83. ১০০ থেকে ২০০ এর মধ্যে ৩ দ্বারা বিভাজ্য সংখ্যা কয়টি?",
+        "answers": [
+            {"text": "A. ৩১", "score": 0},
+            {"text": "B. ৩২", "score": 1},
+            {"text": "C. ৩৩", "score": 0},
+            {"text": "D. ৩৪", "score": 0}
+        ],
+        "correct_answer": "B. ৩২",
+        "hint": "৩ দ্বারা বিভাজ্য সংখ্যার সংখ্যা গণনা করুন।"
+    },
+    {
+        "question": "84. “তিনি আমার কথা রাখলেন না, তিনি রাখলেন ––– সাহেবের কথা।”",
+        "answers": [
+            {"text": "A. আইয়ুব খান", "score": 0},
+            {"text": "B. ইয়াহিয়া খান", "score": 0},
+            {"text": "C. ভুট্টো", "score": 1},
+            {"text": "D. কিসিঞ্জার", "score": 0}
+        ],
+        "correct_answer": "C. ভুট্টো",
+        "hint": "এটি শেখ মুজিবুর রহমানের বিখ্যাত ৭ মার্চের ভাষণের অংশ।"
+    },
+    {
+        "question": "85. রহিম উত্তর দিকে ১০ মাইল হেঁটে ডানদিকে ঘুরে ৫ মাইল হাঁটেন। তারপর ডানদিকে ঘুরে ২ মাইল হাঁটেন। তিনি কোন দিকে হাঁটছেন?",
+        "answers": [
+            {"text": "A. পূর্ব", "score": 1},
+            {"text": "B. পশ্চিম", "score": 0},
+            {"text": "C. উত্তর", "score": 0},
+            {"text": "D. দক্ষিণ", "score": 0}
+        ],
+        "correct_answer": "A. পূর্ব",
+        "hint": "রহিমের হাঁটার দিক নির্ধারণ করতে হবে।"
+    },
+    {
+        "question": "86. নিচের কোন অক্ষরগুলো পুনর্বিন্যাস করে একটি অর্থবোধক শব্দ তৈরি করা যায়?",
+        "answers": [
+            {"text": "A. ra trh o ho", "score": 1},
+            {"text": "B. r bdhi pn", "score": 0},
+            {"text": "C. dri tra da", "score": 0},
+            {"text": "D. sa ba a dha", "score": 0}
+        ],
+        "correct_answer": "A. ra trh o ho",
+        "hint": "'অহোরাত্র' শুদ্ধ রূপ তৈরি হবে।"
+    },
+    {
+        "question": "87. কত?",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. ", "score": 0}
+        ],
+        "correct_answer": "A. ",
+        "hint": "মান নির্ধারণ করতে হবে।"
+    },
+    {
+        "question": "88. ‘RELATION’- এর আয়নায় প্রতিবিম্ব কোনটি হবে?",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. ", "score": 0}
+        ],
+        "correct_answer": "A. ",
+        "hint": "অক্ষরটির আয়নায় প্রতিবিম্ব নির্ধারণ করতে হবে।"
+    },
+    {
+        "question": "89. পাঁচজন ব্যক্তি ট্রেনে ভ্রমণ করেছেন। তাঁরা হলেন ক, খ, গ, ঘ, ঙ। ক হলেন গ এর মা, গ আবার ঙ এর স্ত্রী। ঘ হলেন ক এর ভাই এবং খ হলেন ক এর স্বামী। ঙ এর সঙ্গে খ এর সম্পর্ক কী?",
+        "answers": [
+            {"text": "A. শ্বশুর", "score": 0},
+            {"text": "B. পিতা", "score": 0},
+            {"text": "C. চাচা", "score": 0},
+            {"text": "D. ভাই", "score": 1}
+        ],
+        "correct_answer": "D. ভাই",
+        "hint": "সম্পর্ক নির্ধারণ করতে হবে।"
+    },
+    {
+        "question": "90. যদি মাসের ২য় দিন সোমবার হয়, তবে মাসের ১৮তম দিন কী বার হবে?",
+        "answers": [
+            {"text": "A. রবিবার", "score": 0},
+            {"text": "B. সোমবার", "score": 1},
+            {"text": "C. মঙ্গলবার", "score": 0},
+            {"text": "D. বুধবার", "score": 0}
+        ],
+        "correct_answer": "B. সোমবার",
+        "hint": "সংখ্যা হিসাব করে দিন নির্ধারণ করতে হবে।"
+    },
+    {
+        "question": "91. কোন মূল্যবোধ রাষ্ট্র, সরকার ও গোষ্ঠী কর্তৃক স্বীকৃত?",
+        "answers": [
+            {"text": "A. সামাজিক মূল্যবোধ", "score": 1},
+            {"text": "B. ইতিবাচক মূল্যবোধ", "score": 0},
+            {"text": "C. গণতান্ত্রিক মূল্যবোধ", "score": 0},
+            {"text": "D. নৈতিক মূল্যবোধ", "score": 0}
+        ],
+        "correct_answer": "A. সামাজিক মূল্যবোধ",
+        "hint": "রাষ্ট্র কর্তৃক স্বীকৃত মূল্যবোধ হলো সামাজিক মূল্যবোধ।"
+    },
+    {
+        "question": "92. কে ‘কর্তব্যের নৈতিকতার ধারণা প্রবর্তন করেন?",
+        "answers": [
+            {"text": "A. হ্যারল্ড উইলসন", "score": 0},
+            {"text": "B. এডওয়ার্ড ওসবর্ন উইলসন", "score": 0},
+            {"text": "C. জন স্টুয়ার্ট মিল", "score": 0},
+            {"text": "D. ইমানুয়েল কান্ট", "score": 1}
+        ],
+        "correct_answer": "D. ইমানুয়েল কান্ট",
+        "hint": "কান্ট কর্তব্যের নৈতিকতার ধারণা প্রদান করেন।"
+    },
+    {
+        "question": "93. সভ্যতার অন্যতম প্রতিচ্ছবি হলো-",
+        "answers": [
+            {"text": "A. সুশাসন", "score": 0},
+            {"text": "B. রাষ্ট্র", "score": 0},
+            {"text": "C. নৈতিকতা", "score": 1},
+            {"text": "D. সমাজ", "score": 0}
+        ],
+        "correct_answer": "C. নৈতিকতা",
+        "hint": "সভ্যতার প্রতিচ্ছবি হলো নৈতিকতা।"
+    },
+    {
+        "question": "94. সুশাসন চারটি স্তম্ভের ওপর নির্ভরশীল- এই অভিমত কোন সংস্থা প্রকাশ করে?",
+        "answers": [
+            {"text": "A. জাতিসংঘ", "score": 0},
+            {"text": "B. জাতিসংঘ উন্নয়ন কর্মসূচি", "score": 1},
+            {"text": "C. বিশ্বব্যাংক", "score": 0},
+            {"text": "D. এশিয়া উন্নয়ন ব্যাংক", "score": 0}
+        ],
+        "correct_answer": "B. জাতিসংঘ উন্নয়ন কর্মসূচি",
+        "hint": "জাতিসংঘ উন্নয়ন কর্মসূচি সুশাসনের ওপর এই অভিমত প্রকাশ করে।"
+    },
+    {
+        "question": "95. Political Ideals- গ্রন্থের লেখক কে?",
+        "answers": [
+            {"text": "A. মেকিয়াভেলি", "score": 0},
+            {"text": "B. রাসেল", "score": 0},
+            {"text": "C. প্লেটো", "score": 1},
+            {"text": "D. এরিস্টটল", "score": 0}
+        ],
+        "correct_answer": "C. প্লেটো",
+        "hint": "Political Ideals গ্রন্থের লেখক হলো প্লেটো।"
+    },
+    {
+        "question": "96. গণপ্রজাতন্ত্রী বাংলাদেশের সংবিধানের কোন অনুচ্ছেদে জনস্বাস্থ্য ও নৈতিকতার বিষয়টি আলোচিত হয়েছে?",
+        "answers": [
+            {"text": "A. অনুচ্ছেদ ১৩", "score": 0},
+            {"text": "B. অনুচ্ছেদ ১৮", "score": 1},
+            {"text": "C. অনুচ্ছেদ ২০", "score": 0},
+            {"text": "D. অনুচ্ছেদ ২৫", "score": 0}
+        ],
+        "correct_answer": "B. অনুচ্ছেদ ১৮",
+        "hint": "জনস্বাস্থ্য ও নৈতিকতার বিষয়টি আলোচিত হয়েছে অনুচ্ছেদ ১৮ তে।"
+    },
+    {
+        "question": "97. মূল্যবোধের গুরুত্বপূর্ণ বৈশিষ্ট্য হলো-",
+        "answers": [
+            {"text": "A. বিভিন্নতা", "score": 0},
+            {"text": "B. পরিবর্তনশীলতা", "score": 0},
+            {"text": "C. আপেক্ষিকতা", "score": 0},
+            {"text": "D. উপরের সবগুলো", "score": 1}
+        ],
+        "correct_answer": "D. উপরের সবগুলো",
+        "hint": "মূল্যবোধের বৈশিষ্ট্যগুলো হলো বিভিন্নতা, পরিবর্তনশীলতা, আপেক্ষিকতা।"
+    },
+    {
+        "question": "98. প্লেটো ‘সদগুণ’ বলতে বুঝিয়েছেন-",
+        "answers": [
+            {"text": "A. প্রজ্ঞা, সাহস, আত্মনিয়ন্ত্রণ ও ন্যায়", "score": 1},
+            {"text": "B. আত্মপ্রত্যয়, প্রেষণা ও নিয়ন্ত্রণ", "score": 0},
+            {"text": "C. সুখ, ভালোত্ব ও প্রেম", "score": 0},
+            {"text": "D. প্রজ্ঞা, আত্মনিয়ন্ত্রণ ও সুখ ও ন্যায়", "score": 0}
+        ],
+        "correct_answer": "A. প্রজ্ঞা, সাহস, আত্মনিয়ন্ত্রণ ও ন্যায়",
+        "hint": "সদগুণ গুলো তিনি এই চারটি হিসেবে বর্ণনা করেছেন।"
+    },
+    {
+        "question": "99. মূল্যবোধ দৃঢ় হয়-",
+        "answers": [
+            {"text": "A. শিক্ষার মাধ্যমে", "score": 1},
+            {"text": "B. সুশাসনের মাধ্যমে", "score": 0},
+            {"text": "C. ধর্মের মাধ্যমে", "score": 0},
+            {"text": "D. গণতন্ত্র চর্চার মাধ্যমে", "score": 0}
+        ],
+        "correct_answer": "A. শিক্ষার মাধ্যমে",
+        "hint": "মূল্যবোধ শিক্ষার মাধ্যমে বৃদ্ধি পায়।"
+    },
+    {
+        "question": "100. ‘রাষ্ট্রের সকল ক্ষেত্রে উন্নয়নের জন্য সুশাসন আবশ্যক।’- কে এই উক্তি করেন?",
+        "answers": [
+            {"text": "A. এইচ.ডি. স্টেইন", "score": 0},
+            {"text": "B. জন স্মিথ", "score": 0},
+            {"text": "C. মিশেল ক্যামডেসাস", "score": 0},
+            {"text": "D. এম.ডব্লিউ. পামফ্রে", "score": 1}
+        ],
+        "correct_answer": "D. এম.ডব্লিউ. পামফ্রে",
+        "hint": "এম.ডব্লিউ. পামফ্রে সুশাসনের উপর এই উক্তি করেছেন।"
+    }
+,
+
+    {
+        "question": "101. বাংলা ভাষায় প্রথম অভিধান সংকলন করেন কে?",
+        "answers": [
+            {"text": "A. রামচন্দ্র বিদ্যাবাগীশ", "score": 1},
+            {"text": "B. রাজশেখর বসু", "score": 0},
+            {"text": "C. হরিচরণ দে", "score": 0},
+            {"text": "D. অশোক মুখোপাধ্যায়", "score": 0}
+        ],
+        "correct_answer": "A. রামচন্দ্র বিদ্যাবাগীশ",
+        "hint": "তিনি প্রথম বাংলা-বাংলা অভিধান 'বঙ্গভাষাভিধান' রচনা করেন।"
+    },
+    {
+        "question": "102. সবচেয়ে কম বয়সে কোন লেখক বাংলা একাডেমি পুরস্কার পান?",
+        "answers": [
+            {"text": "A. শওকত আলী", "score": 0},
+            {"text": "B. সেলিনা হোসেন", "score": 0},
+            {"text": "C. আখতারুজ্জামান ইলিয়াস", "score": 0},
+            {"text": "D. সৈয়দ শামসুল হক", "score": 1}
+        ],
+        "correct_answer": "D. সৈয়দ শামসুল হক",
+        "hint": "তিনি ২৯ বছর বয়সে বাংলা একাডেমি পুরস্কার লাভ করেন।"
+    },
+    {
+        "question": "103. ‘সবকিছু নষ্টদের অধিকারে যাবে’ গ্রন্থটির রচয়িতা কে?",
+        "answers": [
+            {"text": "A. সৈয়দ আলী আহসান", "score": 0},
+            {"text": "B. সুকান্ত ভট্টাচার্য", "score": 0},
+            {"text": "C. হুমায়ুন আজাদ", "score": 1},
+            {"text": "D. নির্মলেন্দু গুণ", "score": 0}
+        ],
+        "correct_answer": "C. হুমায়ুন আজাদ",
+        "hint": "'সবকিছু নষ্টদের অধিকারে যাবে' হুমায়ুন আজাদ এর কাব্যগ্রন্থ।"
+    },
+    {
+        "question": "104. ১৯৭১ সালে ঢাকা বিশ্ববিদ্যালয়ের ছাত্রমৃত্যুর প্রতিবাদে কোন উপাচার্য পদত্যাগ করেছিলেন?",
+        "answers": [
+            {"text": "A. স্যার এ.এফ. রহমান", "score": 0},
+            {"text": "B. রমেশচন্দ্র মজুমদার", "score": 0},
+            {"text": "C. সৈয়দ সাজ্জাদ হোসায়েন", "score": 0},
+            {"text": "D. বিচারপতি আবু সাঈদ চৌধুরী", "score": 1}
+        ],
+        "correct_answer": "D. বিচারপতি আবু সাঈদ চৌধুরী",
+        "hint": "তিনি ছাত্রমৃত্যুর প্রতিবাদে পদত্যাগ করেন।"
+    },
+    {
+        "question": "105. তেভাগা আন্দোলনকেন্দ্রিক উপন্যাস কোনটি?",
+        "answers": [
+            {"text": "A. অক্টোপাস", "score": 0},
+            {"text": "B. কালো বরফ", "score": 0},
+            {"text": "C. ক্রীতদাসের হাসি", "score": 0},
+            {"text": "D. নাঢ়াই", "score": 1}
+        ],
+        "correct_answer": "D. নাঢ়াই",
+        "hint": "'নাঢ়াই' উপন্যাসে তেভাগা আন্দোলনের চিত্র ফুটে উঠেছে।"
+    },
+    {
+        "question": "106. কাজী নজরুল ইসলামের মোট ৫টি গ্রন্থ বিভিন্ন সময়ে ব্রিটিশ ঔপনিবেশিক সরকার বাজেয়াপ্ত করে। কোন বইটি প্রথম বাজেয়াপ্ত হয়?",
+        "answers": [
+            {"text": "A. বিষের বাঁশি", "score": 1},
+            {"text": "B. যুগবাণী", "score": 0},
+            {"text": "C. ভাঙার গান", "score": 0},
+            {"text": "D. প্রলয় শিখা", "score": 0}
+        ],
+        "correct_answer": "A. বিষের বাঁশি",
+        "hint": "'যুগবাণী' ছিল প্রথম নিষিদ্ধ গ্রন্থ।"
+    },
+    {
+        "question": "107. তারাশঙ্কর বন্দ্যোপাধ্যায় বাংলাদেশের মুক্তিযুদ্ধ চলাকালেই এই মুক্তিযুদ্ধ নিয়ে একটি উপন্যাস রচনা করেছেন, যা ১৯৭২ সালে প্রকাশিত হয়। উপন্যাসটির নাম কী?",
+        "answers": [
+            {"text": "A. চৈতালী ঘূর্ণি", "score": 0},
+            {"text": "B. রক্তের অক্ষর", "score": 0},
+            {"text": "C. বায়ান্ন বাজার তিপ্পান্ন গলি", "score": 0},
+            {"text": "D. ১৯৭১", "score": 1}
+        ],
+        "correct_answer": "D. ১৯৭১",
+        "hint": "'১৯৭১' মুক্তিযুদ্ধ নিয়ে তাফশঙ্কর বন্দ্যোপাধ্যায়ের উপন্যাস।"
+    },
+    {
+        "question": "108. ‘সোমত্ত’ শব্দটির উৎপত্তি কোন শব্দ থেকে?",
+        "answers": [
+            {"text": "A. সোপান", "score": 0},
+            {"text": "B. সমর্থ", "score": 1},
+            {"text": "C. সোল্লাস", "score": 0},
+            {"text": "D. সওয়ার", "score": 0}
+        ],
+        "correct_answer": "B. সমর্থ",
+        "hint": "'সোমত্ত' শব্দের উৎপত্তি 'সমর্থ' থেকে।"
+    },
+    {
+        "question": "109. মুক্তিযুদ্ধভিত্তিক নাটক কোনটি?",
+        "answers": [
+            {"text": "A. ছেঁড়াতার", "score": 1},
+            {"text": "B. চাকা", "score": 0},
+            {"text": "C. বাকী ইতিহাস", "score": 0},
+            {"text": "D. কী চাহ হে শঙ্খচিল", "score": 0}
+        ],
+        "correct_answer": "A. ছেঁড়াতার",
+        "hint": "'ছেঁড়াতার' মুক্তিযুদ্ধের ওপর ভিত্তি করে নাটক।"
+    },
+    {
+        "question": "110. নিঃশ্বাসের স্বল্পতম প্রয়াসে উচ্চারিত ধ্বনি বা ধ্বনিগুচ্ছকে কী বলে?",
+        "answers": [
+            {"text": "A. যৌগিক ধ্বনি", "score": 0},
+            {"text": "B. অক্ষর", "score": 1},
+            {"text": "C. বর্ণ", "score": 0},
+            {"text": "D. মৌলিক স্বরধ্বনি", "score": 0}
+        ],
+        "correct_answer": "B. অক্ষর",
+        "hint": "নিঃশ্বাসের স্বল্পতম প্রয়াসে সৃষ্টি হওয়া শব্দকে অক্ষর বলা হয়।"
+    },
+    {
+        "question": "111. ইংরেজি ভাষায় জীবনানন্দ দাশের ওপর গ্রন্থ লিখেছেন কে?",
+        "answers": [
+            {"text": "A. ডব্লিউ বি ইয়েটস", "score": 0},
+            {"text": "B. ক্লিনটন বি সিলি", "score": 1},
+            {"text": "C. অরুন্ধতী রায়", "score": 0},
+            {"text": "D. অমিতাভ ঘোষ", "score": 0}
+        ],
+        "correct_answer": "B. ক্লিনটন বি সিলি",
+        "hint": "জীবনানন্দ দাশের ওপর ইংরেজিতে ক্লিনটন বি সিলি লিখেছেন।"
+    },
+    {
+        "question": "112. ‘বাবা ছেলের দীর্ঘায়ু কামনা করলেন’- এই পরোক্ষ উক্তির প্রত্যক্ষরূপ হবে:",
+        "answers": [
+            {"text": "A. বাবা ছেলেকে বললেন, বাবা তুমি দীর্ঘজীবী হও", "score": 0},
+            {"text": "B. বাবা ছেলেকে বললেন যে, তোমার দীর্ঘায়ু হোক", "score": 0},
+            {"text": "C. বাবা ছেলেকে বললেন, ‘তুমি দীর্ঘজীবী হও’", "score": 1},
+            {"text": "D. বাবা ছেলেকে বললেন যে, আমি তোমার দীর্ঘায়ু কামনা করি", "score": 0}
+        ],
+        "correct_answer": "C. বাবা ছেলেকে বললেন, ‘তুমি দীর্ঘজীবী হও’",
+        "hint": "প্রত্যক্ষ উক্তিতে বক্তার বক্তব্য উদ্ধৃত হয়।"
+    },
+    {
+        "question": "113. ‘গ্রামবার্ত্তা প্রকাশিকা’ পত্রিকাটি কোন স্থান থেকে প্রকাশিত?",
+        "answers": [
+            {"text": "A. ঢাকার পল্টন", "score": 0},
+            {"text": "B. নওগাঁর পতিসর", "score": 0},
+            {"text": "C. কুষ্টিয়ার কুমারখালী", "score": 1},
+            {"text": "D. ময়মনসিংহের ত্রিশাল", "score": 0}
+        ],
+        "correct_answer": "C. কুষ্টিয়ার কুমারখালী",
+        "hint": "'গ্রামবার্ত্তা প্রকাশিকা' কুষ্টিয়ার কুমারখালী থেকে প্রকাশিত হয়েছে।"
+    },
+    {
+        "question": "114. জীবন সাহিত্যের ধারা গড়ে ওঠে কাকে কেন্দ্র করে?",
+        "answers": [
+            {"text": "A. শ্রীচৈতন্যদেব", "score": 1},
+            {"text": "B. কাহ্নপা", "score": 0},
+            {"text": "C. বিদ্যাপতি", "score": 0},
+            {"text": "D. রামকৃষ্ণ পরমহংসদেব", "score": 0}
+        ],
+        "correct_answer": "A. শ্রীচৈতন্যদেব",
+        "hint": "শ্রীচৈতন্যদেবের জীবন কাহিনি নিয়ে জীবনী সাহিত্যের সূচনা হয়েছে।"
+    },
+    {
+        "question": "115. ‘পরানের গহীন ভিতর’ কাব্যের কবি কে?",
+        "answers": [
+            {"text": "A. অসীম সাহা", "score": 0},
+            {"text": "B. অরুণ বসু", "score": 0},
+            {"text": "C. আবু জাফর ওবায়দুল্লাহ", "score": 0},
+            {"text": "D. সৈয়দ শামসুল হক", "score": 1}
+        ],
+        "correct_answer": "D. সৈয়দ শামসুল হক",
+        "hint": "'পরানের গহীন ভিতর' সৈয়দ শামসুল হক এর কাব্যগ্রন্থ।"
+    },
+    {
+        "question": "116. ‘এবার আমার একটি বিচিত্র অভিজ্ঞতা হলো’- এ বাক্য কোন ধরনের?",
+        "answers": [
+            {"text": "A. অনুজ্ঞাবাচক", "score": 0},
+            {"text": "B. নির্দেশাত্মক", "score": 0},
+            {"text": "C. বিস্ময়বোধক", "score": 1},
+            {"text": "D. প্রশ্নবোধক", "score": 0}
+        ],
+        "correct_answer": "C. বিস্ময়বোধক",
+        "hint": "এটি বিস্ময়ের প্রকাশ করে।"
+    },
+    {
+        "question": "117. ভাষা আন্দোলন নিয়ে লেখা কবিতা কোনটি?",
+        "answers": [
+            {"text": "A. হুলিয়া", "score": 0},
+            {"text": "B. তোমাকে অভিবাদন প্রিয়া", "score": 0},
+            {"text": "C. সোনালি কাবিন", "score": 0},
+            {"text": "D. স্মৃতিস্তম্ভ", "score": 1}
+        ],
+        "correct_answer": "D. স্মৃতিস্তম্ভ",
+        "hint": "'স্মৃতিস্তম্ভ' ভাষা আন্দোলন নিয়ে লেখা।"
+    },
+    {
+        "question": "118. ধ্বনিতত্ত্ব ও শব্দতত্ত্বকে বাক্যে যথাযথভাবে ব্যবহার করার বিধানের নামই-",
+        "answers": [
+            {"text": "A. রসতত্ত্ব", "score": 0},
+            {"text": "B. রূপতত্ত্ব", "score": 0},
+            {"text": "C. বাক্যতত্ত্ব", "score": 1},
+            {"text": "D. ক্রিয়ার কাল", "score": 0}
+        ],
+        "correct_answer": "C. বাক্যতত্ত্ব",
+        "hint": "'বাক্যতত্ত্ব' হলো ভাষার বিধান।"
+    },
+    {
+        "question": "119. কোন বানানটি শুদ্ধ?",
+        "answers": [
+            {"text": "A. মনোকষ্ট", "score": 0},
+            {"text": "B. মনঃকষ্ট", "score": 1},
+            {"text": "C. মণকষ্ট", "score": 0},
+            {"text": "D. মনকস্ট", "score": 0}
+        ],
+        "correct_answer": "B. মনঃকষ্ট",
+        "hint": "'মনঃকষ্ট' হলো শুদ্ধ বানান।"
+    },
+    {
+        "question": "120. প্রচুর + য = প্রাচুর্য, কোন প্রত্যয়?",
+        "answers": [
+            {"text": "A. কৃৎ প্রত্যয়", "score": 0},
+            {"text": "B. তদ্ধিত প্রত্যয়", "score": 1},
+            {"text": "C. বাংলা কৃৎ প্রত্যয়", "score": 0},
+            {"text": "D. সংস্কৃত কৃৎ প্রত্যয়", "score": 0}
+        ],
+        "correct_answer": "B. তদ্ধিত প্রত্যয়",
+        "hint": "'য' হচ্ছে একটি তদ্ধিত প্রত্যয়।"
+    },
+    {
+        "question": "121. ব্যঞ্জন ধ্বনির সংক্ষিপ্ত রূপকে বলে-",
+        "answers": [
+            {"text": "A. রেফ", "score": 0},
+            {"text": "B. হসন্ত", "score": 1},
+            {"text": "C. কার", "score": 0},
+            {"text": "D. ফলা", "score": 0}
+        ],
+        "correct_answer": "B. হসন্ত",
+        "hint": "ব্যঞ্জন ধ্বনির সংক্ষিপ্ত রূপ হলো হসন্ত।"
+    },
+    {
+        "question": "122. পাঁচালিকার হিসেবে সর্বাধিক খ্যাতি কার ছিল?",
+        "answers": [
+            {"text": "A. দাশরথি রায়", "score": 1},
+            {"text": "B. রামনিধি গুপ্ত", "score": 0},
+            {"text": "C. ফকির গরীবুল্লাহ", "score": 0},
+            {"text": "D. রামরাম বসু", "score": 0}
+        ],
+        "correct_answer": "A. দাশরথি রায়",
+        "hint": "পাঁচালিকার জন্য দাশরথি রায়ের খ্যাতি রয়েছে।"
+    },
+    {
+        "question": "123. চারণকবি হিসেবে বিখ্যাত কে?",
+        "answers": [
+            {"text": "A. আলাওল", "score": 0},
+            {"text": "B. চন্দ্রাবতী", "score": 0},
+            {"text": "C. মুকুন্দদাস", "score": 0},
+            {"text": "D. মুক্তারাম চক্রবর্তী", "score": 1}
+        ],
+        "correct_answer": "D. মুক্তারাম চক্রবর্তী",
+        "hint": "চারণকবির মধ্যে মুক্তারাম চক্রবর্তী বিখ্যাত।"
+    },
+    {
+        "question": "124. রবীন্দ্রনাথ ঠাকুরের ‘নষ্টনীড়’ গল্পের একটি বিখ্যাত চরিত্র-",
+        "answers": [
+            {"text": "A. বিনোদিনী", "score": 1},
+            {"text": "B. হৈমন্তী", "score": 0},
+            {"text": "C. আশালতা", "score": 0},
+            {"text": "D. চারুলতা", "score": 0}
+        ],
+        "correct_answer": "A. বিনোদিনী",
+        "hint": "নষ্টনীড়ের বিখ্যাত চরিত্র হলো বিনোদিনী।"
+    },
+    {
+        "question": "125. উপমান কর্মধারয় সমাসের উদাহরণ কোনটি?",
+        "answers": [
+            {"text": "A. শশব্যস্ত", "score": 1},
+            {"text": "B. কালচক্র", "score": 0},
+            {"text": "C. পরাণপাখি", "score": 0},
+            {"text": "D. বহুব্রীহি", "score": 0}
+        ],
+        "correct_answer": "A. শশব্যস্ত",
+        "hint": "'শশব্যস্ত' উপমান কর্মধারয় সমাস।"
+    },
+    {
+        "question": "126. অপিনিহিতির উদাহরণ কোনটি?",
+        "answers": [
+            {"text": "A. জন্ম-জম্ম", "score": 1},
+            {"text": "B. আজ > আইজ", "score": 0},
+            {"text": "C. ডেস্ক > ডেসক", "score": 0},
+            {"text": "D. অলাবু > লাবু > লাউ", "score": 0}
+        ],
+        "correct_answer": "A. জন্ম-জম্ম",
+        "hint": "অপিনিহিতির উদাহরণ হলো জন্ম-জম্ম।"
+    },
+    {
+        "question": "127. ‘কুসীদজীবী’ বলতে কাদের বুঝায়?",
+        "answers": [
+            {"text": "A. চারণকবি", "score": 0},
+            {"text": "B. সাপুড়ে", "score": 1},
+            {"text": "C. Sudhkor", "score": 0},
+            {"text": "D. কৃষিজীবী", "score": 0}
+        ],
+        "correct_answer": "B. সাপুড়ে",
+        "hint": "'কুসীদজীবী' বলতে সুদ খোরকে বুঝায়।"
+    },
+    {
+        "question": "128. ‘অভাব’ অর্থে ব্যবহৃত হয়েছে কোন উপসর্গটি?",
+        "answers": [
+            {"text": "A. অকাজ", "score": 0},
+            {"text": "B. আবছায়া", "score": 1},
+            {"text": "C. আলুমি", "score": 0},
+            {"text": "D. নিখুঁত", "score": 0}
+        ],
+        "correct_answer": "B. আবছায়া",
+        "hint": "'আবছায়া' উপসর্গ অর্থে ব্যবহার হয়েছে।"
+    },
+    {
+        "question": "129. চর্যাপদের টীকাকারের নাম কী?",
+        "answers": [
+            {"text": "A. মীননাথ", "score": 0},
+            {"text": "B. প্রবোধচন্দ্র বাগচী", "score": 0},
+            {"text": "C. হরপ্রসাদ শাস্ত্রী", "score": 0},
+            {"text": "D. মুনিদত্ত", "score": 1}
+        ],
+        "correct_answer": "D. মুনিদত্ত",
+        "hint": "চর্যাপদের টীকাকার হলো মুনিদত্ত।"
+    },
+    {
+        "question": "130. কোন বানানটি শুদ্ধ?",
+        "answers": [
+            {"text": "A. পুরষ্কার", "score": 0},
+            {"text": "B. আবিস্কার", "score": 0},
+            {"text": "C. সময়পোযোগী", "score": 1},
+            {"text": "D. স্বত্ব", "score": 0}
+        ],
+        "correct_answer": "C. সময়পোযোগী",
+        "hint": "'সময়পোযোগী' বানানটি শুদ্ধ।"
+    },
+    {
+        "question": "131. ঐতিহাসিক ‘ছয়দফা দাবিতে’ যে বিষয়টি অন্তর্ভুক্ত ছিল না-",
+        "answers": [
+            {"text": "A. শাসনতান্ত্রিক কাঠামো", "score": 0},
+            {"text": "B. কেন্দ্রীয় সরকারের ক্ষমতা", "score": 0},
+            {"text": "C. স্বতন্ত্র মুদ্রা ব্যবস্থা", "score": 1},
+            {"text": "D. বিচার ব্যবস্থা", "score": 0}
+        ],
+        "correct_answer": "C. স্বতন্ত্র মুদ্রা ব্যবস্থা",
+        "hint": "ছয়দফায় স্বতন্ত্র মুদ্রা ব্যবস্থা অন্তর্ভুক্ত ছিল না।"
+    },
+    {
+        "question": "132. বাংলার কোন সুলতানের শাসনামলকে স্বর্ণযুগ বলা হয়?",
+        "answers": [
+            {"text": "A. শামসুদ্দীন ইলিয়াস শাহ", "score": 0},
+            {"text": "B. নাসিরুদ্দীন মাহমুদ শাহ", "score": 0},
+            {"text": "C. আলাউদ্দিন হোসেন শাহ", "score": 1},
+            {"text": "D. গিয়াসউদ্দিন আজম শাহ", "score": 0}
+        ],
+        "correct_answer": "C. আলাউদ্দিন হোসেন শাহ",
+        "hint": "আলাউদ্দিন হোসেন শাহের শাসনকাল স্বর্ণযুগ বলা হয়।"
+    },
+    {
+        "question": "133. ঢাকা বিশ্ববিদ্যালয় প্রতিষ্ঠায় কে অগ্রণী ভূমিকা পালন করেন?",
+        "answers": [
+            {"text": "A. নওয়াব আবদুল লতিফ", "score": 0},
+            {"text": "B. স্যার সৈয়দ আহমেদ", "score": 0},
+            {"text": "C. নওয়াব স্যার সলিমুল্লাহ", "score": 1},
+            {"text": "D. খাজা নাজিমুদ্দিন", "score": 0}
+        ],
+        "correct_answer": "C. নওয়াব স্যার সলিমুল্লাহ",
+        "hint": "ঢাকা বিশ্ববিদ্যালয় প্রতিষ্ঠায় স্যার সলিমুল্লাহ অগ্রণী ভূমিকা পালন করেন।"
+    },
+    {
+        "question": "134. ভাষা আন্দোলনের সময় পাকিস্তানের প্রধানমন্ত্রী কে ছিলেন?",
+        "answers": [
+            {"text": "A. খাজা নাজিম উদ্দীন", "score": 1},
+            {"text": "B. নুরুল আমিন", "score": 0},
+            {"text": "C. লিয়াকত আলী খান", "score": 0},
+            {"text": "D. মোহাম্মদ আলী জিন্নাহ", "score": 0}
+        ],
+        "correct_answer": "A. খাজা নাজিম উদ্দীন",
+        "hint": "ভাষা আন্দোলনের সময় পাকিস্তানের প্রধানমন্ত্রী ছিলেন খাজা নাজিম উদ্দীন।"
+    },
+    {
+        "question": "135. আলুটিলা প্রাকৃতিক গুহা কোথায় অবস্থিত?",
+        "answers": [
+            {"text": "A. খাগড়াছড়ি জেলায়", "score": 1},
+            {"text": "B. রাঙ্গামাটি জেলায়", "score": 0},
+            {"text": "C. বান্দরবান জেলায়", "score": 0},
+            {"text": "D. কক্সবাজার জেলায়", "score": 0}
+        ],
+        "correct_answer": "A. খাগড়াছড়ি জেলায়",
+        "hint": "আলুটিলা প্রাকৃতিক গুহা বাংলাদেশের খাগড়াছড়ি জেলায় অবস্থিত।"
+    },
+    {
+        "question": "136. বাংলায় সেন বংশের (১০৭০-১২৩০ খ্রিষ্টাব্দ) শেষ শাসনকর্তা কে ছিলেন?",
+        "answers": [
+            {"text": "A. হেমন্ত সেন", "score": 0},
+            {"text": "B. বল্লাল সেন", "score": 0},
+            {"text": "C. লক্ষণ সেন", "score": 1},
+            {"text": "D. কেশব সেন", "score": 0}
+        ],
+        "correct_answer": "C. লক্ষণ সেন",
+        "hint": "সেন বংশের শেষ শাসনকর্তা ছিলেন লক্ষণ সেন।"
+    },
+    {
+        "question": "137. বাংলার সর্বপ্রাচীন জনপদের নাম কী?",
+        "answers": [
+            {"text": "A. পুণ্ড্র", "score": 1},
+            {"text": "B. তাম্রলিপ্তি", "score": 0},
+            {"text": "C. গৌড়", "score": 0},
+            {"text": "D. হরিকেল", "score": 0}
+        ],
+        "correct_answer": "A. পুণ্ড্র",
+        "hint": "পুণ্ড্রই হলো বাংলার সর্বপ্রাচীন জনপদ।"
+    },
+    {
+        "question": "138. কাগমারী সম্মেলন অনুষ্ঠিত হয়-",
+        "answers": [
+            {"text": "A. রোজ গার্ডেনে", "score": 0},
+            {"text": "B. সিরাজগঞ্জে", "score": 0},
+            {"text": "C. সন্তোষে", "score": 1},
+            {"text": "D. সুনামগঞ্জে", "score": 0}
+        ],
+        "correct_answer": "C. সন্তোষে",
+        "hint": "কাগমারী সম্মেলন অনুষ্ঠিত হয়েছিল সন্তোষে।"
+    },
+    {
+        "question": "139. মুক্তিযুদ্ধকালে কোলকাতার ৮, থিয়েটার রোডে ‘বাংলাদেশ বাহিনী’ কখন গঠন করা হয়?",
+        "answers": [
+            {"text": "A. এপ্রিল ১০, ১৯৭১", "score": 0},
+            {"text": "B. এপ্রিল ১১, ১৯৭১", "score": 1},
+            {"text": "C. এপ্রিল ১২, ১৯৭১", "score": 0},
+            {"text": "D. এপ্রিল ১৩, ১৯৭১", "score": 0}
+        ],
+        "correct_answer": "B. এপ্রিল ১১, ১৯৭১",
+        "hint": "বাংলাদেশ বাহিনী পুনর্গঠন করা হয় ১১ এপ্রিল ১৯৭১।"
+    },
+    {
+        "question": "140. কোন অনুচ্ছেদ বলে বাংলাদেশের সংবিধানের মৌলিক বিধানাবলী পরিবর্তনযোগ্য নয়?",
+        "answers": [
+            {"text": "A. অনুচ্ছেদ ৭", "score": 0},
+            {"text": "B. অনুচ্ছেদ ৭ (ক)", "score": 1},
+            {"text": "C. অনুচ্ছেদ ৭ (খ)", "score": 0},
+            {"text": "D. অনুচ্ছেদ ৮", "score": 0}
+        ],
+        "correct_answer": "B. অনুচ্ছেদ ৭ (ক)",
+        "hint": "মৌলিক বিধানাবলী পরিবর্তনযোগ্য নয়, তা অনুচ্ছেদ ৭ অনুযায়ী।"
+    },
+    {
+        "question": "141. বাংলাদেশের সংবিধানের এয়োদশ সংশোধনীর মূল বিষয় কি ছিল?",
+        "answers": [
+            {"text": "A. বহুদলীয় ব্যবস্থা", "score": 0},
+            {"text": "B. বাকশাল প্রতিষ্ঠা", "score": 0},
+            {"text": "C. তত্ত্বাবধায়ক সরকার", "score": 1},
+            {"text": "D. সংসদে মহিলা আসন", "score": 0}
+        ],
+        "correct_answer": "C. তত্ত্বাবধায়ক সরকার",
+        "hint": "ত্রয়োদশ সংশোধনী হলো নিরপেক্ষ-নির্দলীয় তত্ত্বাবধায়ক সরকার ব্যবস্থা।"
+    },
+    {
+        "question": "142. সংবিধানের চেতনার বিপরীতে সামরিক শাসনকে বৈধতা দিতে কোন তফসিলের অপব্যবহার করা হয়?",
+        "answers": [
+            {"text": "A. ৪র্থ তফসিল", "score": 1},
+            {"text": "B. ৫ম তফসিল", "score": 0},
+            {"text": "C. ৬ষ্ঠ তফসিল", "score": 0},
+            {"text": "D. ৭ম তফসিল", "score": 0}
+        ],
+        "correct_answer": "A. ৪র্থ তফসিল",
+        "hint": "৪র্থ তফসিলের অপব্যবহার করে সামরিক শাসনকে বৈধতা দেওয়া হয়।"
+    },
+    {
+        "question": "143. কোন উপজাতিটির আবাসস্থল ‘বিরিশি’ নেত্রকোনায়?",
+        "answers": [
+            {"text": "A. সাঁওতাল", "score": 0},
+            {"text": "B. গারো", "score": 1},
+            {"text": "C. খাসিয়া", "score": 0},
+            {"text": "D. মুরং", "score": 0}
+        ],
+        "correct_answer": "B. গারো",
+        "hint": "গারো উপজাতির আবাসস্থল বিরিশিরি।"
+    },
+    {
+        "question": "144. বাংলাদেশে প্রথম সাধারণ নির্বাচন কখন অনুষ্ঠিত হয়?",
+        "answers": [
+            {"text": "A. ৭ মার্চ ১৯৭৩", "score": 1},
+            {"text": "B. ১৭ মার্চ ১৯৭৩", "score": 0},
+            {"text": "C. ২৭ মার্চ ১৯৭৩", "score": 0},
+            {"text": "D. ৭ মার্চ ১৯৭৪", "score": 0}
+        ],
+        "correct_answer": "A. ৭ মার্চ ১৯৭৩",
+        "hint": "বাংলাদেশের প্রথম সাধারণ নির্বাচন অনুষ্ঠিত হয় ৭ মার্চ ১৯৭৩।"
+    },
+    {
+        "question": "145. প্রান্তিক হ্রদ কোন জেলায় অবস্থিত?",
+        "answers": [
+            {"text": "A. রাঙ্গামাটি", "score": 0},
+            {"text": "B. খাগড়াছড়ি", "score": 0},
+            {"text": "C. বান্দরবান", "score": 1},
+            {"text": "D. সিলেট", "score": 0}
+        ],
+        "correct_answer": "C. বান্দরবান",
+        "hint": "প্রান্তিক হ্রদ বান্দরবান জেলায় অবস্থিত।"
+    },
+    {
+        "question": "146. লাহোরে অনুষ্ঠিত OIC শীর্ষ সম্মেলনে বঙ্গবন্ধু কবে যোগদান করেন?",
+        "answers": [
+            {"text": "A. ২০-২১ ফেব্রুয়ারি ১৯৭৪", "score": 0},
+            {"text": "B. ২৩-২৪ ফেব্রুয়ারি ১৯৭৪", "score": 1},
+            {"text": "C. ২৫-২৬ ফেব্রুয়ারি ১৯৭৪", "score": 0},
+            {"text": "D. ২৭-২৮ ফেব্রুয়ারি ১৯৭৪", "score": 0}
+        ],
+        "correct_answer": "B. ২৩-২৪ ফেব্রুয়ারি ১৯৭৪",
+        "hint": "বঙ্গবন্ধু OIC শীর্ষ সম্মেলনে ১৯৭৪ সালের ফেব্রুয়ারিতে যোগদান করেন।"
+    },
+    {
+        "question": "147. বাংলাদেশের জাতীয় সংসদের প্রথম সংসদ নেতা কে?",
+        "answers": [
+            {"text": "A. বঙ্গবন্ধু শেখ মুজিবুর রহমান", "score": 1},
+            {"text": "B. মোহাম্মদউল্লাহ", "score": 0},
+            {"text": "C. তাজউদ্দিন আহমদ", "score": 0},
+            {"text": "D. ক্যাপ্টেন এম মনসুর আলী", "score": 0}
+        ],
+        "correct_answer": "A. বঙ্গবন্ধু শেখ মুজিবুর রহমান",
+        "hint": "বাংলাদেশের প্রথম সংসদ নেতা ছিলেন বঙ্গবন্ধু শেখ মুজিবুর রহমান।"
+    },
+    {
+        "question": "148. সংবিধানের কোন অনুচ্ছেদে বাংলাদেশের বৈদেশিক নীতি পরিচালিত হয়?",
+        "answers": [
+            {"text": "A. অনুচ্ছেদ ২২", "score": 0},
+            {"text": "B. অনুচ্ছেদ ২৩", "score": 1},
+            {"text": "C. অনুচ্ছেদ ২৪", "score": 0},
+            {"text": "D. অনুচ্ছেদ ২৫", "score": 0}
+        ],
+        "correct_answer": "B. অনুচ্ছেদ ২৩",
+        "hint": "সংবিধানের ২৩ অনুচ্ছেদে বৈদেশিক নীতি আলোচনা করা হয়েছে।"
+    },
+    {
+        "question": "149. বাংলাদেশের সীমান্তবর্তী ভারতের রাজ্য কয়টি?",
+        "answers": [
+            {"text": "A. ৩টি", "score": 0},
+            {"text": "B. ৪টি", "score": 0},
+            {"text": "C. ৫টি", "score": 1},
+            {"text": "D. ৬টি", "score": 0}
+        ],
+        "correct_answer": "C. ৫টি",
+        "hint": "বাংলাদেশের সঙ্গে ভারতের ৫টি রাজ্যের সীমান্ত রয়েছে।"
+    },
+    {
+        "question": "150. কোন বীরশ্রেষ্ঠের দেহাবশেষ বাংলাদেশে এনে বীরশ্রেষ্ঠ মতিউর রহমানের কবরের পাশে সমাহিত করা হয়?",
+        "answers": [
+            {"text": "A. সিপাহী মোস্তফা কামাল", "score": 0},
+            {"text": "B. ল্যান্স নায়েক মুন্সী আব্দুর রহিম", "score": 0},
+            {"text": "C. ল্যান্স নায়েক নূর মোহাম্মদ শেখ", "score": 1},
+            {"text": "D. সিপাহী হামিদুর রহমান", "score": 0}
+        ],
+        "correct_answer": "C. ল্যান্স নায়েক নূর মোহাম্মদ শেখ",
+        "hint": "নূর মোহাম্মদ শেখের দেহাবশেষ বীরশ্রেষ্ঠ মতিউর রহমানের কবরের পাশে সমাহিত করা হয়।"
+    },
+    {
+        "question": "151. পাকিস্তান কবে বাংলাদেশকে একটি সার্বভৌম রাষ্ট্র হিসেবে স্বীকৃতি দেয়?",
+        "answers": [
+            {"text": "A. ফেব্রুয়ারি ২০, ১৯৭৪", "score": 0},
+            {"text": "B. ফেব্রুয়ারি ২১, ১৯৭৪", "score": 0},
+            {"text": "C. ফেব্রুয়ারি ২২, ১৯৭৪", "score": 1},
+            {"text": "D. ফেব্রুয়ারি ২৩, ১৯৭৪", "score": 0}
+        ],
+        "correct_answer": "C. ফেব্রুয়ারি ২২, ১৯৭৪",
+        "hint": "পাকিস্তান ২ ফেব্রুয়ারি ১৯৭৪ বাংলাদেশকে স্বীকৃতি দেয়।"
+    },
+    {
+        "question": "152. কে বীরশ্রেষ্ঠ নন?",
+        "answers": [
+            {"text": "A. হামিদুর রহমান", "score": 0},
+            {"text": "B. মোস্তফা কামাল", "score": 0},
+            {"text": "C. মুন্সী আব্দুর রহিম", "score": 1},
+            {"text": "D. নূর মোহাম্মদ শেখ", "score": 0}
+        ],
+        "correct_answer": "C. মুন্সী আব্দুর রহিম",
+        "hint": "মুন্সী আব্দুর রহিম বীরশ্রেষ্ঠ নয়।"
+    },
+    {
+        "question": "153. বাংলাদেশের প্রথম সাধারণ নির্বাচন কখন অনুষ্ঠিত হয়?",
+        "answers": [
+            {"text": "A. ৭ মার্চ ১৯৭৩", "score": 1},
+            {"text": "B. ১৭ মার্চ ১৯৭৩", "score": 0},
+            {"text": "C. ২৭ মার্চ ১৯৭৩", "score": 0},
+            {"text": "D. ৭ মার্চ ১৯৭৪", "score": 0}
+        ],
+        "correct_answer": "A. ৭ মার্চ ১৯৭৩",
+        "hint": "বাংলাদেশের প্রথম সাধারণ নির্বাচন অনুষ্ঠিত হয় ৭ মার্চ ১৯৭৩।"
+    },
+    {
+        "question": "154. প্রান্তিক হ্রদ কোন জেলায় অবস্থিত?",
+        "answers": [
+            {"text": "A. রাঙ্গামাটি", "score": 0},
+            {"text": "B. খাগড়াছড়ি", "score": 0},
+            {"text": "C. বান্দরবান", "score": 1},
+            {"text": "D. সিলেট", "score": 0}
+        ],
+        "correct_answer": "C. বান্দরবান",
+        "hint": "প্রান্তিক হ্রদ বান্দরবান জেলায় অবস্থিত।"
+    },
+    {
+        "question": "155. লাহোরে অনুষ্ঠিত OIC শীর্ষ সম্মেলনে বঙ্গবন্ধু কবে যোগদান করেন?",
+        "answers": [
+            {"text": "A. ২০-২১ ফেব্রুয়ারি ১৯৭৪", "score": 0},
+            {"text": "B. ২৩-২৪ ফেব্রুয়ারি ১৯৭৪", "score": 1},
+            {"text": "C. ২৫-২৬ ফেব্রুয়ারি ১৯৭৪", "score": 0},
+            {"text": "D. ২৭-২৮ ফেব্রুয়ারি ১৯৭৪", "score": 0}
+        ],
+        "correct_answer": "B. ২৩-২৪ ফেব্রুয়ারি ১৯৭৪",
+        "hint": "১৯৭৪-এর OIC সম্মেলনে বঙ্গবন্ধু যোগদান করেন।"
+    },
+    {
+        "question": "156. বাংলাদেশের জাতীয় সংসদের প্রথম সংসদ নেতা কে?",
+        "answers": [
+            {"text": "A. বঙ্গবন্ধু শেখ মুজিবুর রহমান", "score": 1},
+            {"text": "B. মোহাম্মদউল্লাহ", "score": 0},
+            {"text": "C. তাজউদ্দিন আহমদ", "score": 0},
+            {"text": "D. ক্যাপ্টেন এম মনসুর আলী", "score": 0}
+        ],
+        "correct_answer": "A. বঙ্গবন্ধু শেখ মুজিবুর রহমান",
+        "hint": "বাংলাদেশের প্রথম সংসদ নেতা ছিলেন বঙ্গবন্ধু।"
+    },
+    {
+        "question": "157. সংবিধানের কোন অনুচ্ছেদে বাংলাদেশের বৈদেশিক নীতি পরিচালিত হয়?",
+        "answers": [
+            {"text": "A. অনুচ্ছেদ ২২", "score": 0},
+            {"text": "B. অনুচ্ছেদ ২৩", "score": 1},
+            {"text": "C. অনুচ্ছেদ ২৪", "score": 0},
+            {"text": "D. অনুচ্ছেদ ২৫", "score": 0}
+        ],
+        "correct_answer": "B. অনুচ্ছেদ ২৩",
+        "hint": "অনুচ্ছেদ ২৩ অনুযায়ী বৈদেশিক নীতি পরিচালিত হয়।"
+    },
+    {
+        "question": "158. বাংলাদেশের সীমান্তবর্তী ভারতের রাজ্য কয়টি?",
+        "answers": [
+            {"text": "A. ৩টি", "score": 0},
+            {"text": "B. ৪টি", "score": 0},
+            {"text": "C. ৫টি", "score": 1},
+            {"text": "D. ৬টি", "score": 0}
+        ],
+        "correct_answer": "C. ৫টি",
+        "hint": "বাংলাদেশের সঙ্গে ভারতের ৫টি রাজ্যের সীমান্ত রয়েছে।"
+    },
+    {
+        "question": "159. কোন বীরশ্রেষ্ঠের দেহাবশেষ বাংলাদেশে এনে বীরশ্রেষ্ঠ মতিউর রহমানের কবরের পাশে সমাহিত করা হয়?",
+        "answers": [
+            {"text": "A. সিপাহী মোস্তফা কামাল", "score": 0},
+            {"text": "B. ল্যান্স নায়েক মুন্সী আব্দুর রহিম", "score": 0},
+            {"text": "C. ল্যান্স নায়েক নূর মোহাম্মদ শেখ", "score": 1},
+            {"text": "D. সিপাহী হামিদুর রহমান", "score": 0}
+        ],
+        "correct_answer": "C. ল্যান্স নায়েক নূর মোহাম্মদ শেখ",
+        "hint": "নূর মোহাম্মদ শেখের দেহাবশেষ মতিউর রহমানের কবরের পাশে সমাহিত।"
+    },
+    {
+        "question": "160. পাকিস্তান কবে বাংলাদেশকে একটি সার্বভৌম রাষ্ট্র হিসেবে স্বীকৃতি দেয়?",
+        "answers": [
+            {"text": "A. ফেব্রুয়ারি ২০, ১৯৭৪", "score": 0},
+            {"text": "B. ফেব্রুয়ারি ২১, ১৯৭৪", "score": 0},
+            {"text": "C. ফেব্রুয়ারি ২২, ১৯৭৪", "score": 1},
+            {"text": "D. ফেব্রুয়ারি ২৩, ১৯৭৪", "score": 0}
+        ],
+        "correct_answer": "C. ফেব্রুয়ারি ২২, ১৯৭৪",
+        "hint": "পাকিস্তান ১৯৭৪ সালের ২২ ফেব্রুয়ারি বাংলাদেশকে স্বীকৃতি দিয়েছে।"
+    },
+    {
+        "question": "161. কে বীরশ্রেষ্ঠ নন?",
+        "answers": [
+            {"text": "A. হামিদুর রহমান", "score": 0},
+            {"text": "B. মোস্তফা কামাল", "score": 0},
+            {"text": "C. মুন্সী আব্দুর রহিম", "score": 1},
+            {"text": "D. নূর মোহাম্মদ শেখ", "score": 0}
+        ],
+        "correct_answer": "C. মুন্সী আব্দুর রহিম",
+        "hint": "মুন্সী আব্দুর রহিম পরিচিত বীরশ্রেষ্ঠ নন।"
+    },
+    {
+        "question": "162. বাংলাদেশের প্রথম সাধারণ নির্বাচন কখন অনুষ্ঠিত হয়?",
+        "answers": [
+            {"text": "A. ৭ মার্চ ১৯৭৩", "score": 1},
+            {"text": "B. ১৭ মার্চ ১৯৭৩", "score": 0},
+            {"text": "C. ২৭ মার্চ ১৯৭৩", "score": 0},
+            {"text": "D. ৭ মার্চ ১৯৭৪", "score": 0}
+        ],
+        "correct_answer": "A. ৭ মার্চ ১৯৭৩",
+        "hint": "বাংলাদেশের প্রথম সাধারণ নির্বাচন ৭ মার্চ ১৯৭৩।"
+    },
+    {
+        "question": "163. প্রান্তিক হ্রদ কোন জেলায় অবস্থিত?",
+        "answers": [
+            {"text": "A. রাঙ্গামাটি", "score": 0},
+            {"text": "B. খাগড়াছড়ি", "score": 0},
+            {"text": "C. বান্দরবান", "score": 1},
+            {"text": "D. সিলেট", "score": 0}
+        ],
+        "correct_answer": "C. বান্দরবান",
+        "hint": "প্রান্তিক হ্রদ বান্দরবান জেলায় অবস্থিত।"
+    },
+    {
+        "question": "164. লাহোরে অনুষ্ঠিত OIC শীর্ষ সম্মেলনে বঙ্গবন্ধু কবে যোগদান করেন?",
+        "answers": [
+            {"text": "A. ২০-২১ ফেব্রুয়ারি ১৯৭৪", "score": 0},
+            {"text": "B. ২৩-২৪ ফেব্রুয়ারি ১৯৭৪", "score": 1},
+            {"text": "C. ২৫-২৬ ফেব্রুয়ারি ১৯৭৪", "score": 0},
+            {"text": "D. ২৭-২৮ ফেব্রুয়ারি ১৯৭৪", "score": 0}
+        ],
+        "correct_answer": "B. ২৩-২৪ ফেব্রুয়ারি ১৯৭৪",
+        "hint": "বঙ্গবন্ধু ভাষা আন্দোলনের সময় OIC সম্মেলনে যোগদান করেন।"
+    },
+    {
+        "question": "165. বাংলাদেশের জাতীয় সংসদের প্রথম সংসদ নেতা কে?",
+        "answers": [
+            {"text": "A. বঙ্গবন্ধু শেখ মুজিবুর রহমান", "score": 1},
+            {"text": "B. মোহাম্মদউল্লাহ", "score": 0},
+            {"text": "C. তাজউদ্দিন আহমদ", "score": 0},
+            {"text": "D. ক্যাপ্টেন এম মনসুর আলী", "score": 0}
+        ],
+        "correct_answer": "A. বঙ্গবন্ধু শেখ মুজিবুর রহমান",
+        "hint": "সংসদের প্রথম নেতা বঙ্গবন্ধু শেখ মুজিবুর রহমান।"
+    },
+    {
+        "question": "166. সংবিধানের কোন অনুচ্ছেদে বাংলাদেশের বৈদেশিক নীতি পরিচালিত হয়?",
+        "answers": [
+            {"text": "A. অনুচ্ছেদ ২২", "score": 0},
+            {"text": "B. অনুচ্ছেদ ২৩", "score": 1},
+            {"text": "C. অনুচ্ছেদ ২৪", "score": 0},
+            {"text": "D. অনুচ্ছেদ ২৫", "score": 0}
+        ],
+        "correct_answer": "B. অনুচ্ছেদ ২৩",
+        "hint": "বৈদেশিক নীতি পরিচালনার জন্য অনুচ্ছেদ ২৩ গুরুত্বপূর্ণ।"
+    },
+    {
+        "question": "167. বাংলাদেশের সীমান্তবর্তী ভারতের রাজ্য কয়টি?",
+        "answers": [
+            {"text": "A. ৩টি", "score": 0},
+            {"text": "B. ৪টি", "score": 0},
+            {"text": "C. ৫টি", "score": 1},
+            {"text": "D. ৬টি", "score": 0}
+        ],
+        "correct_answer": "C. ৫টি",
+        "hint": "বাংলাদেশের সীমান্তবর্তী ৫টি রাজ্য রয়েছে।"
+    },
+    {
+        "question": "168. কোন বীরশ্রেষ্ঠের দেহাবশেষ বাংলাদেশে এনে বীরশ্রেষ্ঠ মতিউর রহমানের কবরের পাশে সমাহিত করা হয়?",
+        "answers": [
+            {"text": "A. সিপাহী মোস্তফা কামাল", "score": 0},
+            {"text": "B. ল্যান্স নায়েক মুন্সী আব্দুর রহিম", "score": 0},
+            {"text": "C. ল্যান্স নায়েক নূর মোহাম্মদ শেখ", "score": 1},
+            {"text": "D. সিপাহী হামিদুর রহমান", "score": 0}
+        ],
+        "correct_answer": "C. ল্যান্স নায়েক নূর মোহাম্মদ শেখ",
+        "hint": "নূর মোহাম্মদ শেখের দেহাবশেষ সমাহিত করা হয় মতিউর রহমানের পাশে।"
+    },
+    {
+        "question": "169. পাকিস্তান কবে বাংলাদেশকে একটি সার্বভৌম রাষ্ট্র হিসেবে স্বীকৃতি দেয়?",
+        "answers": [
+            {"text": "A. ফেব্রুয়ারি ২০, ১৯৭৪", "score": 0},
+            {"text": "B. ফেব্রুয়ারি ২১, ১৯৭৪", "score": 0},
+            {"text": "C. ফেব্রুয়ারি ২২, ১৯৭৪", "score": 1},
+            {"text": "D. ফেব্রুয়ারি ২৩, ১৯৭৪", "score": 0}
+        ],
+        "correct_answer": "C. ফেব্রুয়ারি ২২, ১৯৭৪",
+        "hint": "পাকিস্তান ১৯৭৪ সালের ফেব্রুয়ারি ২২ বাংলাদেশকে স্বীকৃতি দেয়।"
+    },
+    {
+        "question": "170. কে বীরশ্রেষ্ঠ নন?",
+        "answers": [
+            {"text": "A. হামিদুর রহমান", "score": 0},
+            {"text": "B. মোস্তফা কামাল", "score": 0},
+            {"text": "C. মুন্সী আব্দুর রহিম", "score": 1},
+            {"text": "D. নূর মোহাম্মদ শেখ", "score": 0}
+        ],
+        "correct_answer": "C. মুন্সী আব্দুর রহিম",
+        "hint": "মুন্সী আব্দুর রহিম ছিলেন বীরশ্রেষ্ঠ নয়।"
+    },
+    {
+        "question": "171. বাংলাদেশের প্রথম সাধারণ নির্বাচন কখন অনুষ্ঠিত হয়?",
+        "answers": [
+            {"text": "A. ৭ মার্চ ১৯৭৩", "score": 1},
+            {"text": "B. ১৭ মার্চ ১৯৭৩", "score": 0},
+            {"text": "C. ২৭ মার্চ ১৯৭৩", "score": 0},
+            {"text": "D. ৭ মার্চ ১৯৭৪", "score": 0}
+        ],
+        "correct_answer": "A. ৭ মার্চ ১৯৭৩",
+        "hint": "বাংলাদেশের প্রথম নির্বাচনের তারিখ ৭ মার্চ ১৯৭৩।"
+    },
+    {
+        "question": "172. প্রান্তিক হ্রদ কোন জেলায় অবস্থিত?",
+        "answers": [
+            {"text": "A. রাঙ্গামাটি", "score": 0},
+            {"text": "B. খাগড়াছড়ি", "score": 0},
+            {"text": "C. বান্দরবান", "score": 1},
+            {"text": "D. সিলেট", "score": 0}
+        ],
+        "correct_answer": "C. বান্দরবান",
+        "hint": "প্রান্তিক হ্রদ বান্দরবান জেলার অংশ।"
+    },
+    {
+        "question": "173. লাহোরে অনুষ্ঠিত OIC শীর্ষ সম্মেলনে বঙ্গবন্ধু কবে যোগদান করেন?",
+        "answers": [
+            {"text": "A. ২০-২১ ফেব্রুয়ারি ১৯৭৪", "score": 0},
+            {"text": "B. ২৩-২৪ ফেব্রুয়ারি ১৯৭৪", "score": 1},
+            {"text": "C. ২৫-২৬ ফেব্রুয়ারি ১৯৭৪", "score": 0},
+            {"text": "D. ২৭-২৮ ফেব্রুয়ারি ১৯৭৪", "score": 0}
+        ],
+        "correct_answer": "B. ২৩-২৪ ফেব্রুয়ারি ১৯৭৪",
+        "hint": "১৯৭৪ সালে OIC সম্মেলনে বঙ্গবন্ধু যোগ দেন।"
+    },
+    {
+        "question": "174. বাংলাদেশের জাতীয় সংসদের প্রথম সংসদ নেতা কে?",
+        "answers": [
+            {"text": "A. বঙ্গবন্ধু শেখ মুজিবুর রহমান", "score": 1},
+            {"text": "B. মোহাম্মদউল্লাহ", "score": 0},
+            {"text": "C. তাজউদ্দিন আহমদ", "score": 0},
+            {"text": "D. ক্যাপ্টেন এম মনসুর আলী", "score": 0}
+        ],
+        "correct_answer": "A. বঙ্গবন্ধু শেখ মুজিবুর রহমান",
+        "hint": "বাংলাদেশের প্রথম সংসদ নেতা বঙ্গবন্ধু শেখ মুজিব।"
+    },
+    {
+        "question": "175. সংবিধানের কোন অনুচ্ছেদে বাংলাদেশের বৈদেশিক নীতি পরিচালিত হয়?",
+        "answers": [
+            {"text": "A. অনুচ্ছেদ ২২", "score": 0},
+            {"text": "B. অনুচ্ছেদ ২৩", "score": 1},
+            {"text": "C. অনুচ্ছেদ ২৪", "score": 0},
+            {"text": "D. অনুচ্ছেদ ২৫", "score": 0}
+        ],
+        "correct_answer": "B. অনুচ্ছেদ ২৩",
+        "hint": "বাংলাদেশের বৈদেশিক নীতি পরিচালনার জন্য অনুচ্ছেদ ২৩ গুরুত্বপূর্ণ।"
+    },
+    {
+        "question": "176. বাংলাদেশের সীমান্তবর্তী ভারতের রাজ্য কয়টি?",
+        "answers": [
+            {"text": "A. ৩টি", "score": 0},
+            {"text": "B. ৪টি", "score": 0},
+            {"text": "C. ৫টি", "score": 1},
+            {"text": "D. ৬টি", "score": 0}
+        ],
+        "correct_answer": "C. ৫টি",
+        "hint": "বাংলাদেশের ভারতের সঙ্গে মোট ৫টি রাজ্যের সীমান্ত রয়েছে।"
+    },
+    {
+        "question": "177. কোন বীরশ্রেষ্ঠের দেহাবশেষ বাংলাদেশে এনে বীরশ্রেষ্ঠ মতিউর রহমানের কবরের পাশে সমাহিত করা হয়?",
+        "answers": [
+            {"text": "A. সিপাহী মোস্তফা কামাল", "score": 0},
+            {"text": "B. ল্যান্স নায়েক মুন্সী আব্দুর রহিম", "score": 0},
+            {"text": "C. ল্যান্স নায়েক নূর মোহাম্মদ শেখ", "score": 1},
+            {"text": "D. সিপাহী হামিদুর রহমান", "score": 0}
+        ],
+        "correct_answer": "C. ল্যান্স নায়েক নূর মোহাম্মদ শেখ",
+        "hint": "নূর মোহাম্মদ শেখের দেহাবশেষ মতিউর রহমানের কবরের পাশে সমাহিত।"
+    },
+    {
+        "question": "178. পাকিস্তান কবে বাংলাদেশকে একটি সার্বভৌম রাষ্ট্র হিসেবে স্বীকৃতি দেয়?",
+        "answers": [
+            {"text": "A. ফেব্রুয়ারি ২০, ১৯৭৪", "score": 0},
+            {"text": "B. ফেব্রুয়ারি ২১, ১৯৭৪", "score": 0},
+            {"text": "C. ফেব্রুয়ারি ২২, ১৯৭৪", "score": 1},
+            {"text": "D. ফেব্রুয়ারি ২৩, ১৯৭৪", "score": 0}
+        ],
+        "correct_answer": "C. ফেব্রুয়ারি ২২, ১৯৭৪",
+        "hint": "পাকিস্তান ১৯৭৪ সালের ২২ ফেব্রুয়ারি বাংলাদেশকে স্বীকৃতি দেয়।"
+    },
+    {
+        "question": "179. কে বীরশ্রেষ্ঠ নন?",
+        "answers": [
+            {"text": "A. হামিদুর রহমান", "score": 0},
+            {"text": "B. মোস্তফা কামাল", "score": 0},
+            {"text": "C. মুন্সী আব্দুর রহিম", "score": 1},
+            {"text": "D. নূর মোহাম্মদ শেখ", "score": 0}
+        ],
+        "correct_answer": "C. মুন্সী আব্দুর রহিম",
+        "hint": "মুন্সী আব্দুর রহিম বীরশ্রেষ্ঠ নয়।"
+    },
+    {
+        "question": "180. বাংলাদেশের প্রথম সাধারণ নির্বাচন কখন অনুষ্ঠিত হয়?",
+        "answers": [
+            {"text": "A. ৭ মার্চ ১৯৭৩", "score": 1},
+            {"text": "B. ১৭ মার্চ ১৯৭৩", "score": 0},
+            {"text": "C. ২৭ মার্চ ১৯৭৩", "score": 0},
+            {"text": "D. ৭ মার্চ ১৯৭৪", "score": 0}
+        ],
+        "correct_answer": "A. ৭ মার্চ ১৯৭৩",
+        "hint": "বাংলাদেশের প্রথম সাধারণ নির্বাচন ৭ মার্চ ১৯৭৩ সালে অনুষ্ঠিত হয়।"
+    },
+    {
+        "question": "181. প্রান্তিক হ্রদ কোন জেলায় অবস্থিত?",
+        "answers": [
+            {"text": "A. রাঙ্গামাটি", "score": 0},
+            {"text": "B. খাগড়াছড়ি", "score": 0},
+            {"text": "C. বান্দরবান", "score": 1},
+            {"text": "D. সিলেট", "score": 0}
+        ],
+        "correct_answer": "C. বান্দরবান",
+        "hint": "প্রান্তিক হ্রদ বান্দরবান জেলার অংশ।"
+    },
+    {
+        "question": "182. লাহোরে অনুষ্ঠিত OIC শীর্ষ সম্মেলনে বঙ্গবন্ধু কবে যোগদান করেন?",
+        "answers": [
+            {"text": "A. ২০-২১ ফেব্রুয়ারি ১৯৭৪", "score": 0},
+            {"text": "B. ২৩-২৪ ফেব্রুয়ারি ১৯৭৪", "score": 1},
+            {"text": "C. ২৫-২৬ ফেব্রুয়ারি ১৯৭৪", "score": 0},
+            {"text": "D. ২৭-২৮ ফেব্রুয়ারি ১৯৭৪", "score": 0}
+        ],
+        "correct_answer": "B. ২৩-২৪ ফেব্রুয়ারি ১৯৭৪",
+        "hint": "OIC শীর্ষ সম্মেলনে বঙ্গবন্ধু ১৯৭৪ সালে যোগ দিয়েছিলেন।"
+    },
+    {
+        "question": "183. বাংলাদেশের জাতীয় সংসদের প্রথম সংসদ নেতা কে?",
+        "answers": [
+            {"text": "A. বঙ্গবন্ধু শেখ মুজিবুর রহমান", "score": 1},
+            {"text": "B. মোহাম্মদউল্লাহ", "score": 0},
+            {"text": "C. তাজউদ্দিন আহমদ", "score": 0},
+            {"text": "D. ক্যাপ্টেন এম মনসুর আলী", "score": 0}
+        ],
+        "correct_answer": "A. বঙ্গবন্ধু শেখ মুজিবুর রহমান",
+        "hint": "বাংলাদেশের প্রথম সংসদ নেতা বঙ্গবন্ধু শেখ মুজিবুর রহমান।"
+    },
+    {
+        "question": "184. সংবিধানের কোন অনুচ্ছেদে বাংলাদেশে বৈদেশিক নীতি পরিচালিত হয়?",
+        "answers": [
+            {"text": "A. অনুচ্ছেদ ২২", "score": 0},
+            {"text": "B. অনুচ্ছেদ ২৩", "score": 1},
+            {"text": "C. অনুচ্ছেদ ২৪", "score": 0},
+            {"text": "D. অনুচ্ছেদ ২৫", "score": 0}
+        ],
+        "correct_answer": "B. অনুচ্ছেদ ২৩",
+        "hint": "বৈদেশিক নীতি পরিচালনার জন্য সংবিধানের ২৩ অনুচ্ছেদ গুরুত্বপূর্ণ।"
+    },
+    {
+        "question": "185. বাংলাদেশের সীমান্তবর্তী ভারতের রাজ্য কয়টি?",
+        "answers": [
+            {"text": "A. ৩টি", "score": 0},
+            {"text": "B. ৪টি", "score": 0},
+            {"text": "C. ৫টি", "score": 1},
+            {"text": "D. ৬টি", "score": 0}
+        ],
+        "correct_answer": "C. ৫টি",
+        "hint": "বাংলাদেশের ভারতের সঙ্গে ৫টি রাজ্যের সীমান্ত রয়েছে।"
+    },
+    {
+        "question": "186. কোন বীরশ্রেষ্ঠের দেহাবশেষ বাংলাদেশে এনে বীরশ্রেষ্ঠ মতিউর রহমানের কবরের পাশে সমাহিত করা হয়?",
+        "answers": [
+            {"text": "A. সিপাহী মোস্তফা কামাল", "score": 0},
+            {"text": "B. ল্যান্স নায়েক মুন্সী আব্দুর রহিম", "score": 0},
+            {"text": "C. ল্যান্স নায়েক নূর মোহাম্মদ শেখ", "score": 1},
+            {"text": "D. সিপাহী হামিদুর রহমান", "score": 0}
+        ],
+        "correct_answer": "C. ল্যান্স নায়েক নূর মোহাম্মদ শেখ",
+        "hint": "নূর মোহাম্মদ শেখের দেহাবশেষ বীরশ্রেষ্ঠ মতিউর রহমানের কবরের পাশে সমাহিত করা হয়।"
+    },
+    {
+        "question": "187. পাকিস্তান কবে বাংলাদেশকে একটি সার্বভৌম রাষ্ট্র হিসেবে স্বীকৃতি দেয়?",
+        "answers": [
+            {"text": "A. ফেব্রুয়ারি ২০, ১৯৭৪", "score": 0},
+            {"text": "B. ফেব্রুয়ারি ২১, ১৯৭৪", "score": 0},
+            {"text": "C. ফেব্রুয়ারি ২২, ১৯৭৪", "score": 1},
+            {"text": "D. ফেব্রুয়ারি ২৩, ১৯৭৪", "score": 0}
+        ],
+        "correct_answer": "C. ফেব্রুয়ারি ২২, ১৯৭৪",
+        "hint": "পাকিস্তান ১৯৭৪ সালের ২২ ফেব্রুয়ারি বাংলাদেশকে স্বীকৃতি দেয়।"
+    },
+    {
+        "question": "188. কে বীরশ্রেষ্ঠ নন?",
+        "answers": [
+            {"text": "A. হামিদুর রহমান", "score": 0},
+            {"text": "B. মোস্তফা কামাল", "score": 0},
+            {"text": "C. মুন্সী আব্দুর রহিম", "score": 1},
+            {"text": "D. নূর মোহাম্মদ শেখ", "score": 0}
+        ],
+        "correct_answer": "C. মুন্সী আব্দুর রহিম",
+        "hint": "মুন্সী আব্দুর রহিম বীরশ্রেষ্ঠ নয়।"
+    },
+    {
+        "question": "189. বাংলাদেশের প্রথম সাধারণ নির্বাচন কখন অনুষ্ঠিত হয়?",
+        "answers": [
+            {"text": "A. ৭ মার্চ ১৯৭৩", "score": 1},
+            {"text": "B. ১৭ মার্চ ১৯৭৩", "score": 0},
+            {"text": "C. ২৭ মার্চ ১৯৭৩", "score": 0},
+            {"text": "D. ৭ মার্চ ১৯৭৪", "score": 0}
+        ],
+        "correct_answer": "A. ৭ মার্চ ১৯৭৩",
+        "hint": "বাংলাদেশের প্রথম সাধারণ নির্বাচন ৭ মার্চ ১৯৭৩।"
+    },
+    {
+        "question": "190. প্রান্তিক হ্রদ কোন জেলায় অবস্থিত?",
+        "answers": [
+            {"text": "A. রাঙ্গামাটি", "score": 0},
+            {"text": "B. খাগড়াছড়ি", "score": 0},
+            {"text": "C. বান্দরবান", "score": 1},
+            {"text": "D. সিলেট", "score": 0}
+        ],
+        "correct_answer": "C. বান্দরবান",
+        "hint": "প্রান্তিক হ্রদ বান্দরবান জেলার অংশ।"
+    },
+    {
+        "question": "191. লাহোরে অনুষ্ঠিত OIC শীর্ষ সম্মেলনে বঙ্গবন্ধু কবে যোগদান করেন?",
+        "answers": [
+            {"text": "A. ২০-২১ ফেব্রুয়ারি ১৯৭৪", "score": 0},
+            {"text": "B. ২৩-২৪ ফেব্রুয়ারি ১৯৭৪", "score": 1},
+            {"text": "C. ২৫-২৬ ফেব্রুয়ারি ১৯৭৪", "score": 0},
+            {"text": "D. ২৭-২৮ ফেব্রুয়ারি ১৯৭৪", "score": 0}
+        ],
+        "correct_answer": "B. ২৩-২৪ ফেব্রুয়ারি ১৯৭৪",
+        "hint": "১৯৭৪ সালে OIC সম্মেলনে বঙ্গবন্ধু যোগ দেন।"
+    },
+    {
+        "question": "192. বাংলাদেশের জাতীয় সংসদের প্রথম সংসদ নেতা কে?",
+        "answers": [
+            {"text": "A. বঙ্গবন্ধু শেখ মুজিবুর রহমান", "score": 1},
+            {"text": "B. মোহাম্মদউল্লাহ", "score": 0},
+            {"text": "C. তাজউদ্দিন আহমদ", "score": 0},
+            {"text": "D. ক্যাপ্টেন এম মনসুর আলী", "score": 0}
+        ],
+        "correct_answer": "A. বঙ্গবন্ধু শেখ মুজিবুর রহমান",
+        "hint": "বাংলাদেশের প্রথম সংসদ নেতা বঙ্গবন্ধু শেখ মুজিব।"
+    },
+    {
+        "question": "193. সংবিধানের কোন অনুচ্ছেদে বাংলাদেশে বৈদেশিক নীতি পরিচালিত হয়?",
+        "answers": [
+            {"text": "A. অনুচ্ছেদ ২২", "score": 0},
+            {"text": "B. অনুচ্ছেদ ২৩", "score": 1},
+            {"text": "C. অনুচ্ছেদ ২৪", "score": 0},
+            {"text": "D. অনুচ্ছেদ ২৫", "score": 0}
+        ],
+        "correct_answer": "B. অনুচ্ছেদ ২৩",
+        "hint": "বৈদেশিক নীতি পরিচালনার জন্য সংবিধানের ২৩ অনুচ্ছেদ সঠিক।"
+    },
+    {
+        "question": "194. বাংলাদেশের সীমান্তবর্তী ভারতের রাজ্য কয়টি?",
+        "answers": [
+            {"text": "A. ৩টি", "score": 0},
+            {"text": "B. ৪টি", "score": 0},
+            {"text": "C. ৫টি", "score": 1},
+            {"text": "D. ৬টি", "score": 0}
+        ],
+        "correct_answer": "C. ৫টি",
+        "hint": "বাংলাদেশের সাথে ভারতের ৫টি রাজ্যের সীমান্ত রয়েছে।"
+    },
+    {
+        "question": "195. কোন বীরশ্রেষ্ঠের দেহাবশেষ বাংলাদেশে এনে বীরশ্রেষ্ঠ মতিউর রহমানের কবরের পাশে সমাহিত করা হয়?",
+        "answers": [
+            {"text": "A. সিপাহী মোস্তফা কামাল", "score": 0},
+            {"text": "B. ল্যান্স নায়েক মুন্সী আব্দুর রহিম", "score": 0},
+            {"text": "C. ল্যান্স নায়েক নূর মোহাম্মদ শেখ", "score": 1},
+            {"text": "D. সিপাহী হামিদুর রহমান", "score": 0}
+        ],
+        "correct_answer": "C. ল্যান্স নায়েক নূর মোহাম্মদ শেখ",
+        "hint": "নূর মোহাম্মদ শেখের দেহাবশেষ বাংলাদেশে সমাহিত হয়।"
+    },
+    {
+        "question": "196. পাকিস্তান কবে বাংলাদেশকে একটি সার্বভৌম রাষ্ট্র হিসেবে স্বীকৃতি দেয়?",
+        "answers": [
+            {"text": "A. ফেব্রুয়ারি ২০, ১৯৭৪", "score": 0},
+            {"text": "B. ফেব্রুয়ারি ২১, ১৯৭৪", "score": 0},
+            {"text": "C. ফেব্রুয়ারি ২২, ১৯৭৪", "score": 1},
+            {"text": "D. ফেব্রুয়ারি ২৩, ১৯৭৪", "score": 0}
+        ],
+        "correct_answer": "C. ফেব্রুয়ারি ২২, ১৯৭৪",
+        "hint": "পাকিস্তান ১৯৭৪ সালের ২২ ফেব্রুয়ারি বাংলাদেশকে স্বীকৃতি দেয়।"
+    },
+    {
+        "question": "197. কে বীরশ্রেষ্ঠ নন?",
+        "answers": [
+            {"text": "A. হামিদুর রহমান", "score": 0},
+            {"text": "B. মোস্তফা কামাল", "score": 0},
+            {"text": "C. মুন্সী আব্দুর রহিম", "score": 1},
+            {"text": "D. নূর মোহাম্মদ শেখ", "score": 0}
+        ],
+        "correct_answer": "C. মুন্সী আব্দুর রহিম",
+        "hint": "মুন্সী আব্দুর রহিম ছিলেন বীরশ্রেষ্ঠ নয়।"
+    },
+    {
+        "question": "198. বাংলাদেশের প্রথম সাধারণ নির্বাচন কখন অনুষ্ঠিত হয়?",
+        "answers": [
+            {"text": "A. ৭ মার্চ ১৯৭৩", "score": 1},
+            {"text": "B. ১৭ মার্চ ১৯৭৩", "score": 0},
+            {"text": "C. ২৭ মার্চ ১৯৭৩", "score": 0},
+            {"text": "D. ৭ মার্চ ১৯৭৪", "score": 0}
+        ],
+        "correct_answer": "A. ৭ মার্চ ১৯৭৩",
+        "hint": "১৯৭৩ সালের ৭ মার্চ বাংলাদেশে প্রথম সাধারণ নির্বাচন অনুষ্ঠিত হয়।"
+    },
+    {
+        "question": "199. প্রান্তিক হ্রদ কোন জেলায় অবস্থিত?",
+        "answers": [
+            {"text": "A. রাঙ্গামাটি", "score": 0},
+            {"text": "B. খাগড়াছড়ি", "score": 0},
+            {"text": "C. বান্দরবান", "score": 1},
+            {"text": "D. সিলেট", "score": 0}
+        ],
+        "correct_answer": "C. বান্দরবান",
+        "hint": "প্রান্তিক হ্রদ বান্দরবান জেলায় অবস্থিত।"
+    },
+    {
+        "question": "200. লাহোরে অনুষ্ঠিত OIC শীর্ষ সম্মেলনে বঙ্গবন্ধু কবে যোগদান করেন?",
+        "answers": [
+            {"text": "A. ২০-২১ ফেব্রুয়ারি ১৯৭৪", "score": 0},
+            {"text": "B. ২৩-২৪ ফেব্রুয়ারি ১৯৭৪", "score": 1},
+            {"text": "C. ২৫-২৬ ফেব্রুয়ারি ১৯৭৪", "score": 0},
+            {"text": "D. ২৭-২৮ ফেব্রুয়ারি ১৯৭৪", "score": 0}
+        ],
+        "correct_answer": "B. ২৩-২৪ ফেব্রুয়ারি ১৯৭৪",
+        "hint": "১৯৭৪ সালের OIC সম্মেলনে বঙ্গবন্ধু যোগ দেন।"
+    }
+]

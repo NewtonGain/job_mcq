@@ -1,0 +1,1102 @@
+[
+    {
+        "question": "1. Which of the following sentences is correct?",
+        "answers": [
+            {"text": "A. I forbade him from going", "score": 1},
+            {"text": "B. I forbade him to go", "score": 0},
+            {"text": "C. I forbade him going", "score": 0},
+            {"text": "D. I forbade him not to go", "score": 0}
+        ],
+        "correct_answer": "A. I forbade him from going",
+        "hint": "Forbid somebody from doing something অর্থ- কাউকে কোনো কিছু করা থেকে বারণ করা।"
+    },
+    {
+        "question": "2. Which of the following is a correct proverb?",
+        "answers": [
+            {"text": "A. Fools rush in where angels fear to tread.", "score": 1},
+            {"text": "B. Fools rush in where an angel fears to tread.", "score": 0},
+            {"text": "C. A fools rushes in where an angle fears to tread", "score": 0},
+            {"text": "D. Fools rush in where the angels fear to tread.", "score": 0}
+        ],
+        "correct_answer": "A. Fools rush in where angels fear to tread.",
+        "hint": "Proverb টিতে parallesim ব্যবহার হয়েছে।"
+    },
+    {
+        "question": "3. Which of the following sentences is correct?",
+        "answers": [
+            {"text": "A. Why you have done this?", "score": 0},
+            {"text": "B. Why did you have done this?", "score": 0},
+            {"text": "C. Why have you done this?", "score": 1},
+            {"text": "D. why you had done this?", "score": 0}
+        ],
+        "correct_answer": "C. Why have you done this?",
+        "hint": "প্রশ্নবোধক বাক্যে interrogative গঠন করা হয়।"
+    },
+    {
+        "question": "4. Which of the following sentences is correct?",
+        "answers": [
+            {"text": "A. That shirt which he bought is blue in colour.", "score": 0},
+            {"text": "B. The shirt that which he bought is blue in colour.", "score": 0},
+            {"text": "C. Which shirt he bought is blue in colour.", "score": 0},
+            {"text": "D. The shirt which he bought is blue in colour.", "score": 1}
+        ],
+        "correct_answer": "D. The shirt which he bought is blue in colour.",
+        "hint": "Relative Pronoun (which) এর antecedent (পূর্বক)।"
+    },
+    {
+        "question": "5. The correct passive of ‘Sheila was writing a letter’ is––",
+        "answers": [
+            {"text": "A. A letter was writing by Sheila", "score": 0},
+            {"text": "B. A letter was being writing by Sheila", "score": 0},
+            {"text": "C. A letter was being written by Sheila", "score": 1},
+            {"text": "D. A letter was been written by Sheila", "score": 0}
+        ],
+        "correct_answer": "C. A letter was being written by Sheila",
+        "hint": "Structure অনুযায়ী সঠিক রূপটি রয়েছে (গ) তে।"
+    },
+    {
+        "question": "6. কোন গ্রন্হটি ঢাকা হতে প্রথম প্রকাশিত হয়েছিল?",
+        "answers": [
+            {"text": "A. মেঘনাদবধ কাব্য", "score": 0},
+            {"text": "B. দুর্গেশনন্দিনী", "score": 0},
+            {"text": "C. নীলদর্পণ", "score": 1},
+            {"text": "D. অগ্নিবীনা", "score": 0}
+        ],
+        "correct_answer": "C. নীলদর্পণ",
+        "hint": "ঢাকা থেকে প্রকাশিত প্রথম বাংলা গ্রন্হ দীনবন্ধু মিত্রের ‘নীলদর্পণ’ নাটক।"
+    },
+    {
+        "question": "7. ‘পথিক তুমি কি পথ হারাইয়াছ?’ কথাটি কার?",
+        "answers": [
+            {"text": "A. রবীন্দ্রনাথ ঠাকুর", "score": 0},
+            {"text": "B. বঙ্কিমচন্দ্র চট্টোপাধ্যায়", "score": 1},
+            {"text": "C. মীর মশাররফ হোসেন", "score": 0},
+            {"text": "D. শরৎচন্দ্র চট্টোপাধ্যায়", "score": 0}
+        ],
+        "correct_answer": "B. বঙ্কিমচন্দ্র চট্টোপাধ্যায়",
+        "hint": "চরিত্রটি ‘কপালকুণ্ডলা’ থেকে সংগৃহীত।"
+    },
+    {
+        "question": "8. প্রত্যয়গত ভাবে শুদ্ধ কোনটি?",
+        "answers": [
+            {"text": "A. উৎকর্ষতা", "score": 1},
+            {"text": "B. উৎকর্ষ", "score": 0},
+            {"text": "C. উৎকৃষ্ট", "score": 0},
+            {"text": "D. উৎকৃষ্টতা", "score": 0}
+        ],
+        "correct_answer": "A. উৎকর্ষতা",
+        "hint": "শুদ্ধ প্রত্যয় হলো উৎকর্ষতা।"
+    },
+    {
+        "question": "9. ‘অচিন’ শব্দের ‘অ’ উপসর্গটি কোন অর্থে ব্যবহৃত?",
+        "answers": [
+            {"text": "A. নেতিবাচক", "score": 1},
+            {"text": "B. বিয়োগান্ত", "score": 0},
+            {"text": "C. নঞর্থক", "score": 0},
+            {"text": "D. অজানা", "score": 0}
+        ],
+        "correct_answer": "A. নেতিবাচক",
+        "hint": "অচিন শব্দে 'অ' উপসর্গ নেতিবাচক অর্থে ব্যবহৃত।"
+    },
+    {
+        "question": "10. বাংলায় ইউরোপীয় বণিকদের মধ্যে কারা প্রথম এসেছিল?",
+        "answers": [
+            {"text": "A. ইংরেজরা", "score": 0},
+            {"text": "B. ফরাসিরা", "score": 0},
+            {"text": "C. ওলন্দাজরা", "score": 1},
+            {"text": "D. পর্তুগিজরা", "score": 0}
+        ],
+        "correct_answer": "C. ওলন্দাজরা",
+        "hint": "পঞ্চদশ শতকের শেষভাগে পর্তুগিজ বণিকগণ বাংলায় এসেছিল।"
+    },
+    {
+        "question": "11. জিয়া সার কারখানায় উৎপাদিত সারের নাম কি?",
+        "answers": [
+            {"text": "A. অ্যামোনিয়া", "score": 0},
+            {"text": "B. সুপার ফসফেট", "score": 0},
+            {"text": "C. টিএসপি", "score": 0},
+            {"text": "D. ইউরিয়া", "score": 1}
+        ],
+        "correct_answer": "D. ইউরিয়া",
+        "hint": "জিয়া সার কারখানাতে ইউরিয়া উৎপাদিত হয়।"
+    },
+    {
+        "question": "12. ‘সব কটা জানালা খুলে দাও না’ এর গীতিকার কে?",
+        "answers": [
+            {"text": "A. মরহুম আলতাফ মাহমুদ", "score": 1},
+            {"text": "B. মরহুম নজরুল ইসলাম বাবু", "score": 0},
+            {"text": "C. ড. মনিরুজ্জামান", "score": 0},
+            {"text": "D. মরহুম ড. আবু হেনা মোস্তফা কামাল", "score": 0}
+        ],
+        "correct_answer": "A. মরহুম আলতাফ মাহমুদ",
+        "hint": "সাবিনা ইয়াসমিন গানটি গেয়েছেন।"
+    },
+    {
+        "question": "13. বাংলাদেশের জাতীয় পতাকার ডিজাইনার কে?",
+        "answers": [
+            {"text": "A. জয়নুল আবেদিন", "score": 0},
+            {"text": "B. কামরুল হাসান", "score": 1},
+            {"text": "C. হাসেম খান", "score": 0},
+            {"text": "D. হামিদুর রহমান", "score": 0}
+        ],
+        "correct_answer": "B. কামরুল হাসান",
+        "hint": "কামরুল হাসান বাংলাদেশের জাতীয় পতাকার ডিজাইন করেছেন।"
+    },
+    {
+        "question": "14. বাংলাদেশের রাষ্ট্রপতি শাসিত সরকারের পরিবর্তে সংসদীয় শাসনব্যবস্থা চালু হয় সংবিধানের কত নম্বর সংশোধনীর মাধ্যমে?",
+        "answers": [
+            {"text": "A. ১০", "score": 0},
+            {"text": "B. ১১", "score": 1},
+            {"text": "C. ১২", "score": 0},
+            {"text": "D. ১৩", "score": 0}
+        ],
+        "correct_answer": "B. ১১",
+        "hint": "সংবিধানের ১১ নম্বর সংশোধনীর মাধ্যমে সংসদীয় শাসনব্যবস্থা চালু হয়।"
+    },
+    {
+        "question": "15. Asia Pacific Economic Co-operation (APEC) ফোরামের নভেম্বর, ১৯৯৩-এ অনুষ্ঠিত বৈঠকে কোন সদস্য দেশের সরকার প্রধান অনুপস্থিত ছিলেন?",
+        "answers": [
+            {"text": "A. মালয়েশিয়া", "score": 0},
+            {"text": "B. ফিলিপাইন", "score": 0},
+            {"text": "C. অস্ট্রেলিয়া", "score": 0},
+            {"text": "D. জাপান", "score": 1}
+        ],
+        "correct_answer": "D. জাপান",
+        "hint": "জাপান এই সম্মেলনে অনুপস্থিত ছিল।"
+    },
+    {
+        "question": "16. গিরিজা প্রসাদ কৈরালা কত তারিখে নেপালের প্রধানমন্ত্রীর পদ থেকে পদত্যাগ করেন?",
+        "answers": [
+            {"text": "A. ৮ জুলাই, ১৯৯৪", "score": 0},
+            {"text": "B. ৯ জুলাই, ১৯৯৪", "score": 0},
+            {"text": "C. ১০ জুলাই, ১৯৯৪", "score": 1},
+            {"text": "D. ১১ জুলাই, ১৯৯৪", "score": 0}
+        ],
+        "correct_answer": "C. ১০ জুলাই, ১৯৯৪",
+        "hint": "গিরিজা প্রসাদ কৈরালা ১০ জুলাই ১৯৯৪ পদত্যাগ করেন।"
+    },
+    {
+        "question": "17. Hubble Telescope – এর ত্রুটি সংশোধনকল্পে মহাশূন্যে কোন নভোযানে নভোচারীগণকে প্রেরণ করা হয়েছিল?",
+        "answers": [
+            {"text": "A. Endeavour", "score": 1},
+            {"text": "B. Challanger", "score": 0},
+            {"text": "C. Pathfinder", "score": 0},
+            {"text": "D. Apollo", "score": 0}
+        ],
+        "correct_answer": "A. Endeavour",
+        "hint": "Endeavour নভোযানে নভোচারীগণ Hubble Telescope এর ত্রুটি সংশোধন করতে যায়।"
+    },
+    {
+        "question": "18. রুয়ান্ডার প্যাট্রিয়টিক ফ্রন্ট সরকার কবে শপথ গ্রহণ করেন?",
+        "answers": [
+            {"text": "A. ৮ জুলাই, ১৯৯৪", "score": 1},
+            {"text": "B. ১৯ জুলাই, ১৯৯৪", "score": 0},
+            {"text": "C. ২৪ জুলাই, ১৯৯৪", "score": 0},
+            {"text": "D. ২৭ জুলাই, ১৯৯৪", "score": 0}
+        ],
+        "correct_answer": "A. ৮ জুলাই, ১৯৯৪",
+        "hint": "রুয়ান্ডার প্যাট্রিয়টিক ফ্রন্ট সরকার ৮ জুলাই, ১৯৯৪ শপথ গ্রহণ করে।"
+    },
+    {
+        "question": "19. পিএলও চেয়ারম্যান ইয়াসির আরাফাত তিউনিসিয়ায় নির্বাসিত জীবন ছেড়ে স্থায়ীভাবে বসবাসের উদ্দেশ্যে কবে গাজা ভূখণ্ডে আসেন?",
+        "answers": [
+            {"text": "A. ১১ জুলাই, ১৯৯৪", "score": 0},
+            {"text": "B. ১২ জুলাই, ১৯৯৪", "score": 0},
+            {"text": "C. ১৩ জুলাই, ১৯৯৪", "score": 1},
+            {"text": "D. ১ জুলাই, ১৯৯৪", "score": 0}
+        ],
+        "correct_answer": "C. ১৩ জুলাই, ১৯৯৪",
+        "hint": "ইয়াসির আরাফাত ১৩ জুলাই, ১৯৯৪ গাজা ভূখণ্ডে আসেন।"
+    },
+    {
+        "question": "20. উপকূলে কোনো একটি স্থানে পরপর দুটি জোয়ারের মধ্যে ব্যবধান হলো–",
+        "answers": [
+            {"text": "A. প্রায় ১২ ঘণ্টা", "score": 1},
+            {"text": "B. প্রায় ২৪ ঘণ্টা", "score": 0},
+            {"text": "C. প্রায় ৬ ঘণ্টা", "score": 0},
+            {"text": "D. চাঁদের তিথি অনুসারে ভিন্ন", "score": 0}
+        ],
+        "correct_answer": "A. প্রায় ১২ ঘণ্টা",
+        "hint": "একটি জোয়ারের তুলনায় অন্যটির মধ্যে ব্যবধান ১২ ঘণ্টা।"
+    },
+    {
+        "question": "21. নাড়ীর স্পন্দন প্রবাহিত হয়–",
+        "answers": [
+            {"text": "A. ধমনির ভেতর দিয়ে", "score": 1},
+            {"text": "B. শিরার ভেতর দিয়ে", "score": 0},
+            {"text": "C. স্নায়ুর ভেতর দিয়ে", "score": 0},
+            {"text": "D. ল্যাকটিয়ালের ভেতর দিয়ে", "score": 0}
+        ],
+        "correct_answer": "A. ধমনির ভেতর দিয়ে",
+        "hint": "নাড়ীর স্পন্দন ধমনির মধ্য দিয়ে প্রবাহিত হয়।"
+    },
+    {
+        "question": "22. চাঁদে কোনো শব্দ করলে তা শোনা যাবে না কেন?",
+        "answers": [
+            {"text": "A. চাঁদে কোনো জীব নাই তাই", "score": 0},
+            {"text": "B. চাঁদে কোনো পানি নাই তাই", "score": 0},
+            {"text": "C. চাঁদে বায়ুমণ্ডল নাই তাই", "score": 1},
+            {"text": "D. চাঁদের মাধ্যাকর্ষণজনিত ত্বরণ পৃথিবীর মাধ্যাকর্ষণজনিত ত্বরণ অপেক্ষা কম তাই।", "score": 0}
+        ],
+        "correct_answer": "C. চাঁদে বায়ুমণ্ডল নাই তাই",
+        "hint": "চাঁদে বায়ুমণ্ডল নেই, তাই শব্দ শোনা যায় না।"
+    },
+    {
+        "question": "23. বৃত্তের পরিধি ও ব্যাসের অনুপাত–",
+        "answers": [
+            {"text": "A. ৩", "score": 0},
+            {"text": "B. ২২/৭", "score": 1},
+            {"text": "C. ২৫/৯", "score": 0},
+            {"text": "D. প্রায় ৫", "score": 0}
+        ],
+        "correct_answer": "B. ২২/৭",
+        "hint": "বৃত্তের পরিধি ও ব্যাসের অনুপাত হলো ২২/৭।"
+    },
+    {
+        "question": "24. রঙিন টেলিভিশন হতে ক্ষতিকর কোন রশ্মি বের হয়?",
+        "answers": [
+            {"text": "A. মৃদু রঞ্জন রশ্মি", "score": 1},
+            {"text": "B. গামা রশ্মি", "score": 0},
+            {"text": "C. বিটা রশ্মি", "score": 0},
+            {"text": "D. কসমিক রশ্মি", "score": 0}
+        ],
+        "correct_answer": "A. মৃদু রঞ্জন রশ্মি",
+        "hint": "রঙিন টেলিভিশন থেকে মৃদু রঞ্জন রশ্মি নির্গত হয়।"
+    },
+    {
+        "question": "25. যা চিরস্থায়ী নয়–",
+        "answers": [
+            {"text": "A. অস্থায়ী", "score": 1},
+            {"text": "B. ক্ষণিক", "score": 0},
+            {"text": "C. ক্ষণস্থায়ী", "score": 0},
+            {"text": "D. নশ্বর", "score": 0}
+        ],
+        "correct_answer": "A. অস্থায়ী",
+        "hint": "যা চিরস্থায়ী নয় তা হলো অস্থায়ী।"
+    },
+    {
+        "question": "26. Intellectual শব্দের বাংলা অর্থ–",
+        "answers": [
+            {"text": "A. বুদ্ধিমান", "score": 0},
+            {"text": "B. মননশীল", "score": 0},
+            {"text": "C. বুদ্ধিজীবী", "score": 1},
+            {"text": "D. মেধাবী", "score": 0}
+        ],
+        "correct_answer": "C. বুদ্ধিজীবী",
+        "hint": "Intellectual অর্থ বুদ্ধিজীবী।"
+    },
+    {
+        "question": "27. কোন নগরীতে মুঘল আমলে সুবা বাংলার রাজধানী ছিল?",
+        "answers": [
+            {"text": "A. গৌড়", "score": 1},
+            {"text": "B. সোনারগাঁও", "score": 0},
+            {"text": "C. ঢাকা", "score": 0},
+            {"text": "D. হুগলী", "score": 0}
+        ],
+        "correct_answer": "A. গৌড়",
+        "hint": "মুঘল আমলে গৌড় ছিল বাংলা অঞ্চলের রাজধানী।"
+    },
+    {
+        "question": "28. ‘অবমূল্যায়ন’ ও ‘অবদান’ শব্দ দুটিতে ‘অব’ উপসর্গটি সম্পর্কে কোন মন্তব্যটি ঠিক?",
+        "answers": [
+            {"text": "A. শব্দ দুটিতে উপসর্গটি মোটামুটি একই অর্থে ব্যবহৃত হয়েছে", "score": 0},
+            {"text": "B. শব্দ দুটিতে উপসর্গটি একই অর্থে ব্যবহৃত হয়েছে", "score": 0},
+            {"text": "C. দুটি শব্দে উপসর্গটির অর্থ দু রকম", "score": 1},
+            {"text": "D. দুটি শব্দে উপসর্গটির অর্থ আপতবিচারে ভিন্ন হলেও আসল এক", "score": 0}
+        ],
+        "correct_answer": "C. দুটি শব্দে উপসর্গটির অর্থ দু রকম",
+        "hint": "'অব' উপসর্গের ভিন্ন অর্থ ভিন্ন অভিধানে ব্যবহৃত হয়েছে।"
+    },
+    {
+        "question": "29. ‘মানুষেরই মাঝে স্বর্গ-নরক, মানুষেতে সুরাসুর’- এই পংক্তিটি কার রচনা?",
+        "answers": [
+            {"text": "A. রবীন্দ্রনাথ ঠাকুর", "score": 0},
+            {"text": "B. কাজী নজরুল ইসলাম", "score": 1},
+            {"text": "C. শেখ ফজলুল করিম", "score": 0},
+            {"text": "D. শামসুর রহমান", "score": 0}
+        ],
+        "correct_answer": "B. কাজী নজরুল ইসলাম",
+        "hint": "এই পংক্তিটি কাজী নজরুল ইসলামের রচনার অংশ।"
+    },
+    {
+        "question": "30. বাংলা একাডেমি কোন বছর প্রতিষ্ঠিত হয়?",
+        "answers": [
+            {"text": "A. ১৯৫৫ খ্রিষ্টাব্দে", "score": 1},
+            {"text": "B. ১৩৫৫ বঙ্গাব্দে", "score": 0},
+            {"text": "C. ১৯৫২ খ্রিষ্টাব্দে", "score": 0},
+            {"text": "D. ১৩৫২ বঙ্গাব্দে", "score": 0}
+        ],
+        "correct_answer": "A. ১৯৫৫ খ্রিষ্টাব্দে",
+        "hint": "বাংলা একাডেমি ১৯৫৫ সালে প্রতিষ্ঠিত হয়।"
+    },
+    {
+        "question": "31. সাধু ভাষা ও চলিত ভাষার পার্থক্য–",
+        "answers": [
+            {"text": "A. বাক্যের সরল ও জটিল রূপে", "score": 0},
+            {"text": "B. শব্দের রূপগত ভিন্নতায়", "score": 0},
+            {"text": "C. তৎসম ও অর্ধতৎসম শব্দের ব্যবহারে", "score": 1},
+            {"text": "D. ক্রিয়াপদ ও সর্বনাম পদের রূপগত ভিন্নতায়", "score": 0}
+        ],
+        "correct_answer": "C. তৎসম ও অর্ধতৎসম শব্দের ব্যবহারে",
+        "hint": "সাধু ভাষায় তৎসম শব্দ বেশি বেশি ব্যবহৃত হয়।"
+    },
+    {
+        "question": "32. সমগ্র পবিত্র কুরআনের প্রথম বাংলা অনুবাদ কে করেন?",
+        "answers": [
+            {"text": "A. গোলাম মোস্তফা", "score": 0},
+            {"text": "B. ফররুখ আহমদ", "score": 0},
+            {"text": "C. ভাই গিরিশচন্দ্র সেন", "score": 1},
+            {"text": "D. সুনীতিকুমার চট্টোপাধ্যায়", "score": 0}
+        ],
+        "correct_answer": "C. ভাই গিরিশচন্দ্র সেন",
+        "hint": "ভাই গিরিশচন্দ্র সেন পবিত্র কুরআনের প্রথম বঙ্গানুবাদ করেন।"
+    },
+    {
+        "question": "33. ‘সমকাল’ পত্রিকার সম্পাদক কে ছিলেন?",
+        "answers": [
+            {"text": "A. মোহাম্মদ আকরম খাঁ", "score": 0},
+            {"text": "B. তফাজ্জল হোসেন", "score": 1},
+            {"text": "C. মোহাম্মদ নাসিরউদ্দীন", "score": 0},
+            {"text": "D. সিকান্দার আবু জাফর", "score": 0}
+        ],
+        "correct_answer": "B. তফাজ্জল হোসেন",
+        "hint": "সমকাল পত্রিকার সম্পাদক ছিলেন তফাজ্জল হোসেন।"
+    },
+    {
+        "question": "34. ‘সওগাত’ পত্রিকার সম্পাদক কে ছিলেন?",
+        "answers": [
+            {"text": "A. কাজী নজরুল ইসলাম", "score": 1},
+            {"text": "B. আবুল কালাম শামসুদ্দীন", "score": 0},
+            {"text": "C. খান মুহাম্মদ মঈনুউদ্দীন", "score": 0},
+            {"text": "D. মোহাম্মদ নাসিরুদ্দীন", "score": 0}
+        ],
+        "correct_answer": "A. কাজী নজরুল ইসলাম",
+        "hint": "‘সওগাত’ পত্রিকার সম্পাদক কাজী নজরুল ইসলাম ছিলেন।"
+    },
+    {
+        "question": "35. Something which is obnoxious means that it is-",
+        "answers": [
+            {"text": "A. very dangerous", "score": 0},
+            {"text": "B. very pleasant", "score": 0},
+            {"text": "C. very ugly", "score": 0},
+            {"text": "D. very unpleasant", "score": 1}
+        ],
+        "correct_answer": "D. very unpleasant",
+        "hint": "'Obnoxious' অর্থ নোংরা, আপত্তিকর।"
+    },
+    {
+        "question": "36. A pilgrim is a person who undertakes a journey to a-",
+        "answers": [
+            {"text": "A. holy place", "score": 1},
+            {"text": "B. a mosque", "score": 0},
+            {"text": "C. a bazar", "score": 0},
+            {"text": "D. a new country", "score": 0}
+        ],
+        "correct_answer": "A. holy place",
+        "hint": "'Pilgrim' শব্দের অর্থ তীর্থযাত্রী।"
+    },
+    {
+        "question": "37. Shakespeare is known mostly for his-",
+        "answers": [
+            {"text": "A. poetry", "score": 0},
+            {"text": "B. novels", "score": 0},
+            {"text": "C. autobiography", "score": 0},
+            {"text": "D. plays", "score": 1}
+        ],
+        "correct_answer": "D. plays",
+        "hint": "Shakespeare নাট্যকার হিসেবে খ্যাত।"
+    },
+    {
+        "question": "38. A person who writes about his own life writes-",
+        "answers": [
+            {"text": "A. a chronicle", "score": 0},
+            {"text": "B. an autobiography", "score": 1},
+            {"text": "C. a diary", "score": 0},
+            {"text": "D. a biography", "score": 0}
+        ],
+        "correct_answer": "B. an autobiography",
+        "hint": "'Autobiography' এর অর্থ আত্মজীবনী।"
+    },
+    {
+        "question": "39. In which century was the Victorian period?",
+        "answers": [
+            {"text": "A. 17th century", "score": 0},
+            {"text": "B. 18th century", "score": 0},
+            {"text": "C. 19th century", "score": 1},
+            {"text": "D. 20th century", "score": 0}
+        ],
+        "correct_answer": "C. 19th century",
+        "hint": "Victorian period ১৮৩২ সালে শুরু হয়েছে।"
+    },
+    {
+        "question": "40. কবি কাজী নজরুল ইসলাম ‘সঞ্চিতা’ কাব্যটি কাকে উৎসর্গ করেছিলেন?",
+        "answers": [
+            {"text": "A. বারীন্দ্রকুমার ঘোষ", "score": 0},
+            {"text": "B. রবীন্দ্রনাথ ঠাকুর", "score": 1},
+            {"text": "C. বীরজাসুন্দরী দেবী", "score": 0},
+            {"text": "D. মুজাফফর আহমদ", "score": 0}
+        ],
+        "correct_answer": "B. রবীন্দ্রনাথ ঠাকুর",
+        "hint": "'সঞ্চিতা' কাব্যগ্রন্থ রবীন্দ্রনাথ ঠাকুরকে উৎসর্গ করা হয়েছে।"
+    },
+    {
+        "question": "41. কোন উপন্যাসটির রচয়িতা রবীন্দ্রনাথ?",
+        "answers": [
+            {"text": "A. বিষবৃক্ষ", "score": 0},
+            {"text": "B. গণদেবতা", "score": 0},
+            {"text": "C. আরণ্যক", "score": 0},
+            {"text": "D. ঘরে-বাইরে", "score": 1}
+        ],
+        "correct_answer": "D. ঘরে-বাইরে",
+        "hint": "ঘরে-বাইরে উপন্যাসটি রবীন্দ্রনাথ ঠাকুর লিখেছেন।"
+    },
+    {
+        "question": "42. ‘একুশে ফেব্রুয়ারি’ গ্রন্হের সম্পাদক কে ছিলেন?",
+        "answers": [
+            {"text": "A. হাসান হাফিজুর রহমান", "score": 1},
+            {"text": "B. বেগম সুফিয়া কামাল", "score": 0},
+            {"text": "C. মুনীর চৌধুরী", "score": 0},
+            {"text": "D. আবুল বরকত", "score": 0}
+        ],
+        "correct_answer": "A. হাসান হাফিজুর রহমান",
+        "hint": "'একুশে ফেব্রুয়ারি' গ্রন্থের সম্পাদক ছিলেন হাসান হাফিজুর রহমান।"
+    },
+    {
+        "question": "43. ‘রোহিণী’ চরিত্রটি কোন উপন্যাসে পাওয়া যায়?",
+        "answers": [
+            {"text": "A. চরিত্রহীন", "score": 0},
+            {"text": "B. গৃহদাহ", "score": 0},
+            {"text": "C. কৃষ্ণকান্তের উইল", "score": 1},
+            {"text": "D. সংশপ্তক", "score": 0}
+        ],
+        "correct_answer": "C. কৃষ্ণকান্তের উইল",
+        "hint": "'রোহিণী' চরিত্রটি কৃষ্ণকান্তের উইল উপন্যাসে রয়েছে।"
+    },
+    {
+        "question": "44. বাংলাদেশে জাতীয় সংগীতে কোন বিষয়টি প্রধানভাবে আছে?",
+        "answers": [
+            {"text": "A. বাংলার প্রকৃতির কথা", "score": 0},
+            {"text": "B. বাংলার মানুষের কথা", "score": 1},
+            {"text": "C. বাংলার ইতিহাসের কথা", "score": 0},
+            {"text": "D. বাংলার সংস্কৃতির কথা", "score": 0}
+        ],
+        "correct_answer": "B. বাংলার মানুষের কথা",
+        "hint": "জাতীয় সংগীতে প্রধান বিষয় হলো বাংলার মানুষের কথা।"
+    },
+    {
+        "question": "45. চতুর্ভুজের চার কোণের অনুপাত ১ : ২ : ২ : ৩ হলে বৃহত্তম কোণের পরিমাণ হবে-",
+        "answers": [
+            {"text": "A. ১০০°", "score": 0},
+            {"text": "B. ১১৫°", "score": 0},
+            {"text": "C. ১৩৫°", "score": 1},
+            {"text": "D. ২২৫°", "score": 0}
+        ],
+        "correct_answer": "C. ১৩৫°",
+        "hint": "চতুর্ভুজের কোণের অনুপাত অনুযায়ী বৃহত্তম কোণ হবে ১৩৫°।"
+    },
+    {
+        "question": "46. স্থান  এবং  স্থান  হলে  কত?",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. ", "score": 0}
+        ],
+        "correct_answer": " ",
+        "hint": " "
+    },
+    {
+        "question": "47. = কত?",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. ", "score": 0}
+        ],
+        "correct_answer": " ",
+        "hint": " "
+    },
+    {
+        "question": "48. হলে  এর মান কত?",
+        "answers": [
+            {"text": "A. 52", "score": 0},
+            {"text": "B. 46", "score": 0},
+            {"text": "C. 26", "score": 0},
+            {"text": "D. 22", "score": 1}
+        ],
+        "correct_answer": "D. 22",
+        "hint": "অনুসন্ধান এবং বিশ্লেষণের মাধ্যমে চান্স গণনা করা হয়েছে।"
+    },
+    {
+        "question": "49. বাংলাদেশের লাগা উত্তরে অবস্থিত-",
+        "answers": [
+            {"text": "A. নেপাল ও ভুটান", "score": 1},
+            {"text": "B. পশ্চিমবঙ্গ, মেঘালয় ও আসাম", "score": 0},
+            {"text": "C. পশ্চিমবঙ্গ ও কুচবিহার", "score": 0},
+            {"text": "D. পশ্চিমবঙ্গ ও আসাম", "score": 0}
+        ],
+        "correct_answer": "A. নেপাল ও ভুটান",
+        "hint": "বাংলাদেশের লাগা উত্তরে নেপাল ও ভুটান অবস্থিত।"
+    },
+    {
+        "question": "50. উপমহাদেশের সর্বশেষ গভর্নর জেনারেল কে ছিলেন?",
+        "answers": [
+            {"text": "A. লর্ড মিন্টো", "score": 0},
+            {"text": "B. লর্ড কার্জন", "score": 0},
+            {"text": "C. লর্ড মাউন্টব্যাটেন", "score": 1},
+            {"text": "D. লর্ড ওয়াভেল", "score": 0}
+        ],
+        "correct_answer": "C. লর্ড মাউন্টব্যাটেন",
+        "hint": "উপমহাদেশের সর্বশেষ গভর্নর জেনারেল লর্ড মাউন্টব্যাটেন ছিলেন।"
+    },
+    {
+        "question": "51. অভ্যন্তরীন কন্টেইনার ডিপো কোথায় অবস্থিত?",
+        "answers": [
+            {"text": "A. চট্টগ্রাম", "score": 1},
+            {"text": "B. ঢাকা", "score": 0},
+            {"text": "C. মংলা", "score": 0},
+            {"text": "D. খুলনা", "score": 0}
+        ],
+        "correct_answer": "A. চট্টগ্রাম",
+        "hint": "প্রথম অভ্যন্তরীণ কন্টেইনার ডিপো চট্টগ্রামে অবস্থিত।"
+    },
+    {
+        "question": "52. জাতীয় জনসংখ্যা সংক্রান্ত ১৯৯৪ সালের রিপোর্ট অনুযায়ী জনসংখ্যার দিক দিয়ে বাংলাদেশের স্থান-",
+        "answers": [
+            {"text": "A. সপ্তম", "score": 0},
+            {"text": "B. অষ্টম", "score": 1},
+            {"text": "C. নবম", "score": 0},
+            {"text": "D. দশম", "score": 0}
+        ],
+        "correct_answer": "B. অষ্টম",
+        "hint": "১৯৯৪ সালের রিপোর্ট অনুযায়ী বাংলাদেশ বিশ্বের অষ্টম জনসংখ্যার দেশ ছিল।"
+    },
+    {
+        "question": "53. কর্কটক্রান্তি রেখা–",
+        "answers": [
+            {"text": "A. বাংলাদেশের উত্তর সীমান্ত দিয়ে গিয়েছে", "score": 0},
+            {"text": "B. বাংলাদেশের দক্ষিণ সীমান্ত দিয়ে গিয়েছে", "score": 0},
+            {"text": "C. বাংলাদেশের মধ্যখান দিয়ে গিয়েছে", "score": 1},
+            {"text": "D. বাংলাদেশের বাইরে অবস্থিত", "score": 0}
+        ],
+        "correct_answer": "C. বাংলাদেশের মধ্যখান দিয়ে গিয়েছে",
+        "hint": "কর্কটক্রান্তি রেখা বাংলাদেশের মধ্যভাগে অবস্থিত।"
+    },
+    {
+        "question": "54. পানির জীব হয়েও বাতাসে নিশ্বাস নেয়-",
+        "answers": [
+            {"text": "A. পটকা মাছ", "score": 0},
+            {"text": "B. হাঙ্গর", "score": 0},
+            {"text": "C. শুশুক", "score": 1},
+            {"text": "D. জেলী ফিস", "score": 0}
+        ],
+        "correct_answer": "C. শুশুক",
+        "hint": "শুশুক পানি থেকে উঠে বাতাস থেকে অক্সিজেন নেয়।"
+    },
+    {
+        "question": "55. পিট কয়লার বৈশিষ্ট হলো–",
+        "answers": [
+            {"text": "A. মাটির অনেক গভীরে থাকে", "score": 0},
+            {"text": "B. ভিজা ও নরম", "score": 1},
+            {"text": "C. পাহাড়ি এলাকায় পাওয়া যায়", "score": 0},
+            {"text": "D. দহন ক্ষমতা কয়লার তুলনায় অধিক", "score": 0}
+        ],
+        "correct_answer": "B. ভিজা ও নরম",
+        "hint": "পিট কয়লা ভিজা ও নরম হয়।"
+    },
+    {
+        "question": "56. আধুনিক মুদ্রণ ব্যবস্থায় ধাতুনির্মিত অক্ষরের প্রয়োজন ফুরাবার বড় কারণ–",
+        "answers": [
+            {"text": "A. কম্পিউটার", "score": 1},
+            {"text": "B. অফসেট পদ্ধতি", "score": 0},
+            {"text": "C. ফটো লিথোগ্রাফী", "score": 0},
+            {"text": "D. প্রসেস ক্যামেরা", "score": 0}
+        ],
+        "correct_answer": "A. কম্পিউটার",
+        "hint": "কম্পিউটারের আবির্ভাব ধাতুনির্মিত অক্ষরের প্রয়োজন ফুরিয়েছে।"
+    },
+    {
+        "question": "57. ডিজিটাল টেলিফোনের প্রধান বৈশিষ্ট্য–",
+        "answers": [
+            {"text": "A. ডিজিটাল সিগন্যাল বার্তা প্রেরণ", "score": 1},
+            {"text": "B. বোতাম টিপে ডায়াল করা", "score": 0},
+            {"text": "C. অপটিক্যাল ফাইবারের ব্যাবহার", "score": 0},
+            {"text": "D. নতুন ধরনের মাইক্রোফোন", "score": 0}
+        ],
+        "correct_answer": "A. ডিজিটাল সিগন্যাল বার্তা প্রেরণ",
+        "hint": "ডিজিটাল টেলিফোনের মাধ্যমে ডিজিটাল সিগন্যাল বার্তা প্রেরণ করা হয়।"
+    },
+    {
+        "question": "58. আবহাওয়া ৯০% আর্দ্রতা মানে–",
+        "answers": [
+            {"text": "A. বৃষ্টিপাতের সম্ভাবনা ৯০%", "score": 0},
+            {"text": "B. ১০০ ভাগ বাতাসে ৯০ ভাগ জলীয় বাষ্প", "score": 1},
+            {"text": "C. বাতাসে জলীয় বাষ্পের পরিমাণ সম্পৃক্ত অবস্থায় ৯০%", "score": 0},
+            {"text": "D. বাতাসে জলীয় বাষ্পের পরিমাণ বৃষ্টিপাতের সময়ের ৯০%", "score": 0}
+        ],
+        "correct_answer": "B. ১০০ ভাগ বাতাসে ৯০ ভাগ জলীয় বাষ্প",
+        "hint": "আবহাওয়ায় ৯০% আর্দ্রতা বোঝায় বাতাসের ৯০% জলীয় বাষ্প রয়েছে।"
+    },
+    {
+        "question": "59. ১৯৯৩ সালের ডিসেম্বরে অনুষ্ঠিত রাশিয়ার পার্লামেন্টের নির্বাচনে কোন রাজনৈতিক দলটি সংখ্যাগরিষ্ঠ দল হিসেবে আত্মপ্রকাশ করে?",
+        "answers": [
+            {"text": "A. রাশিয়া’স চয়েস", "score": 1},
+            {"text": "B. লিবারেল ডেমোক্রেটিক পার্টি", "score": 0},
+            {"text": "C. স্যোশ্যাল ডেমোক্রেটিক পার্টি", "score": 0},
+            {"text": "D. দ্য কমিউনিস্ট পার্টি", "score": 0}
+        ],
+        "correct_answer": "A. রাশিয়া’স চয়েস",
+        "hint": "১৯৯৩ সালের ডিসেম্বরে রাশিয়া’স চয়েস পার্লামেন্টে সংখ্যাগরিষ্ঠ দল ছিল।"
+    },
+    {
+        "question": "60. ১৯৬৫ সালের আগে জাতিসংঘের নিরাপত্তা পরিষদের সদস্য সংখ্যা কত ছিল?",
+        "answers": [
+            {"text": "A. ১৫টি", "score": 0},
+            {"text": "B. ৬টি", "score": 0},
+            {"text": "C. ১১টি", "score": 1},
+            {"text": "D. ১০টি", "score": 0}
+        ],
+        "correct_answer": "C. ১১টি",
+        "hint": "জাতিসংঘের নিরাপত্তা পরিষদের সদস্য ছিল ১১টি (৫টি স্থায়ী ও ৬টি অস্থায়ী)।"
+    },
+    {
+        "question": "61. গাম্বিয়ার সেনাবাহিনী অভ্যুত্থানের মাধ্যমে কবে দেশের ক্ষমতা দখল করে?",
+        "answers": [
+            {"text": "A. ২১ জুলাই, ১৯৯৪", "score": 0},
+            {"text": "B. ২২ জুলাই, ১৯৯৪", "score": 1},
+            {"text": "C. ২৩ জুলাই, ১৯৯৪", "score": 0},
+            {"text": "D. ২৪ জুলাই, ১৯৯৪", "score": 0}
+        ],
+        "correct_answer": "B. ২২ জুলাই, ১৯৯৪",
+        "hint": "গাম্বিয়ার সেনাবাহিনী ২২ জুলাই, ১৯৯৪ অভ্যুত্থান ঘটিয়ে ক্ষমতা দখল করে।"
+    },
+    {
+        "question": "62. নাইজেরিয়ার বিরোধী নেতা মাসুদ আবিওলা কবে নিজেকে নাইজেরিয়ার প্রেসিডেন্ট বলে ঘোষণা করেন?",
+        "answers": [
+            {"text": "A. ৭ জুন, ১৯৯৪", "score": 1},
+            {"text": "B. ১১ জুন, ১৯৯৪", "score": 0},
+            {"text": "C. ১ জুলাই, ১৯৯৪", "score": 0},
+            {"text": "D. ১২ জুলাই, ১৯৯৪", "score": 0}
+        ],
+        "correct_answer": "A. ৭ জুন, ১৯৯৪",
+        "hint": "মাসুদ আবিওলা ৭ জুন, ১৯৯৪ প্রেসিডেন্ট হিসেবে ঘোষণা করেন।"
+    },
+    {
+        "question": "63. ১৪ ডিসেম্বর, ১৯৯৩ তারিখে শহীদ বুদ্ধিজীবীদের স্মৃতিকে স্মরণীয় করে রাখার জন্য ঢাকার মোট কতগুলো সড়কের নামকরণ করা হয়?",
+        "answers": [
+            {"text": "A. ৪টি", "score": 0},
+            {"text": "B. ৫টি", "score": 1},
+            {"text": "C. ৬টি", "score": 0},
+            {"text": "D. ৭টি", "score": 0}
+        ],
+        "correct_answer": "B. ৫টি",
+        "hint": "১৪ ডিসেম্বর ১৯৯৩ ঢাকার ৫টি সড়কের নতুন নামকরণ করা হয় শহীদ বুদ্ধিজীবীদের স্মরণে।"
+    },
+    {
+        "question": "64. বাংলাদেশের ১৯৯৪-৯৫ সালের বাজেটে শিক্ষা খাতে বরাদ্দের পরিমাণ কত?",
+        "answers": [
+            {"text": "A. ১,৮২৪ কোটি টাকা", "score": 0},
+            {"text": "B. ১,৮৪২ কোটি টাকা", "score": 1},
+            {"text": "C. ১,৮৭৬ কোটি টাকা", "score": 0},
+            {"text": "D. ১,৮৬৭ কোটি টাকা", "score": 0}
+        ],
+        "correct_answer": "B. ১,৮৪২ কোটি টাকা",
+        "hint": "১৯৯৪-৯৫ সালের বাজেটে শিক্ষা খাতে বরাদ্দ ছিল ১,৮৪২ কোটি টাকা।"
+    },
+    {
+        "question": "65. বাংলাদেশের দীর্ঘতম রেলসেতু কোনটি?",
+        "answers": [
+            {"text": "A. ভৈরব সেতু", "score": 0},
+            {"text": "B. হার্ডিঞ্জ সেতু", "score": 1},
+            {"text": "C. ব্রহ্মপুত্র সেতু", "score": 0},
+            {"text": "D. তিস্তা সেতু", "score": 0}
+        ],
+        "correct_answer": "B. হার্ডিঞ্জ সেতু",
+        "hint": "হার্ডিঞ্জ সেতুই বাংলাদেশের দীর্ঘতম রেল সেতু।"
+    },
+    {
+        "question": "66. চাকমা শরণার্থীদের দ্বিতীয় দফায় ১ম দিন অর্থাৎ ২১ জুলাই, ১৯৯৪ তারিখে কতজন বাংলাদেশে প্রত্যাবর্তন করেন?",
+        "answers": [
+            {"text": "A. ৩৮৭ জন", "score": 0},
+            {"text": "B. ৩৭৫ জন", "score": 0},
+            {"text": "C. ৩৫৭ জন", "score": 0},
+            {"text": "D. ৩৭৮ জন", "score": 1}
+        ],
+        "correct_answer": "D. ৩৭৮ জন",
+        "hint": "চাকমা শরণার্থীরা দ্বিতীয় দফায় ৩৭৮ জন বাংলাদেশে প্রত্যাবর্তন করে।"
+    },
+    {
+        "question": "67. জীবনানন্দ দাশের জন্মস্থান কোন জেলায়?",
+        "answers": [
+            {"text": "A. বরিশাল জেলা", "score": 1},
+            {"text": "B. ফরিদপুর জেলা", "score": 0},
+            {"text": "C. ঢাকা জেলা", "score": 0},
+            {"text": "D. রাজশাহী জেলা", "score": 0}
+        ],
+        "correct_answer": "A. বরিশাল জেলা",
+        "hint": "জীবনানন্দ দাশের জন্মস্থান বরিশাল জেলা।"
+    },
+    {
+        "question": "68. The antonym of ‘indifference’ is–",
+        "answers": [
+            {"text": "A. ardour", "score": 0},
+            {"text": "B. compassion", "score": 1},
+            {"text": "C. anxiety", "score": 0},
+            {"text": "D. concern", "score": 0}
+        ],
+        "correct_answer": "B. compassion",
+        "hint": "Indifference - অনীহা, নিস্পৃহা, এর বিপরীত অর্থ compassion।"
+    },
+    {
+        "question": "69. Three Score is–",
+        "answers": [
+            {"text": "A. thirty times", "score": 0},
+            {"text": "B. three hundred times", "score": 0},
+            {"text": "C. three times twenty", "score": 1},
+            {"text": "D. more than three", "score": 0}
+        ],
+        "correct_answer": "C. three times twenty",
+        "hint": "Three Score মানে ৬০, যা three times twenty।"
+    },
+    {
+        "question": "70. An Ordinance is–",
+        "answers": [
+            {"text": "A. a book", "score": 0},
+            {"text": "B. an arms factory", "score": 0},
+            {"text": "C. a news paper journal", "score": 0},
+            {"text": "D. a law", "score": 1}
+        ],
+        "correct_answer": "D. a law",
+        "hint": "Ordinance এর অর্থ অধ্যাদেশ, আইন।"
+    },
+    {
+        "question": "71. A fantasy is–",
+        "answers": [
+            {"text": "A. an imaginary story", "score": 1},
+            {"text": "B. a funny film", "score": 0},
+            {"text": "C. a history record", "score": 0},
+            {"text": "D. a real-life event", "score": 0}
+        ],
+        "correct_answer": "A. an imaginary story",
+        "hint": "'Fantasy' মানে কাল্পনিক গল্প।"
+    },
+    {
+        "question": "72. Something that is ‘fresh’ is something–",
+        "answers": [
+            {"text": "A. recently printed or published", "score": 1},
+            {"text": "B. in fairly good condition", "score": 0},
+            {"text": "C. disrespectful", "score": 0},
+            {"text": "D. pleasant", "score": 0}
+        ],
+        "correct_answer": "A. recently printed or published",
+        "hint": "'Fresh' হলে নতুন করে প্রকাশিত কিছু বোঝায়।"
+    },
+    {
+        "question": "73. ‘মানুষেরই মাঝে স্বর্গ-নরক, মানুষেতে সুরাসুর’- এই পংক্তিটি কার রচনা?",
+        "answers": [
+            {"text": "A. রবীন্দ্রনাথ ঠাকুর", "score": 0},
+            {"text": "B. কাজী নজরুল ইসলাম", "score": 1},
+            {"text": "C. শেখ ফজলুল করিম", "score": 0},
+            {"text": "D. শামসুর রহমান", "score": 0}
+        ],
+        "correct_answer": "B. কাজী নজরুল ইসলাম",
+        "hint": "এই পংক্তিটি কাজী নজরুল ইসলামের রচনা।"
+    },
+    {
+        "question": "74. বাংলা একাডেমি কোন বছর প্রতিষ্ঠিত হয়?",
+        "answers": [
+            {"text": "A. ১৯৫৫ খ্রিষ্টাব্দে", "score": 1},
+            {"text": "B. ১৩৫৫ বঙ্গাব্দে", "score": 0},
+            {"text": "C. ১৯৫২ খ্রিষ্টাব্দে", "score": 0},
+            {"text": "D. ১৩৫২ বঙ্গাব্দে", "score": 0}
+        ],
+        "correct_answer": "A. ১৯৫৫ খ্রিষ্টাব্দে",
+        "hint": "'বাংলা একাডেমি' ১৯৫৫ সালের ৩ ডিসেম্বর প্রতিষ্ঠিত হয়।"
+    },
+    {
+        "question": "75. সাধু ভাষা ও চলিত ভাষার পার্থক্য–",
+        "answers": [
+            {"text": "A. বাক্যের সরল ও জটিল রূপে", "score": 0},
+            {"text": "B. শব্দের রূপগত ভিন্নতায়", "score": 0},
+            {"text": "C. তৎসম ও অর্ধতৎসম শব্দের ব্যবহারে", "score": 1},
+            {"text": "D. ক্রিয়াপদ ও সর্বনাম পদের রূপগত ভিন্নতায়", "score": 0}
+        ],
+        "correct_answer": "C. তৎসম ও অর্ধতৎসম শব্দের ব্যবহারে",
+        "hint": "সাধু ভাষায় ব্যবহৃত শব্দধর্মের পার্থক্য রয়েছে।"
+    },
+    {
+        "question": "76. সমগ্র পবিত্র কুরআনের প্রথম বাংলা অনুবাদ কে করেন?",
+        "answers": [
+            {"text": "A. গোলাম মোস্তফা", "score": 0},
+            {"text": "B. ফররুখ আহমদ", "score": 0},
+            {"text": "C. ভাই গিরিশচন্দ্র সেন", "score": 1},
+            {"text": "D. সুনীতিকুমার চট্টোপাধ্যায়", "score": 0}
+        ],
+        "correct_answer": "C. ভাই গিরিশচন্দ্র সেন",
+        "hint": "'ভাই গিরিশচন্দ্র সেন' প্রথম বাংলা অনুবাদটি করেন।"
+    },
+    {
+        "question": "77. ‘সমকাল’ পত্রিকার সম্পাদক কে ছিলেন?",
+        "answers": [
+            {"text": "A. মোহাম্মদ আকরম খাঁ", "score": 0},
+            {"text": "B. তফাজ্জল হোসেন", "score": 1},
+            {"text": "C. মোহাম্মদ নাসিরউদ্দীন", "score": 0},
+            {"text": "D. সিকান্দার আবু জাফর", "score": 0}
+        ],
+        "correct_answer": "B. তফাজ্জল হোসেন",
+        "hint": "'সমকাল' পত্রিকার সম্পাদক ছিলেন তফাজ্জল হোসেন।"
+    },
+    {
+        "question": "78. ‘সওগাত’ পত্রিকার সম্পাদক কে ছিলেন?",
+        "answers": [
+            {"text": "A. কাজী নজরুল ইসলাম", "score": 1},
+            {"text": "B. আবুল কালাম শামসুদ্দীন", "score": 0},
+            {"text": "C. খান মুহাম্মদ মঈনুউদ্দীন", "score": 0},
+            {"text": "D. মোহাম্মদ নাসিরুদ্দীন", "score": 0}
+        ],
+        "correct_answer": "A. কাজী নজরুল ইসলাম",
+        "hint": "'সওগাত' পত্রিকার সম্পাদক কাজী নজরুল ইসলাম ছিলেন।"
+    },
+    {
+        "question": "79. ১৯৯৩ সালের ডিসেম্বরে অনুষ্ঠিত রাশিয়ার পার্লামেন্টের নির্বাচনে কোন রাজনৈতিক দলটি সংখ্যাগরিষ্ঠ দল হিসেবে আত্মপ্রকাশ করে?",
+        "answers": [
+            {"text": "A. রাশিয়া’স চয়েস", "score": 1},
+            {"text": "B. লিবারেল ডেমোক্রেটিক পার্টি", "score": 0},
+            {"text": "C. স্যোশ্যাল ডেমোক্রেটিক পার্টি", "score": 0},
+            {"text": "D. দ্য কমিউনিস্ট পার্টি", "score": 0}
+        ],
+        "correct_answer": "A. রাশিয়া’স চয়েস",
+        "hint": "'রাশিয়া'স চয়েস' নির্বাচনে সংখ্যাগরিষ্ঠ দল ছিল।"
+    },
+    {
+        "question": "80. ১৯৬৫ সালের আগে জাতিসংঘের নিরাপত্তা পরিষদের সদস্য সংখ্যা কত ছিল?",
+        "answers": [
+            {"text": "A. ১৫টি", "score": 0},
+            {"text": "B. ৬টি", "score": 0},
+            {"text": "C. ১১টি", "score": 1},
+            {"text": "D. ১০টি", "score": 0}
+        ],
+        "correct_answer": "C. ১১টি",
+        "hint": "জাতিসংঘের নিরাপত্তা পরিষদে সদস্য সংখ্যা ১১টি ছিল।"
+    },
+    {
+        "question": "81. গাম্বিয়ার সেনাবাহিনী অভ্যুত্থানের মাধ্যমে কবে দেশের ক্ষমতা দখল করে?",
+        "answers": [
+            {"text": "A. ২১ জুলাই, ১৯৯৪", "score": 0},
+            {"text": "B. ২২ জুলাই, ১৯৯৪", "score": 1},
+            {"text": "C. ২৩ জুলাই, ১৯৯৪", "score": 0},
+            {"text": "D. ২৪ জুলাই, ১৯৯৪", "score": 0}
+        ],
+        "correct_answer": "B. ২২ জুলাই, ১৯৯৪",
+        "hint": "গাম্বিয়ার সেনাবাহিনী ২২ জুলাই, ১৯৯৪ ক্ষমতা দখল করে।"
+    },
+    {
+        "question": "82. নাইজেরিয়ার বিরোধী নেতা মাসুদ আবিওলা কবে নিজেকে নাইজেরিয়ার প্রেসিডেন্ট বলে ঘোষণা করেন?",
+        "answers": [
+            {"text": "A. ৭ জুন, ১৯৯৪", "score": 1},
+            {"text": "B. ১১ জুন, ১৯৯৪", "score": 0},
+            {"text": "C. ১ জুলাই, ১৯৯৪", "score": 0},
+            {"text": "D. ১২ জুলাই, ১৯৯৪", "score": 0}
+        ],
+        "correct_answer": "A. ৭ জুন, ১৯৯৪",
+        "hint": "মাসুদ আবিওলা ৭ জুন, ১৯৯৪ প্রেসিডেন্ট হিসেবে ঘোষণা করেন।"
+    },
+    {
+        "question": "83. ১৪ ডিসেম্বর, ১৯৯৩ তারিখে শহীদ বুদ্ধিজীবীদের স্মৃতিকে স্মরণীয় করে রাখার জন্য ঢাকার মোট কতগুলো সড়কের নামকরণ করা হয়?",
+        "answers": [
+            {"text": "A. ৪টি", "score": 0},
+            {"text": "B. ৫টি", "score": 1},
+            {"text": "C. ৬টি", "score": 0},
+            {"text": "D. ৭টি", "score": 0}
+        ],
+        "correct_answer": "B. ৫টি",
+        "hint": "১৪ ডিসেম্বর ১৯৯৩ ঢাকার ৫টি সড়কের নতুন নামকরণ করা হয় শহীদ বুদ্ধিজীবীদের স্মরণে।"
+    },
+    {
+        "question": "84. বাংলাদেশের ১৯৯৪-৯৫ সালের বাজেটে শিক্ষা খাতে বরাদ্দের পরিমাণ কত?",
+        "answers": [
+            {"text": "A. ১,৮২৪ কোটি টাকা", "score": 0},
+            {"text": "B. ১,৮৪২ কোটি টাকা", "score": 1},
+            {"text": "C. ১,৮৭৬ কোটি টাকা", "score": 0},
+            {"text": "D. ১,৮৬৭ কোটি টাকা", "score": 0}
+        ],
+        "correct_answer": "B. ১,৮৪২ কোটি টাকা",
+        "hint": "১৯৯৪-৯৫ সালের বাজেটে শিক্ষা খাতে বরাদ্দ ছিল ১,৮৪২ কোটি টাকা।"
+    },
+    {
+        "question": "85. বাংলাদেশের দীর্ঘতম রেলসেতু কোনটি?",
+        "answers": [
+            {"text": "A. ভৈরব সেতু", "score": 0},
+            {"text": "B. হার্ডিঞ্জ সেতু", "score": 1},
+            {"text": "C. ব্রহ্মপুত্র সেতু", "score": 0},
+            {"text": "D. তিস্তা সেতু", "score": 0}
+        ],
+        "correct_answer": "B. হার্ডিঞ্জ সেতু",
+        "hint": "হার্ডিঞ্জ সেতুই বাংলাদেশের দীর্ঘতম রেল সেতু।"
+    },
+    {
+        "question": "86. চাকমা শরণার্থীদের দ্বিতীয় দফায় ১ম দিন অর্থাৎ ২১ জুলাই, ১৯৯৪ তারিখে কতজন বাংলাদেশে প্রত্যাবর্তন করেন?",
+        "answers": [
+            {"text": "A. ৩৮৭ জন", "score": 0},
+            {"text": "B. ৩৭৫ জন", "score": 0},
+            {"text": "C. ৩৫৭ জন", "score": 0},
+            {"text": "D. ৩৭৮ জন", "score": 1}
+        ],
+        "correct_answer": "D. ৩৭৮ জন",
+        "hint": "চাকমা শরণার্থীরা দ্বিতীয় দফায় ৩৭৮ জন বাংলাদেশে প্রত্যাবর্তন করে।"
+    },
+    {
+        "question": "87. জীবনানন্দ দাশের জন্মস্থান কোন জেলায়?",
+        "answers": [
+            {"text": "A. বরিশাল জেলা", "score": 1},
+            {"text": "B. ফরিদপুর জেলা", "score": 0},
+            {"text": "C. ঢাকা জেলা", "score": 0},
+            {"text": "D. রাজশাহী জেলা", "score": 0}
+        ],
+        "correct_answer": "A. বরিশাল জেলা",
+        "hint": "জীবনানন্দ দাশের জন্মস্থান বরিশাল জেলা।"
+    },
+    {
+        "question": "88. The antonym of ‘indifference’ is–",
+        "answers": [
+            {"text": "A. ardour", "score": 0},
+            {"text": "B. compassion", "score": 1},
+            {"text": "C. anxiety", "score": 0},
+            {"text": "D. concern", "score": 0}
+        ],
+        "correct_answer": "B. compassion",
+        "hint": "Indifference - অনীহা, নিস্পৃহা, এর বিপরীত অর্থ compassion।"
+    },
+    {
+        "question": "89. Three Score is–",
+        "answers": [
+            {"text": "A. thirty times", "score": 0},
+            {"text": "B. three hundred times", "score": 0},
+            {"text": "C. three times twenty", "score": 1},
+            {"text": "D. more than three", "score": 0}
+        ],
+        "correct_answer": "C. three times twenty",
+        "hint": "Three Score মানে ৬০, যা three times twenty।"
+    },
+    {
+        "question": "90. An Ordinance is–",
+        "answers": [
+            {"text": "A. a book", "score": 0},
+            {"text": "B. an arms factory", "score": 0},
+            {"text": "C. a news paper journal", "score": 0},
+            {"text": "D. a law", "score": 1}
+        ],
+        "correct_answer": "D. a law",
+        "hint": "Ordinance এর অর্থ অধ্যাপক আইন।"
+    },
+    {
+        "question": "91. A fantasy is–",
+        "answers": [
+            {"text": "A. an imaginary story", "score": 1},
+            {"text": "B. a funny film", "score": 0},
+            {"text": "C. a history record", "score": 0},
+            {"text": "D. a real-life event", "score": 0}
+        ],
+        "correct_answer": "A. an imaginary story",
+        "hint": "'Fantasy' মানে কাল্পনিক গল্প।"
+    },
+    {
+        "question": "92. Something that is ‘fresh’ is something–",
+        "answers": [
+            {"text": "A. recently printed or published", "score": 1},
+            {"text": "B. in fairly good condition", "score": 0},
+            {"text": "C. disrespectful", "score": 0},
+            {"text": "D. pleasant", "score": 0}
+        ],
+        "correct_answer": "A. recently printed or published",
+        "hint": "'Fresh' হলে নতুন করে প্রকাশিত কিছু বোঝায়।"
+    },
+    {
+        "question": "93. ‘মানুষেরই মাঝে স্বর্গ-নরক, মানুষেতে সুরাসুর’- এই পংক্তিটি কার রচনা?",
+        "answers": [
+            {"text": "A. রবীন্দ্রনাথ ঠাকুর", "score": 0},
+            {"text": "B. কাজী নজরুল ইসলাম", "score": 1},
+            {"text": "C. শেখ ফজলুল করিম", "score": 0},
+            {"text": "D. শামসুর রহমান", "score": 0}
+        ],
+        "correct_answer": "B. কাজী নজরুল ইসলাম",
+        "hint": "এই পংক্তিটি কাজী নজরুল ইসলামের রচনা।"
+    },
+    {
+        "question": "94. বাংলা একাডেমি কোন বছর প্রতিষ্ঠিত হয়?",
+        "answers": [
+            {"text": "A. ১৯৫৫ খ্রিষ্টাব্দে", "score": 1},
+            {"text": "B. ১৩৫৫ বঙ্গাব্দে", "score": 0},
+            {"text": "C. ১৯৫২ খ্রিষ্টাব্দে", "score": 0},
+            {"text": "D. ১৩৫২ বঙ্গাব্দে", "score": 0}
+        ],
+        "correct_answer": "A. ১৯৫৫ খ্রিষ্টাব্দে",
+        "hint": "'বাংলা একাডেমি' ১৯৫৫ সালের ৩ ডিসেম্বর প্রতিষ্ঠিত হয়।"
+    },
+    {
+        "question": "95. সাধু ভাষা ও চলিত ভাষার পার্থক্য–",
+        "answers": [
+            {"text": "A. বাক্যের সরল ও জটিল রূপে", "score": 0},
+            {"text": "B. শব্দের রূপগত ভিন্নতায়", "score": 0},
+            {"text": "C. তৎসম ও অর্ধতৎসম শব্দের ব্যবহারে", "score": 1},
+            {"text": "D. ক্রিয়াপদ ও সর্বনাম পদের রূপগত ভিন্নতায়", "score": 0}
+        ],
+        "correct_answer": "C. তৎসম ও অর্ধতৎসম শব্দের ব্যবহারে",
+        "hint": "সাধু ভাষায় ব্যবহৃত শব্দধর্মের পার্থক্য রয়েছে।"
+    },
+    {
+        "question": "96. সমগ্র পবিত্র কুরআনের প্রথম বাংলা অনুবাদ কে করেন?",
+        "answers": [
+            {"text": "A. গোলাম মোস্তফা", "score": 0},
+            {"text": "B. ফররুখ আহমদ", "score": 0},
+            {"text": "C. ভাই গিরিশচন্দ্র সেন", "score": 1},
+            {"text": "D. সুনীতিকুমার চট্টোপাধ্যায়", "score": 0}
+        ],
+        "correct_answer": "C. ভাই গিরিশচন্দ্র সেন",
+        "hint": "'ভাই গিরিশচন্দ্র সেন' প্রথম বাংলা অনুবাদটি করেন।"
+    },
+    {
+        "question": "97. ‘সমকাল’ পত্রিকার সম্পাদক কে ছিলেন?",
+        "answers": [
+            {"text": "A. মোহাম্মদ আকরম খাঁ", "score": 0},
+            {"text": "B. তফাজ্জল হোসেন", "score": 1},
+            {"text": "C. মোহাম্মদ নাসিরউদ্দীন", "score": 0},
+            {"text": "D. সিকান্দার আবু জাফর", "score": 0}
+        ],
+        "correct_answer": "B. তফাজ্জল হোসেন",
+        "hint": "'সমকাল' পত্রিকার সম্পাদক ছিলেন তফাজ্জল হোসেন।"
+    },
+    {
+        "question": "98. ‘সওগাত’ পত্রিকার সম্পাদক কে ছিলেন?",
+        "answers": [
+            {"text": "A. কাজী নজরুল ইসলাম", "score": 1},
+            {"text": "B. আবুল কালাম শামসুদ্দীন", "score": 0},
+            {"text": "C. খান মুহাম্মদ মঈনুউদ্দীন", "score": 0},
+            {"text": "D. মোহাম্মদ নাসিরুদ্দীন", "score": 0}
+        ],
+        "correct_answer": "A. কাজী নজরুল ইসলাম",
+        "hint": "'সওগাত' পত্রিকার সম্পাদক কাজী নজরুল ইসলাম ছিলেন।"
+    },
+    {
+        "question": "99. ১৯৯৩ সালের ডিসেম্বরে অনুষ্ঠিত রাশিয়ার পার্লামেন্টের নির্বাচনে কোন রাজনৈতিক দলটি সংখ্যাগরিষ্ঠ দল হিসেবে আত্মপ্রকাশ করে?",
+        "answers": [
+            {"text": "A. রাশিয়া’স চয়েস", "score": 1},
+            {"text": "B. লিবারেল ডেমোক্রেটিক পার্টি", "score": 0},
+            {"text": "C. স্যোশ্যাল ডেমোক্রেটিক পার্টি", "score": 0},
+            {"text": "D. দ্য কমিউনিস্ট পার্টি", "score": 0}
+        ],
+        "correct_answer": "A. রাশিয়া’স চয়েস",
+        "hint": "'রাশিয়া'স চয়েস' নির্বাচনে সংখ্যাগরিষ্ঠ দল ছিল।"
+    },
+    {
+        "question": "100. ১৯৬৫ সালের আগে জাতিসংঘের নিরাপত্তা পরিষদের সদস্য সংখ্যা কত ছিল?",
+        "answers": [
+            {"text": "A. ১৫টি", "score": 0},
+            {"text": "B. ৬টি", "score": 0},
+            {"text": "C. ১১টি", "score": 1},
+            {"text": "D. ১০টি", "score": 0}
+        ],
+        "correct_answer": "C. ১১টি",
+        "hint": "১৯৬৫ সালের আগে নিরাপত্তা পরিষদের সদস্য সংখ্যা ছিল ১১টি।"
+    }
+]

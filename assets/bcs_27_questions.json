@@ -1,0 +1,1102 @@
+[
+    {
+        "question": "1. কোনটি উপন্যাস?",
+        "answers": [
+            {"text": "A. নতুন চাঁদ", "score": 0},
+            {"text": "B. কন্যাকুমারী", "score": 1},
+            {"text": "C. গড্ডলিকা", "score": 0},
+            {"text": "D. নেমেসিস", "score": 0}
+        ],
+        "correct_answer": "B. কন্যাকুমারী",
+        "hint": "‘কন্যাকুমারী’ আবদুর রাজ্জাক কর্তৃক রচিত উপন্যাস।"
+    },
+    {
+        "question": "2. লৌকিক কাহিনির প্রথম রচয়িতা কে?",
+        "answers": [
+            {"text": "A. আলাওল", "score": 0},
+            {"text": "B. কোরেশী মগন", "score": 0},
+            {"text": "C. দৌলত কাজী", "score": 1},
+            {"text": "D. সৈয়দ সুলতান", "score": 0}
+        ],
+        "correct_answer": "C. দৌলত কাজী",
+        "hint": "লৌকিক কাহিনির প্রথম রচয়িতা দৌলত কাজী।"
+    },
+    {
+        "question": "3. সাপ্তাহিক ‘সুধাকর’-এর সম্পাদক কে?",
+        "answers": [
+            {"text": "A. মুন্সি মোহাম্মদ রিয়াজউদ্দিন আহমদ", "score": 0},
+            {"text": "B. মুন্সি মোহাম্মদ মেহের উল্লাহ", "score": 0},
+            {"text": "C. শেখ আব্দুর রহিম", "score": 1},
+            {"text": "D. ইসমাইল হোসেন সিরাজী", "score": 0}
+        ],
+        "correct_answer": "C. শেখ আব্দুর রহিম",
+        "hint": "শেখ আব্দুর রহিম ‘সুদ্ধাকার’ পত্রিকার সম্পাদক।"
+    },
+    {
+        "question": "4. মাসিক ‘মোহাম্মদী’ কোন সালে প্রকাশিত হয়?",
+        "answers": [
+            {"text": "A. ১৯২৬", "score": 0},
+            {"text": "B. ১৯২৭", "score": 1},
+            {"text": "C. ১৯২৮", "score": 0},
+            {"text": "D. ১৯২৯", "score": 0}
+        ],
+        "correct_answer": "B. ১৯২৭",
+        "hint": "মাসিক ‘মোহাম্মদী’ ১৯২৭ সালে প্রকাশিত হয়।"
+    },
+    {
+        "question": "5. কোন পত্রিকাটি ১৯২৩ সালে প্রকাশিত হয়?",
+        "answers": [
+            {"text": "A. কালি কলম", "score": 1},
+            {"text": "B. প্রগতি", "score": 0},
+            {"text": "C. কল্লোল", "score": 0},
+            {"text": "D. সবুজপত্র", "score": 0}
+        ],
+        "correct_answer": "A. কালি কলম",
+        "hint": "কালি কলম পত্রিকাটি ১৯২৩ সালে প্রকাশিত হয়।"
+    },
+    {
+        "question": "6. ঢাকা থেকে প্রকাশিত হয় কোন পত্রিকাটি?",
+        "answers": [
+            {"text": "A. অরণি", "score": 0},
+            {"text": "B. পরিচয়", "score": 1},
+            {"text": "C. নবশক্তি", "score": 0},
+            {"text": "D. ক্রান্তি", "score": 0}
+        ],
+        "correct_answer": "B. পরিচয়",
+        "hint": "ঢাকা থেকে প্রকাশিত পত্রিকার নাম পরিচয়।"
+    },
+    {
+        "question": "7. গ্রিক শব্দ কোনটি?",
+        "answers": [
+            {"text": "A. তুফান", "score": 0},
+            {"text": "B. লুঙ্গী", "score": 0},
+            {"text": "C. কুশন", "score": 0},
+            {"text": "D. দাম", "score": 1}
+        ],
+        "correct_answer": "D. দাম",
+        "hint": "'দাম' হচ্ছে গ্রিক শব্দ।"
+    },
+    {
+        "question": "8. বাংলা ভাষায় কয়টি খাঁটি বাংলা উপসর্গ আছে?",
+        "answers": [
+            {"text": "A. উনিশ", "score": 0},
+            {"text": "B. কুড়ি", "score": 0},
+            {"text": "C. একুশ", "score": 1},
+            {"text": "D. বাইশি", "score": 0}
+        ],
+        "correct_answer": "C. একুশ",
+        "hint": "বাংলা ভাষায় খাঁটি বাংলা উপসর্গ রয়েছে ২১টি।"
+    },
+    {
+        "question": "9. ‘শিশুরাজ্যে এই মেয়েটি একটি ছোটখাট বর্গির উপদ্রব বলিলেই হয়।’ রবীন্দ্রনাথ ঠাকুরের কোন গল্পের সংলাপ?",
+        "answers": [
+            {"text": "A. একরাত্রি", "score": 0},
+            {"text": "B. শুভা", "score": 0},
+            {"text": "C. সমাপ্তি", "score": 1},
+            {"text": "D. পোস্টমাস্টার", "score": 0}
+        ],
+        "correct_answer": "C. সমাপ্তি",
+        "hint": "সংলাপটি ‘সমাপ্তি’ গল্পের নায়িকা 'মৃন্ময়ী' সম্পর্কে লেখকের উক্তি।"
+    },
+    {
+        "question": "10. বাংলা সাহিত্যের প্রথম ইতিহাস গ্রন্থ কোনটি?",
+        "answers": [
+            {"text": "A. বাঙ্গালা সাহিত্যের ইতিহাস", "score": 1},
+            {"text": "B. বঙ্গভাষা ও সাহিত্য", "score": 0},
+            {"text": "C. বাংলা সাহিত্যের কথা", "score": 0},
+            {"text": "D. বাংলা সাহিত্যের রূপরেখা", "score": 0}
+        ],
+        "correct_answer": "A. বাঙ্গালা সাহিত্যের ইতিহাস",
+        "hint": "বাংলা সাহিত্যের প্রথম ইতিহাস গ্রন্থ হলো 'বাঙ্গালা সাহিত্যের ইতিহাস'।"
+    },
+    {
+        "question": "11. কত খ্রিস্টাব্দে শরৎচন্দ্র চট্টোপাধ্যায় কলকাতা বিশ্ববিদ্যালয়ের ‘জগত্তারিণী’ পদক লাভ করেন?",
+        "answers": [
+            {"text": "A. ১৯১৬", "score": 0},
+            {"text": "B. ১৯২৩", "score": 1},
+            {"text": "C. ১৯৩৩", "score": 0},
+            {"text": "D. ১৯০৩", "score": 0}
+        ],
+        "correct_answer": "B. ১৯২৩",
+        "hint": "শরৎচন্দ্র চট্টোপাধ্যায় ১৯২৩ সালে ‘জগত্তারিণী’ পদক লাভ করেন।"
+    },
+    {
+        "question": "12. রাজা রামমোহন রচিত বাংলা ব্যাকরণের নাম কি?",
+        "answers": [
+            {"text": "A. মাগধীয় ব্যাকরণ", "score": 0},
+            {"text": "B. গৌড়ীয় ব্যাকরণ", "score": 1},
+            {"text": "C. মাতৃভাষা ব্যাকরণ", "score": 0},
+            {"text": "D. ভাষা ও ব্যাকরণ", "score": 0}
+        ],
+        "correct_answer": "B. গৌড়ীয় ব্যাকরণ",
+        "hint": "রাজা রামমোহন রায় গৌড়ীয় ব্যাকরণ রচনা করেন।"
+    },
+    {
+        "question": "13. ‘মেছো’ শব্দের প্রকৃতি-প্রত্যয় কি?",
+        "answers": [
+            {"text": "A. মাছ + ও", "score": 1},
+            {"text": "B. মেছ + ও", "score": 0},
+            {"text": "C. মাছি + উয়া > ও", "score": 0},
+            {"text": "D. মাছ + উয়া > ও", "score": 0}
+        ],
+        "correct_answer": "A. মাছ + ও",
+        "hint": "'মেছো' শব্দের প্রকৃতি-প্রত্যয় হলো মাছ + ও।"
+    },
+    {
+        "question": "14. কোন সন্ধিটি নিপাতনে সিদ্ধ?",
+        "answers": [
+            {"text": "A. বাক্‌ + দান = বাগদান", "score": 0},
+            {"text": "B. উৎ + ছেদ = উচ্ছেদ", "score": 0},
+            {"text": "C. পর + পর = পরস্পর", "score": 1},
+            {"text": "D. সম + সার = সংসার", "score": 0}
+        ],
+        "correct_answer": "C. পর + পর = পরস্পর",
+        "hint": "নিপাতনে সিদ্ধ হওয়ার জন্য যে সন্ধিটি নিয়ম অনুসরণ করে।"
+    },
+    {
+        "question": "15. বাংলা মৌলিক নাটকের যাত্রা শুরু হয় কোন নাট্যকারের হাতে?",
+        "answers": [
+            {"text": "A. মধুসূদন দত্ত", "score": 0},
+            {"text": "B. দীনবন্ধু মিত্র", "score": 1},
+            {"text": "C. জ্যোতিন্দ্রনাথ ঠাকুর", "score": 0},
+            {"text": "D. রামনারায়ণ তর্করত্ন", "score": 0}
+        ],
+        "correct_answer": "B. দীনবন্ধু মিত্র",
+        "hint": "বাংলা মৌলিক নাট্যসাহিত্যের সূচনা দীনবন্ধু মিত্রের হাত ধরে।"
+    },
+    {
+        "question": "16. প্রত্যক্ষ কোনো বস্তুর সাথে পরোক্ষ কোনো বস্তুর তুলনা করলে প্রত্যক্ষ বস্তুটিকে বলা হয়___।",
+        "answers": [
+            {"text": "A. উপমিত", "score": 1},
+            {"text": "B. উপমান", "score": 0},
+            {"text": "C. উপমেয়", "score": 0},
+            {"text": "D. রূপক", "score": 0}
+        ],
+        "correct_answer": "A. উপমিত",
+        "hint": "প্রত্যক্ষ বস্তু তুলনা করার সময় তাকে উপমিত বলা হয়।"
+    },
+    {
+        "question": "17. ‘পাখি সব করে রব রাতি পোহাইল’ পঙ্‌ক্তির রচয়িতা কে?",
+        "answers": [
+            {"text": "A. রামনারায়ণ তর্করত্ন", "score": 0},
+            {"text": "B. বিহারী লাল", "score": 0},
+            {"text": "C. কৃষ্ণচন্দ্র মজুমদার", "score": 0},
+            {"text": "D. মদনমোহন তর্কালঙ্কার", "score": 1}
+        ],
+        "correct_answer": "D. মদনমোহন তর্কালঙ্কার",
+        "hint": "‘পাখি সব করে রব’ কবিতাটি মদনমোহন তর্কালঙ্কারের লেখা।"
+    },
+    {
+        "question": "18. ‘আমি কিংবদন্তীর কথা বলছি’-এর রচয়িতা কে?",
+        "answers": [
+            {"text": "A. সিকানদার আবু জাফর", "score": 0},
+            {"text": "B. আবু জাফর ওবায়দুল্লাহ", "score": 1},
+            {"text": "C. ফররুখ আহমদ", "score": 0},
+            {"text": "D. আহসান হাবীব", "score": 0}
+        ],
+        "correct_answer": "B. আবু জাফর ওবায়দুল্লাহ",
+        "hint": "‘আমি কিংবদন্তীর কথা বলছি’ আবু জাফর ওবায়দুল্লাহ রচিত।"
+    },
+    {
+        "question": "19. ‘জীবনে জ্যাঠামি ও সাহিত্যে ন্যাকামি’ সহ্য করতে পারতেন না-",
+        "answers": [
+            {"text": "A. বঙ্কিমচন্দ্র", "score": 0},
+            {"text": "B. সৈয়দ মুজতবা আলী", "score": 1},
+            {"text": "C. প্রমথ চৌধুরী", "score": 0},
+            {"text": "D. প্রমথনাথ বিশী", "score": 0}
+        ],
+        "correct_answer": "B. সৈয়দ মুজতবা আলী",
+        "hint": "সৈয়দ মুজতবা আলী সাহিত্যের জন্য মার্জিত রুচির নাগরিক।"
+    },
+    {
+        "question": "20. ‘এ মাটি সোনার বাড়া’-এ উদ্ধৃতিতে ‘সোনা’ কোন অর্থে ব্যবহার করা হয়েছে?",
+        "answers": [
+            {"text": "A. বিশেষণের অতিশায়ন", "score": 1},
+            {"text": "B. রূপবাচক বিশেষণ", "score": 0},
+            {"text": "C. উপাদান বাচক বিশেষণ", "score": 0},
+            {"text": "D. বিধেয় বিশেষণ", "score": 0}
+        ],
+        "correct_answer": "A. বিশেষণের অতিশায়ন",
+        "hint": "উদ্ধৃতির মধ্যে অতিশায়নের অর্থ বোঝানো হয়েছে।"
+    },
+    {
+        "question": "21. What would have happened if ___?",
+        "answers": [
+            {"text": "A. The bridge is broken", "score": 0},
+            {"text": "B. The bridge would break", "score": 0},
+            {"text": "C. The bridge had broken", "score": 1},
+            {"text": "D. The bridge had been broken", "score": 0}
+        ],
+        "correct_answer": "C. The bridge had broken",
+        "hint": "'would have' ব্যবহৃত হয় অতীতের কিছু ঘটনার আদানপ্রদান বোঝাতে।"
+    },
+    {
+        "question": "22. Explain the meaning of ‘Bring to pass’.",
+        "answers": [
+            {"text": "A. Cause to destroy", "score": 0},
+            {"text": "B. Cause to happen", "score": 1},
+            {"text": "C. Cause to carry out", "score": 0},
+            {"text": "D. Cause to convince", "score": 0}
+        ],
+        "correct_answer": "B. Cause to happen",
+        "hint": "'Bring to pass' -এর অর্থ হচ্ছে কোনো কিছু ঘটা।"
+    },
+    {
+        "question": "23. Which of the following sentences is the correct one?",
+        "answers": [
+            {"text": "A. Paper is made of wood", "score": 0},
+            {"text": "B. Paper is made from wood", "score": 1},
+            {"text": "C. Paper is made by wood", "score": 0},
+            {"text": "D. Paper is made on wood", "score": 0}
+        ],
+        "correct_answer": "B. Paper is made from wood",
+        "hint": "তৈরি হওয়া বোঝাতে 'made from' ব্যবহার করা হয়।"
+    },
+    {
+        "question": "24.  -",
+        "answers": [
+            {"text": "A. generosity", "score": 1},
+            {"text": "B. familiar", "score": 0},
+            {"text": "C. dividing line", "score": 0},
+            {"text": "D. sympathy", "score": 0}
+        ],
+        "correct_answer": "A. generosity",
+        "hint": "'generosity' শব্দটির অর্থ হচ্ছে উদারতা।"
+    },
+    {
+        "question": "25. Give the correct passive form of ‘My teacher embodies all the good qualities’.",
+        "answers": [
+            {"text": "A. All the good qualities are embodied by my teacher.", "score": 1},
+            {"text": "B. All the good qualities are embodied in my teacher.", "score": 0},
+            {"text": "C. All the good qualities are embodied to my teacher.", "score": 0},
+            {"text": "D. All the good qualities are embodied on my teacher.", "score": 0}
+        ],
+        "correct_answer": "A. All the good qualities are embodied by my teacher.",
+        "hint": "Passive করার সময় 'embodied by' ব্যবহার করা হয়েছে।"
+    },
+    {
+        "question": "26. Choose the correct indirect speech- She asked me, ‘Are you happy in your new job?’",
+        "answers": [
+            {"text": "A. She asked me if I was happy in my new job", "score": 1},
+            {"text": "B. She asked me if I have been happy in my new job", "score": 0},
+            {"text": "C. She asked me whether I am happy in my new job", "score": 0},
+            {"text": "D. She asked me if I had been happy in my new job", "score": 0}
+        ],
+        "correct_answer": "A. She asked me if I was happy in my new job",
+        "hint": "Indirect করার সময় Assertive করে নিতে হবে।"
+    },
+    {
+        "question": "27. The meaning of the word ‘Obese’ is–",
+        "answers": [
+            {"text": "A. very fat", "score": 1},
+            {"text": "B. ugly", "score": 0},
+            {"text": "C. tardy", "score": 0},
+            {"text": "D. obnoxious", "score": 0}
+        ],
+        "correct_answer": "A. very fat",
+        "hint": "'Obese' শব্দটির অর্থ হচ্ছে খুব মোটা।"
+    },
+    {
+        "question": "28. A person who writes about his own life writes–",
+        "answers": [
+            {"text": "A. a diary", "score": 0},
+            {"text": "B. a biography", "score": 0},
+            {"text": "C. an autobiography", "score": 1},
+            {"text": "D. a chronicle", "score": 0}
+        ],
+        "correct_answer": "C. an autobiography",
+        "hint": "'Autobiography' বলতে বোঝায় নিজের জীবনের গল্প।"
+    },
+    {
+        "question": "29. Which of the following sentences is correct?",
+        "answers": [
+            {"text": "A. Why have you done this?", "score": 1},
+            {"text": "B. Why you had done this?", "score": 0},
+            {"text": "C. Why you have done this?", "score": 0},
+            {"text": "D. Why did you done this?", "score": 0}
+        ],
+        "correct_answer": "A. Why have you done this?",
+        "hint": "Question টির সঠিক গঠন 'Why have you done this?' "
+    },
+    {
+        "question": "30. What will be the correct preposition to complete the sentence? ‘I am not good ___ translation’",
+        "answers": [
+            {"text": "A. in", "score": 0},
+            {"text": "B. about", "score": 0},
+            {"text": "C. with", "score": 0},
+            {"text": "D. at", "score": 1}
+        ],
+        "correct_answer": "D. at",
+        "hint": "'Good' সাধারণত 'at' preposition এর সাথে ব্যবহৃত হয়।"
+    },
+    {
+        "question": "31. Which is the noun of the word ‘beautiful’.",
+        "answers": [
+            {"text": "A. Beauty", "score": 1},
+            {"text": "B. Beautify", "score": 0},
+            {"text": "C. Beauteous", "score": 0},
+            {"text": "D. Beautifully", "score": 0}
+        ],
+        "correct_answer": "A. Beauty",
+        "hint": "'Beauty' শব্দটি noun।"
+    },
+    {
+        "question": "32. Fill in the blank with appropriate preposition. ‘Hurry up! we have to go ___ five minutes.’",
+        "answers": [
+            {"text": "A. in", "score": 0},
+            {"text": "B. on", "score": 0},
+            {"text": "C. by", "score": 1},
+            {"text": "D. for", "score": 0}
+        ],
+        "correct_answer": "C. by",
+        "hint": "'by' দ্বারা নির্দিষ্ট সময়ের পূর্বে বোঝায়।"
+    },
+    {
+        "question": "33. Identify the imperative sentence.",
+        "answers": [
+            {"text": "A. I shall go to college", "score": 0},
+            {"text": "B. Matin is singing a song", "score": 0},
+            {"text": "C. Stand up", "score": 1},
+            {"text": "D. It has been raining since morning", "score": 0}
+        ],
+        "correct_answer": "C. Stand up",
+        "hint": "Imperative sentence হলো নির্দেশমূলক বাক্য।"
+    },
+    {
+        "question": "34. Fill in the gap with the suitable word. To stay healthy, we must plan to have a balanced ___",
+        "answers": [
+            {"text": "A. diet", "score": 1},
+            {"text": "B. food", "score": 0},
+            {"text": "C. drink", "score": 0},
+            {"text": "D. environment", "score": 0}
+        ],
+        "correct_answer": "A. diet",
+        "hint": "'Balanced diet' স্বাস্থ্য ঠিক রাখার জন্য প্রয়োজন।"
+    },
+    {
+        "question": "35. Choose the correct alternative and mark its letter on your answer sheet. The rich should not look down ___ the poor.",
+        "answers": [
+            {"text": "A. at", "score": 0},
+            {"text": "B. for", "score": 0},
+            {"text": "C. towards", "score": 0},
+            {"text": "D. upon", "score": 1}
+        ],
+        "correct_answer": "D. upon",
+        "hint": "'look down upon' দ্বারা বোঝায় ঘৃণা করা।"
+    },
+    {
+        "question": "36. I took a map with me, as I didn’t want to ___ my way on the journey.",
+        "answers": [
+            {"text": "A. loose", "score": 0},
+            {"text": "B. lose", "score": 1},
+            {"text": "C. lost", "score": 0},
+            {"text": "D. loss", "score": 0}
+        ],
+        "correct_answer": "B. lose",
+        "hint": "Infinitive হিসেবে 'to lose' ক্ষেত্র হামলা হবে।"
+    },
+    {
+        "question": "37. Every driver must be held ___ his own actions.",
+        "answers": [
+            {"text": "A. responsible for", "score": 1},
+            {"text": "B. responsible to", "score": 0},
+            {"text": "C. liable to", "score": 0},
+            {"text": "D. blamed for", "score": 0}
+        ],
+        "correct_answer": "A. responsible for",
+        "hint": "'be held responsible for' ব্যবহার করা হয়।"
+    },
+    {
+        "question": "38. ‘Through thick and thin’ means–",
+        "answers": [
+            {"text": "A. under all conditions", "score": 1},
+            {"text": "B. to make thick and thin", "score": 0},
+            {"text": "C. not clear in understanding", "score": 0},
+            {"text": "D. of great density", "score": 0}
+        ],
+        "correct_answer": "A. under all conditions",
+        "hint": "'Through thick and thin' -এর অর্থ হচ্ছে যে কোনো অবস্থার মধ্যে।"
+    },
+    {
+        "question": "39. ‘Prior to’ means–",
+        "answers": [
+            {"text": "A. after", "score": 0},
+            {"text": "B. before", "score": 1},
+            {"text": "C. immediately", "score": 0},
+            {"text": "D. during the period of", "score": 0}
+        ],
+        "correct_answer": "B. before",
+        "hint": "'Prior to' -এর অর্থ হচ্ছে পূর্ববর্তী।"
+    },
+    {
+        "question": "40. Nobody knocked him down; it was an–",
+        "answers": [
+            {"text": "A. incident", "score": 0},
+            {"text": "B. occurrence", "score": 0},
+            {"text": "C. accident", "score": 1},
+            {"text": "D. event", "score": 0}
+        ],
+        "correct_answer": "C. accident",
+        "hint": "'Accident' দ্বারা বোঝানো হচ্ছে দুর্ঘটনা।"
+    },
+    {
+        "question": "41. ১ ₂ ₂ ₂ ৩ ₂ ৫ ₀ ₂ = কত?",
+        "answers": [
+            {"text": "A. ৩৫৭২৫", "score": 0},
+            {"text": "B. ৪২৯২৫", "score": 0},
+            {"text": "C. ৪৫৫০০", "score": 1},
+            {"text": "D. ৪৭২২৫", "score": 0}
+        ],
+        "correct_answer": "C. ৪৫৫০০",
+        "hint": "প্রথম ও দ্বিতীয় পদগুলির যোগফল বের করতে হবে।"
+    },
+    {
+        "question": "42. ৪ টাকায় ৫টি করে কিনে ৫ টাকায় ৪টি করে বিক্রয় করলে শতকরা কত লাভ হবে?",
+        "answers": [
+            {"text": "A. ৪৫%", "score": 0},
+            {"text": "B. ৪৮.৫০%", "score": 0},
+            {"text": "C. ৫২.৭৫%", "score": 1},
+            {"text": "D. ৫৬.২৫%", "score": 0}
+        ],
+        "correct_answer": "C. ৫২.৭৫%",
+        "hint": "লাভ বের করার জন্য ক্রয়মূল্য ও বিক্রয়মূল্য জানতে হবে।"
+    },
+    {
+        "question": "43. একটি ব্যবসায়ী একটি পন্যের মুল ২৫% বাড়ালো, অতঃপর বর্ধিত মুল্য থেকে ২৫% কমালো।সর্বশেষ মুল্য সর্বপ্রথম মুল্যের তুলনায়-",
+        "answers": [
+            {"text": "A. ৪৫% কমানো হয়েছে", "score": 0},
+            {"text": "B. ৬.২৫% কমানো হয়েছে", "score": 1},
+            {"text": "C. ৬.২৫% বাড়ানো হয়েছে", "score": 0},
+            {"text": "D. ৫% বাড়ানো হয়েছে", "score": 0}
+        ],
+        "correct_answer": "B. ৬.২৫% কমানো হয়েছে",
+        "hint": "অতিরিক্ত মূল্য বৃদ্ধির পর কী হালকা হয় দেখা যায়।"
+    },
+    {
+        "question": "44. যদি একটি কাজ ৯ জন লোক ১২ দিনে করতে পারে, অতিরিক্ত ৩ জন লোক নিয়োগ করলে কাজটি কতদিনে শেষ হবে?",
+        "answers": [
+            {"text": "A. ৭", "score": 1},
+            {"text": "B. ৯", "score": 0},
+            {"text": "C. ১০", "score": 0},
+            {"text": "D. ১২", "score": 0}
+        ],
+        "correct_answer": "A. ৭",
+        "hint": "অতিরিক্ত শ্রমিক নিয়োগের ফলাফল বের করতে হবে।"
+    },
+    {
+        "question": "45. শিক্ষা সফরে যাওয়ার জন্য ২৪০০ টাকায় বাস ভাড়া করা হলো এবং প্রত্যেক ছাত্র/ছাত্রী সমান ভাড়া বহন করবে ঠিক হলো। অতিরিক্ত ১০ জন ছাত্র/ছাত্রী যাওয়ায় প্রতি জনের ভাড়া ৮ টাকা কমে গেল। বাসে কতজন ছাত্র/ছাত্রী গিয়েছিল?",
+        "answers": [
+            {"text": "A. ৪০", "score": 0},
+            {"text": "B. ৪৮", "score": 0},
+            {"text": "C. ৫০", "score": 1},
+            {"text": "D. ৬০", "score": 0}
+        ],
+        "correct_answer": "C. ৫০",
+        "hint": "শিক্ষার্থী সংখ্যার ভিত্তিতে ভাগফল বের করতে হবে।"
+    },
+    {
+        "question": "46. পিতা, মাতা ও পুত্রের বয়সের গড় ৩৭ বছর। আবার পিতা ও পুত্রের বয়সের গড় ৩৫ বছর। মাতার বয়স কত?",
+        "answers": [
+            {"text": "A. ৩৮ বছর", "score": 0},
+            {"text": "B. ৪১ বছর", "score": 0},
+            {"text": "C. ৪৫ বছর", "score": 1},
+            {"text": "D. ৪৮ বছর", "score": 0}
+        ],
+        "correct_answer": "C. ৪৫ বছর",
+        "hint": "বয়সের গড় বের করতে হবে।"
+    },
+    {
+        "question": "47. যদি  -  হয় তবে  কত?",
+        "answers": [
+            {"text": "A. 12", "score": 0},
+            {"text": "B. 14", "score": 0},
+            {"text": "C. 16", "score": 1},
+            {"text": "D. 18", "score": 0}
+        ],
+        "correct_answer": "C. 16",
+        "hint": "গণনা করতে হবে।"
+    },
+    {
+        "question": "48. বৃত্তের ব্যাস তিনগুণ বৃদ্ধি করলে ক্ষেত্রফল কতগুণ বৃদ্ধি পাবে?",
+        "answers": [
+            {"text": "A. ৪", "score": 0},
+            {"text": "B. ৯", "score": 1},
+            {"text": "C. ১২", "score": 0},
+            {"text": "D. ১৬", "score": 0}
+        ],
+        "correct_answer": "B. ৯",
+        "hint": "ব্যাসার্ধ তিনগুণ হলে ক্ষেত্রফল থাকে πr², বরং ৩gড়ে আনতে হবে।"
+    },
+    {
+        "question": "49. একটি সমদ্বিবাহু সমকোণী ত্রিভুজের অতিভুজের দৈর্ঘ্য 12 সেমি হলে ত্রিভুজটির ক্ষেত্রফল কত বর্গ সেমি?",
+        "answers": [
+            {"text": "A. ৩৬", "score": 0},
+            {"text": "B. ৪৮", "score": 1},
+            {"text": "C. ৫৬", "score": 0},
+            {"text": "D. ৭২", "score": 0}
+        ],
+        "correct_answer": "B. ৪৮",
+        "hint": "তথ্য অনুযায়ী গাণিতিক সূত্র কাজে লাগাতে হবে।"
+    },
+    {
+        "question": "50. ৬০ থেকে ৮০ এর মধ্যবর্তী বৃহত্তম ও ক্ষুদ্রতম মৌলিক সংখ্যার অন্তর হবে-",
+        "answers": [
+            {"text": "A. ৮", "score": 0},
+            {"text": "B. ১২", "score": 0},
+            {"text": "C. ১৮", "score": 1},
+            {"text": "D. ১৪০", "score": 0}
+        ],
+        "correct_answer": "C. ১৮",
+        "hint": "৬০ ও ৮০ এর মধ্যে মৌলিক সংখ্যা বের করতে হবে।"
+    },
+    {
+        "question": "51. NIPORT কি?",
+        "answers": [
+            {"text": "A. জনসংখ্যা বিষয়ক গবেষণা প্রতিষ্ঠান", "score": 1},
+            {"text": "B. পোলট্রি ফার্ম বিষয়ক গবেষণা প্রতিষ্ঠান", "score": 0},
+            {"text": "C. নদীবন্দর বিষয়ক গবেষণা প্রতিষ্ঠান", "score": 0},
+            {"text": "D. বন্দর বিষয়ক গবেষণা প্রতিষ্ঠান", "score": 0}
+        ],
+        "correct_answer": "A. জনসংখ্যা বিষয়ক গবেষণা প্রতিষ্ঠান",
+        "hint": "NIPORT জনসংখ্যা বিষয়ক গবেষণা প্রতিষ্ঠান।"
+    },
+    {
+        "question": "52. সংবিধানের কোন অনুচ্ছেদে ‘রাষ্ট্র ও গণজীবনের সর্বস্তরে নারী পুরুষের সমান অধিকার লাভ করিবেন’ বলা আছে?",
+        "answers": [
+            {"text": "A. ১০ নং অনুচ্ছেদে", "score": 0},
+            {"text": "B. ২১ (২) নং অনুচ্ছেদে", "score": 1},
+            {"text": "C. ২৭ নং অনুচ্ছেদে", "score": 0},
+            {"text": "D. ২৮ (২) নং অনুচ্ছেদে", "score": 0}
+        ],
+        "correct_answer": "B. ২১ (২) নং অনুচ্ছেদে",
+        "hint": "সমান অধিকার বিষয়ে সংবিধানের ২১(২) অনুচ্ছেদ আছে।"
+    },
+    {
+        "question": "53. UNDP রিপোর্ট সেপ্টেম্বর ২০০৫ সাল মোতাবেক বাংলাদেশের মাথাপিছু আয় কত?",
+        "answers": [
+            {"text": "A. ৪৪৪ ডলার", "score": 0},
+            {"text": "B. ৭৭০ ডলার", "score": 1},
+            {"text": "C. ১০৭০ ডলার", "score": 0},
+            {"text": "D. ১৭৭০ ডলার", "score": 0}
+        ],
+        "correct_answer": "B. ৭৭০ ডলার",
+        "hint": "UNDP রিপোর্ট মোতাবেক বাংলাদেশের মাথাপিছু আয়।"
+    },
+    {
+        "question": "54. স্বাধীনতা যুদ্ধে অবদানের জন্যে ‘বীরপ্রতীক’ উপাধি লাভ করে কতজন?",
+        "answers": [
+            {"text": "A. ৭ জন", "score": 0},
+            {"text": "B. ৬৮ জন", "score": 1},
+            {"text": "C. ১৭৫ জন", "score": 0},
+            {"text": "D. ৪২৬ জন", "score": 0}
+        ],
+        "correct_answer": "B. ৬৮ জন",
+        "hint": "স্বাধীনতা যুদ্ধে ৬ জন বীর নেতাকে বীরপ্রতীক উপাধি দেওয়া হয়েছে।"
+    },
+    {
+        "question": "55. বাংলাদেশে ইক্ষু গবেষণা ইনস্টিটিউট কোথায় অবস্থিত?",
+        "answers": [
+            {"text": "A. দিনাজপুর", "score": 0},
+            {"text": "B. গোপালপুর", "score": 0},
+            {"text": "C. পাকশী", "score": 0},
+            {"text": "D. ঈশ্বরদী", "score": 1}
+        ],
+        "correct_answer": "D. ঈশ্বরদী",
+        "hint": "বাংলাদেশের ইক্ষু গবেষণা ইনস্টিটিউট পাবনা জেলার ঈশ্বরদীতে অবস্থিত।"
+    },
+    {
+        "question": "56. মিলেনিয়াম ডেভেলপমেন্ট গোল অর্জন করার কথা কোন সময়ে?",
+        "answers": [
+            {"text": "A. ২০১০ সালে", "score": 0},
+            {"text": "B. ২০১৫ সালে", "score": 1},
+            {"text": "C. ২০২০ সালে", "score": 0},
+            {"text": "D. ২০২৫ সালে", "score": 0}
+        ],
+        "correct_answer": "B. ২০১৫ সালে",
+        "hint": "মিলেনিয়াম ডেভেলপমেন্ট গোল ২০১৫ সালের জন্য নির্ধারণ করা হয়েছিল।"
+    },
+    {
+        "question": "57. রাজারবাগ পুলিশ লাইনে ‘দুর্জয়’ ভাস্কর্যটির শিল্পী কে?",
+        "answers": [
+            {"text": "A. হামিদুর রহমান", "score": 0},
+            {"text": "B. মৃণাল হক", "score": 1},
+            {"text": "C. শামিম শিকদার", "score": 0},
+            {"text": "D. নভেরা আহমেদ", "score": 0}
+        ],
+        "correct_answer": "B. মৃণাল হক",
+        "hint": "'দুর্জয়' ভাস্কর্যটির শিল্পী মৃণাল হক।"
+    },
+    {
+        "question": "58. চট্টগ্রাম-কক্সবাজার সাবমেরিন কেবলস অপটিক্যাল ফাইবার স্থাপন করার জন্য বাংলাদেশ সরকারকে কত দূরত্বের ব্যয় বহন করতে হবে?",
+        "answers": [
+            {"text": "A. ৭০০ কিমি", "score": 0},
+            {"text": "B. ৫৭০ কিমি", "score": 1},
+            {"text": "C. ৩০০ কিমি", "score": 0},
+            {"text": "D. ১৭০ কিমি", "score": 0}
+        ],
+        "correct_answer": "B. ৫৭০ কিমি",
+        "hint": "চট্টগ্রাম-কক্সবাজার অপটিক্যাল ফাইবারের ব্যয় কিনা তা বের করতে হবে।"
+    },
+    {
+        "question": "59. রাজেন্দ্রপুর সেনানিবাসে অবস্থিত মুক্তিযুদ্ধের স্মৃতিস্তম্ভের নাম কি?",
+        "answers": [
+            {"text": "A. বিজয়স্তম্ভ", "score": 1},
+            {"text": "B. বিজয়কেতন", "score": 0},
+            {"text": "C. স্বাধীনতা সোপান", "score": 0},
+            {"text": "D. রক্ত সোপান", "score": 0}
+        ],
+        "correct_answer": "A. বিজয়স্তম্ভ",
+        "hint": "রাজেন্দ্রপুর সেনানিবাসে মুক্তিযুদ্ধের স্মৃতিস্তম্ভ 'বিজয়স্তম্ভ'।"
+    },
+    {
+        "question": "60. বাংলাদেশের পোস্টাল একাডেমি কোথায় অবস্থিত?",
+        "answers": [
+            {"text": "A. রাজশাহী", "score": 0},
+            {"text": "B. ঢাকা", "score": 1},
+            {"text": "C. চট্টগ্রাম", "score": 0},
+            {"text": "D. খুলনা", "score": 0}
+        ],
+        "correct_answer": "B. ঢাকা",
+        "hint": "পোস্টাল একাডেমি ঢাকা শহরে অবস্থিত।"
+    },
+    {
+        "question": "61. প্রস্তাবিত পদ্মা সেতুর দৈর্ঘ্য কত কিমি?",
+        "answers": [
+            {"text": "A. ৫.০৩", "score": 0},
+            {"text": "B. ৬.০৩", "score": 0},
+            {"text": "C. ৪.৮", "score": 1},
+            {"text": "D. ৬.৮", "score": 0}
+        ],
+        "correct_answer": "C. ৪.৮",
+        "hint": "পদ্মা সেতুর দৈর্ঘ্য প্রকল্পের আলোচনায় আলোচনা করা হয়েছে।"
+    },
+    {
+        "question": "62. বাংলাদেশে সর্বপ্রথম কোন মহিলা টেস্টটিউব শিশুর মা হন?",
+        "answers": [
+            {"text": "A. পারভীন ফাতেমা", "score": 1},
+            {"text": "B. ফিরোজা বেগম", "score": 0},
+            {"text": "C. রওশন জাহান", "score": 0},
+            {"text": "D. কানিজ ফাতেমা", "score": 0}
+        ],
+        "correct_answer": "A. পারভীন ফাতেমা",
+        "hint": "প্রথম টেস্টটিউব শিশুর মা পারভীন ফাতেমা।"
+    },
+    {
+        "question": "63. বাংলাদেশ জাতিসংঘের কততম সদস্য?",
+        "answers": [
+            {"text": "A. ১৩৬ তম", "score": 0},
+            {"text": "B. ১৩৭ তম", "score": 1},
+            {"text": "C. ১৩৮ তম", "score": 0},
+            {"text": "D. ১৩৯ তম", "score": 0}
+        ],
+        "correct_answer": "B. ১৩৭ তম",
+        "hint": "বাংলাদেশ জাতিসংঘের ১৩৭ নম্বর সদস্য।"
+    },
+    {
+        "question": "64. কেন্দ্রীয় শহিদ মিনারের স্থপতি কে?",
+        "answers": [
+            {"text": "A. তানভীর কবীর", "score": 0},
+            {"text": "B. হামিদুর রহমান", "score": 1},
+            {"text": "C. হামিদুজ্জামান", "score": 0},
+            {"text": "D. অস্কার বাদল", "score": 0}
+        ],
+        "correct_answer": "B. হামিদুর রহমান",
+        "hint": "কেন্দ্রীয় শহিদ মিনারের স্থপতি হামিদুর রহমান।"
+    },
+    {
+        "question": "65. জাতিসংঘ সাধারণ পরিষদের প্রথম বাংলাদেশী সভাপতি কে?",
+        "answers": [
+            {"text": "A. বি এ সিদ্দিকী", "score": 0},
+            {"text": "B. খাজা ওয়াসিউদ্দিন", "score": 0},
+            {"text": "C. হুমায়ুন রশীদ চৌধুরী", "score": 1},
+            {"text": "D. শমসের মবিন চৌধুরী", "score": 0}
+        ],
+        "correct_answer": "C. হুমায়ুন রশীদ চৌধুরী",
+        "hint": "হুমায়ুন রশীদ চৌধুরী জাতিসংঘ সাধারণ পরিষদের প্রথম সভাপতি।"
+    },
+    {
+        "question": "66. স্বাধীনতা যুদ্ধে অবদান রাখার জন্য কতজন মহিলাকে বীরপ্রতীক উপাধিতে ভূষিত করা হয়?",
+        "answers": [
+            {"text": "A. ৫ জন", "score": 0},
+            {"text": "B. ৭ জন", "score": 0},
+            {"text": "C. ২ জন", "score": 1},
+            {"text": "D. ৬ জন", "score": 0}
+        ],
+        "correct_answer": "C. ২ জন",
+        "hint": "স্বাধীনতা যুদ্ধে ২ জন মহিলা বীরপ্রতীক পান।"
+    },
+    {
+        "question": "67. কর্মসংস্থান ব্যাংক প্রতিষ্ঠিত হয় কোন সনে?",
+        "answers": [
+            {"text": "A. ১৯৯৫", "score": 0},
+            {"text": "B. ১৯৯৬", "score": 0},
+            {"text": "C. ১৯৯৮", "score": 1},
+            {"text": "D. ২০০১", "score": 0}
+        ],
+        "correct_answer": "C. ১৯৯৮",
+        "hint": "কর্মসংস্থান ব্যাংক ১৯৯৮ সালে প্রতিষ্ঠিত হয়।"
+    },
+    {
+        "question": "68. লোকসংখ্যার দিক থেকে বাংলাদেশ বিশ্বের কততম স্থানে?",
+        "answers": [
+            {"text": "A. ৫ম", "score": 0},
+            {"text": "B. ৭ম", "score": 1},
+            {"text": "C. ৮ম", "score": 0},
+            {"text": "D. ১০ম", "score": 0}
+        ],
+        "correct_answer": "B. ৭ম",
+        "hint": "বাংলাদেশ বিশ্বের ৭ম জনসংখ্যার দেশ।"
+    },
+    {
+        "question": "69. সেন্ট মার্টিন দ্বীপের আয়তন কত বর্গ কিলোমিটার?",
+        "answers": [
+            {"text": "A. ৮", "score": 1},
+            {"text": "B. ১০", "score": 0},
+            {"text": "C. ১২", "score": 0},
+            {"text": "D. ১৪", "score": 0}
+        ],
+        "correct_answer": "A. ৮",
+        "hint": "সেন্ট মার্টিনের আয়তন ৮ বর্গ কিলোমিটার।"
+    },
+    {
+        "question": "70. বাংলাদেশে পরমাণু শক্তি কমিশন গঠিত হয় কোন সনে?",
+        "answers": [
+            {"text": "A. ১৯৭২", "score": 0},
+            {"text": "B. ১৯৭৩", "score": 1},
+            {"text": "C. ১৯৭৫", "score": 0},
+            {"text": "D. ১৯৯৭", "score": 0}
+        ],
+        "correct_answer": "B. ১৯৭৩",
+        "hint": "বাংলাদেশে পরমাণু শক্তি কমিশন ১৯৭৩ সালে গঠিত হয়।"
+    },
+    {
+        "question": "71. কোন ইঞ্জিনে কার্বুরেটর থাকে?",
+        "answers": [
+            {"text": "A. পেট্রোল ইঞ্জিনে", "score": 1},
+            {"text": "B. ডিজেল ইঞ্জিনে", "score": 0},
+            {"text": "C. রকেট ইঞ্জিনে", "score": 0},
+            {"text": "D. বিমান ইঞ্জিনে", "score": 0}
+        ],
+        "correct_answer": "A. পেট্রোল ইঞ্জিনে",
+        "hint": "কার্বুরেটর থাকে পেট্রোল ইঞ্জিনে।"
+    },
+    {
+        "question": "72. সর্বাপেক্ষা ছোট তরঙ্গ দৈর্ঘ্যের বিকিরণ হচ্ছে–",
+        "answers": [
+            {"text": "A. আলফা রশ্মি", "score": 0},
+            {"text": "B. বিটা রশ্মি", "score": 0},
+            {"text": "C. গামা রশ্মি", "score": 1},
+            {"text": "D. রঞ্জন রশি", "score": 0}
+        ],
+        "correct_answer": "C. গামা রশ্মি",
+        "hint": "গামা রশ্মির তরঙ্গ দৈর্ঘ্য সবচেয়ে ছোট হয়।"
+    },
+    {
+        "question": "73. মানুষের হৃৎপিণ্ডে কতটি প্রকোষ্ঠ থাকে?",
+        "answers": [
+            {"text": "A. দুটি", "score": 0},
+            {"text": "B. চারটি", "score": 1},
+            {"text": "C. ছয়টি", "score": 0},
+            {"text": "D. আটটি", "score": 0}
+        ],
+        "correct_answer": "B. চারটি",
+        "hint": "মানুষের হৃৎপিণ্ডে চারটি প্রকোষ্ঠ থাকে।"
+    },
+    {
+        "question": "74. প্রেসার কুকারে রান্না তাড়াতাড়ি হয়, কারণ–",
+        "answers": [
+            {"text": "A. রান্নার জন্য শুধু তাপ নয় চাপও কাজে লাগে", "score": 1},
+            {"text": "B. বদ্ধ পাত্রে তাপ সংরক্ষিত হয়", "score": 0},
+            {"text": "C. উচ্চচাপে তরলের স্ফুটনাংক বৃদ্ধি পায়", "score": 0},
+            {"text": "D. সঞ্চিত বাষ্পের তাপ রান্নার সহায়ক", "score": 0}
+        ],
+        "correct_answer": "A. রান্নার জন্য শুধু তাপ নয় চাপও কাজে লাগে",
+        "hint": "প্রেসার কুকারে রান্না হয় উচ্চ চাপের কারণে।"
+    },
+    {
+        "question": "75. বিলিরুবিন তৈরি হয়-",
+        "answers": [
+            {"text": "A. পিত্তথলিতে", "score": 0},
+            {"text": "B. কিডনীতে", "score": 0},
+            {"text": "C. প্লীহায়", "score": 1},
+            {"text": "D. যকৃতে", "score": 0}
+        ],
+        "correct_answer": "C. প্লীহায়",
+        "hint": "বিলিরুবিন পিত্তরসে তৈরি হয়।"
+    },
+    {
+        "question": "76. মানুষের গায়ের রং কোন উপাদানের উপর নির্ভর করে?",
+        "answers": [
+            {"text": "A. মেলানিন", "score": 1},
+            {"text": "B. থায়ামিন", "score": 0},
+            {"text": "C. ক্যারোটিন", "score": 0},
+            {"text": "D. হিমোগ্লোবিন", "score": 0}
+        ],
+        "correct_answer": "A. মেলানিন",
+        "hint": "মানুষের ত্বকের রং নির্ভর করে মেলানিনের উপর।"
+    },
+    {
+        "question": "77. বাদুড় অন্ধকারে চলাফেরা করে কিভাবে?",
+        "answers": [
+            {"text": "A. তীক্ষ্ম দৃষ্টিসম্পন্ন চোখের মাধ্যমে", "score": 0},
+            {"text": "B. ক্রমাগত শব্দ উৎপন্নের মাধ্যমে অবস্থান নির্ণয় করে", "score": 0},
+            {"text": "C. সৃষ্ট শব্দের প্রতিধ্বনি শুনে", "score": 1},
+            {"text": "D. অলৌকিকভাবে", "score": 0}
+        ],
+        "correct_answer": "C. সৃষ্ট শব্দের প্রতিধ্বনি শুনে",
+        "hint": "বাদুড় প্রাপ্ত শব্দের বিপরীতে অবস্থান নির্ণয় করে।"
+    },
+    {
+        "question": "78. গাছের খাদ্য তালিকায় আছে?",
+        "answers": [
+            {"text": "A. N, P, K, S ও Zn", "score": 1},
+            {"text": "B. Na, P, K, S ও Zn", "score": 0},
+            {"text": "C. N, B, K, S ও Al", "score": 0},
+            {"text": "D. N, P, K, S ও Al", "score": 0}
+        ],
+        "correct_answer": "A. N, P, K, S ও Zn",
+        "hint": "গাছের খাদ্য তালিকায় দরকারি খনিজ উপাদান।"
+    },
+    {
+        "question": "79. নিচের কোনটি DNA এর নাইট্রোজেন বেস?",
+        "answers": [
+            {"text": "A. ইউরাসিল", "score": 0},
+            {"text": "B. গোয়ানিন", "score": 1},
+            {"text": "C. পিরিডক্সিন", "score": 0},
+            {"text": "D. অ্যাসপারাজিন", "score": 0}
+        ],
+        "correct_answer": "B. গোয়ানিন",
+        "hint": "গোয়ানিন হলো DNA এর একটি নাইট্রোজেন বেস।"
+    },
+    {
+        "question": "80. নিচের কোনটি পরমাণুর নিউক্লিয়াসে থাকে না?",
+        "answers": [
+            {"text": "A. meson", "score": 1},
+            {"text": "B. neutron", "score": 0},
+            {"text": "C. proton", "score": 0},
+            {"text": "D. electron", "score": 0}
+        ],
+        "correct_answer": "A. meson",
+        "hint": "পদার্থের পরমাণুর কেন্দ্রে মেসন থাকে না।"
+    },
+    {
+        "question": "81. ২০০৫ সালে যুক্তরাষ্ট্রের দক্ষিণ বা দক্ষিণ-পশ্চিম অঞ্চলে সর্বপ্রথম কোন হারিকেনটি আঘাত হানে?",
+        "answers": [
+            {"text": "A. ডেনিস", "score": 0},
+            {"text": "B. ক্যাটরিনা", "score": 1},
+            {"text": "C. আইভান", "score": 0},
+            {"text": "D. রিটা", "score": 0}
+        ],
+        "correct_answer": "B. ক্যাটরিনা",
+        "hint": "ক্যাটরিনা হারিকেন যুক্তরাষ্ট্রের দক্ষিণে আঘাত হানে।"
+    },
+    {
+        "question": "82. কোন দেশটি স্ক্যানডিনেভিয়ার অন্তর্ভুক্ত নয়?",
+        "answers": [
+            {"text": "A. ডেনমার্ক", "score": 0},
+            {"text": "B. ফিনল্যান্ড", "score": 1},
+            {"text": "C. নেদারল্যান্ডস", "score": 0},
+            {"text": "D. যুক্তরাষ্ট্র", "score": 0}
+        ],
+        "correct_answer": "C. নেদারল্যান্ডস",
+        "hint": "স্ক্যান্ডিনেভিয়াতে অন্তর্ভুক্ত হয় ডেনমার্ক, আইসল্যান্ড, নরওয়ে এবং সুইডেন।"
+    },
+    {
+        "question": "83. মুসলমান প্রধান না হয়েও কোন দেশটি ইসলামী সহযোগিতা সংস্থার সদস্য?",
+        "answers": [
+            {"text": "A. নাইজেরিয়া", "score": 1},
+            {"text": "B. লেবানন", "score": 0},
+            {"text": "C. নাইজার", "score": 0},
+            {"text": "D. উগান্ডা", "score": 0}
+        ],
+        "correct_answer": "A. নাইজেরিয়া",
+        "hint": "নাইজেরিয়া মুসলমান প্রধান নয়, তবে OIC সদস্য।"
+    },
+    {
+        "question": "84. কিউবায় ক্ষেপণাস্ত্র সঙ্কটের সময় যুক্তরাষ্ট্রের প্রেসিডেন্ট কে ছিলেন?",
+        "answers": [
+            {"text": "A. রিচার্ড এম নিক্সন", "score": 0},
+            {"text": "B. জন এফ কানেদি", "score": 1},
+            {"text": "C. লিন্ডন বেইনস জনসন", "score": 0},
+            {"text": "D. হ্যারি এস ট্রুম্যান", "score": 0}
+        ],
+        "correct_answer": "B. জন এফ কানেদি",
+        "hint": "জন এফ কেনেডি যুক্তরাষ্ট্রের প্রেসিডেন্ট ছিলেন।"
+    },
+    {
+        "question": "85. মার্কিন যুক্তরাষ্ট্রের কোন প্রেসিডেন্ট ১২ বছর ক্ষমতায় অধিষ্ঠিত ছিলেন?",
+        "answers": [
+            {"text": "A. হ্যারি এস ট্রুম্যান", "score": 0},
+            {"text": "B. ফ্রাঙ্কলিন রুজভেল্ট", "score": 1},
+            {"text": "C. জেমস মনরো", "score": 0},
+            {"text": "D. তথ্যটি সঠিক নয়", "score": 0}
+        ],
+        "correct_answer": "B. ফ্রাঙ্কলিন রুজভেল্ট",
+        "hint": "ফ্রাঙ্কলিন ডি রুজভেল্ট ১২ বছর ছিলেন।"
+    },
+    {
+        "question": "86. ভারতীয় লোকসভার নির্বাচিত সদস্য সংখ্যা কত?",
+        "answers": [
+            {"text": "A. ৫৪৩", "score": 1},
+            {"text": "B. ৫৪৫", "score": 0},
+            {"text": "C. ৪১৪", "score": 0},
+            {"text": "D. ৫৪০", "score": 0}
+        ],
+        "correct_answer": "A. ৫৪৩",
+        "hint": "ভারতের লোকসভায় মোট ৫৪৩ সদস্য নির্বাচিত হয়।"
+    },
+    {
+        "question": "87. কোন দেশের মহিলারা সর্বপ্রথম ভোটাধিকার লাভ করে?",
+        "answers": [
+            {"text": "A. মার্কিন যুক্তরাষ্ট্র", "score": 0},
+            {"text": "B. নিউজিল্যান্ড", "score": 1},
+            {"text": "C. বাহামা", "score": 0},
+            {"text": "D. সুইজারল্যান্ড", "score": 0}
+        ],
+        "correct_answer": "B. নিউজিল্যান্ড",
+        "hint": "নিউজিল্যান্ড ১৮৯৩ সালে নারীদের ভোটাধিকার দেয়।"
+    },
+    {
+        "question": "88. রাসায়নিক অস্ত্র চুক্তি (Chemical Weapons Convention) কোন সালে স্বাক্ষরিত হয়?",
+        "answers": [
+            {"text": "A. ১৯৯০", "score": 0},
+            {"text": "B. ১৯৯৩", "score": 1},
+            {"text": "C. ১৯৯৬", "score": 0},
+            {"text": "D. ১৯৯৯", "score": 0}
+        ],
+        "correct_answer": "B. ১৯৯৩",
+        "hint": "রাসায়নিক অস্ত্র চুক্তি ১৯৯৩ সালে স্বাক্ষরিত হয়।"
+    },
+    {
+        "question": "89. কোন পরিষদের সুপারিশক্রমে জাতিসংঘে নতুন সদস্য গ্রহণ করা হয়?",
+        "answers": [
+            {"text": "A. অছি পরিষদ", "score": 0},
+            {"text": "B. সাধারণ পরিষদ", "score": 1},
+            {"text": "C. নিরাপত্তা পরিষদ", "score": 0},
+            {"text": "D. অর্থনৈতিক ও সামাজিক পরিষদ", "score": 0}
+        ],
+        "correct_answer": "B. সাধারণ পরিষদ",
+        "hint": "নতুন সদস্য গ্রহণের জন্য সাধারণ পরিষদের ভোটের প্রয়োজন হয়।"
+    },
+    {
+        "question": "90. কোন মুসলিম মনীষী সর্বপ্রথম নোবেল পুরস্কার পান?",
+        "answers": [
+            {"text": "A. ইয়াসির আরাফাত", "score": 0},
+            {"text": "B. নাগীব মাহফুজ", "score": 1},
+            {"text": "C. আনোয়ার সাদাত", "score": 0},
+            {"text": "D. প্রফেসর আব্দুস সালাম", "score": 0}
+        ],
+        "correct_answer": "B. নাগীব মাহফুজ",
+        "hint": "১৯৮৮ সালে নাগীব মাহফুজ সাহিত্যে নোবেল পুরস্কার পান।"
+    },
+    {
+        "question": "91. বাদশা ফাহাদের পর সৌদি বাদশা কে হন?",
+        "answers": [
+            {"text": "A. খালেদ", "score": 1},
+            {"text": "B. ফয়সাল", "score": 0},
+            {"text": "C. আব্দুল আজিজ", "score": 0},
+            {"text": "D. আবদুল্লাহ", "score": 0}
+        ],
+        "correct_answer": "A. খালেদ",
+        "hint": "বাদশা ফাহাদ পরে যুবরাজ খালেদ আল সাহেদের দায়িত্ব নেন।"
+    },
+    {
+        "question": "92. অক্সফাম (Oxfam) এর সদর দপ্তর কোথায়?",
+        "answers": [
+            {"text": "A. নিউইয়র্ক", "score": 0},
+            {"text": "B. ক্যামেনিক্স", "score": 0},
+            {"text": "C. লন্ডন", "score": 1},
+            {"text": "D. হেগ", "score": 0}
+        ],
+        "correct_answer": "C. লন্ডন",
+        "hint": "অক্সফাম (Oxfam) এর সদর দপ্তর ব্রিটেনে অবস্থিত।"
+    },
+    {
+        "question": "93. কোনটি বিংশ শতাব্দীর শেষভাগে উপনিবেশবাদের নিগড় থেকে মুক্ত হয়?",
+        "answers": [
+            {"text": "A. হংকং", "score": 0},
+            {"text": "B. শ্রীলংকা", "score": 0},
+            {"text": "C. ম্যাকাউ", "score": 1},
+            {"text": "D. বাংলাদেশ", "score": 0}
+        ],
+        "correct_answer": "C. ম্যাকাউ",
+        "hint": "১৯৯৯ সালে ম্যাকাউ চীনের কাছে হস্তান্তর হয়।"
+    },
+    {
+        "question": "94. নিচের কোন চুক্তিটি যুক্তরাষ্ট্রের সিনেটে অনুমোদিত হয়নি?",
+        "answers": [
+            {"text": "A. এবি এম চুক্তি (ABM)", "score": 0},
+            {"text": "B. সল্ট-১ চুক্তি (SALT-1)", "score": 0},
+            {"text": "C. সল্ট-২ চুক্তি (SALT-2)", "score": 1},
+            {"text": "D. স্টার্ট-২ চুক্তি (START-2)", "score": 0}
+        ],
+        "correct_answer": "C. সল্ট-২ চুক্তি (SALT-2)",
+        "hint": "SALT-2 চুক্তিটি মার্কিন সিনেটে অনুমোদন লাভ করেনি।"
+    },
+    {
+        "question": "95. Amnesty International কত সালে নোবেল শান্তি পুরস্কার পেয়েছিল?",
+        "answers": [
+            {"text": "A. ১৯৭৭", "score": 1},
+            {"text": "B. ১৯৭৮", "score": 0},
+            {"text": "C. ১৯৭৯", "score": 0},
+            {"text": "D. ১৯৮১", "score": 0}
+        ],
+        "correct_answer": "A. ১৯৭৭",
+        "hint": "Amnesty International ১৯৭৭ সালে শান্তিতে নোবেল পুরস্কার লাভ করে।"
+    },
+    {
+        "question": "96. START-2 কি?",
+        "answers": [
+            {"text": "A. টিভিতে সম্প্রচারিত একটি সিরিয়াল", "score": 0},
+            {"text": "B. বাণিজ্য সংক্রান্ত একটি চুক্তি", "score": 0},
+            {"text": "C. কৌশলগত অস্ত্র হ্রাস সংক্রান্ত চুক্তি", "score": 1},
+            {"text": "D. এর কোনোটিই নয়", "score": 0}
+        ],
+        "correct_answer": "C. কৌশলগত অস্ত্র হ্রাস সংক্রান্ত চুক্তি",
+        "hint": "START-2 চুক্তিটি কৌশলগত অস্ত্র হ্রাস সংক্রান্ত।"
+    },
+    {
+        "question": "97. আসিয়ান রিজিওনাল ফোরাম (ARF) এর সদস্য সংখ্যা কত?",
+        "answers": [
+            {"text": "A. ২১", "score": 1},
+            {"text": "B. ২২", "score": 0},
+            {"text": "C. ২৩", "score": 0},
+            {"text": "D. ২৬", "score": 0}
+        ],
+        "correct_answer": "A. ২১",
+        "hint": "ARF এর বর্তমান সদস্য সংখ্যা ২১।"
+    },
+    {
+        "question": "98. মালয়েশিয়ার সাবেক প্রধানমন্ত্রী ড. মাহাথির মোহাম্মদ কত বছর ক্ষমতায় ছিলেন?",
+        "answers": [
+            {"text": "A. ২১ বছর", "score": 0},
+            {"text": "B. ২২ বছর", "score": 1},
+            {"text": "C. ২৪ বছর", "score": 0},
+            {"text": "D. ২৫ বছর", "score": 0}
+        ],
+        "correct_answer": "B. ২২ বছর",
+        "hint": "মাহাথির মোহাম্মদ ২২ বছর ক্ষমতায় ছিলেন।"
+    },
+    {
+        "question": "99. বাংলাদেশ কত সালে ইসলামী সম্মেলন সংস্থার সদস্যপদ লাভ করে?",
+        "answers": [
+            {"text": "A. ১৯৭২ সালে", "score": 0},
+            {"text": "B. ১৯৭৩ সালে", "score": 0},
+            {"text": "C. ১৯৭৪ সালে", "score": 1},
+            {"text": "D. ১৯৭৫ সালে", "score": 0}
+        ],
+        "correct_answer": "C. ১৯৭৪ সালে",
+        "hint": "বাংলাদেশ ১৯৭৪ সালে ইসলামী সম্মেলন সংস্থার সদস্যপদ লাভ করে।"
+    },
+    {
+        "question": "100. ইরাকের বর্তমান প্রেসিডেন্ট জালাল তালাবানি কোন সম্প্রদায়ের?",
+        "answers": [
+            {"text": "A. সুন্নি", "score": 0},
+            {"text": "B. শিয়া", "score": 0},
+            {"text": "C. কুর্দি", "score": 1},
+            {"text": "D. খ্রিস্টান", "score": 0}
+        ],
+        "correct_answer": "C. কুর্দি",
+        "hint": "জালাল তালাবানি হলো কুর্দি সম্প্রদায়ের।"
+    }
+]

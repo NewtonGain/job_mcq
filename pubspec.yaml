@@ -52,6 +52,7 @@ dependencies:
   firebase_analytics: ^11.4.4
   share_plus: ^10.1.4
   flutter_riverpod: ^2.6.1
+  fl_chart: ^0.70.2
 
 dev_dependencies:
   flutter_test:
@@ -75,6 +76,38 @@ flutter:
     - assets/bcs_12_questions.json
     - assets/bcs_13_questions.json
     - assets/bcs_14_questions.json
+    - assets/bcs_15_questions.json
+    - assets/bcs_16_questions.json
+    - assets/bcs_17_questions.json
+    - assets/bcs_18_questions.json
+    - assets/bcs_19_questions.json
+    - assets/bcs_20_questions.json
+    - assets/bcs_21_questions.json
+    - assets/bcs_22_questions.json
+    - assets/bcs_23_questions.json
+    - assets/bcs_24_questions.json
+    - assets/bcs_25_questions.json
+    - assets/bcs_26_questions.json
+    - assets/bcs_27_questions.json
+    - assets/bcs_28_questions.json
+    - assets/bcs_29_questions.json
+    - assets/bcs_30_questions.json
+    - assets/bcs_31_questions.json
+    - assets/bcs_32_questions.json
+    - assets/bcs_33_questions.json
+    - assets/bcs_34_questions.json
+    - assets/bcs_35_questions.json
+    - assets/bcs_36_questions.json
+    - assets/bcs_37_questions.json
+    - assets/bcs_38_questions.json
+    - assets/bcs_39_questions.json
+    - assets/bcs_40_questions.json
+    - assets/bcs_41_questions.json
+    - assets/bcs_42_questions.json
+    - assets/bcs_43_questions.json
+    - assets/bcs_44_questions.json
+    - assets/bcs_45_questions.json
+    - assets/bcs_46_questions.json
     - assets/ntrca_1_questions.json
     - assets/ntrca_2_questions.json
     - assets/ntrca_3_questions.json

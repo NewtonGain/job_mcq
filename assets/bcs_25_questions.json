@@ -1,0 +1,1102 @@
+[
+    {
+        "question": "1. বাংলা সাহিত্যের প্রথম ইতিহাস গ্রন্থ কে রচনা করেন?",
+        "answers": [
+            {"text": "A. সুকুমার সেন", "score": 0},
+            {"text": "B. দীনেশচন্দ্র সেন", "score": 1},
+            {"text": "C. মুহম্মদ শহীদুল্লাহ", "score": 0},
+            {"text": "D. অসিতকুমার বন্দ্যোপাধ্যায়", "score": 0}
+        ],
+        "correct_answer": "B. দীনেশচন্দ্র সেন",
+        "hint": "দীনেশচন্দ্র সেন বাংলা সাহিত্যের প্রথম ইতিহাস গ্রন্থ 'বঙ্গভাষা ও সাহিত্য' লিখেছেন।"
+    },
+    {
+        "question": "2. ‘বঙ্গদর্শন’ পত্রিকার প্রথম সম্পাদক কে ছিলেন?",
+        "answers": [
+            {"text": "A. প্যারীচাঁদ মিত্র", "score": 0},
+            {"text": "B. বঙ্কিমচন্দ্র চট্টোপাধ্যায়", "score": 1},
+            {"text": "C. রবীন্দ্রনাথ ঠাকুর", "score": 0},
+            {"text": "D. প্রমথ চৌধুরী", "score": 0}
+        ],
+        "correct_answer": "B. বঙ্কিমচন্দ্র চট্টোপাধ্যায়",
+        "hint": "'বঙ্গদর্শন' পত্রিকার প্রথম সম্পাদক ছিলেন বঙ্কিমচন্দ্র।"
+    },
+    {
+        "question": "3. কোন কবিতা রচনার জন্য কাজী নজরুল ইসলামের ‘অগ্নিবীণা’ কাব্য নিষিদ্ধ হয়?",
+        "answers": [
+            {"text": "A. বিদ্রোহী", "score": 0},
+            {"text": "B. আনন্দময়ীর আগমনে", "score": 1},
+            {"text": "C. প্রলয়োল্লাস", "score": 0},
+            {"text": "D. রক্তাস্বরধারিনী মা", "score": 0}
+        ],
+        "correct_answer": "B. আনন্দময়ীর আগমনে",
+        "hint": "'আনন্দময়ীর আগমনে' কবিতা প্রকাশের জন্য নিষিদ্ধ হয়েছিল।"
+    },
+    {
+        "question": "4. ‘মৃন্ময়ী’ রবীন্দ্রনাথ ঠাকুরের কোন ছোটগল্পের নায়িকা?",
+        "answers": [
+            {"text": "A. সমাপ্তি", "score": 1},
+            {"text": "B. দেওয়া-পাওনা", "score": 0},
+            {"text": "C. পোস্ট-মাস্টার", "score": 0},
+            {"text": "D. মধ্যবর্তিনী", "score": 0}
+        ],
+        "correct_answer": "A. সমাপ্তি",
+        "hint": "'মৃন্ময়ী' রবীন্দ্রনাথের 'সমাপ্তি' গল্পের নায়িকা।"
+    },
+    {
+        "question": "5. ‘উত্তম পুরুষ’ উপন্যাসের রচয়িতা কে?",
+        "answers": [
+            {"text": "A. শওকত ওসমান", "score": 0},
+            {"text": "B. জহির রায়হান", "score": 0},
+            {"text": "C. শহীদুল্লাহ কায়সার", "score": 0},
+            {"text": "D. রশীদ করিম", "score": 1}
+        ],
+        "correct_answer": "D. রশীদ করিম",
+        "hint": "'উত্তম পুরুষ' উপন্যাসটি রচনা করেছেন রশীদ করিম।"
+    },
+    {
+        "question": "6. ‘কাশবনের কন্যা’ কোন জাতীয় রচনা?",
+        "answers": [
+            {"text": "A. নাটক", "score": 0},
+            {"text": "B. উপন্যাস", "score": 1},
+            {"text": "C. কাব্য", "score": 0},
+            {"text": "D. ছোটগল্প", "score": 0}
+        ],
+        "correct_answer": "B. উপন্যাস",
+        "hint": "'কাশবনের কন্যা' হলো একটি উপন্যাস।"
+    },
+    {
+        "question": "7. কোনটি মুহম্মদ এনামুল হকের রচনা?",
+        "answers": [
+            {"text": "A. ভাষার ইতিবৃত্ত", "score": 0},
+            {"text": "B. আধুনিক ভাষাতত্ত্ব", "score": 0},
+            {"text": "C. মনীষা মঞ্জুষা", "score": 1},
+            {"text": "D. বাংলাদেশের আঞ্চলিক ভাষার অভিধান", "score": 0}
+        ],
+        "correct_answer": "C. মনীষা মঞ্জুষা",
+        "hint": "'মনীষা মঞ্জুষা' মুহম্মদ এনামুল হকের রচনা।"
+    },
+    {
+        "question": "8. বাংলা সাহিত্যে সনেট রচনার প্রবর্তক কে?",
+        "answers": [
+            {"text": "A. মাইকেল মধুসূদন দত্ত", "score": 1},
+            {"text": "B. রবীন্দ্রনাথ ঠাকুর", "score": 0},
+            {"text": "C. দেবেন্দ্রনাথ সেন", "score": 0},
+            {"text": "D. mohitlal majumdar", "score": 0}
+        ],
+        "correct_answer": "A. মাইকেল মধুসূদন দত্ত",
+        "hint": "'সনেট রচনার প্রবর্তক' হিসেবে মাইকেল মধুসূদন দত্তকে অভিহিত করা হয়।"
+    },
+    {
+        "question": "9. জসীমউদ্‌দীনের ‘কবর’ কবিতা কোন পত্রিকায় প্রথম প্রকাশিত হয়?",
+        "answers": [
+            {"text": "A. তত্ত্ববোধিনী পত্রিকা", "score": 0},
+            {"text": "B. ধূমকেতু", "score": 0},
+            {"text": "C. কল্লোল", "score": 1},
+            {"text": "D. কালি ও কলম", "score": 0}
+        ],
+        "correct_answer": "C. কল্লোল",
+        "hint": "'কবর' কবিতাটি কল্লোল পত্রিকায় প্রথম প্রকাশিত হয়েছিল।"
+    },
+    {
+        "question": "10. ‘ক্ষীয়মান’-এর বিপরীত শব্দ কি?",
+        "answers": [
+            {"text": "A. বৃহৎ", "score": 0},
+            {"text": "B. বর্ধিষ্ণু", "score": 1},
+            {"text": "C. বর্ধমান", "score": 0},
+            {"text": "D. বৃদ্ধিপ্রাপ্ত", "score": 0}
+        ],
+        "correct_answer": "B. বর্ধিষ্ণু",
+        "hint": "'ক্ষীয়মান' শব্দের বিপরীত 'বর্ধিষ্ণু'।"
+    },
+    {
+        "question": "11. ‘নষ্ট হওয়ার স্বভাব যার’ এক কথায় হবে-",
+        "answers": [
+            {"text": "A. নিদাঘ", "score": 0},
+            {"text": "B. নশ্বর", "score": 1},
+            {"text": "C. নষ্টমান", "score": 0},
+            {"text": "D. বিনশ্বর", "score": 0}
+        ],
+        "correct_answer": "B. নশ্বর",
+        "hint": "'নশ্বর' অর্থ নষ্ট হওয়ার স্বভাব।"
+    },
+    {
+        "question": "12. যে সমাসের পূর্বপদ সংখ্যাবাচক এবং সমস্ত পদের দ্বারা সমাহার বোঝায় তাকে বলে?",
+        "answers": [
+            {"text": "A. দ্বন্দ্ব সমাস", "score": 0},
+            {"text": "B. রূপক সমাস", "score": 0},
+            {"text": "C. বহুব্রীহি সমাস", "score": 0},
+            {"text": "D. দ্বিগু সমাস", "score": 1}
+        ],
+        "correct_answer": "D. দ্বিগু সমাস",
+        "hint": "'দ্বিগু সমাস' হলো সমাহারের সংখ্যা বোঝায়।"
+    },
+    {
+        "question": "13. কোন বাক্যটি শুদ্ধ?",
+        "answers": [
+            {"text": "A. তাহার জীবন সংশয়পূর্ন", "score": 0},
+            {"text": "B. তাহার জীবন সংশয়ময়", "score": 1},
+            {"text": "C. তাহার জীবন সংশয়াপূর্ণ", "score": 0},
+            {"text": "D. তাহার জীবন সংশয়ভরা", "score": 0}
+        ],
+        "correct_answer": "B. তাহার জীবন সংশয়ময়",
+        "hint": "'তাহার জীবন সংশয়ময়' বাক্যটি শুদ্ধ।"
+    },
+    {
+        "question": "14. ‘চাঁদমুখ’-এর ব্যাসবাক্য হলো–",
+        "answers": [
+            {"text": "A. চাঁদমুখের ন্যায়", "score": 0},
+            {"text": "B. চাঁদের মত মুখ", "score": 1},
+            {"text": "C. চাঁদ মুখ যার", "score": 0},
+            {"text": "D. চাঁদরূপ মুখ", "score": 0}
+        ],
+        "correct_answer": "B. চাঁদের মত মুখ",
+        "hint": "'চাঁদমুখ' এর ব্যাসবাক্য হলো 'চাঁদের মত মুখ'।"
+    },
+    {
+        "question": "15. ‘সর্বাঙ্গে ব্যথা, ঔষধ দিব কোথা’- এই বাক্যে ‘ঔষধ’ শব্দ কোন কারকে কোন বিভক্তির উদাহরণ?",
+        "answers": [
+            {"text": "A. কর্ম কারকে শূন্য", "score": 0},
+            {"text": "B. সম্প্রদানে সপ্তমী", "score": 0},
+            {"text": "C. অধিকরণে শূন্য", "score": 0},
+            {"text": "D. কর্তৃকারকে শূন্য", "score": 1}
+        ],
+        "correct_answer": "D. কর্তৃকারকে শূন্য",
+        "hint": "'ঔষধ' শব্দটি কর্তৃকারক বিবেচিত।"
+    },
+    {
+        "question": "16. ‘যেহেতু তুমি বেশি নম্বর পেয়েছ, সুতরাং তুমি প্রথম হবে’ কোন ধরনের বাক্য?",
+        "answers": [
+            {"text": "A. সরল", "score": 0},
+            {"text": "B. জটিল", "score": 1},
+            {"text": "C. যৌগিক", "score": 0},
+            {"text": "D. অনুজ্ঞামূলক", "score": 0}
+        ],
+        "correct_answer": "B. জটিল",
+        "hint": "এটি একটি জটিল বাক্য।"
+    },
+    {
+        "question": "17. ‘সন্ধ্যারাগে ঝিলিমিলি ঝিলমের স্রোতখানি বাঁকা’ রবীন্দ্রনাথের কোন কাব্যের কবিতা?",
+        "answers": [
+            {"text": "A. বলাকা", "score": 1},
+            {"text": "B. সোনারতরী", "score": 0},
+            {"text": "C. চিত্রা", "score": 0},
+            {"text": "D. পুনশ্চ", "score": 0}
+        ],
+        "correct_answer": "A. বলাকা",
+        "hint": "'ঝিলিমিলি ঝিলমের স্রোত' রবীন্দ্রনাথের 'বলাকা' কবিতার অংশ।"
+    },
+    {
+        "question": "18. বাংলা ছন্দ কত রকমের?",
+        "answers": [
+            {"text": "A. এক রকমের", "score": 0},
+            {"text": "B. দুই রকমের", "score": 1},
+            {"text": "C. তিন রকমের", "score": 0},
+            {"text": "D. চার রকমের", "score": 0}
+        ],
+        "correct_answer": "B. দুই রকমের",
+        "hint": "বাংলা সনেট ও স্বরবৃত্ত ছন্দ রয়েছে।"
+    },
+    {
+        "question": "19. কোনটি শুদ্ধ বানান?",
+        "answers": [
+            {"text": "A. দন্দ", "score": 0},
+            {"text": "B. দ্বন্দ", "score": 0},
+            {"text": "C. দ্বন্দ্ব", "score": 1},
+            {"text": "D. দন্ব", "score": 0}
+        ],
+        "correct_answer": "C. দ্বন্দ্ব",
+        "hint": "'দ্বন্দ্ব' হলো শুদ্ধ বানান।"
+    },
+    {
+        "question": "20. ‘অমিত্রাক্ষর’ ছন্দের বৈশিষ্ট্য হলো–",
+        "answers": [
+            {"text": "A. অন্ত্যমিল আছে", "score": 0},
+            {"text": "B. অন্ত্যমিল নেই", "score": 1},
+            {"text": "C. চরণের প্রথমে মিল থাকে", "score": 0},
+            {"text": "D. বিশ মাত্রার পর্ব থাকে", "score": 0}
+        ],
+        "correct_answer": "B. অন্ত্যমিল নেই",
+        "hint": "'অমিত্রাক্ষর' ছন্দে অন্ত্যমিল নেই।"
+    },
+    {
+        "question": "21. পুনর্ভবা, নাগর ও ট্যাঙ্গন কোন নদীর উপনদী?",
+        "answers": [
+            {"text": "A. মহানন্দা", "score": 1},
+            {"text": "B. ভৈরব", "score": 0},
+            {"text": "C. কুমার", "score": 0},
+            {"text": "D. বড়াল", "score": 0}
+        ],
+        "correct_answer": "A. মহানন্দা",
+        "hint": "পুনর্ভবা, নাগর ও ট্যাঙ্গন মহানন্দার উপনদী।"
+    },
+    {
+        "question": "22. প্রাচীন ‘পুণ্ড্রনগর’ কোথায় অবস্থিত?",
+        "answers": [
+            {"text": "A. ময়নামতি", "score": 0},
+            {"text": "B. বিক্রমপুর", "score": 0},
+            {"text": "C. মহাস্থানগড়", "score": 1},
+            {"text": "D. পাহাড়পুর", "score": 0}
+        ],
+        "correct_answer": "C. মহাস্থানগড়",
+        "hint": "'পুণ্ড্রনগর' অবস্থিত মহাস্থানগড়।"
+    },
+    {
+        "question": "23. উপমহাদেশীয়দের মধ্যে ঢাকা বিশ্ববিদ্যালয়ের প্রথম ভাইস চ্যান্সেলর–",
+        "answers": [
+            {"text": "A. ড. রমেশচন্দ্র মজুমদার", "score": 0},
+            {"text": "B. ড. মাহমুদ হাসান", "score": 0},
+            {"text": "C. ড. সৈয়দ মোয়াজ্জেম হোসেন", "score": 0},
+            {"text": "D. স্যার এ এফ রহমান", "score": 1}
+        ],
+        "correct_answer": "D. স্যার এ এফ রহমান",
+        "hint": "ঢাকা বিশ্ববিদ্যালয়ের প্রথম ভাইস চ্যান্সেলর স্যার এ এফ রহমান।"
+    },
+    {
+        "question": "24. প্রধান নির্বাচন কমিশনারের মেয়াদকাল কত?",
+        "answers": [
+            {"text": "A. ৪ বছর", "score": 0},
+            {"text": "B. ৫ বছর", "score": 1},
+            {"text": "C. ৩ বছর", "score": 0},
+            {"text": "D. ৭ বছর", "score": 0}
+        ],
+        "correct_answer": "B. ৫ বছর",
+        "hint": "প্রধান নির্বাচন কমিশনারের মেয়াদ ৫ বছর।"
+    },
+    {
+        "question": "25. সার্কভুক্ত কোন দেশের দূতাবাস বাংলাদেশে নেই?",
+        "answers": [
+            {"text": "A. মালদ্বীপ", "score": 0},
+            {"text": "B. শ্রীলংকা", "score": 0},
+            {"text": "C. নেপাল", "score": 0},
+            {"text": "D. ভুটান", "score": 1}
+        ],
+        "correct_answer": "D. ভুটান",
+        "hint": "ভুটানের দূতাবাস বাংলাদেশে নেই।"
+    },
+    {
+        "question": "26. কোন বাংলাদেশী উপজাতির পারিবারিক কাঠামো পিতৃতান্ত্রিক?",
+        "answers": [
+            {"text": "A. মারমা", "score": 0},
+            {"text": "B. খাসিয়া", "score": 1},
+            {"text": "C. সাঁওতাল", "score": 0},
+            {"text": "D. গারো", "score": 0}
+        ],
+        "correct_answer": "B. খাসিয়া",
+        "hint": "খাসিয়া উপজাতির পিতৃতান্ত্রিক কাঠামো রয়েছে।"
+    },
+    {
+        "question": "27. নিচের কোন পর্যটক সোনারগাঁও এসেছিলেন?",
+        "answers": [
+            {"text": "A. ফা-হিয়েন", "score": 0},
+            {"text": "B. ইবনে বতুতা", "score": 1},
+            {"text": "C. মার্কো পোলো", "score": 0},
+            {"text": "D. হিউয়েন সাং", "score": 0}
+        ],
+        "correct_answer": "B. ইবনে বতুতা",
+        "hint": "ইবনে বতুতা সোনারগাঁওয়ে এসেছিলেন।"
+    },
+    {
+        "question": "28. বাংলাদেশে বর্তমানে কয় স্তরবিশিষ্ট স্থানীয় সরকার ব্যবস্থা চালু আছে?",
+        "answers": [
+            {"text": "A. ৩", "score": 1},
+            {"text": "B. ৪", "score": 0},
+            {"text": "C. ৫", "score": 0},
+            {"text": "D. ৬", "score": 0}
+        ],
+        "correct_answer": "A. ৩",
+        "hint": "বাংলাদেশে ৩ স্তরবিশিষ্ট স্থানীয় সরকার ব্যবস্থা রয়েছে।"
+    },
+    {
+        "question": "29. বাংলাদেশের অষ্টম জতীয় সংসদে কোন সদস্য নিজেই নিজের কাছে সংসদ সদস্য হিসেবে শপথ নেন?",
+        "answers": [
+            {"text": "A. বেগম খালেদা জিয়া", "score": 0},
+            {"text": "B. শেখ হাসিনা", "score": 0},
+            {"text": "C. জমির উদ্দীন সরক্কার", "score": 0},
+            {"text": "D. আবদুল হামিদ", "score": 1}
+        ],
+        "correct_answer": "D. আবদুল হামিদ",
+        "hint": "আবদুল হামিদ নিজেই নিজের কাছে শপথ নেন।"
+    },
+    {
+        "question": "30. বাংলাদেশ কোন সনে CTBT অনুমোদন করে?",
+        "answers": [
+            {"text": "A. ১৯৯৯", "score": 0},
+            {"text": "B. ২০০০", "score": 1},
+            {"text": "C. ২০০১", "score": 0},
+            {"text": "D. ২০০২", "score": 0}
+        ],
+        "correct_answer": "B. ২০০০",
+        "hint": "বাংলাদেশ ২০০০ সালে CTBT অনুমোদন করে।"
+    },
+    {
+        "question": "31. সদ্য ঘোষিত তিতাস উপজেলা কোন জেলায় অবস্থিত?",
+        "answers": [
+            {"text": "A. নোয়াখালী", "score": 0},
+            {"text": "B. কুমিল্লা", "score": 1},
+            {"text": "C. রংপুর", "score": 0},
+            {"text": "D. সিলেট", "score": 0}
+        ],
+        "correct_answer": "B. কুমিল্লা",
+        "hint": "তিতাস উপজেলা কুমিল্লা জেলায় অবস্থিত।"
+    },
+    {
+        "question": "32. বাংলাদেশ জাতীয় সংসদে কোরাম হয় কত সদস্যের উপস্থিতিতে?",
+        "answers": [
+            {"text": "A. ৫৭ জন", "score": 0},
+            {"text": "B. ৬০ জন", "score": 1},
+            {"text": "C. ৬২ জন", "score": 0},
+            {"text": "D. ৬৫ জন", "score": 0}
+        ],
+        "correct_answer": "B. ৬০ জন",
+        "hint": "কোরাম হতে ন্যূনতম ৬০ সদস্য উপস্থিত থাকতে হবে।"
+    },
+    {
+        "question": "33. বাংলাদেশের একমাত্র কিশোরী সংশোধন প্রতিষ্ঠানটি কোথায় অবস্থিত?",
+        "answers": [
+            {"text": "A. টঙ্গি", "score": 0},
+            {"text": "B. কোনাবাড়ি", "score": 1},
+            {"text": "C. যশোর", "score": 0},
+            {"text": "D. গাজীপুর", "score": 0}
+        ],
+        "correct_answer": "B. কোনাবাড়ি",
+        "hint": "কিশোরী সংশোধন কেন্দ্রটি গাজীপুরের কোনাবাড়িতে অবস্থিত।"
+    },
+    {
+        "question": "34. বাঙ্গালী ও যমুনা নদীর সংযোগ কোথায়?",
+        "answers": [
+            {"text": "A. রাজশাহী", "score": 0},
+            {"text": "B. পাবনা", "score": 1},
+            {"text": "C. বগুড়া", "score": 0},
+            {"text": "D. সিরাজগঞ্জ", "score": 0}
+        ],
+        "correct_answer": "B. পাবনা",
+        "hint": "বাঙ্গালী ও যমুনার সংযোগ পাবনায়।"
+    },
+    {
+        "question": "35. ‘সাবমেরিন কেবল’ প্রকল্পটি কোন মন্ত্রণালয়ের কার্যক্রম?",
+        "answers": [
+            {"text": "A. অর্থ", "score": 0},
+            {"text": "B. ডাক ও টেলিযোগাযোগ", "score": 1},
+            {"text": "C. বিজ্ঞান ও প্রযুক্তি", "score": 0},
+            {"text": "D. পররাষ্ট্র", "score": 0}
+        ],
+        "correct_answer": "B. ডাক ও টেলিযোগাযোগ",
+        "hint": "'সাবমেরিন কেবল' প্রকল্পটি ডাক ও টেলিযোগাযোগ মন্ত্রণালয়ের।"
+    },
+    {
+        "question": "36. ২০০৪ সালে সর্বপ্রথম কোন দেশের রাষ্ট্রপ্রধান বাংলাদেশ সফর করেন?",
+        "answers": [
+            {"text": "A. থাইল্যান্ড", "score": 0},
+            {"text": "B. মিয়ানমার", "score": 0},
+            {"text": "C. ভিয়েতনাম", "score": 1},
+            {"text": "D. ভুটান", "score": 0}
+        ],
+        "correct_answer": "C. ভিয়েতনাম",
+        "hint": "ভিয়েতনামের রাষ্ট্রপ্রধান ২০০৪ সালে প্রথম বাংলাদেশ সফর করেন।"
+    },
+    {
+        "question": "37. মূল্য সংযোজন কর বাংলাদেশে কখন থেকে চালু করা হয়?",
+        "answers": [
+            {"text": "A. ১ জুলাই, ১৯৯১", "score": 1},
+            {"text": "B. ১ জুলাই, ১৯৯৩", "score": 0},
+            {"text": "C. ১ জুলাই, ১৯৯৫", "score": 0},
+            {"text": "D. ১ জানুয়ারি, ১৯৯৬", "score": 0}
+        ],
+        "correct_answer": "A. ১ জুলাই, ১৯৯১",
+        "hint": "বাংলাদেশে ১৯৯১ সালে মূল্য সংযোজন কর কার্যকর হয়।"
+    },
+    {
+        "question": "38. বাংলাদেশ উন্নয়ন ফোরামের সমন্বয়কারী কোন সংস্থা?",
+        "answers": [
+            {"text": "A. জাইকা", "score": 0},
+            {"text": "B. ইউএনডিপি", "score": 0},
+            {"text": "C. বিশ্বব্যাংক", "score": 1},
+            {"text": "D. আইএমএফ", "score": 0}
+        ],
+        "correct_answer": "C. বিশ্বব্যাংক",
+        "hint": "বাংলাদেশ উন্নয়ন ফোরামের প্রধান সমন্বয়কারী সংস্থা বিশ্বব্যাংক।"
+    },
+    {
+        "question": "39. কর্ণফুলী নদীর উৎস ভারতে কোন রাজ্যে?",
+        "answers": [
+            {"text": "A. ত্রিপুরা", "score": 0},
+            {"text": "B. মিজোরাম", "score": 1},
+            {"text": "C. মনিপুর", "score": 0},
+            {"text": "D. মেঘালয়", "score": 0}
+        ],
+        "correct_answer": "B. মিজোরাম",
+        "hint": "কর্ণফুলী নদীর উৎপত্তিস্থল মিজোরাম রাজ্যে।"
+    },
+    {
+        "question": "40. ক্রিকেটে বাংলাদেশ কোন সালে টেস্ট মর্যদা লাভ করে?",
+        "answers": [
+            {"text": "A. ২০০০", "score": 1},
+            {"text": "B. ২০০১", "score": 0},
+            {"text": "C. ১৯৯৯", "score": 0},
+            {"text": "D. ১৯৯৮", "score": 0}
+        ],
+        "correct_answer": "A. ২০০০",
+        "hint": "বাংলাদেশ ২০০০ সালে টেস্ট মর্যদা লাভ করে।"
+    },
+    {
+        "question": "41. সংখ্যাটি কি সংখ্যা?",
+        "answers": [
+            {"text": "A. একটি স্বাভাবিক সংখ্যা", "score": 0},
+            {"text": "B. একটি পূর্ণ সংখ্যা", "score": 1},
+            {"text": "C. একটি মূলদ সংখ্যা", "score": 0},
+            {"text": "D. একটি অমূলদ সংখ্যা", "score": 0}
+        ],
+        "correct_answer": "B. একটি পূর্ণ সংখ্যা",
+        "hint": "এই সংখ্যা একটি পূর্ণ সংখ্যা।"
+    },
+    {
+        "question": "42. ১ মিটার কত ইঞ্চির সমান?",
+        "answers": [
+            {"text": "A. ৩৯.৪৭", "score": 1},
+            {"text": "B. ৩৭.৩৯", "score": 0},
+            {"text": "C. ৩৯.৩৭", "score": 0},
+            {"text": "D. ৩৭.৪৯", "score": 0}
+        ],
+        "correct_answer": "A. ৩৯.৪৭",
+        "hint": "১ মিটার সমান ৩৯.৪৭ ইঞ্চি।"
+    },
+    {
+        "question": "43. হলে, -এর মান-",
+        "answers": [
+            {"text": "A. 2", "score": 0},
+            {"text": "B. 4", "score": 0},
+            {"text": "C. 0", "score": 1},
+            {"text": "D. 6", "score": 0}
+        ],
+        "correct_answer": "C. 0",
+        "hint": "হিসাব করে মান বের করুন।"
+    },
+    {
+        "question": "44. ৩ দিনে একটি কাজের ১/২/৭ অংশ শেষ হলে ঐ কাজের ৩ গুন কাজ করতে কত দিন লাগবে?",
+        "answers": [
+            {"text": "A. ৮১ দিন", "score": 0},
+            {"text": "B. ৯ দিন", "score": 0},
+            {"text": "C. ২৪৩ দিন", "score": 1},
+            {"text": "D. ২৭ দিন", "score": 0}
+        ],
+        "correct_answer": "C. ২৪৩ দিন",
+        "hint": "গণনার মাধ্যমে নির্ধারণ করুন মোট দিন।"
+    },
+    {
+        "question": "45. এবং এর গ.সা.গু. কত?",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. ", "score": 0}
+        ],
+        "correct_answer": "A. ",
+        "hint": "গ.সা.গু. গণনা করুন।"
+    },
+    {
+        "question": "46. কত?",
+        "answers": [
+            {"text": "A. 4650", "score": 0},
+            {"text": "B. 4750", "score": 1},
+            {"text": "C. 4850", "score": 0},
+            {"text": "D. 4950", "score": 0}
+        ],
+        "correct_answer": "B. 4750",
+        "hint": "উত্তরের হিসাব অনুসারে নির্ধারণ করুন।"
+    },
+    {
+        "question": "47. ধারাটির প্রথম দশটি পদের সমষ্টি কত?",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. ", "score": 0}
+        ],
+        "correct_answer": "A. ",
+        "hint": "পদের সমষ্টি গণনা করুন।"
+    },
+    {
+        "question": "48. একটি 48 মিটার লম্বা খুঁটি ভেঙ্গে গিয়ে সম্পূর্ণভাবে বিচ্ছিন্ন না হয়ে ভূমির সাথে 30° কোণ উৎপন্ন করে। খুঁটিটি কত উঁচুতে ভেঙ্নে ছিল?",
+        "answers": [
+            {"text": "A. 14 মিটার", "score": 0},
+            {"text": "B. 16 মিটার", "score": 1},
+            {"text": "C. 18 মিটার", "score": 0},
+            {"text": "D. 20 মিটার", "score": 0}
+        ],
+        "correct_answer": "B. 16 মিটার",
+        "hint": "টাইপ নিয়মানুযায়ী গণনা করুন কেন মহলে।"
+    },
+    {
+        "question": "49. একটি আয়তাকার ঘরের দৈর্ঘ্য বিস্তারের দ্বিগুণ। এর ক্ষেত্রফল 512 বর্গমিটার হলে, পরিসীমা কত?",
+        "answers": [
+            {"text": "A. 98 মিটার", "score": 0},
+            {"text": "B. 96 মিটার", "score": 1},
+            {"text": "C. 94 মিটার", "score": 0},
+            {"text": "D. 92 মিটার", "score": 0}
+        ],
+        "correct_answer": "B. 96 মিটার",
+        "hint": "আয়তকের ক্ষেত্রফলের মাধ্যমে পরিসীমা বের করুন।"
+    },
+    {
+        "question": "50. এবং দ্বারা গঠিত জ্যামিতিক চিত্রটি কোনটি?",
+        "answers": [
+            {"text": "A. একটি সমকোণী ত্রিভুজ", "score": 0},
+            {"text": "B. একটি সমবাহু ত্রিভুজ", "score": 0},
+            {"text": "C. একটি সমদ্বিবাহু ত্রিভুজ", "score": 1},
+            {"text": "D. একটি বিষমবাহু ত্রিভুজ", "score": 0}
+        ],
+        "correct_answer": "C. একটি সমদ্বিবাহু ত্রিভুজ",
+        "hint": "লম্বানোর নিয়মে তিনটি বাহু একত্রে সমদ্বিবাহু।"
+    },
+    {
+        "question": "51. জোট নিরপেক্ষ দেশসমূহের প্রথম শীর্ষ সম্মেলন কোথায় অনুষ্ঠিত হয়?",
+        "answers": [
+            {"text": "A. দিল্লি", "score": 0},
+            {"text": "B. কায়রো", "score": 0},
+            {"text": "C. বেলগ্রেড", "score": 1},
+            {"text": "D. জাকার্তা", "score": 0}
+        ],
+        "correct_answer": "C. বেলগ্রেড",
+        "hint": "জোট নিরপেক্ষ দেশসমূহের প্রথম সম্মেলন বেলগ্রেডে অনুষ্ঠিত হয়।"
+    },
+    {
+        "question": "52. পানামা খাল কোন কোন মহাসাগরকে যুক্ত করেছে?",
+        "answers": [
+            {"text": "A. আটলান্টিক ও প্রশান্ত মহাসাগর", "score": 1},
+            {"text": "B. আটলান্টিক ও ভূমধ্যসাগর", "score": 0},
+            {"text": "C. ভারত ও প্রশান্ত মহাসাগর", "score": 0},
+            {"text": "D. প্রশান্ত ও ভূমধ্যসাগর", "score": 0}
+        ],
+        "correct_answer": "A. আটলান্টিক ও প্রশান্ত মহাসাগর",
+        "hint": "পানামা খাল আটলান্টিক ও প্রশান্ত মহাসাগরকে যুক্ত করেছে।"
+    },
+    {
+        "question": "53. কে লৌহমানবী বলে পরিচিত?",
+        "answers": [
+            {"text": "A. ইন্দিরা গান্ধী", "score": 0},
+            {"text": "B. বেগম খালেদা জিয়া", "score": 0},
+            {"text": "C. অংসান সুচি", "score": 0},
+            {"text": "D. মার্গারেট থ্যাচার", "score": 1}
+        ],
+        "correct_answer": "D. মার্গারেট থ্যাচার",
+        "hint": "'লৌহমানবী' হিসেবে মার্গারেট থ্যাচার পরিচিত।"
+    },
+    {
+        "question": "54. আবু গারিব বলতে কি বোঝায়?",
+        "answers": [
+            {"text": "A. একজন বিখ্যাত দার্শনিক", "score": 0},
+            {"text": "B. একটি জাদুঘর", "score": 0},
+            {"text": "C. একটি জেলখানা", "score": 1},
+            {"text": "D. একজন বৈজ্ঞানিক", "score": 0}
+        ],
+        "correct_answer": "C. একটি জেলখানা",
+        "hint": "আবু গারিব হলো একটি জেলখানা।"
+    },
+    {
+        "question": "55. বিগত ৫০ বছরের সেরা ফুটবলার কে?",
+        "answers": [
+            {"text": "A. পেলে", "score": 0},
+            {"text": "B. জিদান", "score": 0},
+            {"text": "C. বেকেনবাওয়ার", "score": 0},
+            {"text": "D. ম্যারাডোনা", "score": 1}
+        ],
+        "correct_answer": "D. ম্যারাডোনা",
+        "hint": "ম্যারাডোনা বিগত ৫০ বছরের সেরা ফুটবলার পুরস্কারের জন্য স্বীকৃতি পেয়েছিলেন।"
+    },
+    {
+        "question": "56. ইউনেস্কোর প্রধান কার্যালয় কোথায় অবস্থিত?",
+        "answers": [
+            {"text": "A. নিউইয়র্ক", "score": 0},
+            {"text": "B. প্যারিস", "score": 1},
+            {"text": "C. রোম", "score": 0},
+            {"text": "D. জেনেভা", "score": 0}
+        ],
+        "correct_answer": "B. প্যারিস",
+        "hint": "ইউনেস্কো সদর দপ্তর প্যারিসে অবস্থিত।"
+    },
+    {
+        "question": "57. রাষ্ট্রপ্রধান না হয়েও কোন ব্যক্তি রাষ্ট্রপ্রধানের মর্যাদা ভোগ করেন?",
+        "answers": [
+            {"text": "A. ইয়াসির আরাফাত", "score": 1},
+            {"text": "B. কফি আনান", "score": 0},
+            {"text": "C. ওসামা বিন লাদেন", "score": 0},
+            {"text": "D. অ্যারিয়েল শ্যারন", "score": 0}
+        ],
+        "correct_answer": "A. ইয়াসির আরাফাত",
+        "hint": "ইয়াসির আরাফাত রাষ্ট্রপ্রধানের মর্যাদা ভোগ করেছেন।"
+    },
+    {
+        "question": "58. ‘ডিজ আর্মিং ইরাক’ গ্রন্থটির রচয়িতা কে?",
+        "answers": [
+            {"text": "A. সালমান রুশদী", "score": 0},
+            {"text": "B. কুলদ্বীপ নায়ার", "score": 0},
+            {"text": "C. হ্যান্স ব্লিক্স", "score": 1},
+            {"text": "D. হিলারি ক্লিনটন", "score": 0}
+        ],
+        "correct_answer": "C. হ্যান্স ব্লিক্স",
+        "hint": "'ডিজ আর্মিং ইরাক' বইটিতে তথ্য আছে।"
+    },
+    {
+        "question": "59. এ উপমহাদেশ থেকে এ যাবৎ কতজন নোবেল পুরস্কার পেয়েছেন?",
+        "answers": [
+            {"text": "A. চারজন", "score": 0},
+            {"text": "B. পাঁচজন", "score": 0},
+            {"text": "C. ছয়জন", "score": 1},
+            {"text": "D. সাতজন", "score": 0}
+        ],
+        "correct_answer": "C. ছয়জন",
+        "hint": "এ উপমহাদেশ থেকে ১২ জন নোবেল পুরস্কার পেয়েছেন।"
+    },
+    {
+        "question": "60. নেপালের বর্তমান প্রধানমন্ত্রীর নাম কি?",
+        "answers": [
+            {"text": "A. মি.কইরালা", "score": 0},
+            {"text": "B. মি. থাপা", "score": 0},
+            {"text": "C. মি. রানা", "score": 0},
+            {"text": "D. মি. দেউবা", "score": 1}
+        ],
+        "correct_answer": "D. মি. দেউবা",
+        "hint": "নেপালের বর্তমান প্রধানমন্ত্রী মি. দেউবা।"
+    },
+    {
+        "question": "61. ইরাকে কখন মার্কিন-ব্রিটিশ যৌথ সামরিক অভিযান শুরু হয়?",
+        "answers": [
+            {"text": "A. ২০০৩ সালের ১৮ মার্চ", "score": 0},
+            {"text": "B. ২০০৩ সালের ২০ মার্চ", "score": 1},
+            {"text": "C. ২০০৩ সালের ২২ মার্চ", "score": 0},
+            {"text": "D. ২০০৩ সালের ২৪ মার্চ", "score": 0}
+        ],
+        "correct_answer": "B. ২০০৩ সালের ২০ মার্চ",
+        "hint": "মার্কিন-ব্রিটিশ যৌথ সামরিক অভিযান ২০০৩ সালের ২০ মার্চ শুরু হয়।"
+    },
+    {
+        "question": "62. বর্তমানে জাতিসংঘের মহাসচিব কোন দেশের নাগরিক?",
+        "answers": [
+            {"text": "A. গিনি", "score": 0},
+            {"text": "B. ঘানা", "score": 0},
+            {"text": "C. সেনেগাল", "score": 1},
+            {"text": "D. মরক্কো", "score": 0}
+        ],
+        "correct_answer": "C. সেনেগাল",
+        "hint": "জাতিসংঘের বর্তমান মহাসচিব সেনেগালের নাগরিক।"
+    },
+    {
+        "question": "63. বিশ্বের নতুনতম রাষ্ট্র কোনটি?",
+        "answers": [
+            {"text": "A. লাইবেরিয়া", "score": 0},
+            {"text": "B. হংকং", "score": 0},
+            {"text": "C. পূর্ব তিমুর", "score": 1},
+            {"text": "D. তাইওয়ান", "score": 0}
+        ],
+        "correct_answer": "C. পূর্ব তিমুর",
+        "hint": "প্রথম ২০১১ সালে স্বাধীনতা পায় পূর্ব তিমুর।"
+    },
+    {
+        "question": "64. আরব লীগের প্রতিষ্ঠাতা সদস্য দেশ নয়?",
+        "answers": [
+            {"text": "A. সংযুক্ত আরব আমিরাত", "score": 1},
+            {"text": "B. মিশর", "score": 0},
+            {"text": "C. লেবানন", "score": 0},
+            {"text": "D. ইয়েমেন", "score": 0}
+        ],
+        "correct_answer": "A. সংযুক্ত আরব আমিরাত",
+        "hint": "সংযুক্ত আরব আমিরাত প্রতিষ্ঠাতা সদস্য দেশ নয়।"
+    },
+    {
+        "question": "65. কোন দেশটি ল্যাটিন আমেরিকার অন্তর্ভুক্ত নয়?",
+        "answers": [
+            {"text": "A. ব্রাজিল", "score": 0},
+            {"text": "B. আর্জেটিনা", "score": 0},
+            {"text": "C. পেরু", "score": 0},
+            {"text": "D. পানামা", "score": 0}
+        ],
+        "correct_answer": "D. পানামা",
+        "hint": "পানামা ল্যাটিন আমেরিকার অন্তর্ভুক্ত নয়।"
+    },
+    {
+        "question": "66. ইন্টারপোল সংস্থার সদর দপ্তর কোথায়?",
+        "answers": [
+            {"text": "A. প্যারিস", "score": 0},
+            {"text": "B. লিঁও", "score": 1},
+            {"text": "C. ভার্সাই", "score": 0},
+            {"text": "D. মাসাই", "score": 0}
+        ],
+        "correct_answer": "B. লিঁও",
+        "hint": "ইন্টারপোলের সদর দপ্তর লিঁওয়ে অবস্থিত।"
+    },
+    {
+        "question": "67. মধ্যপ্রাচ্যে কখন প্রথম তেলঅস্ত্র ব্যবহার করা হয়েছিল?",
+        "answers": [
+            {"text": "A. ১৯৭৩ সালে", "score": 1},
+            {"text": "B. ১৯৮১ সালে", "score": 0},
+            {"text": "C. ১৯৯১ সালে", "score": 0},
+            {"text": "D. ২০০৩ সালে", "score": 0}
+        ],
+        "correct_answer": "A. ১৯৭৩ সালে",
+        "hint": "১৯৭৩ সালে মধ্যপ্রাচ্যে তেল অস্ত্র প্রথম ব্যবহৃত হয়।"
+    },
+    {
+        "question": "68. ‘বান্দুং’ শহরটি কোন দেশে অবস্থিত?",
+        "answers": [
+            {"text": "A. চীন", "score": 0},
+            {"text": "B. ইন্দোনেশিয়া", "score": 1},
+            {"text": "C. যুগোস্লাভিয়া", "score": 0},
+            {"text": "D. মালয়েশিয়া", "score": 0}
+        ],
+        "correct_answer": "B. ইন্দোনেশিয়া",
+        "hint": "'বান্দুং' ইন্দোনেশিয়ার শহর।"
+    },
+    {
+        "question": "69. ‘কার্টাগেনা’ প্রটোকল হচ্ছে?",
+        "answers": [
+            {"text": "A. জাতিসংঘের জৈব নিরাপত্তা বিষয়ক চুক্তি", "score": 1},
+            {"text": "B. ইরাক পুনর্গঠন চুক্তি", "score": 0},
+            {"text": "C. যুক্তরাষ্ট্র-মেক্সিকো বৈধ চুক্তি", "score": 0},
+            {"text": "D. শিশু অধিকার চুক্তি", "score": 0}
+        ],
+        "correct_answer": "A. জাতিসংঘের জৈব নিরাপত্তা বিষয়ক চুক্তি",
+        "hint": "'কার্টাগেনা' একটি জৈব নিরাপত্তা বিষয়ে জাতিসংঘের চুক্তি।"
+    },
+    {
+        "question": "70. এ বছর তামাক নিয়ন্ত্রণে আন্তর্জাতিক জেনেভা সম্মেলনে সভাপতি কোন দেশের নাগরিক?",
+        "answers": [
+            {"text": "A. বাংলাদেশ", "score": 0},
+            {"text": "B. ভারত", "score": 0},
+            {"text": "C. পাকিস্তান", "score": 0},
+            {"text": "D. সুইজারল্যান্ড", "score": 1}
+        ],
+        "correct_answer": "D. সুইজারল্যান্ড",
+        "hint": "সুইজারল্যান্ডের স্বাস্থ্য মন্ত্রী ওই সম্মেলনে সভাপতি ছিলেন।"
+    },
+    {
+        "question": "71. Stockings are¬ –––– socks.",
+        "answers": [
+            {"text": "A. long", "score": 1},
+            {"text": "B. small", "score": 0},
+            {"text": "C. big", "score": 0},
+            {"text": "D. short", "score": 0}
+        ],
+        "correct_answer": "A. long",
+        "hint": "'Stockings' অর্থ লম্বা মোজা।"
+    },
+    {
+        "question": "72. Many students will now be starting to –––– about their exams result.",
+        "answers": [
+            {"text": "A. worry", "score": 1},
+            {"text": "B. reflect", "score": 0},
+            {"text": "C. inquire", "score": 0},
+            {"text": "D. comment", "score": 0}
+        ],
+        "correct_answer": "A. worry",
+        "hint": "পরীক্ষার ফলাফল নিয়ে উদ্বিগ্ন হওয়া স্বাভাবিক।"
+    },
+    {
+        "question": "73. She told me his name after he –––––.",
+        "answers": [
+            {"text": "A. left", "score": 1},
+            {"text": "B. had left", "score": 0},
+            {"text": "C. has left", "score": 0},
+            {"text": "D. has been leaving", "score": 0}
+        ],
+        "correct_answer": "A. left",
+        "hint": "'After' এর পরে Past Indefinite tense লাগে।"
+    },
+    {
+        "question": "74. Climate is a¬ –––– of the environment.",
+        "answers": [
+            {"text": "A. state", "score": 1},
+            {"text": "B. situation", "score": 0},
+            {"text": "C. rank", "score": 0},
+            {"text": "D. size", "score": 0}
+        ],
+        "correct_answer": "A. state",
+        "hint": "Climate হচ্ছে পরিবেশের অবস্থা।"
+    },
+    {
+        "question": "75. I finally killed the fly ––––– a rolled up newspaper.",
+        "answers": [
+            {"text": "A. by", "score": 0},
+            {"text": "B. with", "score": 1},
+            {"text": "C. through", "score": 0},
+            {"text": "D. from", "score": 0}
+        ],
+        "correct_answer": "B. with",
+        "hint": "'With' মাধ্যমে বোঝানো হয়েছে।"
+    },
+    {
+        "question": "76. We must look pleased or else he’ll be ––––.",
+        "answers": [
+            {"text": "A. dissatisfied", "score": 0},
+            {"text": "B. cross", "score": 0},
+            {"text": "C. happy", "score": 0},
+            {"text": "D. delighted", "score": 1}
+        ],
+        "correct_answer": "D. delighted",
+        "hint": "এখানে আনন্দিত হতে হবে।"
+    },
+    {
+        "question": "77. The man died –––– over eating.",
+        "answers": [
+            {"text": "A. by", "score": 0},
+            {"text": "B. of", "score": 1},
+            {"text": "C. for", "score": 0},
+            {"text": "D. from", "score": 0}
+        ],
+        "correct_answer": "B. of",
+        "hint": "'Died of' কারণে মারা যাওয়া বোঝায়।"
+    },
+    {
+        "question": "78. He advised me –––– smoking.",
+        "answers": [
+            {"text": "A. giving up", "score": 0},
+            {"text": "B. to give up", "score": 1},
+            {"text": "C. in giving up", "score": 0},
+            {"text": "D. from giving up", "score": 0}
+        ],
+        "correct_answer": "B. to give up",
+        "hint": "'Advise' এর পর infinitive হবে।"
+    },
+    {
+        "question": "79. The expression ‘after one’s own heart’ means ––––.",
+        "answers": [
+            {"text": "A. To be in low spirit", "score": 0},
+            {"text": "B. With complete devotion", "score": 0},
+            {"text": "C. To ones’s own liking", "score": 1},
+            {"text": "D. To be in high spirit", "score": 0}
+        ],
+        "correct_answer": "C. To one’s own liking",
+        "hint": "নিজের পছন্দের অনুরূপ বোঝায়।"
+    },
+    {
+        "question": "80. The day of my sister’s marriage is drawing near’ The underlined word is a/an",
+        "answers": [
+            {"text": "A. adjective", "score": 0},
+            {"text": "B. verb", "score": 1},
+            {"text": "C. preposition", "score": 0},
+            {"text": "D. adverb", "score": 0}
+        ],
+        "correct_answer": "B. verb",
+        "hint": "'Drawing' একটি verb।"
+    },
+    {
+        "question": "81. Which of the following sentences is the correct one?",
+        "answers": [
+            {"text": "A. My father was in hospital during six weeks in summer", "score": 0},
+            {"text": "B. In summer during six weeks my father was in hospital", "score": 0},
+            {"text": "C. My father was in a hospital during six weeks in summer", "score": 1},
+            {"text": "D. My father was in hospital for six weeks during the summer", "score": 0}
+        ],
+        "correct_answer": "C. My father was in a hospital during six weeks in summer",
+        "hint": "'In a hospital' বা 'in hospital' ব্যবহার হয়, সঠিক বাক্যটি হলো C."
+    },
+    {
+        "question": "82. He intends to –––– in the country for two months.",
+        "answers": [
+            {"text": "A. live", "score": 1},
+            {"text": "B. stay", "score": 0},
+            {"text": "C. stop", "score": 0},
+            {"text": "D. halt", "score": 0}
+        ],
+        "correct_answer": "A. live",
+        "hint": "'Intends to' এর পর 'live' ব্যবহার হয়।"
+    },
+    {
+        "question": "83. What are you so angry––––?",
+        "answers": [
+            {"text": "A. about", "score": 1},
+            {"text": "B. at", "score": 0},
+            {"text": "C. with", "score": 0},
+            {"text": "D. for", "score": 0}
+        ],
+        "correct_answer": "A. about",
+        "hint": "Angry with/at ব‌্যবহার হয় যখন কাউকে বোঝাতে হয়।"
+    },
+    {
+        "question": "84. The parents became extremely––––when their son had not returned by eleven o’clock.",
+        "answers": [
+            {"text": "A. angry", "score": 1},
+            {"text": "B. annoyed", "score": 0},
+            {"text": "C. disturbed", "score": 0},
+            {"text": "D. anxious", "score": 0}
+        ],
+        "correct_answer": "A. angry",
+        "hint": "অতুলনীয়ভাবে উদ্বিগ্ন হতে পারে এখানে।"
+    },
+    {
+        "question": "85. ‘I –––– remember the holiday I spent in your home’, she said.",
+        "answers": [
+            {"text": "A. ever", "score": 0},
+            {"text": "B. hardly", "score": 0},
+            {"text": "C. usually", "score": 0},
+            {"text": "D. always", "score": 1}
+        ],
+        "correct_answer": "D. always",
+        "hint": "এখানে সঠিক উত্তর 'always' যা কথা বলছে।"
+    },
+    {
+        "question": "86. He knew it was a very –––– operation but he was determined to carry it out.",
+        "answers": [
+            {"text": "A. difficult", "score": 1},
+            {"text": "B. dangerous", "score": 0},
+            {"text": "C. risky", "score": 0},
+            {"text": "D. troublesome", "score": 0}
+        ],
+        "correct_answer": "A. difficult",
+        "hint": "'Difficult' যে এটি একটি কঠিন কার্যক্রম বোঝাচ্ছে।"
+    },
+    {
+        "question": "87. Misanthropist means ––––.",
+        "answers": [
+            {"text": "A. One who flirts with ladies", "score": 0},
+            {"text": "B. A person of narrow views", "score": 0},
+            {"text": "C. A hater of mankind", "score": 1},
+            {"text": "D. One who believes that God is in everything", "score": 0}
+        ],
+        "correct_answer": "C. A hater of mankind",
+        "hint": "'Misanthropist' মানে হলো মানুষের বিরোধী।"
+    },
+    {
+        "question": "88. First language means the –––– language.",
+        "answers": [
+            {"text": "A. important", "score": 0},
+            {"text": "B. main", "score": 0},
+            {"text": "C. natural", "score": 1},
+            {"text": "D. official", "score": 0}
+        ],
+        "correct_answer": "C. natural",
+        "hint": "প্রথম ভাষা মানে হলো শিশুর জন্মের পর যে ভাষা শিখে।"
+    },
+    {
+        "question": "89. Shaheen would never have taken the job if –––– what great demand it would make on his time.",
+        "answers": [
+            {"text": "A. he knew", "score": 0},
+            {"text": "B. he had been knowing", "score": 0},
+            {"text": "C. he had known", "score": 1},
+            {"text": "D. he was knowing", "score": 0}
+        ],
+        "correct_answer": "C. he had known",
+        "hint": "Conditional sentence শর্ত অনুযায়ী tense পরিবর্তন করতে হবে।"
+    },
+    {
+        "question": "90. She has –––– her hair a beautiful shade of brown.",
+        "answers": [
+            {"text": "A. colored", "score": 1},
+            {"text": "B. given", "score": 0},
+            {"text": "C. dried", "score": 0},
+            {"text": "D. dyed", "score": 0}
+        ],
+        "correct_answer": "A. colored",
+        "hint": "'Colored' হলো hair এর পরিবর্তনে।"
+    },
+    {
+        "question": "91. এবং হলে –এর মান কত?",
+        "answers": [
+            {"text": "A. 4", "score": 0},
+            {"text": "B. 6", "score": 0},
+            {"text": "C. 8", "score": 1},
+            {"text": "D. 12", "score": 0}
+        ],
+        "correct_answer": "C. 8",
+        "hint": "জ্ঞানের গাণিতিক হিসাব থেকে বের করতে হবে।"
+    },
+    {
+        "question": "92. ৬% হারে নয় মাসে ১০,০০০/- টাকার উপর সুদ কত হবে?",
+        "answers": [
+            {"text": "A. ৫০০ টাকা", "score": 1},
+            {"text": "B. ৬০০ টাকা", "score": 0},
+            {"text": "C. ৪৫০ টাকা", "score": 0},
+            {"text": "D. ৬৫০ টাকা", "score": 0}
+        ],
+        "correct_answer": "A. ৫০০ টাকা",
+        "hint": "নয় মাসে ৬% হারে সুদ বের করতে হবে।"
+    },
+    {
+        "question": "93. যদি ১৫টি পোশাকের মধ্যে শতকরা ৪০ ভাগ পোশাক শার্ট হয় তবে ১৫টি পোশাকের মধ্যে কতটি শার্ট নয়?",
+        "answers": [
+            {"text": "A. ৬", "score": 0},
+            {"text": "B. ৯", "score": 1},
+            {"text": "C. ১২", "score": 0},
+            {"text": "D. ১০", "score": 0}
+        ],
+        "correct_answer": "B. ৯",
+        "hint": "শার্ট নয় এমন পোশাক গণনা করতে হবে।"
+    },
+    {
+        "question": "94. প্রেসার কুকারে পানির স্ফুটনাঙ্ক–",
+        "answers": [
+            {"text": "A. কম হয়", "score": 0},
+            {"text": "B. বেশি হয়", "score": 1},
+            {"text": "C. ঠিক থাকে", "score": 0},
+            {"text": "D. কোনো টিই নয়", "score": 0}
+        ],
+        "correct_answer": "B. বেশি হয়",
+        "hint": "প্রেসার কুকারে পানির স্ফুটনাঙ্ক বৃদ্ধি পায়।"
+    },
+    {
+        "question": "95. কত তাপমাত্রায় পানির ঘনত্ব সবচেয়ে বেশি?",
+        "answers": [
+            {"text": "A. ০ সেন্টিগ্রেড", "score": 0},
+            {"text": "B. ১০ সেন্টিগ্রেড", "score": 0},
+            {"text": "C. ৪ সেন্টিগ্রেড", "score": 1},
+            {"text": "D. ১১ সেন্টিগ্রেড", "score": 0}
+        ],
+        "correct_answer": "C. ৪ সেন্টিগ্রেড",
+        "hint": "৪ সেন্টিগ্রেডে পানির ঘনত্ব সর্বাধিক।"
+    },
+    {
+        "question": "96. CNG-এর অর্থ –",
+        "answers": [
+            {"text": "A. কার্বনমুক্ত নতুন পরিবেশ-বান্ধব তেল", "score": 0},
+            {"text": "B. নতুন ধরনের ট্রাক্সি ক্যাব", "score": 0},
+            {"text": "C. সীসামুক্ত পেট্রোল", "score": 0},
+            {"text": "D. কমপ্রেস করা প্রাকৃতিক গ্যাস", "score": 1}
+        ],
+        "correct_answer": "D. কমপ্রেস করা প্রাকৃতিক গ্যাস",
+        "hint": "CNG হলো কমপ্রেস করা প্রাকৃতিক গ্যাস।"
+    },
+    {
+        "question": "97. নারভাস সিস্টেমের স্ট্রাকচারাল এবং ফাংশনাল ইউনিটকে কি বলে?",
+        "answers": [
+            {"text": "A. নেফ্রোন", "score": 0},
+            {"text": "B. নিউরন", "score": 1},
+            {"text": "C. থাইমাস", "score": 0},
+            {"text": "D. মাস্ট সেল", "score": 0}
+        ],
+        "correct_answer": "B. নিউরন",
+        "hint": "নার্ভ সিস্টেমের স্ট্রাকচারাল এবং ফাংশনাল ইউনিট হলো নিউরন।"
+    },
+    {
+        "question": "98. কোন মাধ্যমে শব্দের গতি সবচেয়ে বেশি?",
+        "answers": [
+            {"text": "A. শূন্যতায়", "score": 0},
+            {"text": "B. লোহা", "score": 1},
+            {"text": "C. পানি", "score": 0},
+            {"text": "D. বাতাস", "score": 0}
+        ],
+        "correct_answer": "B. লোহা",
+        "hint": "শব্দের গতি লোহার মাধ্যমে সবচেয়ে বেশি।"
+    },
+    {
+        "question": "99. সুন্দরবনের আয়তন প্রায় কত বর্গ কিলোমিটার?",
+        "answers": [
+            {"text": "A. ৩৮০০", "score": 0},
+            {"text": "B. ৪১০০", "score": 0},
+            {"text": "C. ৫৫৭৫", "score": 1},
+            {"text": "D. ৬৯০০", "score": 0}
+        ],
+        "correct_answer": "C. ৫৫৭৫",
+        "hint": "সুন্দরবনের বাংলাদেশ অংশের আয়তন ৬০১৭ বর্গ কিমি।"
+    },
+    {
+        "question": "100. রক্তে হিমোগ্লোবিনের কাজ কি?",
+        "answers": [
+            {"text": "A. অক্সিজেন পরিবহন করা", "score": 1},
+            {"text": "B. রোগ প্রতিরোধ করা", "score": 0},
+            {"text": "C. রক্ত জমাট বাঁধতে সাহায্য করে", "score": 0},
+            {"text": "D. উল্লিখিত সব কয়টিই", "score": 0}
+        ],
+        "correct_answer": "A. অক্সিজেন পরিবহন করা",
+        "hint": "হিমোগ্লোবিনের প্রধান কাজ হল অক্সিজেন পরিবহন।"
+    }
+]

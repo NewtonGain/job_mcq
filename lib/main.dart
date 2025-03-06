@@ -39,35 +39,52 @@ class HomePage extends StatelessWidget {
         title: Center(
           child: Text(
             'Job MCQ',
-            style: TextStyle(fontSize: 25),
+            style: TextStyle(fontSize: 28, fontWeight: FontWeight.w600),
           ),
         ),
       ),
-      body: Center(
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          crossAxisAlignment: CrossAxisAlignment.stretch,
-          children: [
-            _buildExamButton(context, 'BCS Exam', 'BCS'),
-            _buildExamButton(context, 'NTRCA Exam', 'NTRCA'),
-            _buildExamButton(context, 'Primary Exam', 'Primary'),
-          ],
+      body: Container(
+        decoration: BoxDecoration(
+          gradient: LinearGradient(
+            colors: [Colors.blue[100]!, Colors.white],
+            begin: Alignment.topCenter,
+            end: Alignment.bottomCenter,
+          ),
+        ),
+        child: Center(
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            crossAxisAlignment: CrossAxisAlignment.stretch,
+            children: [
+              _buildExamButton(context, 'BCS Exam', 'BCS'),
+              _buildExamButton(context, 'NTRCA Exam', 'NTRCA'),
+              _buildExamButton(context, 'Primary Exam', 'Primary'),
+            ],
+          ),
         ),
       ),
     );
   }
 
   Widget _buildExamButton(BuildContext context, String title, String examType) {
-    return ElevatedButton(
-      onPressed: () {
-        Navigator.push(
-          context,
-          MaterialPageRoute(
-            builder: (context) => SubCategoryPage(examType: examType),
-          ),
-        );
-      },
-      child: Text(title),
+    return Padding(
+      padding: const EdgeInsets.symmetric(vertical: 16.0),
+      child: ElevatedButton.icon(
+        onPressed: () {
+          Navigator.push(
+            context,
+            MaterialPageRoute(
+              builder: (context) => SubCategoryPage(examType: examType),
+            ),
+          );
+        },
+        icon: Icon(Icons.quiz),
+        label: Text(title, style: TextStyle(fontSize: 18)),
+        style: ElevatedButton.styleFrom(
+          padding: EdgeInsets.symmetric(vertical: 15),
+          elevation: 5,
+        ),
+      ),
     );
   }
 }
@@ -79,15 +96,35 @@ class SubCategoryPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    // Create a Mapping for Subcategories based on Exam Type
     final subCategories = {
-      'BCS': ['10', '11', '12'],
+      'BCS': List.generate(37, (index) => (index + 10).toString()),
       'NTRCA': ['3', '11', '12'],
       'Primary': ['188', '11', '12']
     };
 
     return Scaffold(
-      appBar: AppBar(title: Text('$examType Exam Questions')),
+      appBar: AppBar(title: Text('$examType Exam Questions'), actions: [
+        IconButton(
+            icon: Icon(Icons.info_outline),
+            onPressed: () {
+              showDialog(
+                context: context,
+                builder: (context) {
+                  return AlertDialog(
+                    title: Text('Info'),
+                    content: Text(
+                        'Select your preferred exam category to start the quiz.'),
+                    actions: [
+                      TextButton(
+                        child: Text('Close'),
+                        onPressed: () => Navigator.of(context).pop(),
+                      ),
+                    ],
+                  );
+                },
+              );
+            }),
+      ]),
       body: SingleChildScrollView(
         child: Center(
           child: Column(
@@ -105,17 +142,25 @@ class SubCategoryPage extends StatelessWidget {
 
   Widget _buildSubCategoryButton(
       BuildContext context, String title, String subCategory) {
-    return ElevatedButton(
-      onPressed: () {
-        Navigator.push(
-          context,
-          MaterialPageRoute(
-            builder: (context) =>
-                QuestionScreen(examType: examType, subCategory: subCategory),
-          ),
-        );
-      },
-      child: Text(title),
+    return Padding(
+      padding: const EdgeInsets.symmetric(vertical: 16.0),
+      child: ElevatedButton.icon(
+        onPressed: () {
+          Navigator.push(
+            context,
+            MaterialPageRoute(
+              builder: (context) =>
+                  QuestionScreen(examType: examType, subCategory: subCategory),
+            ),
+          );
+        },
+        icon: Icon(Icons.article),
+        label: Text(title, style: TextStyle(fontSize: 18)),
+        style: ElevatedButton.styleFrom(
+          padding: EdgeInsets.symmetric(vertical: 15),
+          elevation: 5,
+        ),
+      ),
     );
   }
 }
@@ -142,7 +187,8 @@ class _QuestionScreenState extends ConsumerState<QuestionScreen> {
   int timeRemaining = 30; // 30 seconds per question
   bool timeExpired = false;
   List<Map<String, dynamic>> answers = [];
-  final ConfettiController _confettiController = ConfettiController();
+  final ConfettiController _confettiController =
+      ConfettiController(duration: const Duration(seconds: 1));
   String? selectedAnswer;
 
   @override
@@ -184,7 +230,7 @@ class _QuestionScreenState extends ConsumerState<QuestionScreen> {
           submitted = true;
           timer.cancel();
         });
-        handleNegativeMarking();
+        handleTimeExpiry(); // Count this as a skipped question
       } else {
         setState(() {
           timeRemaining--;
@@ -193,10 +239,16 @@ class _QuestionScreenState extends ConsumerState<QuestionScreen> {
     });
   }
 
-  void handleNegativeMarking() {
-    if (timeExpired && currentQuestionIndex < questions.length) {
-      wrongAttempts++;
-      score -= 0.25; // Negative marking
+  void handleTimeExpiry() {
+    if (currentQuestionIndex < questions.length) {
+      skipCount++; // Increment the skip count
+      answers.add({
+        'question': questions[currentQuestionIndex]['question'],
+        'selected_answer': 'Skipped',
+        'correct_answer': questions[currentQuestionIndex]['correct_answer'],
+        'hint': questions[currentQuestionIndex]['hint'],
+        'is_correct': false,
+      });
     }
   }
 
@@ -208,11 +260,12 @@ class _QuestionScreenState extends ConsumerState<QuestionScreen> {
 
     bool isCorrect =
         answer == questions[currentQuestionIndex]['correct_answer'];
-    if (!isCorrect) {
+    if (isCorrect) {
+      score++;
+      _confettiController.play(); // Trigger confetti for correct answer
+    } else {
       wrongAttempts++;
       score -= 0.25; // Negative marking
-    } else {
-      score++;
     }
 
     answers.add({
@@ -224,12 +277,12 @@ class _QuestionScreenState extends ConsumerState<QuestionScreen> {
     });
 
     timer?.cancel();
-    Future.delayed(Duration(seconds: 1), () {
-      handleNext(); // Move to the next question automatically after a delay
-    });
+    Future.delayed(Duration(seconds: 3),
+        handleNext); // Move to the next question automatically after a delay
   }
 
   void skipQuestion() {
+    skipCount++;
     answers.add({
       'question': questions[currentQuestionIndex]['question'],
       'selected_answer': 'Skipped',
@@ -238,7 +291,6 @@ class _QuestionScreenState extends ConsumerState<QuestionScreen> {
       'is_correct': false,
     });
     setState(() {
-      skipCount++;
       submitted = true;
       timer?.cancel();
     });
@@ -302,51 +354,60 @@ class _QuestionScreenState extends ConsumerState<QuestionScreen> {
     var question = questions[currentQuestionIndex];
 
     return Scaffold(
-      appBar:
-          AppBar(title: Text('${widget.examType} ${widget.subCategory} Quiz')),
-      body: Padding(
-        padding: EdgeInsets.all(16.0),
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            QuestionCard(
-              question: question['question'],
-              timeRemaining: timeRemaining,
-            ),
-            SizedBox(height: 20),
-            ...question['answers'].map<Widget>((answer) {
-              return AnswerButton(
-                answer: answer['text'],
-                isCorrectAnswer: answer['text'] == question['correct_answer'],
-                isSelectedAnswer: selectedAnswer == answer['text'],
-                submitted: submitted,
-                onPressed: () => handleAnswer(answer['text']),
-              );
-            }).toList(),
-            SizedBox(height: 20),
-            if (!submitted)
-              Row(
-                mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                children: [
-                  _buildActionButton(
-                      'Skip Question', Colors.orange, skipQuestion),
-                  _buildActionButton('Show Hint', Colors.blue,
-                      () => showHint(question['hint'])),
+      appBar: AppBar(
+          title: Text('${widget.examType} ${widget.subCategory} Questions')),
+      body: SingleChildScrollView(
+        child: Padding(
+          padding: EdgeInsets.all(16.0),
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              LinearProgressIndicator(
+                value: (currentQuestionIndex + 1) / questions.length,
+                backgroundColor: Colors.grey,
+                valueColor: AlwaysStoppedAnimation<Color>(Colors.blue),
+              ),
+              SizedBox(height: 20),
+              QuestionCard(
+                question: question['question'],
+                timeRemaining: timeRemaining,
+              ),
+              SizedBox(height: 20),
+              ...question['answers'].map<Widget>((answer) {
+                return AnswerButton(
+                  answer: answer['text'],
+                  isCorrectAnswer: answer['text'] == question['correct_answer'],
+                  isSelectedAnswer: selectedAnswer == answer['text'],
+                  submitted: submitted,
+                  onPressed: () => handleAnswer(answer['text']),
+                );
+              }).toList(),
+              SizedBox(height: 20),
+              if (!submitted)
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                  children: [
+                    _buildActionButton(
+                        'Skip Question', Colors.orange, skipQuestion),
+                    _buildActionButton('Show Hint', Colors.blue,
+                        () => showHint(question['hint'])),
+                  ],
+                ),
+              if (submitted)
+                _buildActionButton('Next Question', Colors.green, handleNext),
+              ConfettiWidget(
+                confettiController: _confettiController,
+                blastDirectionality: BlastDirectionality.explosive,
+                shouldLoop: false,
+                colors: const [
+                  Colors.green,
+                  Colors.blue,
+                  Colors.pink,
+                  Colors.orange
                 ],
               ),
-            if (submitted && answers.isNotEmpty)
-              Column(
-                children: [
-                  Text(
-                    timeExpired
-                        ? 'Time Expired!'
-                        : (answers.last['is_correct'] ? 'Correct!' : 'Wrong!'),
-                    style: TextStyle(fontSize: 18),
-                  ),
-                  _buildActionButton('Next Question', Colors.green, handleNext),
-                ],
-              ),
-          ],
+            ],
+          ),
         ),
       ),
     );
@@ -371,11 +432,8 @@ class QuestionCard extends StatelessWidget {
   final String question;
   final int timeRemaining;
 
-  const QuestionCard({
-    super.key,
-    required this.question,
-    required this.timeRemaining,
-  });
+  const QuestionCard(
+      {super.key, required this.question, required this.timeRemaining});
 
   @override
   Widget build(BuildContext context) {
@@ -425,6 +483,22 @@ class AnswerButton extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    Color backgroundColor = Colors.blueAccent;
+    IconData? icon;
+    Color iconColor = Colors.transparent;
+
+    if (submitted) {
+      if (isCorrectAnswer) {
+        backgroundColor = Colors.green;
+        icon = Icons.check_circle;
+        iconColor = Colors.white;
+      } else if (isSelectedAnswer) {
+        backgroundColor = Colors.red;
+        icon = Icons.cancel;
+        iconColor = Colors.white;
+      }
+    }
+
     return Container(
       width: double.infinity,
       margin: EdgeInsets.symmetric(vertical: 5),
@@ -432,18 +506,18 @@ class AnswerButton extends StatelessWidget {
         onPressed: submitted ? null : onPressed,
         style: ElevatedButton.styleFrom(
           foregroundColor: Colors.white,
-          backgroundColor: submitted
-              ? isCorrectAnswer
-                  ? Colors.green
-                  : isSelectedAnswer
-                      ? Colors.red
-                      : Colors.blueAccent
-              : Colors.blueAccent,
+          backgroundColor: backgroundColor,
           shape: RoundedRectangleBorder(
             borderRadius: BorderRadius.circular(10.0),
           ),
         ),
-        child: Text(answer),
+        child: Row(
+          mainAxisAlignment: MainAxisAlignment.spaceBetween,
+          children: [
+            Text(answer),
+            if (submitted && icon != null) Icon(icon, color: iconColor),
+          ],
+        ),
       ),
     );
   }
@@ -542,9 +616,9 @@ class ResultsPage extends StatelessWidget {
                       _buildActionButton(
                           context, 'Restart Quiz', Colors.blueAccent, () {
                         Navigator.pushReplacement(
-                          context,
-                          MaterialPageRoute(builder: (context) => HomePage()),
-                        );
+                            context,
+                            MaterialPageRoute(
+                                builder: (context) => HomePage()));
                       }),
                     ],
                   ),

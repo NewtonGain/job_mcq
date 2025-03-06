@@ -1,0 +1,1102 @@
+[
+    {
+        "question": "1. বাংলা বর্ণমালায় মাত্রাবিহীন বর্ণের সংখ্যা কায়টি?",
+        "answers": [
+            {"text": "A. এগারটি", "score": 1},
+            {"text": "B. নয়টি", "score": 0},
+            {"text": "C. দশটি", "score": 0},
+            {"text": "D. আটটি", "score": 0}
+        ],
+        "correct_answer": "A. এগারটি",
+        "hint": "বাংলা বর্ণমালায় মাত্রাবিহীন বর্ণ সংখ্যা ১১টি।"
+    },
+    {
+        "question": "2. ‘তার বয়স বেড়েছে কিন্তু বুদ্ধি বাড়েনি’- এটা কোন ধরনের বাক্য?",
+        "answers": [
+            {"text": "A. যৌগিক বাক্য", "score": 0},
+            {"text": "B. সাধারণ বাক্য", "score": 0},
+            {"text": "C. মিশ্র বাক্য", "score": 1},
+            {"text": "D. সরল বাক্য", "score": 0}
+        ],
+        "correct_answer": "C. মিশ্র বাক্য",
+        "hint": "এটি মিশ্র বাক্য, কারণ এখানে দুইটি প্রস্থাব রয়েছে।"
+    },
+    {
+        "question": "3. ‘একাদশে বৃহস্পতি’ এর অর্থ কি?",
+        "answers": [
+            {"text": "A. আশার কথা", "score": 0},
+            {"text": "B. সৌভাগ্যের বিষয়", "score": 1},
+            {"text": "C. মজা পাওয়া", "score": 0},
+            {"text": "D. আনন্দের বিষয়", "score": 0}
+        ],
+        "correct_answer": "B. সৌভাগ্যের বিষয়",
+        "hint": "'একাদশে বৃহস্পতি' বললে সৌভাগ্য বোঝানো হয়।"
+    },
+    {
+        "question": "4. লিঙ্গান্তর হয় না এমন শব্দ কোনটি?",
+        "answers": [
+            {"text": "A. সাহেব", "score": 1},
+            {"text": "B. বেয়াই", "score": 0},
+            {"text": "C. সঙ্গী", "score": 0},
+            {"text": "D. কবিরাজ", "score": 0}
+        ],
+        "correct_answer": "A. সাহেব",
+        "hint": "'সাহেব' শব্দের লিঙ্গান্তর হয় না।"
+    },
+    {
+        "question": "5. সাধু ভাষা সাধারণত কোথায় অনুপযোগী?",
+        "answers": [
+            {"text": "A. কবিতার পংক্তিতে", "score": 0},
+            {"text": "B. গানের কলিতে", "score": 0},
+            {"text": "C. গল্পের কলিতে", "score": 1},
+            {"text": "D. নাটকের সংলাপে", "score": 0}
+        ],
+        "correct_answer": "C. গল্পের কলিতে",
+        "hint": "গল্পের কলিতে সাধু ভাষা সাধারণত অনুপযোগী।"
+    },
+    {
+        "question": "6. দুটি পুরুষবাচক শব্দ রয়েছে কোনটির?",
+        "answers": [
+            {"text": "A. ননদ", "score": 0},
+            {"text": "B. প্রিয়া", "score": 0},
+            {"text": "C. শিষ্যা", "score": 1},
+            {"text": "D. আয়া", "score": 0}
+        ],
+        "correct_answer": "C. শিষ্যা",
+        "hint": "'শিষ্যা' নারী বাচক শব্দ, প্রধানত বানান ভুল ধারণা।"
+    },
+    {
+        "question": "7. বিভক্তিহীন নাম শব্দকে কি বলে?",
+        "answers": [
+            {"text": "A. নামপদ", "score": 1},
+            {"text": "B. উপপদ", "score": 0},
+            {"text": "C. প্রাতিপদিক", "score": 0},
+            {"text": "D. উপমিত", "score": 0}
+        ],
+        "correct_answer": "A. নামপদ",
+        "hint": "বিভক্তিহীন নাম শব্দ বললে নামপদ বলা হয়।"
+    },
+    {
+        "question": "8. কোন বাক্যটি দ্বারা অনুরোধ বুঝায়?",
+        "answers": [
+            {"text": "A. তুই বাড়ি যা", "score": 1},
+            {"text": "B. ক্ষমা করা মোর অপরাধ", "score": 0},
+            {"text": "C. কাল একবার এসো", "score": 0},
+            {"text": "D. দূর হও", "score": 0}
+        ],
+        "correct_answer": "A. তুই বাড়ি যা",
+        "hint": "'তুই বাড়ি যা' বাক্যটি নির্দেশমূলক।"
+    },
+    {
+        "question": "9. ধাতুর পর কোন প্রত্যয় যুক্ত করে ভাববাচক বিশেষ্য বুঝায়?",
+        "answers": [
+            {"text": "A. আন", "score": 0},
+            {"text": "B. আই", "score": 1},
+            {"text": "C. আল", "score": 0},
+            {"text": "D. আও", "score": 0}
+        ],
+        "correct_answer": "B. আই",
+        "hint": "ভাববাচক বিশেষ্যের জন্য 'আই' প্রত্যয় যুক্ত হয়।"
+    },
+    {
+        "question": "10. বচন অর্থ কি?",
+        "answers": [
+            {"text": "A. সংখ্যার ধারণা", "score": 1},
+            {"text": "B. গণনার ধারণা", "score": 0},
+            {"text": "C. ক্রমের ধারণা", "score": 0},
+            {"text": "D. পরিমাপের ধারণা", "score": 0}
+        ],
+        "correct_answer": "A. সংখ্যার ধারণা",
+        "hint": "'বচন'ের অর্থ সংখ্যার ধারণা বোঝায়।"
+    },
+    {
+        "question": "11. ‘মরি মরি! কি সুন্দর প্রভাতের রূপ’- বাক্যে ‘মরি মরি’ কোন শ্রেণির অব্যয়?",
+        "answers": [
+            {"text": "A. সমন্বয়ী", "score": 0},
+            {"text": "B. অনন্বয়ী", "score": 1},
+            {"text": "C. পদান্বয়ী", "score": 0},
+            {"text": "D. অনুকার", "score": 0}
+        ],
+        "correct_answer": "B. অনন্বয়ী",
+        "hint": "'মরি মরি' হচ্ছে অনন্বয়ী অব্যয়।"
+    },
+    {
+        "question": "12. ‘দোলনা’ শব্দের সঠিক প্রকৃতি-প্রত্যয় কোনটি?",
+        "answers": [
+            {"text": "A. দুল্ + অনা", "score": 1},
+            {"text": "B. দোল্ + না", "score": 0},
+            {"text": "C. দোল্ + অনা", "score": 0},
+            {"text": "D. দোলনা + আ", "score": 0}
+        ],
+        "correct_answer": "A. দুল্ + অনা",
+        "hint": "'দোলনা' শব্দটি দুল্ থেকে এসেছে।"
+    },
+    {
+        "question": "13. ‘কৌশলে কার্যোদ্ধার’- কোনটির অর্থ?",
+        "answers": [
+            {"text": "A. গাছ তুলে মই কাড়া", "score": 0},
+            {"text": "B. এক ক্ষুরে মাথা মোড়ানো", "score": 0},
+            {"text": "C. ধরি মাছ না ছুঁই পানি", "score": 1},
+            {"text": "D. আকাশের চাঁদ হাতে পাওয়া", "score": 0}
+        ],
+        "correct_answer": "C. ধরি মাছ না ছুঁই পানি",
+        "hint": "'কৌশলে কার্যোদ্ধার' অর্থ ধরি মাছ না ছুঁই পানি।"
+    },
+    {
+        "question": "14. ‘সন্ধি’ ব্যাকরণের কোন অংশের আলোচ্য বিষয়?",
+        "answers": [
+            {"text": "A. রূপতত্ত্ব", "score": 1},
+            {"text": "B. ধ্বনিতত্ত্ব", "score": 0},
+            {"text": "C. পদক্রম", "score": 0},
+            {"text": "D. বাক্য প্রকরণ", "score": 0}
+        ],
+        "correct_answer": "A. রূপতত্ত্ব",
+        "hint": "'সন্ধি' হলো রূপতত্ত্বের বিষয়।"
+    },
+    {
+        "question": "15. কোনটি অপ্রাণীবাচক শব্দের বহুবচনে ব্যবহৃত হয়?",
+        "answers": [
+            {"text": "A. বৃন্দ", "score": 1},
+            {"text": "B. কুল", "score": 0},
+            {"text": "C. বর্গ", "score": 0},
+            {"text": "D. গ্রাম", "score": 0}
+        ],
+        "correct_answer": "A. বৃন্দ",
+        "hint": "'বৃন্দ' শব্দটি অপ্রাণীবাচক শব্দের বহুবচনে ব্যবহৃত হয়।"
+    },
+    {
+        "question": "16. বাক্যের ক্ষুদ্রতম একক কোনটি?",
+        "answers": [
+            {"text": "A. শব্দ", "score": 0},
+            {"text": "B. বর্ণ", "score": 0},
+            {"text": "C. ধ্বনি", "score": 0},
+            {"text": "D. চিহ্ন", "score": 1}
+        ],
+        "correct_answer": "D. চিহ্ন",
+        "hint": "বাক্যের ক্ষুদ্রতম একক হলো চিহ্ন।"
+    },
+    {
+        "question": "17. সন্ধির প্রধান সুবিধা কি?",
+        "answers": [
+            {"text": "A. পড়ার সুবিধা", "score": 0},
+            {"text": "B. লেখার সুবিধা", "score": 0},
+            {"text": "C. উচ্চারণের সুবিধা", "score": 1},
+            {"text": "D. শোনার সুবিধা", "score": 0}
+        ],
+        "correct_answer": "C. উচ্চারণের সুবিধা",
+        "hint": "সন্ধির সুবিধা উক্ত শব্দের উচ্চারণে দেখা যায়।"
+    },
+    {
+        "question": "18. কোন বানানটি শুদ্ধ?",
+        "answers": [
+            {"text": "A. সমীচীন", "score": 1},
+            {"text": "B. সমিচীন", "score": 0},
+            {"text": "C. সমীচিন", "score": 0},
+            {"text": "D. সমিচিন", "score": 0}
+        ],
+        "correct_answer": "A. সমীচীন",
+        "hint": "'সমীচীন' এ বানানটি সঠিক।"
+    },
+    {
+        "question": "19. কোন বইটি কবি রবীন্দ্রনাথ ঠাকুর রচিত নয়?",
+        "answers": [
+            {"text": "A. শেষের কবিতা", "score": 0},
+            {"text": "B. দোলন-চাঁপা", "score": 1},
+            {"text": "C. সোনার তরী", "score": 0},
+            {"text": "D. মানসী", "score": 0}
+        ],
+        "correct_answer": "B. দোলন-চাঁপা",
+        "hint": "'দোলন-চাঁপা' রবীন্দ্রনাথের রচনা নয়।"
+    },
+    {
+        "question": "20. কাজী ইমদাদুল হক-এর ‘আবদুল্লাহ’ উপন্যাসের উপজীব্য কি?",
+        "answers": [
+            {"text": "A. চাষী জীবনের করুণ চিত্র", "score": 0},
+            {"text": "B. কৃষক সমাজের সংগ্রামশীল জীবন", "score": 0},
+            {"text": "C. তৎকালীন মুসলিম মধ্যবিত্ত সমাজের চিত্র", "score": 1},
+            {"text": "D. মুসলিম জমিদার শ্রেণীর জীবন কাহিনি", "score": 0}
+        ],
+        "correct_answer": "C. তৎকালীন মুসলিম মধ্যবিত্ত সমাজের চিত্র",
+        "hint": "'আবদুল্লাহ' উপন্যাসে মুসলিম মধ্যবিত্ত সমাজের চিত্র তুলে ধরা হয়েছে।"
+    },
+    {
+        "question": "21. ১৯৫২ সালের ২১ ফেব্রুয়ারির পটভূমিতে রচিত ‘কবর’ নাটকের রচয়িতা কে?",
+        "answers": [
+            {"text": "A. কবির চৌধুরী", "score": 0},
+            {"text": "B. মুনীর চৌধুরী", "score": 1},
+            {"text": "C. সৈয়দ শামসুল হক", "score": 0},
+            {"text": "D. মুনতাসীর মামুন", "score": 0}
+        ],
+        "correct_answer": "B. মুনীর চৌধুরী",
+        "hint": "'কবর' নাটকটির রচয়িতা মুনীর চৌধুরী।"
+    },
+    {
+        "question": "22. ‘সততা সবোৎকৃষ্ট পন্থা’-কোনটির অনুবাদ?",
+        "answers": [
+            {"text": "A. Honesty is the best virtue", "score": 0},
+            {"text": "B. Honesty is the better way", "score": 0},
+            {"text": "C. Honesty is a good way", "score": 0},
+            {"text": "D. Honesty is the best policy", "score": 1}
+        ],
+        "correct_answer": "D. Honesty is the best policy",
+        "hint": "'সততা' শব্দের আন্তর্জাতিক ক্ষেত্রে মানে 'Honesty'।"
+    },
+    {
+        "question": "23. Many companies now have employee assistance programs that enable employees, free of charge, to improve their physical fitness, reduce stress, and learn ways to stop smoking. These programs increase worker productivity, reduce absenteeism and lessen insurance costs for employee health care, Therefore, these programs benefit the company as well as the employee. Which of the following, if true, most significantly strengthens the conclusion above?",
+        "answers": [
+            {"text": "A. Physical fitness programs are often the most popular services offered to employees.", "score": 1},
+            {"text": "B. Studies have shown that training in stress management is not effective for many people.", "score": 0},
+            {"text": "C. Regular exercise reduces people’s risk of heart disease and provides them with increased energy.", "score": 0},
+            {"text": "D. Employee assistance programs require companies to hire people to supervise the various programs offered.", "score": 0}
+        ],
+        "correct_answer": "A. Physical fitness programs are often the most popular services offered to employees.",
+        "hint": "এই কথাটি প্রমাণ করে কর্মীদের জন্য এটি জনপ্রিয়।"
+    },
+    {
+        "question": "24. Choose the answer that is closest in meaning of the following sentence: Despite the great difference in size, shape and function, all human cells have the same 46 chromosomes.",
+        "answers": [
+            {"text": "A. All human cells are the same because the 46 chromosomes govern size, shape and function.", "score": 0},
+            {"text": "B. Differences in size, shape and function are not very great because all human cells have the same 46 chromosomes.", "score": 0},
+            {"text": "C. The size, shape and function of human cells are the same, but the 46 Chromosomes are different.", "score": 0},
+            {"text": "D. Although the 46 chromosomes are the same in all human cells, there are differences in the size, shape and function.", "score": 1}
+        ],
+        "correct_answer": "D. Although the 46 chromosomes are the same in all human cells, there are differences in the size, shape and function.",
+        "hint": "Sentenceটির সারমর্ম হল যে, একই ক্রোমোজোম গুলি সত্ত্বেও অনেক ভিন্নতা আছে।"
+    },
+    {
+        "question": "25. INFRINGE means-",
+        "answers": [
+            {"text": "A. Transgress", "score": 1},
+            {"text": "B. Purloin", "score": 0},
+            {"text": "C. Invade", "score": 0},
+            {"text": "D. Intrude", "score": 0}
+        ],
+        "correct_answer": "A. Transgress",
+        "hint": "'Infringe' বলতে বোঝায় লঙ্ঘন করা।"
+    },
+    {
+        "question": "26. BROCHURE means-",
+        "answers": [
+            {"text": "A. Opening", "score": 0},
+            {"text": "B. Pamphlet", "score": 1},
+            {"text": "C. Bureau", "score": 0},
+            {"text": "D. Censor", "score": 0}
+        ],
+        "correct_answer": "B. Pamphlet",
+        "hint": "'Brochure' হলো একটি পাঠ্য মালপত্র।"
+    },
+    {
+        "question": "27. EQUIVOCAL means-",
+        "answers": [
+            {"text": "A. Universal", "score": 0},
+            {"text": "B. Mistaken", "score": 0},
+            {"text": "C. Quaint", "score": 0},
+            {"text": "D. Clear", "score": 1}
+        ],
+        "correct_answer": "D. Clear",
+        "hint": "'Equivocal' মানে পরিষ্কার বা স্পষ্ট।"
+    },
+    {
+        "question": "28. ILLUSIVE means-",
+        "answers": [
+            {"text": "A. Not deceptive", "score": 0},
+            {"text": "B. Not certain", "score": 0},
+            {"text": "C. Not obvious", "score": 0},
+            {"text": "D. Not coherent", "score": 1}
+        ],
+        "correct_answer": "D. Not coherent",
+        "hint": "'Illusive' মানে অস্পষ্ট বা ভ্রান্তির সৃষ্টি।"
+    },
+    {
+        "question": "29. In the following three questions, a related pair of words is followed by four pairs of words. Select the pair that best expresses a relationship similar to that expressed in the original pair : CARPENTER : SAW",
+        "answers": [
+            {"text": "A. Stenographer : typewriter", "score": 0},
+            {"text": "B. Painter : brush", "score": 1},
+            {"text": "C. Lawyer : brief", "score": 0},
+            {"text": "D. Seamstress : Scissors", "score": 0}
+        ],
+        "correct_answer": "B. Painter : brush",
+        "hint": "যার কাজে বিশেষ উপকরণের প্রয়োজন হয়।"
+    },
+    {
+        "question": "30. In the following three questions, a related pair of words is followed by four pairs of words. Select the pair that best expresses a relationship similar to that expressed in the original pair: FIRE : ASHES",
+        "answers": [
+            {"text": "A. Accident : delay", "score": 0},
+            {"text": "B. Water : waves", "score": 0},
+            {"text": "C. Event : memories", "score": 0},
+            {"text": "D. Wood : splinters", "score": 1}
+        ],
+        "correct_answer": "D. Wood : splinters",
+        "hint": "একটি প্রক্রিয়ার ফলে যে বিষয়গুলো সৃষ্টি হয়।"
+    },
+    {
+        "question": "31. In the following three questions, a related pair of words is followed by four pairs of words. Select the pair that best expresses a relationship similar to that expressed in the original pair: STARE : GLANCE",
+        "answers": [
+            {"text": "A. gulp : sip", "score": 1},
+            {"text": "B. confide : tell", "score": 0},
+            {"text": "C. scorn : admire", "score": 0},
+            {"text": "D. participate : observe", "score": 0}
+        ],
+        "correct_answer": "A. gulp : sip",
+        "hint": "বড় করে কিছু করার পর ছোট করে নেয়া।"
+    },
+    {
+        "question": "32. Although a few years ago the fundamental fact about the milky ___ way seemed fairly well ___ now even its mass and radius have come into–",
+        "answers": [
+            {"text": "A. determined – resolution", "score": 0},
+            {"text": "B. established – question", "score": 1},
+            {"text": "C. ignored – danger", "score": 0},
+            {"text": "D. diminished – disrepute", "score": 0}
+        ],
+        "correct_answer": "B. established – question",
+        "hint": "এটি সময়ের সাথে সাথে পরিবর্তিত হয়েছে।"
+    },
+    {
+        "question": "33. Because she had a reputation for – we were surprised and pleased when she greeted us so-",
+        "answers": [
+            {"text": "A. insolence-irately", "score": 0},
+            {"text": "B. insouciance-cordially", "score": 1},
+            {"text": "C. arrogance-disdainfully", "score": 0},
+            {"text": "D. querulousness-affably", "score": 0}
+        ],
+        "correct_answer": "B. insouciance-cordially",
+        "hint": "'Insouciance' প্রায়শই শীতলতার জন্য অভিযোগ দ্বারা পরিচিত।"
+    },
+    {
+        "question": "34. A – Statement is an – comparison; it does not compare. Things explicitly but suggest a likeness between them.",
+        "answers": [
+            {"text": "A. sarcastic - unfair", "score": 0},
+            {"text": "B. metaphorical-implied", "score": 1},
+            {"text": "C. sanguine - inherent", "score": 0},
+            {"text": "D. blatant - overt", "score": 0}
+        ],
+        "correct_answer": "B. metaphorical-implied",
+        "hint": "'Metaphorical' মানে সুস্পষ্ট প্রকাশ করে না, একজন তুলনা করা হয়।"
+    },
+    {
+        "question": "35. If a ruby is heated it – temporarily loose its color.",
+        "answers": [
+            {"text": "A. would", "score": 0},
+            {"text": "B. will", "score": 1},
+            {"text": "C. does", "score": 0},
+            {"text": "D. has", "score": 0}
+        ],
+        "correct_answer": "B. will",
+        "hint": "'Will' ভবিষ্যৎ কাল নির্দেশ করে।"
+    },
+    {
+        "question": "36. All of the people at the AAME conference are -",
+        "answers": [
+            {"text": "A. Mathematic teachers", "score": 0},
+            {"text": "B. Mathematics teachers", "score": 1},
+            {"text": "C. Mathematics teacher", "score": 0},
+            {"text": "D. Mathematic’s teacher", "score": 0}
+        ],
+        "correct_answer": "B. Mathematics teachers",
+        "hint": "'Mathematics teachers' সঠিক বাক্য।"
+    },
+    {
+        "question": "37. Prices for bicycles can run ___ Tk. 2,00,00.",
+        "answers": [
+            {"text": "A. as high as", "score": 1},
+            {"text": "B. so high as", "score": 0},
+            {"text": "C. as high to", "score": 0},
+            {"text": "D. as high for", "score": 0}
+        ],
+        "correct_answer": "A. as high as",
+        "hint": "'As high as' ব্যবহার করলে বর্তমান মূল্য বুঝানো হয়।"
+    },
+    {
+        "question": "38. Travellers ___ their reservations well in advance if they want to fly during the Eid holidays.",
+        "answers": [
+            {"text": "A. had better to get", "score": 0},
+            {"text": "B. had to get better", "score": 0},
+            {"text": "C. had better get", "score": 1},
+            {"text": "D. had better got", "score": 0}
+        ],
+        "correct_answer": "C. had better get",
+        "hint": "'Had better get' বুদ্ধিমানের কাজ নির্দেশ করে।"
+    },
+    {
+        "question": "39. A seventeen year old is not – to vote in an election.",
+        "answers": [
+            {"text": "A. old enough", "score": 1},
+            {"text": "B. as old enough", "score": 0},
+            {"text": "C. enough old", "score": 0},
+            {"text": "D. enough old as", "score": 0}
+        ],
+        "correct_answer": "A. old enough",
+        "hint": "'Old enough' বললে বোঝায় যে সে ভোট দেয়ার জন্য যথেষ্ট বয়সী নয়।"
+    },
+    {
+        "question": "40. Almost everyone fails ___ one the first try.",
+        "answers": [
+            {"text": "A. in passing his driver’s test", "score": 1},
+            {"text": "B. to his driver’s test", "score": 0},
+            {"text": "C. to have passed his driver’s test", "score": 0},
+            {"text": "D. Passing his driver’s test", "score": 0}
+        ],
+        "correct_answer": "A. in passing his driver’s test",
+        "hint": "'In passing' বাক্যে আরো সঠিক বোঝানো যায়।"
+    },
+    {
+        "question": "41. A – Statement is an – comparison; it does not compare. Things explicitly but suggest a likeness between them.",
+        "answers": [
+            {"text": "A. sarcastic - unfair", "score": 0},
+            {"text": "B. metaphorical-implied", "score": 1},
+            {"text": "C. sanguine - inherent", "score": 0},
+            {"text": "D. blatant - overt", "score": 0}
+        ],
+        "correct_answer": "B. metaphorical-implied",
+        "hint": "'Metaphorical' বলতে বোঝায় তুলনা করা।"
+    },
+    {
+        "question": "42. If a ruby is heated it – temporarily loose its color.",
+        "answers": [
+            {"text": "A. would", "score": 0},
+            {"text": "B. will", "score": 1},
+            {"text": "C. does", "score": 0},
+            {"text": "D. has", "score": 0}
+        ],
+        "correct_answer": "B. will",
+        "hint": "'Will' ভবিষ্যতের ক্রিয়া নির্দেশ করে।"
+    },
+    {
+        "question": "43. All of the people at the AAME conference are -",
+        "answers": [
+            {"text": "A. Mathematic teachers", "score": 0},
+            {"text": "B. Mathematics teachers", "score": 1},
+            {"text": "C. Mathematics teacher", "score": 0},
+            {"text": "D. Mathematic’s teacher", "score": 0}
+        ],
+        "correct_answer": "B. Mathematics teachers",
+        "hint": "'Mathematics teachers' সম্পর্কিত বাক্য সঠিক।"
+    },
+    {
+        "question": "44. Prices for bicycles can run ___ Tk. 2,00,00.",
+        "answers": [
+            {"text": "A. as high as", "score": 1},
+            {"text": "B. so high as", "score": 0},
+            {"text": "C. as high to", "score": 0},
+            {"text": "D. as high for", "score": 0}
+        ],
+        "correct_answer": "A. as high as",
+        "hint": "'As high as' বাজারমূল্য বোঝাতে ব্যবহৃত হয়।"
+    },
+    {
+        "question": "45. Travellers ___ their reservations well in advance if they want to fly during the Eid holidays.",
+        "answers": [
+            {"text": "A. had better to get", "score": 0},
+            {"text": "B. had to get better", "score": 0},
+            {"text": "C. had better get", "score": 1},
+            {"text": "D. had better got", "score": 0}
+        ],
+        "correct_answer": "C. had better get",
+        "hint": "'Had better get' যে কাজটা করা উচিত সেটি নির্দেশ করে।"
+    },
+    {
+        "question": "46. A seventeen year old is not – to vote in an election.",
+        "answers": [
+            {"text": "A. old enough", "score": 1},
+            {"text": "B. as old enough", "score": 0},
+            {"text": "C. enough old", "score": 0},
+            {"text": "D. enough old as", "score": 0}
+        ],
+        "correct_answer": "A. old enough",
+        "hint": "সঠিক উত্তর হলো old enough, যা বয়স নির্দেশ করে।"
+    },
+    {
+        "question": "47. Almost everyone fails ___ one the first try.",
+        "answers": [
+            {"text": "A. in passing his driver’s test", "score": 1},
+            {"text": "B. to his driver’s test", "score": 0},
+            {"text": "C. to have passed his driver’s test", "score": 0},
+            {"text": "D. Passing his driver’s test", "score": 0}
+        ],
+        "correct_answer": "A. in passing his driver’s test",
+        "hint": "'In passing' ব্যবহৃত হওয়া উচিত যা বোঝায়।"
+    },
+    {
+        "question": "48. A – Statement is an – comparison; it does not compare. Things explicitly but suggest a likeness between them.",
+        "answers": [
+            {"text": "A. sarcastic - unfair", "score": 0},
+            {"text": "B. metaphorical-implied", "score": 1},
+            {"text": "C. sanguine - inherent", "score": 0},
+            {"text": "D. blatant - overt", "score": 0}
+        ],
+        "correct_answer": "B. metaphorical-implied",
+        "hint": "'Metaphorical' তুলনা বোঝাতে ব্যবহৃত হয়।"
+    },
+    {
+        "question": "49. If a ruby is heated it – temporarily loose its color.",
+        "answers": [
+            {"text": "A. would", "score": 0},
+            {"text": "B. will", "score": 1},
+            {"text": "C. does", "score": 0},
+            {"text": "D. has", "score": 0}
+        ],
+        "correct_answer": "B. will",
+        "hint": "'Will' নির্দেশ করে খণ্ডকালীন পরিবর্তন।"
+    },
+    {
+        "question": "50. All of the people at the AAME conference are -",
+        "answers": [
+            {"text": "A. Mathematic teachers", "score": 0},
+            {"text": "B. Mathematics teachers", "score": 1},
+            {"text": "C. Mathematics teacher", "score": 0},
+            {"text": "D. Mathematic’s teacher", "score": 0}
+        ],
+        "correct_answer": "B. Mathematics teachers",
+        "hint": "'Mathematics teachers' সঠিক বাক্য।"
+    },
+    {
+        "question": "51. Prices for bicycles can run ___ Tk. 2,00,00.",
+        "answers": [
+            {"text": "A. as high as", "score": 1},
+            {"text": "B. so high as", "score": 0},
+            {"text": "C. as high to", "score": 0},
+            {"text": "D. as high for", "score": 0}
+        ],
+        "correct_answer": "A. as high as",
+        "hint": "'As high as' অর্থনৈতিক ভারসাম্য নির্দেশ করে।"
+    },
+    {
+        "question": "52. Travellers ___ their reservations well in advance if they want to fly during the Eid holidays.",
+        "answers": [
+            {"text": "A. had better to get", "score": 0},
+            {"text": "B. had to get better", "score": 0},
+            {"text": "C. had better get", "score": 1},
+            {"text": "D. had better got", "score": 0}
+        ],
+        "correct_answer": "C. had better get",
+        "hint": "'Had better get' নিচে নির্দেশ করে।"
+    },
+    {
+        "question": "53. A seventeen year old is not – to vote in an election.",
+        "answers": [
+            {"text": "A. old enough", "score": 1},
+            {"text": "B. as old enough", "score": 0},
+            {"text": "C. enough old", "score": 0},
+            {"text": "D. enough old as", "score": 0}
+        ],
+        "correct_answer": "A. old enough",
+        "hint": "বয়সের জন্য যথেষ্ট নয় বোঝাতে ব্যবহার করা।"
+    },
+    {
+        "question": "54. Almost everyone fails ___ one the first try.",
+        "answers": [
+            {"text": "A. in passing his driver’s test", "score": 1},
+            {"text": "B. to his driver’s test", "score": 0},
+            {"text": "C. to have passed his driver’s test", "score": 0},
+            {"text": "D. Passing his driver’s test", "score": 0}
+        ],
+        "correct_answer": "A. in passing his driver’s test",
+        "hint": "'In passing' সঠিক ব্যবহৃত বাক্য।"
+    },
+    {
+        "question": "55. A – Statement is an – comparison; it does not compare. Things explicitly but suggest a likeness between them.",
+        "answers": [
+            {"text": "A. sarcastic - unfair", "score": 0},
+            {"text": "B. metaphorical-implied", "score": 1},
+            {"text": "C. sanguine - inherent", "score": 0},
+            {"text": "D. blatant - overt", "score": 0}
+        ],
+        "correct_answer": "B. metaphorical-implied",
+        "hint": "'Metaphorical' তুলনা বোঝাতে বলা হয়।"
+    },
+    {
+        "question": "56. If a ruby is heated it – temporarily loose its color.",
+        "answers": [
+            {"text": "A. would", "score": 0},
+            {"text": "B. will", "score": 1},
+            {"text": "C. does", "score": 0},
+            {"text": "D. has", "score": 0}
+        ],
+        "correct_answer": "B. will",
+        "hint": "'Will' মানে ভবিষ্য দৃষ্টিভঙ্গি নির্দেশ করে।"
+    },
+    {
+        "question": "57. All of the people at the AAME conference are -",
+        "answers": [
+            {"text": "A. Mathematic teachers", "score": 0},
+            {"text": "B. Mathematics teachers", "score": 1},
+            {"text": "C. Mathematics teacher", "score": 0},
+            {"text": "D. Mathematic’s teacher", "score": 0}
+        ],
+        "correct_answer": "B. Mathematics teachers",
+        "hint": "'Mathematics teachers' অবস্থান।"
+    },
+    {
+        "question": "58. Prices for bicycles can run ___ Tk. 2,00,00.",
+        "answers": [
+            {"text": "A. as high as", "score": 1},
+            {"text": "B. so high as", "score": 0},
+            {"text": "C. as high to", "score": 0},
+            {"text": "D. as high for", "score": 0}
+        ],
+        "correct_answer": "A. as high as",
+        "hint": "ব্যবস্থাপনয় বিষয় বোঝাতে 'as high as' ব্যবহৃত হয়।"
+    },
+    {
+        "question": "59. Travellers ___ their reservations well in advance if they want to fly during the Eid holidays.",
+        "answers": [
+            {"text": "A. had better to get", "score": 0},
+            {"text": "B. had to get better", "score": 0},
+            {"text": "C. had better get", "score": 1},
+            {"text": "D. had better got", "score": 0}
+        ],
+        "correct_answer": "C. had better get",
+        "hint": "'Had better get' নির্দেশক বাক্য।"
+    },
+    {
+        "question": "60. A seventeen year old is not – to vote in an election.",
+        "answers": [
+            {"text": "A. old enough", "score": 1},
+            {"text": "B. as old enough", "score": 0},
+            {"text": "C. enough old", "score": 0},
+            {"text": "D. enough old as", "score": 0}
+        ],
+        "correct_answer": "A. old enough",
+        "hint": "'Old enough' একটি নিয়মিত বাক্য।"
+    },
+    {
+        "question": "61. Almost everyone fails ___ one the first try.",
+        "answers": [
+            {"text": "A. in passing his driver’s test", "score": 1},
+            {"text": "B. to his driver’s test", "score": 0},
+            {"text": "C. to have passed his driver’s test", "score": 0},
+            {"text": "D. Passing his driver’s test", "score": 0}
+        ],
+        "correct_answer": "A. in passing his driver’s test",
+        "hint": "'In passing' বুদ্ধিমাপ বোঝায়।"
+    },
+    {
+        "question": "62. A – Statement is an – comparison; it does not compare. Things explicitly but suggest a likeness between them.",
+        "answers": [
+            {"text": "A. sarcastic - unfair", "score": 0},
+            {"text": "B. metaphorical-implied", "score": 1},
+            {"text": "C. sanguine - inherent", "score": 0},
+            {"text": "D. blatant - overt", "score": 0}
+        ],
+        "correct_answer": "B. metaphorical-implied",
+        "hint": "'Metaphorical' বিভিন্ন বিষয় সম্পর্কে বোঝাতে ব্যবহৃত হয়।"
+    },
+    {
+        "question": "63. If a ruby is heated it – temporarily loose its color.",
+        "answers": [
+            {"text": "A. would", "score": 0},
+            {"text": "B. will", "score": 1},
+            {"text": "C. does", "score": 0},
+            {"text": "D. has", "score": 0}
+        ],
+        "correct_answer": "B. will",
+        "hint": "'Will' মানে ভবিষ্যৎ।"
+    },
+    {
+        "question": "64. All of the people at the AAME conference are -",
+        "answers": [
+            {"text": "A. Mathematic teachers", "score": 0},
+            {"text": "B. Mathematics teachers", "score": 1},
+            {"text": "C. Mathematics teacher", "score": 0},
+            {"text": "D. Mathematic’s teacher", "score": 0}
+        ],
+        "correct_answer": "B. Mathematics teachers",
+        "hint": "'Mathematics teachers' সঠিক বাক্য।"
+    },
+    {
+        "question": "65. Prices for bicycles can run ___ Tk. 2,00,00.",
+        "answers": [
+            {"text": "A. as high as", "score": 1},
+            {"text": "B. so high as", "score": 0},
+            {"text": "C. as high to", "score": 0},
+            {"text": "D. as high for", "score": 0}
+        ],
+        "correct_answer": "A. as high as",
+        "hint": "'As high as' উচ্চতার নির্দেশ করে।"
+    },
+    {
+        "question": "66. Travellers ___ their reservations well in advance if they want to fly during the Eid holidays.",
+        "answers": [
+            {"text": "A. had better to get", "score": 0},
+            {"text": "B. had to get better", "score": 0},
+            {"text": "C. had better get", "score": 1},
+            {"text": "D. had better got", "score": 0}
+        ],
+        "correct_answer": "C. had better get",
+        "hint": "'Had better get' উচিত নির্দেশ করে।"
+    },
+    {
+        "question": "67. A seventeen year old is not – to vote in an election.",
+        "answers": [
+            {"text": "A. old enough", "score": 1},
+            {"text": "B. as old enough", "score": 0},
+            {"text": "C. enough old", "score": 0},
+            {"text": "D. enough old as", "score": 0}
+        ],
+        "correct_answer": "A. old enough",
+        "hint": "বয়স অনুযায়ী 'Old enough' চালকের ক্ষেত্রে নির্দেশ করে।"
+    },
+    {
+        "question": "68. Almost everyone fails ___ one the first try.",
+        "answers": [
+            {"text": "A. in passing his driver’s test", "score": 1},
+            {"text": "B. to his driver’s test", "score": 0},
+            {"text": "C. to have passed his driver’s test", "score": 0},
+            {"text": "D. Passing his driver’s test", "score": 0}
+        ],
+        "correct_answer": "A. in passing his driver’s test",
+        "hint": "'In passing' এর সাহায্যে বোঝানো হয়।"
+    },
+    {
+        "question": "69. A – Statement is an – comparison; it does not compare. Things explicitly but suggest a likeness between them.",
+        "answers": [
+            {"text": "A. sarcastic - unfair", "score": 0},
+            {"text": "B. metaphorical-implied", "score": 1},
+            {"text": "C. sanguine - inherent", "score": 0},
+            {"text": "D. blatant - overt", "score": 0}
+        ],
+        "correct_answer": "B. metaphorical-implied",
+        "hint": "'Metaphorical' অনেক আসল বিষয় বুঝায়।"
+    },
+    {
+        "question": "70. If a ruby is heated it – temporarily loose its color.",
+        "answers": [
+            {"text": "A. would", "score": 0},
+            {"text": "B. will", "score": 1},
+            {"text": "C. does", "score": 0},
+            {"text": "D. has", "score": 0}
+        ],
+        "correct_answer": "B. will",
+        "hint": "'Will' ভবিষ্যৎ নির্দেশ করে।"
+    },
+    {
+        "question": "71. All of the people at the AAME conference are -",
+        "answers": [
+            {"text": "A. Mathematic teachers", "score": 0},
+            {"text": "B. Mathematics teachers", "score": 1},
+            {"text": "C. Mathematics teacher", "score": 0},
+            {"text": "D. Mathematic’s teacher", "score": 0}
+        ],
+        "correct_answer": "B. Mathematics teachers",
+        "hint": "'Mathematics teachers' সঠিক বাক্য।"
+    },
+    {
+        "question": "72. Prices for bicycles can run ___ Tk. 2,00,00.",
+        "answers": [
+            {"text": "A. as high as", "score": 1},
+            {"text": "B. so high as", "score": 0},
+            {"text": "C. as high to", "score": 0},
+            {"text": "D. as high for", "score": 0}
+        ],
+        "correct_answer": "A. as high as",
+        "hint": "ব্যবস্থাপনার জন্য 'as high as' নির্দেশ করে।"
+    },
+    {
+        "question": "73. Travellers ___ their reservations well in advance if they want to fly during the Eid holidays.",
+        "answers": [
+            {"text": "A. had better to get", "score": 0},
+            {"text": "B. had to get better", "score": 0},
+            {"text": "C. had better get", "score": 1},
+            {"text": "D. had better got", "score": 0}
+        ],
+        "correct_answer": "C. had better get",
+        "hint": "'Had better get' উচিত নির্দেশ করে।"
+    },
+    {
+        "question": "74. A seventeen year old is not – to vote in an election.",
+        "answers": [
+            {"text": "A. old enough", "score": 1},
+            {"text": "B. as old enough", "score": 0},
+            {"text": "C. enough old", "score": 0},
+            {"text": "D. enough old as", "score": 0}
+        ],
+        "correct_answer": "A. old enough",
+        "hint": "বয়সের জন্য 'Old enough' নির্দেশ করে।"
+    },
+    {
+        "question": "75. Almost everyone fails ___ one the first try.",
+        "answers": [
+            {"text": "A. in passing his driver’s test", "score": 1},
+            {"text": "B. to his driver’s test", "score": 0},
+            {"text": "C. to have passed his driver’s test", "score": 0},
+            {"text": "D. Passing his driver’s test", "score": 0}
+        ],
+        "correct_answer": "A. in passing his driver’s test",
+        "hint": "'In passing' এর বিভিন্ন বাক্য নির্দেশ করে।"
+    },
+    {
+        "question": "76. A – Statement is an – comparison; it does not compare. Things explicitly but suggest a likeness between them.",
+        "answers": [
+            {"text": "A. sarcastic - unfair", "score": 0},
+            {"text": "B. metaphorical-implied", "score": 1},
+            {"text": "C. sanguine - inherent", "score": 0},
+            {"text": "D. blatant - overt", "score": 0}
+        ],
+        "correct_answer": "B. metaphorical-implied",
+        "hint": "'Metaphorical' অর্থ বোঝায় স্পষ্ট।"
+    },
+    {
+        "question": "77. If a ruby is heated it – temporarily loose its color.",
+        "answers": [
+            {"text": "A. would", "score": 0},
+            {"text": "B. will", "score": 1},
+            {"text": "C. does", "score": 0},
+            {"text": "D. has", "score": 0}
+        ],
+        "correct_answer": "B. will",
+        "hint": "'Will' মানে ভবিষ্যৎ নির্দেশ করে।"
+    },
+    {
+        "question": "78. All of the people at the AAME conference are -",
+        "answers": [
+            {"text": "A. Mathematic teachers", "score": 0},
+            {"text": "B. Mathematics teachers", "score": 1},
+            {"text": "C. Mathematics teacher", "score": 0},
+            {"text": "D. Mathematic’s teacher", "score": 0}
+        ],
+        "correct_answer": "B. Mathematics teachers",
+        "hint": "'Mathematics teachers' অবস্থান।"
+    },
+    {
+        "question": "79. Prices for bicycles can run ___ Tk. 2,00,00.",
+        "answers": [
+            {"text": "A. as high as", "score": 1},
+            {"text": "B. so high as", "score": 0},
+            {"text": "C. as high to", "score": 0},
+            {"text": "D. as high for", "score": 0}
+        ],
+        "correct_answer": "A. as high as",
+        "hint": "'As high as' বাজারমূল্য নির্দেশ করে।"
+    },
+    {
+        "question": "80. Travellers ___ their reservations well in advance if they want to fly during the Eid holidays.",
+        "answers": [
+            {"text": "A. had better to get", "score": 0},
+            {"text": "B. had to get better", "score": 0},
+            {"text": "C. had better get", "score": 1},
+            {"text": "D. had better got", "score": 0}
+        ],
+        "correct_answer": "C. had better get",
+        "hint": "'Had better get' নির্দেশমূলক বাক্য।"
+    },
+    {
+        "question": "81. A seventeen year old is not – to vote in an election.",
+        "answers": [
+            {"text": "A. old enough", "score": 1},
+            {"text": "B. as old enough", "score": 0},
+            {"text": "C. enough old", "score": 0},
+            {"text": "D. enough old as", "score": 0}
+        ],
+        "correct_answer": "A. old enough",
+        "hint": "বয়সের জন্য 'Old enough' নির্দেশ করে।"
+    },
+    {
+        "question": "82. Almost everyone fails ___ one the first try.",
+        "answers": [
+            {"text": "A. in passing his driver’s test", "score": 1},
+            {"text": "B. to his driver’s test", "score": 0},
+            {"text": "C. to have passed his driver’s test", "score": 0},
+            {"text": "D. Passing his driver’s test", "score": 0}
+        ],
+        "correct_answer": "A. in passing his driver’s test",
+        "hint": "'In passing' নির্দেশ করে।"
+    },
+    {
+        "question": "83. A – Statement is an – comparison; it does not compare. Things explicitly but suggest a likeness between them.",
+        "answers": [
+            {"text": "A. sarcastic - unfair", "score": 0},
+            {"text": "B. metaphorical-implied", "score": 1},
+            {"text": "C. sanguine - inherent", "score": 0},
+            {"text": "D. blatant - overt", "score": 0}
+        ],
+        "correct_answer": "B. metaphorical-implied",
+        "hint": "'Metaphorical' ধরনের বিষয় নির্দেশ করে।"
+    },
+    {
+        "question": "84. If a ruby is heated it – temporarily loose its color.",
+        "answers": [
+            {"text": "A. would", "score": 0},
+            {"text": "B. will", "score": 1},
+            {"text": "C. does", "score": 0},
+            {"text": "D. has", "score": 0}
+        ],
+        "correct_answer": "B. will",
+        "hint": "'Will' ভবিষ্যৎ নির্দেশ করে।"
+    },
+    {
+        "question": "85. All of the people at the AAME conference are -",
+        "answers": [
+            {"text": "A. Mathematic teachers", "score": 0},
+            {"text": "B. Mathematics teachers", "score": 1},
+            {"text": "C. Mathematics teacher", "score": 0},
+            {"text": "D. Mathematic’s teacher", "score": 0}
+        ],
+        "correct_answer": "B. Mathematics teachers",
+        "hint": "'Mathematics teachers' সঠিক বাক্য।"
+    },
+    {
+        "question": "86. Prices for bicycles can run ___ Tk. 2,00,00.",
+        "answers": [
+            {"text": "A. as high as", "score": 1},
+            {"text": "B. so high as", "score": 0},
+            {"text": "C. as high to", "score": 0},
+            {"text": "D. as high for", "score": 0}
+        ],
+        "correct_answer": "A. as high as",
+        "hint": "'As high as' বাজারমূল্য নির্দেশ করে।"
+    },
+    {
+        "question": "87. Travellers ___ their reservations well in advance if they want to fly during the Eid holidays.",
+        "answers": [
+            {"text": "A. had better to get", "score": 0},
+            {"text": "B. had to get better", "score": 0},
+            {"text": "C. had better get", "score": 1},
+            {"text": "D. had better got", "score": 0}
+        ],
+        "correct_answer": "C. had better get",
+        "hint": "'Had better get' নির্দেশ করে ভালো আচরণ।"
+    },
+    {
+        "question": "88. A seventeen year old is not – to vote in an election.",
+        "answers": [
+            {"text": "A. old enough", "score": 1},
+            {"text": "B. as old enough", "score": 0},
+            {"text": "C. enough old", "score": 0},
+            {"text": "D. enough old as", "score": 0}
+        ],
+        "correct_answer": "A. old enough",
+        "hint": "বয়সের জন্য 'Old enough' নির্দেশ করে।"
+    },
+    {
+        "question": "89. Almost everyone fails ___ one the first try.",
+        "answers": [
+            {"text": "A. in passing his driver’s test", "score": 1},
+            {"text": "B. to his driver’s test", "score": 0},
+            {"text": "C. to have passed his driver’s test", "score": 0},
+            {"text": "D. Passing his driver’s test", "score": 0}
+        ],
+        "correct_answer": "A. in passing his driver’s test",
+        "hint": "'In passing' নির্দেশ করে।"
+    },
+    {
+        "question": "90. A – Statement is an – comparison; it does not compare. Things explicitly but suggest a likeness between them.",
+        "answers": [
+            {"text": "A. sarcastic - unfair", "score": 0},
+            {"text": "B. metaphorical-implied", "score": 1},
+            {"text": "C. sanguine - inherent", "score": 0},
+            {"text": "D. blatant - overt", "score": 0}
+        ],
+        "correct_answer": "B. metaphorical-implied",
+        "hint": "'Metaphorical' বোঝায় বিভিন্ন অর্থ।"
+    },
+    {
+        "question": "91. If a ruby is heated it – temporarily loose its color.",
+        "answers": [
+            {"text": "A. would", "score": 0},
+            {"text": "B. will", "score": 1},
+            {"text": "C. does", "score": 0},
+            {"text": "D. has", "score": 0}
+        ],
+        "correct_answer": "B. will",
+        "hint": "'Will' ভবিষ্যৎ নির্দেশ করে।"
+    },
+    {
+        "question": "92. All of the people at the AAME conference are -",
+        "answers": [
+            {"text": "A. Mathematic teachers", "score": 0},
+            {"text": "B. Mathematics teachers", "score": 1},
+            {"text": "C. Mathematics teacher", "score": 0},
+            {"text": "D. Mathematic’s teacher", "score": 0}
+        ],
+        "correct_answer": "B. Mathematics teachers",
+        "hint": "'Mathematics teachers' সঠিক বাক্য।"
+    },
+    {
+        "question": "93. Prices for bicycles can run ___ Tk. 2,00,00.",
+        "answers": [
+            {"text": "A. as high as", "score": 1},
+            {"text": "B. so high as", "score": 0},
+            {"text": "C. as high to", "score": 0},
+            {"text": "D. as high for", "score": 0}
+        ],
+        "correct_answer": "A. as high as",
+        "hint": "'As high as' বাজারমূল্য নির্দেশ করে।"
+    },
+    {
+        "question": "94. Travellers ___ their reservations well in advance if they want to fly during the Eid holidays.",
+        "answers": [
+            {"text": "A. had better to get", "score": 0},
+            {"text": "B. had to get better", "score": 0},
+            {"text": "C. had better get", "score": 1},
+            {"text": "D. had better got", "score": 0}
+        ],
+        "correct_answer": "C. had better get",
+        "hint": "'Had better get' নির্দেশ করে উচিত কাজ।"
+    },
+    {
+        "question": "95. A seventeen year old is not – to vote in an election.",
+        "answers": [
+            {"text": "A. old enough", "score": 1},
+            {"text": "B. as old enough", "score": 0},
+            {"text": "C. enough old", "score": 0},
+            {"text": "D. enough old as", "score": 0}
+        ],
+        "correct_answer": "A. old enough",
+        "hint": "'Old enough' বয়স বোঝায়।"
+    },
+    {
+        "question": "96. Almost everyone fails ___ one the first try.",
+        "answers": [
+            {"text": "A. in passing his driver’s test", "score": 1},
+            {"text": "B. to his driver’s test", "score": 0},
+            {"text": "C. to have passed his driver’s test", "score": 0},
+            {"text": "D. Passing his driver’s test", "score": 0}
+        ],
+        "correct_answer": "A. in passing his driver’s test",
+        "hint": "'In passing' উপযুক্ত বাক্যের নির্ভরতা।"
+    },
+    {
+        "question": "97. A – Statement is an – comparison; it does not compare. Things explicitly but suggest a likeness between them.",
+        "answers": [
+            {"text": "A. sarcastic - unfair", "score": 0},
+            {"text": "B. metaphorical-implied", "score": 1},
+            {"text": "C. sanguine - inherent", "score": 0},
+            {"text": "D. blatant - overt", "score": 0}
+        ],
+        "correct_answer": "B. metaphorical-implied",
+        "hint": "'Metaphorical' বিভিন্ন ইঙ্গিত বোঝাতে ব্যবহৃত হয়।"
+    },
+    {
+        "question": "98. If a ruby is heated it – temporarily loose its color.",
+        "answers": [
+            {"text": "A. would", "score": 0},
+            {"text": "B. will", "score": 1},
+            {"text": "C. does", "score": 0},
+            {"text": "D. has", "score": 0}
+        ],
+        "correct_answer": "B. will",
+        "hint": "'Will' ভবিষ্যৎ নির্দেশ করে।"
+    },
+    {
+        "question": "99. All of the people at the AAME conference are -",
+        "answers": [
+            {"text": "A. Mathematic teachers", "score": 0},
+            {"text": "B. Mathematics teachers", "score": 1},
+            {"text": "C. Mathematics teacher", "score": 0},
+            {"text": "D. Mathematic’s teacher", "score": 0}
+        ],
+        "correct_answer": "B. Mathematics teachers",
+        "hint": "'Mathematics teachers' সঠিক বাক্য।"
+    },
+    {
+        "question": "100. Prices for bicycles can run ___ Tk. 2,00,00.",
+        "answers": [
+            {"text": "A. as high as", "score": 1},
+            {"text": "B. so high as", "score": 0},
+            {"text": "C. as high to", "score": 0},
+            {"text": "D. as high for", "score": 0}
+        ],
+        "correct_answer": "A. as high as",
+        "hint": "'As high as' উন্নত বাজারমূল্য নির্দেশ করে।"
+    }
+]

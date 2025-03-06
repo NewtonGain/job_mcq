@@ -1,0 +1,1102 @@
+[
+    {
+        "question": "1. What is the correct indirect form of : He said, “You had better see a doctor”?",
+        "answers": [
+            {"text": "A. He advised him to see a doctor", "score": 1},
+            {"text": "B. He advised that he should see a doctor", "score": 0},
+            {"text": "C. He suggested that he had seen a doctor", "score": 0},
+            {"text": "D. He proposed to see a doctor", "score": 0}
+        ],
+        "correct_answer": "A. He advised him to see a doctor",
+        "hint": "Implied advice is converted to indirect speech using 'advised'."
+    },
+    {
+        "question": "2. Identify the word that remains same in plural form:",
+        "answers": [
+            {"text": "A. deer", "score": 1},
+            {"text": "B. horse", "score": 0},
+            {"text": "C. elephant", "score": 0},
+            {"text": "D. tiger", "score": 0}
+        ],
+        "correct_answer": "A. deer",
+        "hint": "Deer remains 'deer' in both singular and plural forms."
+    },
+    {
+        "question": "3. সঠিক বানান নয় কোনটি?",
+        "answers": [
+            {"text": "A. ধরনী", "score": 0},
+            {"text": "B. মূর্ছা", "score": 0},
+            {"text": "C. গুণ", "score": 0},
+            {"text": "D. প্রানী", "score": 1}
+        ],
+        "correct_answer": "D. প্রানী",
+        "hint": "'প্রাণী' শব্দের সঠিক বানান হলো প্রাণী।"
+    },
+    {
+        "question": "4. যদি ICE : COLDNESS হয়, তবে EARTH:?",
+        "answers": [
+            {"text": "A. weight", "score": 0},
+            {"text": "B. jungle", "score": 0},
+            {"text": "C. sea", "score": 0},
+            {"text": "D. Gravity", "score": 1}
+        ],
+        "correct_answer": "D. Gravity",
+        "hint": "Ice relates to coldness, similarly Earth relates to gravity."
+    },
+    {
+        "question": "5. নওগাঁ জেলার পাহাড়পুরে অবস্থিত ‘সোমপুর বিহার’ এর প্রতিষ্ঠাতা কে?",
+        "answers": [
+            {"text": "A. গোপাল", "score": 0},
+            {"text": "B. ধর্মপাল", "score": 1},
+            {"text": "C. মহীপাল", "score": 0},
+            {"text": "D. বিগ্রহপাল", "score": 0}
+        ],
+        "correct_answer": "B. ধর্মপাল",
+        "hint": "সোমপুর বিহার প্রতিষ্ঠা করেছিলেন ধর্মপাল।"
+    },
+    {
+        "question": "6. IUCN এর কাজ হলো বিশ্বব্যাপী-",
+        "answers": [
+            {"text": "A. পানি সম্পদ রক্ষা করা", "score": 0},
+            {"text": "B. সন্ত্রাস দমন করা", "score": 0},
+            {"text": "C. প্রাকৃতিক সম্পদ রক্ষা করা", "score": 1},
+            {"text": "D. পরিবেশ দূষণ রোধ করা", "score": 0}
+        ],
+        "correct_answer": "C. প্রাকৃতিক সম্পদ রক্ষা করা",
+        "hint": "IUCN এর কাজ হলো প্রাকৃতিক সম্পদ সংরক্ষণ।"
+    },
+    {
+        "question": "7. কোন চুক্তির মাধ্যমে ইউরোপের “Thirty years’ war” এর সমাপ্তি ঘটে?",
+        "answers": [
+            {"text": "A. ভাসাই চুক্তি, ১৯১৯", "score": 0},
+            {"text": "B. ওয়েস্টফেলিয়া শান্তি চুক্তি, ১৬৪৮", "score": 1},
+            {"text": "C. প্যারিস চুক্তি, ১৭৮৩", "score": 0},
+            {"text": "D. লুজান চুক্তি, ১৯২৩", "score": 0}
+        ],
+        "correct_answer": "B. ওয়েস্টফেলিয়া শান্তি চুক্তি, ১৬৪৮",
+        "hint": "Thirty Years' War শেষ হয় ওয়েস্টফেলিয়া চুক্তির মাধ্যমে।"
+    },
+    {
+        "question": "8.  ও  স্বাধীন হলে,  = কত?",
+        "answers": [
+            {"text": "A", "score": 0},
+            {"text": "B", "score": 0},
+            {"text": "C", "score": 0},
+            {"text": "D", "score": 0}
+        ],
+        "correct_answer": "A",
+        "hint": "তথ্য নির্ধারণ করতে হবে।"
+    },
+    {
+        "question": "9. Which word is correct?",
+        "answers": [
+            {"text": "A. Furnitures", "score": 0},
+            {"text": "B. Informations", "score": 0},
+            {"text": "C. Sceneries", "score": 0},
+            {"text": "D. Proceeds", "score": 1}
+        ],
+        "correct_answer": "D. Proceeds",
+        "hint": "Proceeds is the correct term used in plural form."
+    },
+    {
+        "question": "10. মার্কিন-তালেবান ঐতিহাসিক চুক্তি স্বাক্ষরিত হয়-",
+        "answers": [
+            {"text": "A. ২ মার্চ, ২০২০", "score": 0},
+            {"text": "B. ২৫ জানুয়ারি, ২০২০", "score": 0},
+            {"text": "C. ৩০ এপ্রিল, ২০২০", "score": 0},
+            {"text": "D. ২৯ ফেব্রুয়ারি, ২০২০", "score": 1}
+        ],
+        "correct_answer": "D. ২৯ ফেব্রুয়ারি, ২০২০",
+        "hint": "মার্কিন-তালেবান ঐতিহাসিক চুক্তি ২৯ ফেব্রুয়ারি, ২০২০ স্বাক্ষরিত হয়।"
+    },
+    {
+        "question": "11. 5 + 8 + 11 + 14 + ...... ধারাটির কত তম পদ 302।",
+        "answers": [
+            {"text": "A. 60তম পদ", "score": 0},
+            {"text": "B. 70তম পদ", "score": 1},
+            {"text": "C. 90তম পদ", "score": 0},
+            {"text": "D. 100তম পদ", "score": 0}
+        ],
+        "correct_answer": "B. 70তম পদ",
+        "hint": "ধারা বিশ্লেষণ করার সময় পদ নিরূপণ করুন।"
+    },
+    {
+        "question": "12. ৩০ কি.মি. পথ পাড়ি দিতে জয়নুলের রনির থেকে ২ ঘণ্টা সময় বেশি লেগেছে। জয়নুল যদি তার গতি দ্বিগুণ করত তাহলে রনির থেকে ১ ঘণ্টা সময় কম লাগত। জয়নুলের গতি কত ছিল?",
+        "answers": [
+            {"text": "A. ৪ কি.মি./ঘণ্টা", "score": 0},
+            {"text": "B. ৫ কি.মি./ঘণ্টা", "score": 1},
+            {"text": "C. ৬ কি.মি./ঘণ্টা", "score": 0},
+            {"text": "D. ৭.৫ কি.মি./ঘণ্টা", "score": 0}
+        ],
+        "correct_answer": "B. ৫ কি.মি./ঘণ্টা",
+        "hint": "গতির গণনা করে বের করতে হবে।"
+    },
+    {
+        "question": "13. বঙ্গালি উপভাষা অঞ্চল কোনটি?",
+        "answers": [
+            {"text": "A. নদীয়া", "score": 0},
+            {"text": "B. ত্রিপুরা", "score": 1},
+            {"text": "C. পুরুলিয়া", "score": 0},
+            {"text": "D. বরিশাল", "score": 0}
+        ],
+        "correct_answer": "B. ত্রিপুরা",
+        "hint": "বাংলা ভাষার উপভাষা ত্রিপুরা অঞ্চলে রয়েছে।"
+    },
+    {
+        "question": "14. “D-8 Organization for Economic Cooperation” বা D-8 এর দশম শীর্ষ সম্মেলন কোথায় অনুষ্ঠিত হবে?",
+        "answers": [
+            {"text": "A. আবুজা", "score": 0},
+            {"text": "B. ঢাকা", "score": 1},
+            {"text": "C. তেহরান", "score": 0},
+            {"text": "D. ইস্তাম্বুল", "score": 0}
+        ],
+        "correct_answer": "B. ঢাকা",
+        "hint": "D-8 এর দশম শীর্ষ সম্মেলন ঢাকায় অনুষ্ঠিত হয়েছে।"
+    },
+    {
+        "question": "15. To doctor an animal means:",
+        "answers": [
+            {"text": "A. to treat it", "score": 1},
+            {"text": "B. to sterilize it", "score": 0},
+            {"text": "C. to poison it", "score": 0},
+            {"text": "D. to cure it", "score": 0}
+        ],
+        "correct_answer": "A. to treat it",
+        "hint": "'To doctor' means to treat an animal."
+    },
+    {
+        "question": "16. সবুজপত্র পত্রিকাটির সম্পাদক কে?",
+        "answers": [
+            {"text": "A. রবীন্দ্রনাথ ঠাকুর", "score": 0},
+            {"text": "B. শেখ ফজলুল করিম", "score": 0},
+            {"text": "C. প্রমথ চৌধুরী", "score": 1},
+            {"text": "D. মোহাম্মদ নাসির উদ্দিন", "score": 0}
+        ],
+        "correct_answer": "C. প্রমথ চৌধুরী",
+        "hint": "সবুজপত্র পত্রিকাটি প্রমথ চৌধুরীর সম্পাদনায় প্রকাশিত হয়।"
+    },
+    {
+        "question": "17. বাংলাদেশ সরকারী কর্ম কমিশন সংবিধানের কত অনুচ্ছেদ অনুযায়ী গঠিত?",
+        "answers": [
+            {"text": "A. ১৩৬", "score": 0},
+            {"text": "B. ১৩৭", "score": 1},
+            {"text": "C. ১৩৮", "score": 0},
+            {"text": "D. ১৪০", "score": 0}
+        ],
+        "correct_answer": "B. ১৩৭",
+        "hint": "বাংলাদেশ সরকারী কর্ম কমিশন গঠনের বিষয়ে ১৩৭ অনুচ্ছেদ উল্লেখ করে।"
+    },
+    {
+        "question": "18. ১৯৪৮-১৯৫২ সালের ভাষা আন্দোলনের সময় ‘ভাষা দিবস’ হিসেবে কোন দিনটি পালন করা হতো?",
+        "answers": [
+            {"text": "A. ২৫শে জানুয়ারি", "score": 0},
+            {"text": "B. ১১ই ফেব্রুয়ারি", "score": 1},
+            {"text": "C. ১১ই মার্চ", "score": 0},
+            {"text": "D. ২৫শে এপ্রিল", "score": 0}
+        ],
+        "correct_answer": "B. ১১ই ফেব্রুয়ারি",
+        "hint": "ভাষা আন্দোলনের সময় ১১ই ফেব্রুয়ারি ভাষা দিবস পালন করা হতো।"
+    },
+    {
+        "question": "19. বাংলাদেশের জাতীয় আয়ে কোন খাতে প্রবৃদ্ধির হার সবচেয়ে বেশি?",
+        "answers": [
+            {"text": "A. কৃষি ও বনজ", "score": 0},
+            {"text": "B. মৎস্য", "score": 0},
+            {"text": "C. শিল্প", "score": 1},
+            {"text": "D. স্বাস্থ্য ও সামাজিক সেবা", "score": 0}
+        ],
+        "correct_answer": "C. শিল্প",
+        "hint": "শিল্প খাতে প্রবৃদ্ধির হার সবচেয়ে বেশি।"
+    },
+    {
+        "question": "20. ১৯৭১ সালে মুজিবনগর সরকার কর্তৃক প্রকাশিত পত্রিকার নাম ছিল-",
+        "answers": [
+            {"text": "A. জয় বাংলা", "score": 1},
+            {"text": "B. বাংলাদেশ", "score": 0},
+            {"text": "C. স্বাধীনতা", "score": 0},
+            {"text": "D. মুক্তির ডাক", "score": 0}
+        ],
+        "correct_answer": "A. জয় বাংলা",
+        "hint": "‘জয় বাংলা’ পত্রিকাটি মুক্তিযুদ্ধকালে প্রকাশিত হয়েছিল।"
+    },
+    {
+        "question": "21. ভারতে বছরের কোন দিনটি সিভিল সার্ভিস দিবস (Civil Service Day) হিসেবে পালিত হয়?",
+        "answers": [
+            {"text": "A. ২১ এপ্রিল", "score": 1},
+            {"text": "B. ২ অক্টোবর", "score": 0},
+            {"text": "C. ২৬ জানুয়ারি", "score": 0},
+            {"text": "D. ১০ মে", "score": 0}
+        ],
+        "correct_answer": "A. ২১ এপ্রিল",
+        "hint": "ভারতে ২১শে এপ্রিল সিভিল সার্ভিস দিবস পালন করা হয়।"
+    },
+    {
+        "question": "22. প্রতিবছর কোন তারিখে বাংলাদেশ জাতীয় জনসংখ্যা দিবস পালন করা হয়?",
+        "answers": [
+            {"text": "A. ২ ফেব্রুয়ারি", "score": 1},
+            {"text": "B. ৮ ফেব্রুয়ারি", "score": 0},
+            {"text": "C. ৮ মার্চ", "score": 0},
+            {"text": "D. ৭ এপ্রিল", "score": 0}
+        ],
+        "correct_answer": "A. ২ ফেব্রুয়ারি",
+        "hint": "২ ফেব্রুয়ারি বাংলাদেশ জাতীয় জনসংখ্যা দিবস পালন করা হয়।"
+    },
+    {
+        "question": "23. ‘বাবা’ কোন ভাষার অন্তর্গত শব্দ?",
+        "answers": [
+            {"text": "A. তৎসম", "score": 0},
+            {"text": "B. তদ্ভব", "score": 1},
+            {"text": "C. ফারসী", "score": 0},
+            {"text": "D. তুর্কি", "score": 0}
+        ],
+        "correct_answer": "B. তদ্ভব",
+        "hint": "'বাবা' শব্দটি তদ্ভব ভাষার অন্তর্গত।"
+    },
+    {
+        "question": "24. 1971 সালে ‘The Concert for Bangladesh’ কোথায় অনুষ্ঠিত হয়?",
+        "answers": [
+            {"text": "A. চট্টগ্রাম", "score": 0},
+            {"text": "B. কলকাতা", "score": 0},
+            {"text": "C. লন্ডন", "score": 0},
+            {"text": "D. নিউইয়র্ক", "score": 1}
+        ],
+        "correct_answer": "D. নিউইয়র্ক",
+        "hint": "‘The Concert for Bangladesh’ নিউইয়র্কে অনুষ্ঠিত হয়েছিল।"
+    },
+    {
+        "question": "25. ঢাকা গেইট এর নির্মাতা কে?",
+        "answers": [
+            {"text": "A. শায়েস্তা খাঁ", "score": 0},
+            {"text": "B. নবাব আবদুল গণি", "score": 0},
+            {"text": "C. লর্ড কার্জন", "score": 0},
+            {"text": "D. মীর জুমলা", "score": 1}
+        ],
+        "correct_answer": "D. মীর জুমলা",
+        "hint": "'ঢাকা গেইট' নির্মাণ করেছিলেন মীর জুমলা।"
+    },
+    {
+        "question": "26. মুক্তিযুদ্ধভিত্তিক নভেল কোনটি?",
+        "answers": [
+            {"text": "A. ক্রীতদাসের হাসি", "score": 0},
+            {"text": "B. জীবন ও রাজনৈতিক বাস্তবতা", "score": 1},
+            {"text": "C. কান্নাপর্ব", "score": 0},
+            {"text": "D. প্রদোষে প্রাকৃতজন", "score": 0}
+        ],
+        "correct_answer": "B. জীবন ও রাজনৈতিক বাস্তবতা",
+        "hint": "মুক্তিযুদ্ধের পটভূমিতে লেখা ‘জীবন ও রাজনৈতিক বাস্তবতা’ উপন্যাস।"
+    },
+    {
+        "question": "27. Sustainable Development Goals (SDG) কয়টি?",
+        "answers": [
+            {"text": "A. ১৩টি", "score": 0},
+            {"text": "B. ১৫টি", "score": 0},
+            {"text": "C. ১৭টি", "score": 1},
+            {"text": "D. ৩১টি", "score": 0}
+        ],
+        "correct_answer": "C. ১৭টি",
+        "hint": "Sustainable Development Goals (SDG) এর সংখ্যা ১৭টি।"
+    },
+    {
+        "question": "28. শুদ্ধ বাক্য নয় কোনটি?",
+        "answers": [
+            {"text": "A. যন্ত্রনা", "score": 1},
+            {"text": "B. শূদ্র", "score": 0},
+            {"text": "C. সহযোগিতা", "score": 0},
+            {"text": "D. স্বতঃস্ফূর্ত", "score": 0}
+        ],
+        "correct_answer": "A. যন্ত্রনা",
+        "hint": "'যন্ত্রণা' শব্দের বানান আসলে যন্ত্রণা।"
+    },
+    {
+        "question": "29. একটি চৌবাচ্চায় ৮০০০ লিটার পানি ধরে। চৌবাচ্চাটির দৈর্ঘ্য ২.৫৬ মিটার এবং প্রস্থ ১.২৫ মিটার। চৌবাচ্চাটির গভীরতা কত?",
+        "answers": [
+            {"text": "A. ১.৫ মিটার", "score": 0},
+            {"text": "B. ২.৫ মিটার", "score": 0},
+            {"text": "C. ৩ মিটার", "score": 0},
+            {"text": "D. ৩.৫ মিটার", "score": 1}
+        ],
+        "correct_answer": "D. ৩.৫ মিটার",
+        "hint": "চৌবাচ্চার গভীরতা বের করার জন্য ভলিউম সূত্র প্রয়োগ করতে হবে।"
+    },
+    {
+        "question": "30. The word 'flying' in the sentence 'Look at the flying bird' is a:",
+        "answers": [
+            {"text": "A. gerund", "score": 0},
+            {"text": "B. participle", "score": 1},
+            {"text": "C. verbal noun", "score": 0},
+            {"text": "D. gerundial infinitive", "score": 0}
+        ],
+        "correct_answer": "B. participle",
+        "hint": "'Flying' is describing the noun 'bird', so it's a participle."
+    },
+    {
+        "question": "31. বাক্যের দুটি অংশ থাকে-",
+        "answers": [
+            {"text": "A. প্রসাদগুণ, মাধুর্যগুণ", "score": 0},
+            {"text": "B. উপমা, অলংকার", "score": 0},
+            {"text": "C. উদ্দেশ্য, বিধেয়", "score": 1},
+            {"text": "D. সাধু, চলিত", "score": 0}
+        ],
+        "correct_answer": "C. উদ্দেশ্য, বিধেয়",
+        "hint": "প্রত্যেক বাক্যে উদ্দেশ্য ও বিধেয় থাকে।"
+    },
+    {
+        "question": "32. Identify the determiner in the sentence 'Bring me that book':",
+        "answers": [
+            {"text": "A. bring", "score": 0},
+            {"text": "B. me", "score": 0},
+            {"text": "C. that", "score": 1},
+            {"text": "D. book", "score": 0}
+        ],
+        "correct_answer": "C. that",
+        "hint": "'That' determines the noun 'book' in the sentence."
+    },
+    {
+        "question": "33. কোন তারিখে মার্কিন যুক্তরাষ্ট্র ইরানের উপর অর্থনৈতিক নিষেধাজ্ঞা পুনরায় আরোপ করে?",
+        "answers": [
+            {"text": "A. ২০ আগস্ট ২০২০", "score": 0},
+            {"text": "B. ১৯ সেপ্টেম্বর ২০২০", "score": 0},
+            {"text": "C. ১৮ অক্টোবর ২০২০", "score": 0},
+            {"text": "D. ১৫ জুলাই ২০২০", "score": 1}
+        ],
+        "correct_answer": "D. ১৫ জুলাই ২০২০",
+        "hint": "সঠিক দিনটি ইরানের উপর নিষেধাজ্ঞার পুনরায় আরোপের তারিখ।"
+    },
+    {
+        "question": "34. নিচের ধারার শেষ সংখ্যা কত? ৩, ৯, ২৭, ৮১ ......?",
+        "answers": [
+            {"text": "A. ২৪১", "score": 0},
+            {"text": "B. ২৪৩", "score": 1},
+            {"text": "C. ২৪৫", "score": 0},
+            {"text": "D. ২৪৭", "score": 0}
+        ],
+        "correct_answer": "B. ২৪৩",
+        "hint": "ধারা বিশ্লেষণ করে শেষ সংখ্যা গণনা করুন।"
+    },
+    {
+        "question": "35. Global Vaccine Summit অনুষ্ঠিত হয়-",
+        "answers": [
+            {"text": "A. ৫ মে ২০২০", "score": 0},
+            {"text": "B. ৪ জুন ২০২০", "score": 1},
+            {"text": "C. ৬ জুলাই ২০২০", "score": 0},
+            {"text": "D. ৮ আগস্ট ২০২০", "score": 0}
+        ],
+        "correct_answer": "B. ৪ জুন ২০২০",
+        "hint": "২০২০ সালে Global Vaccine Summit অনুষ্ঠিত হয়েছিল ৪ জুন।"
+    },
+    {
+        "question": "36. WIPO এর সদর দপ্তর কোথায় অবস্থিত?",
+        "answers": [
+            {"text": "A. জেনেভা", "score": 1},
+            {"text": "B. রোম", "score": 0},
+            {"text": "C. নিউইয়র্ক", "score": 0},
+            {"text": "D. ওয়াশিংটন ডিসি", "score": 0}
+        ],
+        "correct_answer": "A. জেনেভা",
+        "hint": "WIPO এর সদর দপ্তর জেনেভায় অবস্থিত।"
+    },
+    {
+        "question": "37. “A Passage to India” is written by:",
+        "answers": [
+            {"text": "A. E.M. Forster", "score": 1},
+            {"text": "B. Nirad C. Chaudhuri", "score": 0},
+            {"text": "C. Rudyard Kipling", "score": 0},
+            {"text": "D. Walt Whitman", "score": 0}
+        ],
+        "correct_answer": "A. E.M. Forster",
+        "hint": "'A Passage to India' was written by E.M. Forster."
+    },
+    {
+        "question": "38. বঙ্গবন্ধু কত সালে এবং কোন শহরে জোট নিরপেক্ষ আন্দোলনের শীর্ষ সম্মেলনে অংশগ্রহণ করেন?",
+        "answers": [
+            {"text": "A. ১৯৭২, কায়রো", "score": 0},
+            {"text": "B. ১৯৭৪, নয়া দিল্লী", "score": 1},
+            {"text": "C. ১৯৭৫, বেলগ্রেড", "score": 0},
+            {"text": "D. ১৯৭৩, আলজিয়ার্স", "score": 0}
+        ],
+        "correct_answer": "B. ১৯৭৪, নয়া দিল্লী",
+        "hint": "নয়া দিল্লী সফরের সময় বঙ্গবন্ধু জোট নিরপেক্ষ আন্দোলনের শীর্ষ সম্মেলনে যোগ দেন।"
+    },
+    {
+        "question": "39. বাংলাদেশের ছয় ঋতুর সঠিক অনুক্রম কোনটি?",
+        "answers": [
+            {"text": "A. গ্রীষ্ম, বর্ষা, বসন্ত, হেমন্ত, শীত ও শরৎ", "score": 0},
+            {"text": "B. বর্ষা, শরৎ, হেমন্ত, শীত, বসন্ত ও গ্রীষ্ম", "score": 0},
+            {"text": "C. শরৎ, হেমন্ত, শীত, বসন্ত, গ্রীষ্ম ও বর্ষা", "score": 1},
+            {"text": "D. গ্রীষ্ম, বর্ষা, শরৎ, হেমন্ত, শীত ও বসন্ত", "score": 0}
+        ],
+        "correct_answer": "C. শরৎ, হেমন্ত, শীত, বসন্ত, গ্রীষ্ম ও বর্ষা",
+        "hint": "ছয় ঋতুর সঠিক অনুক্রম হলো গ্রীষ্ম, বর্ষা, শরৎ, হেমন্ত, শীত ও বসন্ত।"
+    },
+    {
+        "question": "40. ডিসেম্বর ২০২0 এ অনুষ্ঠিত বাংলাদেশ-ভারত দ্বিপাক্ষিক ভার্চুয়াল শীর্ষ সম্মেলনে কযটি সমঝোতা স্মারক স্বাক্ষরিত হয়?",
+        "answers": [
+            {"text": "A. ৩টি", "score": 0},
+            {"text": "B. ৫টি", "score": 0},
+            {"text": "C. ৭টি", "score": 1},
+            {"text": "D. ৯টি", "score": 0}
+        ],
+        "correct_answer": "C. ৭টি",
+        "hint": "৭টি সমঝোতা স্মারক স্বাক্ষরিত হয়েছিল বাংলাদেশ-ভারত দ্বিপাক্ষিক সভায়।"
+    },
+    {
+        "question": "41.  হলে  এর মান কোনটি?",
+        "answers": [
+            {"text": "A", "score": 0},
+            {"text": "B", "score": 0},
+            {"text": "C", "score": 0},
+            {"text": "D", "score": 0}
+        ],
+        "correct_answer": "A",
+        "hint": "অনুগ্রহ করে তথ্য নির্ধারণ করুন।"
+    },
+    {
+        "question": "42. কার্টাগেনা প্রটোকল কোন সালে স্বাক্ষরিত হয়?",
+        "answers": [
+            {"text": "A. ২০০০ সালে", "score": 0},
+            {"text": "B. ২০০১ সালে", "score": 0},
+            {"text": "C. ২০০৩ সালে", "score": 0},
+            {"text": "D. ২০০৫ সালে", "score": 1}
+        ],
+        "correct_answer": "D. ২০০৫ সালে",
+        "hint": "কার্টাগেনা প্রটোকল ২০০৫ সালে স্বাক্ষরিত হয়।"
+    },
+    {
+        "question": "43. ‘কিত্তনখোলা’ নাটকটির বিষয়-",
+        "answers": [
+            {"text": "A. যন্ত্রণাদগ্ধ শহরজীবন", "score": 0},
+            {"text": "B. স্নিগ্ধ-শ্যামল প্রকৃতির রুপ", "score": 0},
+            {"text": "C. লোকায়ত জীবন-সংস্কৃতি", "score": 1},
+            {"text": "D. দেশবিভাগজনিত জীবন যন্ত্রণা", "score": 0}
+        ],
+        "correct_answer": "C. লোকায়ত জীবন-সংস্কৃতি",
+        "hint": "'কিত্তনখোলা' নাটকটির বিষয় হলো লোকায়ত জীবন-সংস্কৃতি।"
+    },
+    {
+        "question": "44. কোনটি “Bretton Woods Institutions” এর অন্তর্ভুক্ত?",
+        "answers": [
+            {"text": "A. IDB", "score": 0},
+            {"text": "B. IMF", "score": 1},
+            {"text": "C. WTO", "score": 0},
+            {"text": "D. ADB", "score": 0}
+        ],
+        "correct_answer": "B. IMF",
+        "hint": "IMF হলো Bretton Woods Institutions এর অন্তর্ভুক্ত।"
+    },
+    {
+        "question": "45. টাকার ৩টি এবং টাকায় ৫টি দরে সমান সংখ্যাক আমলকি ক্রয় করে এক ব্যক্তি টাকায় ৪টি করে আমলকি বিক্রয় করলেন। ঐ ব্যক্তির শতকরা কত লাভ বা ক্ষতি হলো তা নির্ণয় করুন।",
+        "answers": [
+            {"text": "A. ৪.২৫% লাভ", "score": 0},
+            {"text": "B. ৫.২৫% ক্ষতি", "score": 1},
+            {"text": "C. ৬.২৫% ক্ষতি", "score": 0},
+            {"text": "D. ৭.২৫% লাভ", "score": 0}
+        ],
+        "correct_answer": "B. ৫.২৫% ক্ষতি",
+        "hint": "লাভ বা ক্ষতির হিসাব করতে বিক্রয়ের উপর ভিত্তি করে গণনা করুন।"
+    },
+    {
+        "question": "46. সম্প্রতি (সেপ্টেম্বর 2020) কোন অঞ্চলের নিয়ন্ত্রণ নিয়ে আজারবাইজান ও আর্মেনিয়ার মাঝে সংঘর্ষ হয়?",
+        "answers": [
+            {"text": "A. আর্টসাথ প্রজাতন্ত্র", "score": 0},
+            {"text": "B. নাগার্নো-কারাবাখ", "score": 1},
+            {"text": "C. ইয়েরেভান", "score": 0},
+            {"text": "D. নাকার্চভান ছিটমহল", "score": 0}
+        ],
+        "correct_answer": "B. নাগার্নো-কারাবাখ",
+        "hint": "নাগার্নো-কারাবাখ অঞ্চলে আজারবাইজান ও আর্মেনিয়ার মধ্যে সংঘর্ষ হয়।"
+    },
+    {
+        "question": "47. উদবাসন শব্দের অর্থ কী?",
+        "answers": [
+            {"text": "A. বাসভূমি থেকে বিতাড়িত হওয়া", "score": 1},
+            {"text": "B. বাসভূমির সম্মুখস্থ ভূমি", "score": 0},
+            {"text": "C. অজ্ঞাত বিষয় প্রকাশ করা", "score": 0},
+            {"text": "D. বিকাশ", "score": 0}
+        ],
+        "correct_answer": "A. বাসভূমি থেকে বিতাড়িত হওয়া",
+        "hint": "'উদবাসন' মানে হলো বাসভূমি থেকে বিতাড়িত হওয়া।"
+    },
+    {
+        "question": "48. অসমতাটির সমাধান কোনটি?",
+        "answers": [
+            {"text": "A", "score": 0},
+            {"text": "B", "score": 0},
+            {"text": "C", "score": 0},
+            {"text": "D", "score": 0}
+        ],
+        "correct_answer": "A",
+        "hint": "একটি নির্ধিষ্ট আচরণ সম্পর্কিত তথ্য ব্যবহার করুন।"
+    },
+    {
+        "question": "49. What is the meaning of musk?",
+        "answers": [
+            {"text": "A. a form of drama", "score": 0},
+            {"text": "B. a face cover", "score": 0},
+            {"text": "C. a substance used making perfume", "score": 1},
+            {"text": "D. a disguise", "score": 0}
+        ],
+        "correct_answer": "C. a substance used making perfume",
+        "hint": "Musk is a substance used in making perfumes."
+    },
+    {
+        "question": "50.  হলে ",
+        "answers": [
+            {"text": "A", "score": 0},
+            {"text": "B", "score": 0},
+            {"text": "C", "score": 0},
+            {"text": "D", "score": 0}
+        ],
+        "correct_answer": "A",
+        "hint": "আবশ্যিক পদর্শনে নির্ভর করুন।"
+    },
+    {
+        "question": "51. বাংলা আদি অধিবাসীগণ কোন ভাষাভাষী ছিলেন?",
+        "answers": [
+            {"text": "A. বাংলা", "score": 0},
+            {"text": "B. সংস্কৃত", "score": 0},
+            {"text": "C. হিন্দি", "score": 0},
+            {"text": "D. অস্ট্রিক", "score": 1}
+        ],
+        "correct_answer": "D. অস্ট্রিক",
+        "hint": "বাংলার আদি অধিবাসীগণ অস্ট্রিক ভাষাভাষী ছিলেন।"
+    },
+    {
+        "question": "52. বাংলাদেশের প্রথম সামুদ্রিক গ্যাসক্ষেত্র কোনটি?",
+        "answers": [
+            {"text": "A. হাতিয়া প্রণালী", "score": 0},
+            {"text": "B. জাফোর্ড পয়েন্ট", "score": 0},
+            {"text": "C. সাঙ্গু ভ্যালি", "score": 1},
+            {"text": "D. মাতারবাড়ি", "score": 0}
+        ],
+        "correct_answer": "C. সাঙ্গু ভ্যালি",
+        "hint": "বাংলাদেশের প্রথম সামুদ্রিক গ্যাসক্ষেত্র হলো সাঙ্গু ভ্যালি।"
+    },
+    {
+        "question": "53. ব্রিটিশ কৃষি বিপ্লব কখন সংঘটিত হয়েছিল?",
+        "answers": [
+            {"text": "A. ঊনবিংশ শতাব্দীতে", "score": 0},
+            {"text": "B. অষ্টাদশ শতাব্দীতে", "score": 1},
+            {"text": "C. ষোড়শ শতাব্দীতে", "score": 0},
+            {"text": "D. চতর্দশ শতাব্দীতে", "score": 0}
+        ],
+        "correct_answer": "B. অষ্টাদশ শতাব্দীতে",
+        "hint": "ব্রিটিশ কৃষি বিপ্লব অষ্টাদশ শতাব্দীতে সংঘটিত হয়েছিল।"
+    },
+    {
+        "question": "54. গ্রীন হাউস গ্যাসসমূহ নিঃসরণ নিয়ন্ত্রণ সংক্রান্ত চুক্তি “The Kyoto Protocol” জাতিসংঘ কর্তৃক কত সালে গৃহীত হয়?",
+        "answers": [
+            {"text": "A. ১৯৯৭", "score": 1},
+            {"text": "B. ১৯৯৯", "score": 0},
+            {"text": "C. ২০০৩", "score": 0},
+            {"text": "D. ২০০৫", "score": 0}
+        ],
+        "correct_answer": "A. ১৯৯৭",
+        "hint": "The Kyoto Protocol ১৯৯৭ সালে গৃহীত হয়েছিল।"
+    },
+    {
+        "question": "55. মহাকবি আলাওল রচিত কাব্য-",
+        "answers": [
+            {"text": "A. চন্দ্রাবতী", "score": 0},
+            {"text": "B. পদ্মাবতী", "score": 1},
+            {"text": "C. মধুমালতী", "score": 0},
+            {"text": "D. লাইলী মজনু", "score": 0}
+        ],
+        "correct_answer": "B. পদ্মাবতী",
+        "hint": "আলাওল রচিত কাব্য হলো পদ্মাবতী।"
+    },
+    {
+        "question": "56. ‘সাবাস বাংলাদেশ’ ভাস্কর্যটির স্থপতি কে?",
+        "answers": [
+            {"text": "A. হামিদুজ্জামান খান", "score": 1},
+            {"text": "B. রবিউল হুসাইন", "score": 0},
+            {"text": "C. আব্দুর রাজ্জাক", "score": 0},
+            {"text": "D. নিতুন কুণ্ডু", "score": 0}
+        ],
+        "correct_answer": "A. হামিদুজ্জামান খান",
+        "hint": "'সাবাস বাংলাদেশ' ভাস্কর্যটির স্থপতি হামিদুজ্জামান খান।"
+    },
+    {
+        "question": "57. বঙ্গবন্ধু শেখ মুজিবুর রহমানের ‘অসমাপ্ত আত্মজীবনী’ প্রথম প্রকাশিত হয় কত সালে?",
+        "answers": [
+            {"text": "A. ২০১০", "score": 0},
+            {"text": "B. ২০১১", "score": 0},
+            {"text": "C. ২০১২", "score": 1},
+            {"text": "D. ২০১৫", "score": 0}
+        ],
+        "correct_answer": "C. ২০১২",
+        "hint": "'অসমাপ্ত আত্মজীবনী' ২০১২ সালে প্রকাশিত হয়েছিল।"
+    },
+    {
+        "question": "58. কৃষিক্ষেত্রে রবি মৌসুম কোনটি?",
+        "answers": [
+            {"text": "A. কার্তিক-ফাল্গুন", "score": 1},
+            {"text": "B. চৈত্র-বৈশাখ", "score": 0},
+            {"text": "C. ভাদ্র-অগ্রহায়ণ", "score": 0},
+            {"text": "D. শ্রাবণ-আশ্বিন", "score": 0}
+        ],
+        "correct_answer": "A. কার্তিক-ফাল্গুন",
+        "hint": "রবি মৌসুম হলো কার্তিক-ফাল্গুন।"
+    },
+    {
+        "question": "59. অনুকম্পা শব্দের ইংরেজি কোনটি?",
+        "answers": [
+            {"text": "A. Clemency", "score": 1},
+            {"text": "B. Enthral", "score": 0},
+            {"text": "C. Erudition", "score": 0},
+            {"text": "D. Fathom", "score": 0}
+        ],
+        "correct_answer": "A. Clemency",
+        "hint": "Clemency মানে হচ্ছে কোমলতা বা অনুকম্পা।"
+    },
+    {
+        "question": "60. ১ থেকে ৪৯ পর্যন্ত সংখ্যাগুলোর গড় কত?",
+        "answers": [
+            {"text": "A. ২৫", "score": 0},
+            {"text": "B. ৩০", "score": 1},
+            {"text": "C. ৩৫", "score": 0},
+            {"text": "D. ৪৯", "score": 0}
+        ],
+        "correct_answer": "B. ৩০",
+        "hint": "১ থেকে ৪৯ পর্যন্ত সংখ্যার গড় বের করতে হবে।"
+    },
+    {
+        "question": "61. আপনার মোবাইল ফোনের মাসিক বিল এসেছে ৪২০ টাকা। যদি ১ বছর পর ১০% বৃদ্ধি পায় এবং আরো ৬ মাস পর ২০% বৃদ্ধি পায়, তাহলে ১৮ মাস পর আপনার বিল কত হবে?",
+        "answers": [
+            {"text": "A. ৪৬০.২০ টাকা", "score": 0},
+            {"text": "B. ৫৫৪.৪০ টাকা", "score": 1},
+            {"text": "C. ৬২০.৬০ টাকা", "score": 0},
+            {"text": "D. ৭৩০.৮০ টাকা", "score": 0}
+        ],
+        "correct_answer": "B. ৫৫৪.৪০ টাকা",
+        "hint": "পুনরাবৃত্তির ভিত্তিতে মাসিক বিলের হিসাব করতে হবে।"
+    },
+    {
+        "question": "62. বাংলাদেশের বর্তমান সভাপতির পূর্বে কোন দেশ CVF-এর সভাপতি ছিল?",
+        "answers": [
+            {"text": "A. মার্শাল আইল্যান্ড", "score": 1},
+            {"text": "B. মালদ্বীপ", "score": 0},
+            {"text": "C. গ্রানাডা", "score": 0},
+            {"text": "D. বাহামা", "score": 0}
+        ],
+        "correct_answer": "A. মার্শাল আইল্যান্ড",
+        "hint": "CVF এর সভাপতি হিসেবে মার্শাল আইল্যান্ড দায়িত্ব পালন করেছে।"
+    },
+    {
+        "question": "63. Identify the correctly spelled one:",
+        "answers": [
+            {"text": "A. Caesarean", "score": 1},
+            {"text": "B. caesarean", "score": 0},
+            {"text": "C. ciserian", "score": 0},
+            {"text": "D. scissorian", "score": 0}
+        ],
+        "correct_answer": "A. Caesarean",
+        "hint": "'Caesarean' শব্দটি সঠিকভাবে বানান।"
+    },
+    {
+        "question": "64. কোথায় শেনজেন (Schengen) চুক্তি স্বাক্ষরিত হয়?",
+        "answers": [
+            {"text": "A. ১৯৯৫ সালে ডেনমার্কে", "score": 0},
+            {"text": "B. ১৯৮৪ সালে বেলজিয়ামে", "score": 0},
+            {"text": "C. ১৯৮৫ সালে লুক্সেমবার্গে", "score": 1},
+            {"text": "D. ১৯৯৬ সালে হাঙ্গেরিতে", "score": 0}
+        ],
+        "correct_answer": "C. ১৯৮৫ সালে লুক্সেমবার্গে",
+        "hint": "শেনজেন চুক্তি ১৯৮৫ সালে লুক্সেমবার্গে স্বাক্ষরিত হয়।"
+    },
+    {
+        "question": "65. ‘Notification’-এর বাংলা পরিভাষা কোনটি?",
+        "answers": [
+            {"text": "A. বিজ্ঞাপন", "score": 0},
+            {"text": "B. বিজ্ঞপ্তি", "score": 1},
+            {"text": "C. বিজ্ঞপ্তি ফলক", "score": 0},
+            {"text": "D. প্রজ্ঞাপন", "score": 0}
+        ],
+        "correct_answer": "B. বিজ্ঞপ্তি",
+        "hint": "'Notification' শব্দের বাংলা পরিভাষা হলো বিজ্ঞপ্তি।"
+    },
+    {
+        "question": "66. কোনটি যমুনার উপনদী?",
+        "answers": [
+            {"text": "A. তিস্তা", "score": 1},
+            {"text": "B. ধলেশ্বরী", "score": 0},
+            {"text": "C. খোয়াই", "score": 0},
+            {"text": "D. বংশী", "score": 0}
+        ],
+        "correct_answer": "A. তিস্তা",
+        "hint": "'তিস্তা' যমুনার উপনদী।"
+    },
+    {
+        "question": "67. What is the function of a topic sentence?",
+        "answers": [
+            {"text": "A. to introduce the topic", "score": 0},
+            {"text": "B. to analyse the topic", "score": 0},
+            {"text": "C. to present the main idea", "score": 1},
+            {"text": "D. to expand the idea", "score": 0}
+        ],
+        "correct_answer": "C. to present the main idea",
+        "hint": "A topic sentence presents the main idea of a paragraph."
+    },
+    {
+        "question": "68. নিচের কোনটি মুক্তিযুদ্ধভিত্তিক স্বল্পদৈর্ঘ্য চলচ্চিত্র?",
+        "answers": [
+            {"text": "A. ধীরে বহে মেঘনা", "score": 0},
+            {"text": "B. কলমিলতা", "score": 1},
+            {"text": "C. আবার তোরা মানুষ হ", "score": 0},
+            {"text": "D. হুলিয়া", "score": 0}
+        ],
+        "correct_answer": "B. কলমিলতা",
+        "hint": "'কলমিলতা' মুক্তিযুদ্ধভিত্তিক স্বল্পদৈর্ঘ্য চলচ্চিত্র।"
+    },
+    {
+        "question": "69. একটি বর্গক্ষেত্রের এক বাহু অপর একটি বর্গক্ষেত্রের পরিসীমার সমান হলে বর্গক্ষেত্র দুটির কর্ণের অনুপাত কত হবে?",
+        "answers": [
+            {"text": "A. 1 ∶ 2", "score": 0},
+            {"text": "B. 5 ∶ 2", "score": 0},
+            {"text": "C. 2 ∶ 1", "score": 1},
+            {"text": "D. 4 ∶ 1", "score": 0}
+        ],
+        "correct_answer": "C. 2 ∶ 1",
+        "hint": "বর্গক্ষেত্রের কর্ণের অনুপাত বের করার জন্য সূত্র প্রয়োগ করুন।"
+    },
+    {
+        "question": "70. মধ্যপদলোপী কর্মধারয় সমাস কোনটি?",
+        "answers": [
+            {"text": "A. সিংহ চিহ্নিত আসন = সিংহাসন", "score": 1},
+            {"text": "B. মহান যে পুরুষ = মহাপুরুষ", "score": 0},
+            {"text": "C. কুসুমের মতো কোমল = কুসুমকোমল", "score": 0},
+            {"text": "D. জায়া ও পতি = দম্পতি", "score": 0}
+        ],
+        "correct_answer": "A. সিংহ চিহ্নিত আসন = সিংহাসন",
+        "hint": "মধ্যপদলোপী কর্মধারয় সমাস হলো সিংহাসন।"
+    },
+    {
+        "question": "71. কোনটি শুদ্ধ নয়?",
+        "answers": [
+            {"text": "A. যন্ত্রনা", "score": 1},
+            {"text": "B. শূদ্র", "score": 0},
+            {"text": "C. সহযোগিতা", "score": 0},
+            {"text": "D. স্বতঃস্ফূর্ত", "score": 0}
+        ],
+        "correct_answer": "A. যন্ত্রনা",
+        "hint": "'যন্ত্রণা' শব্দের সঠিক বানান হলো যন্ত্রণা।"
+    },
+    {
+        "question": "72. Who wrote Dr. Zivago?",
+        "answers": [
+            {"text": "A. Maxim Gorky", "score": 0},
+            {"text": "B. Boris Pastornak", "score": 1},
+            {"text": "C. Fyodor Dostoevsky", "score": 0},
+            {"text": "D. Leo Tolstoy", "score": 0}
+        ],
+        "correct_answer": "B. Boris Pastornak",
+        "hint": "Dr. Zivago was written by Boris Pasternak."
+    },
+    {
+        "question": "73. Would you please find out Bangladesh ––– the map.",
+        "answers": [
+            {"text": "A. in", "score": 0},
+            {"text": "B. on", "score": 1},
+            {"text": "C. over", "score": 0},
+            {"text": "D. at", "score": 0}
+        ],
+        "correct_answer": "B. on",
+        "hint": "The correct preposition for maps is 'on'."
+    },
+    {
+        "question": "74. কোন দেশটি সম্প্রতি ইসরাইলের সাথে কূটনৈতিক সম্পর্ক স্থাপন করেছে?",
+        "answers": [
+            {"text": "A. সৌদিআরব", "score": 0},
+            {"text": "B. কুয়েত", "score": 0},
+            {"text": "C. সংযুক্ত আরব আমিরাত", "score": 1},
+            {"text": "D. ওমান", "score": 0}
+        ],
+        "correct_answer": "C. সংযুক্ত আরব আমিরাত",
+        "hint": "সংযুক্ত আরব আমিরাত সম্প্রতি ইসরাইলের সাথে সম্পর্ক স্থাপন করেছে।"
+    },
+    {
+        "question": "75. ‘যিনি ন্যায়শাস্ত্র জানেন’ এর এককথায় প্রকাশিত রূপ হবে-",
+        "answers": [
+            {"text": "A. ন্যায়বাগীশ", "score": 0},
+            {"text": "B. নৈয়ায়িক", "score": 1},
+            {"text": "C. ন্যায়পাল", "score": 0},
+            {"text": "D. ন্যায়ঋদ্ধ", "score": 0}
+        ],
+        "correct_answer": "B. নৈয়ায়িক",
+        "hint": "নিবন্ধিত উক্তি হলো 'নৈয়ায়িক'।"
+    },
+    {
+        "question": "76. Hasan has read most of the –––– of Shakespeare:",
+        "answers": [
+            {"text": "A. poem", "score": 0},
+            {"text": "B. play", "score": 0},
+            {"text": "C. drama", "score": 0},
+            {"text": "D. works", "score": 1}
+        ],
+        "correct_answer": "D. works",
+        "hint": "The correct answer is 'works' since it is plural."
+    },
+    {
+        "question": "77. “For God’s sake, hold your tongue and let me love” occurs in a novel by:",
+        "answers": [
+            {"text": "A. Jane Austen", "score": 0},
+            {"text": "B. Syed Waliullah", "score": 0},
+            {"text": "C. Somerset Maugham", "score": 0},
+            {"text": "D. Rabindranath Tagore", "score": 1}
+        ],
+        "correct_answer": "D. Rabindranath Tagore",
+        "hint": "This line is credited to Rabindranath Tagore."
+    },
+    {
+        "question": "78. বাংলাদেশে প্রধান বীজ উৎপাদনকারী সরকারী প্রতিষ্ঠান-",
+        "answers": [
+            {"text": "A. BARI", "score": 1},
+            {"text": "B. BRRI", "score": 0},
+            {"text": "C. BADC", "score": 0},
+            {"text": "D. BINA", "score": 0}
+        ],
+        "correct_answer": "A. BARI",
+        "hint": "BARI মানে হলো Bangladesh Agricultural Research Institute।"
+    },
+    {
+        "question": "79. Complete the sentence: If I were you, I –––– take the money:",
+        "answers": [
+            {"text": "A. shall", "score": 0},
+            {"text": "B. will", "score": 0},
+            {"text": "C. would", "score": 1},
+            {"text": "D. may", "score": 0}
+        ],
+        "correct_answer": "C. would",
+        "hint": "The correct response in conditionals is 'would'."
+    },
+    {
+        "question": "80. রাষ্ট্রভাষা আন্দোলনে কোন সংস্থা গুরুত্বপূর্ণ ভূমিকা পালন করে?",
+        "answers": [
+            {"text": "A. তমদ্দুন মজলিস", "score": 1},
+            {"text": "B. ভাষা পরিষদ", "score": 0},
+            {"text": "C. মাতৃভাষা পরিষদ", "score": 0},
+            {"text": "D. আমরা বাঙালি", "score": 0}
+        ],
+        "correct_answer": "A. তমদ্দুন মজলিস",
+        "hint": "তমদ্দুন মজলিস ভাষা আন্দোলনে একটি গুরুত্বপূর্ণ ভূমিকা পালন করেছিল।"
+    },
+    {
+        "question": "81. ‘উলুবনে মুক্তা ছড়ানো’ প্রচলিত এমন শব্দগুচ্ছকে বলে-",
+        "answers": [
+            {"text": "A. প্রবাদ-প্রবচন", "score": 1},
+            {"text": "B. এককথায় প্রকাশ", "score": 0},
+            {"text": "C. ভাবসম্প্রসারণ", "score": 0},
+            {"text": "D. বাক্য সংকোচন", "score": 0}
+        ],
+        "correct_answer": "A. প্রবাদ-প্রবচন",
+        "hint": "প্রচলিত শব্দগুচ্ছ হলো প্রবাদ-প্রবচন।"
+    },
+    {
+        "question": "82. কুষ্টি শব্দের সঠিক প্রকৃতি-প্রত্যয়-",
+        "answers": [
+            {"text": "A. কৃষ্+তি", "score": 0},
+            {"text": "B. কৃষ্+টি", "score": 1},
+            {"text": "C. কৃ+ইষ্টি", "score": 0},
+            {"text": "D. কৃষ্+ইষ্টি", "score": 0}
+        ],
+        "correct_answer": "B. কৃষ্+টি",
+        "hint": "কৃষ্টি শব্দের প্রকৃতি-প্রত্যয় হলো কৃষ্+টি।"
+    },
+    {
+        "question": "83. Go and catch the falling star. Here the 'falling' is-",
+        "answers": [
+            {"text": "A. an adverb", "score": 0},
+            {"text": "B. a preposition", "score": 0},
+            {"text": "C. an adjective", "score": 1},
+            {"text": "D. a verb", "score": 0}
+        ],
+        "correct_answer": "C. an adjective",
+        "hint": "'Falling' describes the star; it's an adjective."
+    },
+    {
+        "question": "84. এক ব্যক্তি ব্যাংকে ৫১০ টাকার চেক দিয়ে ২০ টাকার এবং ৫০ টাকার নোট প্রদানের জন্য অনুরোধ করলেন। কত প্রকারে তার অনুরোধ রক্ষা করা সম্ভাব্য?",
+        "answers": [
+            {"text": "A. ৩ প্রকারে", "score": 0},
+            {"text": "B. ৪ প্রকারে", "score": 1},
+            {"text": "C. ৬ প্রকারে", "score": 0},
+            {"text": "D. ৫ প্রকারে", "score": 0}
+        ],
+        "correct_answer": "B. ৪ প্রকারে",
+        "hint": "অনুরোধের ভিত্তিতে সম্ভাব্য পদ্ধতি বিশ্লেষণ করুন।"
+    },
+    {
+        "question": "85.  ",
+        "answers": [
+            {"text": "A", "score": 0},
+            {"text": "B", "score": 0},
+            {"text": "C", "score": 0},
+            {"text": "D", "score": 0}
+        ],
+        "correct_answer": "A",
+        "hint": "তথ্য নির্ধারণ করতে হবে।"
+    },
+    {
+        "question": "86. Fill in the gap with the correct form of verb: The police ____ informed yesterday:",
+        "answers": [
+            {"text": "A. is", "score": 0},
+            {"text": "B. are", "score": 0},
+            {"text": "C. was", "score": 1},
+            {"text": "D. were", "score": 0}
+        ],
+        "correct_answer": "C. was",
+        "hint": "Subject 'The police' is plural, so the correct form is 'were'."
+    },
+    {
+        "question": "87. বঙ্গভঙ্গের ফলে কোন নতুন প্রদেশ সৃষ্টি হয়েছিল?",
+        "answers": [
+            {"text": "A. পূর্ববঙ্গ", "score": 1},
+            {"text": "B. পশ্চিমবঙ্গ ও ত্রিপুরা", "score": 0},
+            {"text": "C. পূর্ববঙ্গ ও পশ্চিমবঙ্গ", "score": 0},
+            {"text": "D. পূর্ববঙ্গ ও আসাম", "score": 0}
+        ],
+        "correct_answer": "A. পূর্ববঙ্গ",
+        "hint": "বঙ্গভঙ্গের ফলস্বরূপ তৈরি হয়েছিল পূর্ববঙ্গ।"
+    },
+    {
+        "question": "88. “Giveing someone the cold should” means-",
+        "answers": [
+            {"text": "A. to torture somebody", "score": 0},
+            {"text": "B. to harm someone", "score": 0},
+            {"text": "C. to appreciate someone", "score": 0},
+            {"text": "D. to ignore somebody", "score": 1}
+        ],
+        "correct_answer": "D. to ignore somebody",
+        "hint": "Giving someone the cold shoulder means to ignore them."
+    },
+    {
+        "question": "89. “আমার জ্বর জ্বর লাগছে”- জ্বর জ্বর শব্দ দুটি অবিকৃতভাবে উচ্চারিত হওয়াকে বলে-",
+        "answers": [
+            {"text": "A. দিরুক্ত শব্দ", "score": 1},
+            {"text": "B. সমার্থক শব্দ", "score": 0},
+            {"text": "C. যুগ্মশব্দ", "score": 0},
+            {"text": "D. শব্দদ্বিত্ব", "score": 0}
+        ],
+        "correct_answer": "A. দ্বিরুক্ত শব্দ",
+        "hint": "'জ্বর জ্বর' শব্দাবলীকে দ্বিরুক্ত শব্দ বলা হয়।"
+    },
+    {
+        "question": "90. মানুষের দেহের যে সব অঙ্গ-প্রত্যঙ্গ ধ্বনি তৈরিতে সহায়তা করে তাকে বলে?",
+        "answers": [
+            {"text": "A. বাক প্রত্যঙ্গ", "score": 1},
+            {"text": "B. অঙ্গধ্বনি", "score": 0},
+            {"text": "C. স্বরতন্ত্রী", "score": 0},
+            {"text": "D. নাসিকাতন্ত্র", "score": 0}
+        ],
+        "correct_answer": "A. বাক প্রত্যঙ্গ",
+        "hint": "ধ্বনি তৈরিতে সহায়তা করে এমন অঙ্গকে বাক প্রত্যঙ্গ বলা হয়।"
+    },
+    {
+        "question": "91. কোন সাহিত্যকর্মে সান্ধ্যভাষার প্রয়োগ আছে?",
+        "answers": [
+            {"text": "A. পদাবলী", "score": 0},
+            {"text": "B. গীতগোবিন্দ", "score": 0},
+            {"text": "C. চর্যাপদ", "score": 1},
+            {"text": "D. চৈতন্যজীবনী", "score": 0}
+        ],
+        "correct_answer": "C. চর্যাপদ",
+        "hint": "'চর্যাপদ' সাহিত্যে সান্ধ্যভাষার প্রয়োগ রয়েছে।"
+    },
+    {
+        "question": "92. মুক্তিযুদ্ধ জাদুঘর কত সালে প্রতিষ্ঠিত হয়?",
+        "answers": [
+            {"text": "A. ১৯৯৬", "score": 1},
+            {"text": "B. ১৯৯৮", "score": 0},
+            {"text": "C. ২০০০", "score": 0},
+            {"text": "D. ২০০৮", "score": 0}
+        ],
+        "correct_answer": "A. ১৯৯৬",
+        "hint": "মুক্তিযুদ্ধ জাদুঘর প্রতিষ্ঠিত হয় ১৯৯৬ সালে।"
+    },
+    {
+        "question": "93. আধুনিক মেধাভিত্তিক সিভিল সার্ভিস এর উন্মেষ ঘটে কোন দেশ হতে?",
+        "answers": [
+            {"text": "A. যুক্তরাজ্য", "score": 0},
+            {"text": "B. যুক্তরাষ্ট্র", "score": 0},
+            {"text": "C. চীন", "score": 1},
+            {"text": "D. ভারত", "score": 0}
+        ],
+        "correct_answer": "C. চীন",
+        "hint": "মেধাভিত্তিক সিভিল সার্ভিসের উন্মেষ ঘটে চীন থেকে।"
+    },
+    {
+        "question": "94. “September on the Jessore Road” is written by:",
+        "answers": [
+            {"text": "A. Madhusudan Dutt", "score": 0},
+            {"text": "B. Allen Ginsberg", "score": 1},
+            {"text": "C. Kaiser Huq", "score": 0},
+            {"text": "D. Vikram Seth", "score": 0}
+        ],
+        "correct_answer": "B. Allen Ginsberg",
+        "hint": "'September on the Jessore Road' is written by Allen Ginsberg."
+    },
+    {
+        "question": "95. ঐহিক এর বিপরীতার্থক শব্দ কোনটি?",
+        "answers": [
+            {"text": "A. ঈদৃশ", "score": 0},
+            {"text": "B. পারত্রিক", "score": 1},
+            {"text": "C. মাঙ্গলিক", "score": 0},
+            {"text": "D. আকস্মিক", "score": 0}
+        ],
+        "correct_answer": "B. পারত্রিক",
+        "hint": "'ঐহিক' শব্দের বিপরীতার্থক শব্দ হলো পারত্রিক।"
+    },
+    {
+        "question": "96. Liza had given me two:",
+        "answers": [
+            {"text": "A. pair of jean", "score": 0},
+            {"text": "B. pairs of jean", "score": 0},
+            {"text": "C. pair of jeans", "score": 1},
+            {"text": "D. pairs of jeans", "score": 0}
+        ],
+        "correct_answer": "C. pair of jeans",
+        "hint": "'Jeans' শব্দটি plural, সুতরাং সঠিক হবে 'pair of jeans'।"
+    },
+    {
+        "question": "97. বাংলাদেশের গণপ্রজাতন্ত্রী সংবিধানের খসড়া সর্বপ্রথম গণপরিষদে ১৯৭২ সালের কোন তারিখে উত্থাপিত হয়?",
+        "answers": [
+            {"text": "A. ১১ নভেম্বর", "score": 0},
+            {"text": "B. ১২ অক্টোবর", "score": 1},
+            {"text": "C. ১৬ ডিসেম্বর", "score": 0},
+            {"text": "D. ৩ মার্চ", "score": 0}
+        ],
+        "correct_answer": "B. ১২ অক্টোবর",
+        "hint": "গণপরিষদের সামনে ১২ অক্টোবর খসড়া উত্থাপিত হয়।"
+    },
+    {
+        "question": "98. অধিত্যকা এর বিপরীতার্থক শব্দ কোনটি?",
+        "answers": [
+            {"text": "A. উপত্যকা", "score": 0},
+            {"text": "B. ধিত্যকা", "score": 0},
+            {"text": "C. পার্বত্য", "score": 0},
+            {"text": "D. সমতল", "score": 1}
+        ],
+        "correct_answer": "D. সমতল",
+        "hint": "'অধিত্যকা' শব্দের বিপরীতার্থক শব্দ হলো সমতল।"
+    },
+    {
+        "question": "99. নিচের প্রশ্নবোধক স্থানে কোনটি বসবে?",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. ", "score": 0}
+        ],
+        "correct_answer": "A. ",
+        "hint": "বাক্যের স্থানে সঠিক শব্দ বসাতে হবে।"
+    },
+    {
+        "question": "100. বৃত্তের ব্যাস চারগুণ বৃদ্ধি পেলে ক্ষেত্রফল কতগুণ বৃদ্ধি পাবে?",
+        "answers": [
+            {"text": "A. ৪", "score": 0},
+            {"text": "B. ৮", "score": 0},
+            {"text": "C. ১২", "score": 0},
+            {"text": "D. ১৬", "score": 1}
+        ],
+        "correct_answer": "D. ১৬",
+        "hint": "বড় ব্যাসার্ধের ক্ষেত্রফল বৃদ্ধি গণনা করুন।"
+    }
+]

@@ -1,0 +1,1102 @@
+[
+    {
+        "question": "1. বাংলা বর্ণমালার স্বরবর্ণ কয়টি?",
+        "answers": [
+            {"text": "A. ১৩টি", "score": 0},
+            {"text": "B. ১০টি", "score": 0},
+            {"text": "C. ১২টি", "score": 0},
+            {"text": "D. ১১টি", "score": 1}
+        ],
+        "correct_answer": "D. ১১টি",
+        "hint": "বাংলা বর্ণমালায় স্বরবর্ণ ১১টি রয়েছে।"
+    },
+    {
+        "question": "2. বাংলা সাহিত্যের আদি কবি কে?",
+        "answers": [
+            {"text": "A. কাহ্নপা", "score": 0},
+            {"text": "B. চেণ্ডনপা", "score": 0},
+            {"text": "C. লুইপা", "score": 1},
+            {"text": "D. ভূসুকুপা", "score": 0}
+        ],
+        "correct_answer": "C. লুইপা",
+        "hint": "লুইপা বাংলা সাহিত্যের আদি কবি।"
+    },
+    {
+        "question": "3. ‘তৎসম’ শব্দের ব্যবহার কোন রীতিতে বেশি হয়?",
+        "answers": [
+            {"text": "A. চলিত রীতি", "score": 0},
+            {"text": "B. সাধু রীতি", "score": 1},
+            {"text": "C. মিশ্র রীতি", "score": 0},
+            {"text": "D. আঞ্চলিক রীতি", "score": 0}
+        ],
+        "correct_answer": "B. সাধু রীতি",
+        "hint": "তৎসম শব্দের ব্যবহার সাধু রীতিতে বেশি হয়।"
+    },
+    {
+        "question": "4. বাংলা ভাষায় প্রথম ব্যাকরণ রচনা করেন কে?",
+        "answers": [
+            {"text": "A. অক্ষয় দত্ত", "score": 0},
+            {"text": "B. মার্শম্যান", "score": 1},
+            {"text": "C. ব্রাশি হ্যালহেড", "score": 0},
+            {"text": "D. রাজা রামমোহন", "score": 0}
+        ],
+        "correct_answer": "B. মার্শম্যান",
+        "hint": "মার্শম্যান বাংলা ভাষায় প্রথম ব্যাকরণ রচনা করেন।"
+    },
+    {
+        "question": "5. ফররুখ আহমদের শ্রেষ্ঠ কাব্যগ্রন্থের নাম কি?",
+        "answers": [
+            {"text": "A. সাত সাগরের মাঝি", "score": 1},
+            {"text": "B. পাখির বাসা", "score": 0},
+            {"text": "C. হাতেমতাই", "score": 0},
+            {"text": "D. নৌফেল ও হাতেম", "score": 0}
+        ],
+        "correct_answer": "A. সাত সাগরের মাঝি",
+        "hint": "'সাত সাগরের মাঝি' হচ্ছে ফররুখ আহমদের শ্রেষ্ঠ কাব্যগ্রন্থ।"
+    },
+    {
+        "question": "6. প্রাচীনতম বাঙালি মুসলমান কবি কে?",
+        "answers": [
+            {"text": "A. আলাওল", "score": 1},
+            {"text": "B. সৈয়দ সুলতান", "score": 0},
+            {"text": "C. মুহম্মদ খান", "score": 0},
+            {"text": "D. শাহ মুহম্মদ সগীর", "score": 0}
+        ],
+        "correct_answer": "A. আলাওল",
+        "hint": "আলামৎ-মোশাহার আলাওল প্রাচীনতম বাঙালি মুসলমান কবি।"
+    },
+    {
+        "question": "7. ‘চাচা কাহিনির’র লেখক কে?",
+        "answers": [
+            {"text": "A. সৈয়দ শামসুল হক", "score": 0},
+            {"text": "B. শওকত ওসমান", "score": 0},
+            {"text": "C. সৈয়দ মুজতবা আলী", "score": 1},
+            {"text": "D. ফররুখ আহমদ", "score": 0}
+        ],
+        "correct_answer": "C. সৈয়দ মুজতবা আলী",
+        "hint": "'চাচা কাহিনী' রচনা করেছেন সৈয়দ মুজতবা আলী।"
+    },
+    {
+        "question": "8. মুসলমান নারী জাগরণের কবি-",
+        "answers": [
+            {"text": "A. ফজিলাতুন্নেছা", "score": 0},
+            {"text": "B. ফয়জুন্নেছা", "score": 0},
+            {"text": "C. বেগম রোকেয়া", "score": 1},
+            {"text": "D. সামসুন্নাহার", "score": 0}
+        ],
+        "correct_answer": "C. বেগম রোকেয়া",
+        "hint": "মুসলমান নারী জাগরণের কবি বেগম রোকেয়া।"
+    },
+    {
+        "question": "9. ‘শ্রীকৃষ্ণকীর্তন’ এর রচয়িতা কে?",
+        "answers": [
+            {"text": "A. জ্ঞানদাস", "score": 0},
+            {"text": "B. দীন চণ্ডীদাস", "score": 0},
+            {"text": "C. বড়ু চণ্ডীদাস", "score": 1},
+            {"text": "D. দীনহীন চণ্ডীদাস", "score": 0}
+        ],
+        "correct_answer": "C. বড়ু চণ্ডীদাস",
+        "hint": "'শ্রীকৃষ্ণকীর্তন' লিখেছেন বড়ু চণ্ডীদাস।"
+    },
+    {
+        "question": "10. বাংলা কথ্য ভাষার আদি গ্রন্থ কোনটি?",
+        "answers": [
+            {"text": "A. প্রভু যিশুর বাণী", "score": 0},
+            {"text": "B. কৃপার শাস্ত্রের অর্থভেদ", "score": 1},
+            {"text": "C. ফুলমণি ও করুণার বিবরণ", "score": 0},
+            {"text": "D. মিশনারি জীবন", "score": 0}
+        ],
+        "correct_answer": "B. কৃপার শাস্ত্রের অর্থভেদ",
+        "hint": "'কৃপার শাস্ত্রের অর্থভেদ' বাংলা কথ্য ভাষার আদি গ্রন্থ।"
+    },
+    {
+        "question": "11. কবি আলাওলের জন্মস্থান কোনটি?",
+        "answers": [
+            {"text": "A. ফরিদপুরের সুরেশ্বর", "score": 0},
+            {"text": "B. চট্টগ্রামের জোব্রা", "score": 0},
+            {"text": "C. বার্মার আরাকান", "score": 1},
+            {"text": "D. চট্টগ্রামের পটিয়া", "score": 0}
+        ],
+        "correct_answer": "C. বার্মার আরাকান",
+        "hint": "কবি আলাওলের জন্মস্থান বার্মার আরাকান।"
+    },
+    {
+        "question": "12. ‘অনল-প্রবাহ’ রচনা করেন-",
+        "answers": [
+            {"text": "A. সৈয়দ ইসমাইল হোসেন সিরাজি", "score": 1},
+            {"text": "B. Mozammel Hossain", "score": 0},
+            {"text": "C. এয়াকুব আলী চৌধুরী", "score": 0},
+            {"text": "D. মুনিরুজ্জামান ইসলামাবাদী", "score": 0}
+        ],
+        "correct_answer": "A. সৈয়দ ইসমাইল হোসেন সিরাজি",
+        "hint": "'অনল-প্রবাহ' রচনা করেছেন সৈয়দ ইসমাইল হোসেন সিরাজি।"
+    },
+    {
+        "question": "13. ‘অগ্নিবীণা’ কাব্যের প্রথম কবিতা কোনটি?",
+        "answers": [
+            {"text": "A. ধূমকেতু", "score": 0},
+            {"text": "B. বিদ্রোহী", "score": 1},
+            {"text": "C. প্রলয়োল্লাস", "score": 0},
+            {"text": "D. অগ্রপথিক", "score": 0}
+        ],
+        "correct_answer": "B. বিদ্রোহী",
+        "hint": "'অগ্নিবীণা' কাব্যের প্রথম কবিতা বিদ্রোহী।"
+    },
+    {
+        "question": "14. বাংলা সাহিত্যে কথ্যরীতির প্রচলনে কোন পত্রিকার অবদান বেশি?",
+        "answers": [
+            {"text": "A. কল্লোল", "score": 0},
+            {"text": "B. সবুজপত্র", "score": 1},
+            {"text": "C. বঙ্গদর্শন", "score": 0},
+            {"text": "D. কালিকলম", "score": 0}
+        ],
+        "correct_answer": "B. সবুজপত্র",
+        "hint": "'সবুজপত্র' বাংলা সাহিত্যে কথ্যরীতি প্রচলনে বেশি অবদান রেখেছে।"
+    },
+    {
+        "question": "15. ‘জনৈক’ শব্দটির সন্ধি বিচ্ছেদ -",
+        "answers": [
+            {"text": "A. জন + ইক", "score": 0},
+            {"text": "B. জন + এক", "score": 1},
+            {"text": "C. জনৈ + এক", "score": 0},
+            {"text": "D. জন + ঈক", "score": 0}
+        ],
+        "correct_answer": "B. জন + এক",
+        "hint": "'জনৈক' শব্দের বিচ্ছেদ হলো জন + এক।"
+    },
+    {
+        "question": "16. বাক্যের তিনটি গুণ কি কি?",
+        "answers": [
+            {"text": "A. আকাঙ্ক্ষা, আসক্তি ও বিধেয়", "score": 1},
+            {"text": "B. আকাঙ্ক্ষা, আসত্তি ও যোগ্যতা", "score": 0},
+            {"text": "C. যোগ্যতা, উদ্দেশ্য ও বিধেয়", "score": 0},
+            {"text": "D. কোনোটিই নয়", "score": 0}
+        ],
+        "correct_answer": "A. আকাঙ্ক্ষা, আসক্তি ও বিধেয়",
+        "hint": "বাক্যের তিনটি গুণ হলো আকাঙ্ক্ষা, আসক্তি ও যোগ্যতা।"
+    },
+    {
+        "question": "17. ‘একাত্তরের চিঠি’ কোন জাতীয় রচনা?",
+        "answers": [
+            {"text": "A. মুক্তিযুদ্ধের বিবরণ", "score": 0},
+            {"text": "B. মুক্তিযুদ্ধভিত্তিক উপন্যাস", "score": 0},
+            {"text": "C. মুক্তিযোদ্ধাদের পত্র সংকলন", "score": 1},
+            {"text": "D. ভিন্নধর্মী ডায়েরি", "score": 0}
+        ],
+        "correct_answer": "C. মুক্তিযোদ্ধাদের পত্র সংকলন",
+        "hint": "'একাত্তরের চিঠি' হচ্ছে মুক্তিযোদ্ধাদের পত্র সংকলন।"
+    },
+    {
+        "question": "18. বাংলা একাডেমি কোন বছর প্রতিষ্ঠিত হয়?",
+        "answers": [
+            {"text": "A. ১৯৫৫ খ্রি.", "score": 1},
+            {"text": "B. ১৩৫৫ বঙ্গাব্দ", "score": 0},
+            {"text": "C. ১৯৫২ খ্রি.", "score": 0},
+            {"text": "D. ১৩৫২ বঙ্গাব্দ", "score": 0}
+        ],
+        "correct_answer": "A. ১৯৫৫ খ্রি.",
+        "hint": "বাংলা একাডেমি ১৯৫৫ সালে প্রতিষ্ঠিত হয়েছে।"
+    },
+    {
+        "question": "19. সনেট কবিতার প্রবর্তক কে?",
+        "answers": [
+            {"text": "A. দ্বিজেন্দ্র লাল রায়", "score": 0},
+            {"text": "B. রজনীকান্ত সেন", "score": 0},
+            {"text": "C. মাইকেল মধুসূদন দত্ত", "score": 1},
+            {"text": "D. অতুলপ্রসাদ সেন", "score": 0}
+        ],
+        "correct_answer": "C. মাইকেল মধুসূদন দত্ত",
+        "hint": "মাইকেল মধুসূদন দত্ত বাংলা সাহিত্যে সনেট কবিতা রচনা করেন।"
+    },
+    {
+        "question": "20. সমাস ভাষাকে কি করে?",
+        "answers": [
+            {"text": "A. সংক্ষেপ করে", "score": 1},
+            {"text": "B. বিস্তৃত করে", "score": 0},
+            {"text": "C. অর্থপূর্ণ করে", "score": 0},
+            {"text": "D. অর্থের রূপান্তর ঘটায়", "score": 0}
+        ],
+        "correct_answer": "A. সংক্ষেপ করে",
+        "hint": "'সমাস' শব্দের অর্থ হলো সংক্ষেপণ।"
+    },
+    {
+        "question": "21. I have not heard from him -",
+        "answers": [
+            {"text": "A. long since", "score": 0},
+            {"text": "B. for a long time", "score": 1},
+            {"text": "C. since long", "score": 0},
+            {"text": "D. for long", "score": 0}
+        ],
+        "correct_answer": "B. for a long time",
+        "hint": "Negative sentence-এ 'for a long time' সঠিক।"
+    },
+    {
+        "question": "22. Honey is _____ sweet.",
+        "answers": [
+            {"text": "A. very", "score": 1},
+            {"text": "B. too much", "score": 0},
+            {"text": "C. much too", "score": 0},
+            {"text": "D. excessive", "score": 0}
+        ],
+        "correct_answer": "A. very",
+        "hint": "'Very' ব্যবহার করা হয়েছে এখানে।"
+    },
+    {
+        "question": "23. Your conduct admits ____ no excuse.",
+        "answers": [
+            {"text": "A. to", "score": 0},
+            {"text": "B. for", "score": 0},
+            {"text": "C. of", "score": 1},
+            {"text": "D. at", "score": 0}
+        ],
+        "correct_answer": "C. of",
+        "hint": "'Admit of' অর্থে 'অবকাশ থাকা'।"
+    },
+    {
+        "question": "24. He had a ____ headache.",
+        "answers": [
+            {"text": "A. strong", "score": 0},
+            {"text": "B. acute", "score": 0},
+            {"text": "C. serious", "score": 0},
+            {"text": "D. bad", "score": 1}
+        ],
+        "correct_answer": "D. bad",
+        "hint": "'Bad headache' প্রযোগিতার ওপর নির্ভরশীল।"
+    },
+    {
+        "question": "25. I shall no ____ the examination this year.",
+        "answers": [
+            {"text": "A. give", "score": 0},
+            {"text": "B. appear at", "score": 1},
+            {"text": "C. sit", "score": 0},
+            {"text": "D. go for", "score": 0}
+        ],
+        "correct_answer": "B. appear at",
+        "hint": "'Appear at' ব্যবহার করা হয় পরীক্ষায় অংশগ্রহণের জন্য।"
+    },
+    {
+        "question": "26. They travelled to Savar-",
+        "answers": [
+            {"text": "A. on foot", "score": 1},
+            {"text": "B. by walking", "score": 0},
+            {"text": "C. on their feet", "score": 0},
+            {"text": "D. by foot", "score": 0}
+        ],
+        "correct_answer": "A. on foot",
+        "hint": "'On foot' হলো পায়ে হেঁটে যাওয়ার অর্থ।"
+    },
+    {
+        "question": "27. He said that he ____ be unable to come.",
+        "answers": [
+            {"text": "A. will", "score": 0},
+            {"text": "B. shall", "score": 0},
+            {"text": "C. should", "score": 0},
+            {"text": "D. would", "score": 1}
+        ],
+        "correct_answer": "D. would",
+        "hint": "Indirect speech এ 'would' ব্যবহার হয়।"
+    },
+    {
+        "question": "28. Neither Rini nor Simi ____ qualified for the job.",
+        "answers": [
+            {"text": "A. are", "score": 0},
+            {"text": "B. is", "score": 1},
+            {"text": "C. were", "score": 0},
+            {"text": "D. had", "score": 0}
+        ],
+        "correct_answer": "B. is",
+        "hint": "Neither .... nor এর ক্ষেত্রে verb দ্বিতীয় subject এর অনুসারে হয়।"
+    },
+    {
+        "question": "29. He said that he ____ the previous day.",
+        "answers": [
+            {"text": "A. has come", "score": 0},
+            {"text": "B. had come", "score": 1},
+            {"text": "C. came", "score": 0},
+            {"text": "D. arrived", "score": 0}
+        ],
+        "correct_answer": "B. had come",
+        "hint": "Past Perfect Tense ব্যবহার করতে হবে।"
+    },
+    {
+        "question": "30. He watched the boat ____ down the river.",
+        "answers": [
+            {"text": "A. to float", "score": 0},
+            {"text": "B. floating", "score": 1},
+            {"text": "C. was floating", "score": 0},
+            {"text": "D. had floated", "score": 0}
+        ],
+        "correct_answer": "B. floating",
+        "hint": "'Floating' ব্যবহার করা হয়েছে বাস্তবিক পদে।"
+    },
+    {
+        "question": "31. 'Sky' is to 'bird' as 'water' is to-",
+        "answers": [
+            {"text": "A. feather", "score": 0},
+            {"text": "B. fish", "score": 1},
+            {"text": "C. boat", "score": 0},
+            {"text": "D. lotus", "score": 0}
+        ],
+        "correct_answer": "B. fish",
+        "hint": "'Water' এ যেমন 'fish' থাকে তেমন 'sky' এ 'bird' থাকে।"
+    },
+    {
+        "question": "32. 'Good' is to 'bad' as 'white' is to-",
+        "answers": [
+            {"text": "A. dark", "score": 0},
+            {"text": "B. black", "score": 1},
+            {"text": "C. grey", "score": 0},
+            {"text": "D. ebony", "score": 0}
+        ],
+        "correct_answer": "B. black",
+        "hint": "'White' এর বিপরীত শব্দ হলো 'black'।"
+    },
+    {
+        "question": "33. 'Botany' is to 'plants' as 'Zoology' is to-",
+        "answers": [
+            {"text": "A. flowers", "score": 0},
+            {"text": "B. trees", "score": 0},
+            {"text": "C. dear", "score": 0},
+            {"text": "D. animals", "score": 1}
+        ],
+        "correct_answer": "D. animals",
+        "hint": "'Zoology' প্রাণিদের নিয়ে আলোচনা করে ঠিক তেমনি 'Botany' উদ্ভিদের নিয়ে আলোচনা করে।"
+    },
+    {
+        "question": "34. The bad news struck him like a bolt from the-",
+        "answers": [
+            {"text": "A. sky", "score": 1},
+            {"text": "B. heavens", "score": 0},
+            {"text": "C. firmament", "score": 0},
+            {"text": "D. blue", "score": 0}
+        ],
+        "correct_answer": "A. sky",
+        "hint": "'Bolt from the blue' অর্থ বিনা মেঘে বজ্রপাত।"
+    },
+    {
+        "question": "35. When one is 'pragmatic' he is being-",
+        "answers": [
+            {"text": "A. wasteful", "score": 0},
+            {"text": "B. productive", "score": 0},
+            {"text": "C. practical", "score": 1},
+            {"text": "D. fussy", "score": 0}
+        ],
+        "correct_answer": "C. practical",
+        "hint": "'Pragmatic' মানে ব্যবহারিক।"
+    },
+    {
+        "question": "36. 'Into the ____ of death rode the six hundred'.",
+        "answers": [
+            {"text": "A. city", "score": 0},
+            {"text": "B. tunnel", "score": 0},
+            {"text": "C. road", "score": 0},
+            {"text": "D. valley", "score": 1}
+        ],
+        "correct_answer": "D. valley",
+        "hint": "মুহাম্মাদ ও আলফ্রেড টেনিসনের এই লাইন।"
+    },
+    {
+        "question": "37. 'To be or not to be, that is the ____.'",
+        "answers": [
+            {"text": "A. meaning", "score": 0},
+            {"text": "B. question", "score": 1},
+            {"text": "C. answer", "score": 0},
+            {"text": "D. issue", "score": 0}
+        ],
+        "correct_answer": "B. question",
+        "hint": "এই লাইনটি শেক্সপিয়ার এর এক বিখ্যাত মন্তব্য।"
+    },
+    {
+        "question": "38. I have a ____ that one day this nation will live out the true meaning of its creed that all men are created equal.",
+        "answers": [
+            {"text": "A. desire", "score": 0},
+            {"text": "B. hope", "score": 0},
+            {"text": "C. dream", "score": 1},
+            {"text": "D. wish", "score": 0}
+        ],
+        "correct_answer": "C. dream",
+        "hint": "উক্তিটি মার্টিন লুথার কিং এর।"
+    },
+    {
+        "question": "39. Who wrote the two famous novels, 'David Copperfield' and 'The Tale of two Cities'?",
+        "answers": [
+            {"text": "A. Thomas Hardy", "score": 0},
+            {"text": "B. Jane Austen", "score": 0},
+            {"text": "C. George Eliot", "score": 0},
+            {"text": "D. Charles Dickens", "score": 1}
+        ],
+        "correct_answer": "D. Charles Dickens",
+        "hint": "'David Copperfield' এবং 'The Tale of two Cities' রচয়িতা চার্লস ডিকেন্স।"
+    },
+    {
+        "question": "40. Who wrote the plays, 'The Tempest' and 'The Mid Summer Night's Dream?",
+        "answers": [
+            {"text": "A. Ben Johnson", "score": 0},
+            {"text": "B. Christopher Marlowe", "score": 0},
+            {"text": "C. John Dryden", "score": 0},
+            {"text": "D. William Shakespeare", "score": 1}
+        ],
+        "correct_answer": "D. William Shakespeare",
+        "hint": "'The Tempest' এবং 'The Mid Summer Night's Dream' রচয়িতা উইলিয়াম শেক্সপিয়ার।"
+    },
+    {
+        "question": "41. ঢাকা বিশ্ববিদ্যালয় কত সালে প্রতিষ্ঠিত হয়েছে?",
+        "answers": [
+            {"text": "A. ১৯১১ সালে", "score": 0},
+            {"text": "B. ১৯২১ সালে", "score": 1},
+            {"text": "C. ১৯৩১ সালে", "score": 0},
+            {"text": "D. ১৯৪১ সালে", "score": 0}
+        ],
+        "correct_answer": "B. ১৯২১ সালে",
+        "hint": "ঢাকা বিশ্ববিদ্যালয় ১৯২১ সালে প্রতিষ্ঠিত হয়।"
+    },
+    {
+        "question": "42. বাংলাদেশে কয়টি সরকারি বিশ্ববিদ্যালয় রয়েছে?",
+        "answers": [
+            {"text": "A. ১৪টি", "score": 0},
+            {"text": "B. ২৪টি", "score": 0},
+            {"text": "C. ৩৪টি", "score": 1},
+            {"text": "D. ৫০টি", "score": 0}
+        ],
+        "correct_answer": "C. ৩৪টি",
+        "hint": "বাংলাদেশে বর্তমানে ৫৩টি সরকারি বিশ্ববিদ্যালয় রয়েছে।"
+    },
+    {
+        "question": "43. বঙ্গভঙ্গের সময় ভারতের গভর্নর জেনারেল কে ছিলেন?",
+        "answers": [
+            {"text": "A. লর্ড কার্জন", "score": 1},
+            {"text": "B. লর্ড ওয়েলেসলি", "score": 0},
+            {"text": "C. লর্ড ডালহৌসি", "score": 0},
+            {"text": "D. লর্ড মাউন্টব্যাটেন", "score": 0}
+        ],
+        "correct_answer": "A. লর্ড কার্জন",
+        "hint": "লর্ড কার্জন বঙ্গভঙ্গের সময় গভর্নর জেনারেল ছিলেন।"
+    },
+    {
+        "question": "44. বাংলাদেশের ক্ষুদ্রতম ইউনিয়ন পরিষদ কোনটি?",
+        "answers": [
+            {"text": "A. সেন্টমার্টিন", "score": 0},
+            {"text": "B. সাতগ্রাম", "score": 0},
+            {"text": "C. মুজিবনগর", "score": 0},
+            {"text": "D. চৌদ্দগ্রাম", "score": 1}
+        ],
+        "correct_answer": "D. চৌদ্দগ্রাম",
+        "hint": "সেন্টমার্টিন বাংলাদেশের সর্বাত্মক ইউনিয়ন।"
+    },
+    {
+        "question": "45. আইএলও-র সদর দপ্তর কোথায় অবস্থিত?",
+        "answers": [
+            {"text": "A. লন্ডন", "score": 0},
+            {"text": "B. জেনেভা", "score": 1},
+            {"text": "C. নিউইয়র্ক", "score": 0},
+            {"text": "D. দিল্লী", "score": 0}
+        ],
+        "correct_answer": "B. জেনেভা",
+        "hint": "আইএলও-এর সদর দপ্তর সুইজারল্যান্ডের জেনেভায় অবস্থিত।"
+    },
+    {
+        "question": "46. এসকাপের সদর দপ্তর কোথায় অবস্থিত?",
+        "answers": [
+            {"text": "A. ব্যাংকক", "score": 1},
+            {"text": "B. সিঙ্গাপুর", "score": 0},
+            {"text": "C. দিল্লী", "score": 0},
+            {"text": "D. কলম্বো", "score": 0}
+        ],
+        "correct_answer": "A. ব্যাংকক",
+        "hint": "এসকাপের সদর দপ্তর ব্যাংককে অবস্থিত।"
+    },
+    {
+        "question": "47. ইউরোপীয় ইউনিয়নের সদর দপ্তর কোথায় অবস্থিত?",
+        "answers": [
+            {"text": "A. লন্ডন", "score": 0},
+            {"text": "B. ব্রাসেলস", "score": 1},
+            {"text": "C. বন", "score": 0},
+            {"text": "D. প্যারিস", "score": 0}
+        ],
+        "correct_answer": "B. ব্রাসেলস",
+        "hint": "ইউরোপীয় ইউনিয়নের সদর দপ্তর ব্রাসেলসে অবস্থিত।"
+    },
+    {
+        "question": "48. বাংলাদেশকে প্রথম স্বীকৃতিদানকারী দেশ কোনটি?",
+        "answers": [
+            {"text": "A. ভারত", "score": 1},
+            {"text": "B. শ্রীলংকা", "score": 0},
+            {"text": "C. মায়ানমার", "score": 0},
+            {"text": "D. রাশিয়া", "score": 0}
+        ],
+        "correct_answer": "A. ভারত",
+        "hint": "বাংলাদেশকে প্রথম স্বীকৃতিদানকারী দেশ ভারত।"
+    },
+    {
+        "question": "49. বাংলাদেশের প্রথম রাষ্ট্রপতির নাম কি?",
+        "answers": [
+            {"text": "A. সৈয়দ নজরুল ইসলাম", "score": 0},
+            {"text": "B. তাজউদ্দীন আহমদ", "score": 0},
+            {"text": "C. শেখ মুজিবুর রহমান", "score": 1},
+            {"text": "D. ক্যাপটেন মনসুর আলী", "score": 0}
+        ],
+        "correct_answer": "C. শেখ মুজিবুর রহমান",
+        "hint": "বাংলাদেশের প্রথম রাষ্ট্রপতি শেখ মুজিবুর রহমান।"
+    },
+    {
+        "question": "50. সুলতানী আমলে বাংলার রাজধানীর নাম কি?",
+        "answers": [
+            {"text": "A. সোনারগাঁ", "score": 1},
+            {"text": "B. জাহাঙ্গীরনগর", "score": 0},
+            {"text": "C. ঢাকা", "score": 0},
+            {"text": "D. গৌড়", "score": 0}
+        ],
+        "correct_answer": "A. সোনারগাঁ",
+        "hint": "সুলতানী আমলে বাংলার রাজধানী ছিল সোনারগাঁ।"
+    },
+    {
+        "question": "51. বাংলাদেশের মুক্তিযুদ্ধের প্রধান সেনাপতি কে ছিলেন?",
+        "answers": [
+            {"text": "A. শেখ মুজিবুর রহমান", "score": 0},
+            {"text": "B. জেনারেল আতাউল গনি ওসমানি", "score": 1},
+            {"text": "C. তাজউদ্দিন আহমদ", "score": 0},
+            {"text": "D. ক্যাপটেন মনসুর আলী", "score": 0}
+        ],
+        "correct_answer": "B. জেনারেল আতাউল গনি ওসমানি",
+        "hint": "জেনারেল আতাউল গনি ওসমানি মুক্তিযুদ্ধের প্রধান সেনাপতি ছিলেন।"
+    },
+    {
+        "question": "52. পার্বত্য চট্টগ্রামে কয়টি জেলা আছে?",
+        "answers": [
+            {"text": "A. ৩টি", "score": 1},
+            {"text": "B. ৫টি", "score": 0},
+            {"text": "C. ৭টি", "score": 0},
+            {"text": "D. ৯টি", "score": 0}
+        ],
+        "correct_answer": "A. ৩টি",
+        "hint": "পার্বত্য চট্টগ্রাম ৩টি জেলা আছে: রাঙামাটি, খাগড়াছড়ি ও বান্দরবান।"
+    },
+    {
+        "question": "53. East London কোথায় অবস্থিত?",
+        "answers": [
+            {"text": "A. ইংল্যান্ডে", "score": 0},
+            {"text": "B. জার্মানিতে", "score": 0},
+            {"text": "C. আমেরিকায়", "score": 0},
+            {"text": "D. দক্ষিণ আফ্রিকায়", "score": 1}
+        ],
+        "correct_answer": "D. দক্ষিণ আফ্রিকায়",
+        "hint": "East London দক্ষিণ আফ্রিকায় অবস্থিত।"
+    },
+    {
+        "question": "54. ব্রিটিশ ভারতের শেষ ভাইসরয় কে ছিলেন?",
+        "answers": [
+            {"text": "A. লর্ড কার্জন", "score": 0},
+            {"text": "B. লর্ড মাউন্টব্যাটেন", "score": 1},
+            {"text": "C. লর্ড বেন্টিঙ্ক", "score": 0},
+            {"text": "D. লর্ড ওয়াভেল", "score": 0}
+        ],
+        "correct_answer": "B. লর্ড মাউন্টব্যাটেন",
+        "hint": "মাউন্টব্যাটেন ব্রিটিশ ভারতের শেষ ভাইসরয় ছিলেন।"
+    },
+    {
+        "question": "55. মুক্তিযুদ্ধের সময় বাংলাদেশকে কয়টি সেক্টরে ভাগ করা হয়েছিল?",
+        "answers": [
+            {"text": "A. ৪টি", "score": 0},
+            {"text": "B. ৭টি", "score": 0},
+            {"text": "C. ১১টি", "score": 1},
+            {"text": "D. ১৪টি", "score": 0}
+        ],
+        "correct_answer": "C. ১১টি",
+        "hint": "মুক্তিযুদ্ধের সময় বাংলাদেশকে ১১টি সেক্টরে ভাগ করা হয়েছিল।"
+    },
+    {
+        "question": "56. মার্কিন যুক্তরাষ্ট্রের বর্তমান পররাষ্ট্রমন্ত্রীর নাম কি?",
+        "answers": [
+            {"text": "A. জর্জ বুশ", "score": 0},
+            {"text": "B. হিলারী ক্লিনটন", "score": 0},
+            {"text": "C. রবার্ট গেইট", "score": 0},
+            {"text": "D. কন্ডালিসা রাইস", "score": 1}
+        ],
+        "correct_answer": "D. কন্ডালিসা রাইস",
+        "hint": "বর্তমান পররাষ্ট্রমন্ত্রী কন্ডালিসা রাইস।"
+    },
+    {
+        "question": "57. ভারতের বর্তমান প্রধানমন্ত্রীর নাম কি?",
+        "answers": [
+            {"text": "A. সোনিয়া গান্ধী", "score": 0},
+            {"text": "B. ড. মনমোহন সিং", "score": 0},
+            {"text": "C. মমতা ব্যানার্জী", "score": 0},
+            {"text": "D. রাহুল গান্ধী", "score": 1}
+        ],
+        "correct_answer": "D. রাহুল গান্ধী",
+        "hint": "ভারতের বর্তমান প্রধানমন্ত্রী নরেন্দ্র মোদি।"
+    },
+    {
+        "question": "58. জাতিসংঘের সদর দপ্তর কোথায় অবস্থিত?",
+        "answers": [
+            {"text": "A. লন্ডন", "score": 0},
+            {"text": "B. নিউইয়র্ক", "score": 1},
+            {"text": "C. প্যারিস", "score": 0},
+            {"text": "D. মস্কো", "score": 0}
+        ],
+        "correct_answer": "B. নিউইয়র্ক",
+        "hint": "জাতিসংঘের সদর দপ্তর নিউইয়র্কে অবস্থিত।"
+    },
+    {
+        "question": "59. সার্কের সচিবালয় কোথায় অবস্থিত?",
+        "answers": [
+            {"text": "A. দিল্লী", "score": 0},
+            {"text": "B. ইসলামাবাদ", "score": 0},
+            {"text": "C. কাঠমান্ডু", "score": 1},
+            {"text": "D. ঢাকা", "score": 0}
+        ],
+        "correct_answer": "C. কাঠমান্ডু",
+        "hint": "সার্কের সচিবালয় কাঠমান্ডুতে অবস্থিত।"
+    },
+    {
+        "question": "60. টেকনাফ কোন নদীর তীরে অবস্থিত?",
+        "answers": [
+            {"text": "A. পদ্মা", "score": 0},
+            {"text": "B. যমুনা", "score": 0},
+            {"text": "C. নাফ", "score": 1},
+            {"text": "D. কর্ণফুলী", "score": 0}
+        ],
+        "correct_answer": "C. নাফ",
+        "hint": "নাফ নদীর তীরে অবস্থিত টেকনাফ।"
+    },
+    {
+        "question": "61. কম্পিউটারের স্থায়ী স্মৃতিশক্তিকে কি বলে?",
+        "answers": [
+            {"text": "A. RAM", "score": 0},
+            {"text": "B. ROM", "score": 1},
+            {"text": "C. হার্ডওয়্যার", "score": 0},
+            {"text": "D. সফ্টওয়্যার", "score": 0}
+        ],
+        "correct_answer": "B. ROM",
+        "hint": "ROM কম্পিউটারের স্থায়ী স্মৃতি।"
+    },
+    {
+        "question": "62. সবচেয়ে শক্তিশালী সৌরচুল্লি তৈরি করা হয়েছে কোন দেশে?",
+        "answers": [
+            {"text": "A. যুক্তরাষ্ট্র", "score": 0},
+            {"text": "B. ভারত", "score": 1},
+            {"text": "C. জাপান", "score": 0},
+            {"text": "D. নেপাল", "score": 0}
+        ],
+        "correct_answer": "B. ভারত",
+        "hint": "বিশ্বের সবচেয়ে শক্তিশালী সৌরচুল্লি ভারতের ভাদলা সোলার পার্ক।"
+    },
+    {
+        "question": "63. ফটোইলেকট্রিক কোষের উপর আলো পড়লে কি উৎপন্ন হয়?",
+        "answers": [
+            {"text": "A. বিদ্যুৎ", "score": 1},
+            {"text": "B. তাপ", "score": 0},
+            {"text": "C. চুম্বক", "score": 0},
+            {"text": "D. কিছুই হয় না", "score": 0}
+        ],
+        "correct_answer": "A. বিদ্যুৎ",
+        "hint": "ফটোইলেকট্রিক কোষে আলো পড়লে বিদ্যুৎ উৎপন্ন হয়।"
+    },
+    {
+        "question": "64. যে সকল নিউক্লিয়াসের নিউট্রন সংখ্যা সমান কিন্তু ভর সংখ্যা সমান নয়, তাদের কি বলা হয়?",
+        "answers": [
+            {"text": "A. আইসোটোপ", "score": 0},
+            {"text": "B. আইসোটোন", "score": 1},
+            {"text": "C. আইসোমার", "score": 0},
+            {"text": "D. আইসোবার", "score": 0}
+        ],
+        "correct_answer": "B. আইসোটোন",
+        "hint": "নিউক্লিয়াসের নিউট্রন সংখ্যা সমান হলে তাদের আইসোস্টোপ বলা হয়।"
+    },
+    {
+        "question": "65. চাঁদ দিগন্তের কাছে অনেক বড় দেখায় কেন?",
+        "answers": [
+            {"text": "A. বায়ুমণ্ডলীয় প্রতিসরণে", "score": 1},
+            {"text": "B. আলোর বিচ্ছুরণে", "score": 0},
+            {"text": "C. অপাবর্তনে", "score": 0},
+            {"text": "D. দৃষ্টিভ্রমে", "score": 0}
+        ],
+        "correct_answer": "A. বায়ুমণ্ডলীয় প্রতিসরণে",
+        "hint": "চাঁদ দিগন্তে বড় দেখায় বায়ুমন্ডলের প্রতিসরণের কারণে।"
+    },
+    {
+        "question": "66. লাল আলোতে নীল রঙের বস্তু কেমন দেখায়?",
+        "answers": [
+            {"text": "A. বেগুনী", "score": 0},
+            {"text": "B. সবুজ", "score": 0},
+            {"text": "C. হলুদ", "score": 0},
+            {"text": "D. কালো", "score": 1}
+        ],
+        "correct_answer": "D. কালো",
+        "hint": "লাল আলোতে নীল বস্তু কালো দেখায় কারণ তা প্রতিফলিত হয় না।"
+    },
+    {
+        "question": "67. বৈদ্যুতিক বাল্বের ফিলামেন্ট কি ধাতু দিয়ে তৈরি?",
+        "answers": [
+            {"text": "A. সংকর ধাতু", "score": 0},
+            {"text": "B. সীসা", "score": 0},
+            {"text": "C. টাংস্টেন", "score": 1},
+            {"text": "D. তামা", "score": 0}
+        ],
+        "correct_answer": "C. টাংস্টেন",
+        "hint": "বৈদ্যুতিক বাল্বের ফিলামেন্ট টাংস্টেন দিয়ে তৈরি।"
+    },
+    {
+        "question": "68. জারণ বিক্রিয়ায় কি ঘটে?",
+        "answers": [
+            {"text": "A. ইলেক্ট্রন গ্রহণ", "score": 0},
+            {"text": "B. ইলেক্ট্রন আদান-প্রদান", "score": 1},
+            {"text": "C. ইলেক্ট্রন বর্জন", "score": 0},
+            {"text": "D. শুধু তাপ উৎপন্ন হয়", "score": 0}
+        ],
+        "correct_answer": "B. ইলেক্ট্রন আদান-প্রদান",
+        "hint": "জারণ বিক্রিয়ার ফলে ইলেক্ট্রন আদান-প্রদান ঘটে।"
+    },
+    {
+        "question": "69. নিচের কোনটি ক্ষারকীয় অক্সাইড?",
+        "answers": [
+            {"text": "A. CaO", "score": 1},
+            {"text": "B. SiO2", "score": 0},
+            {"text": "C. NaCl", "score": 0},
+            {"text": "D. H2O", "score": 0}
+        ],
+        "correct_answer": "A. CaO",
+        "hint": "CaO হলো ক্ষারকীয় অক্সাইড।"
+    },
+    {
+        "question": "70. কোন ধাতু পানি অপেক্ষা হালকা?",
+        "answers": [
+            {"text": "A. ম্যাগনেসিয়াম", "score": 0},
+            {"text": "B. ক্যালসিয়াম", "score": 0},
+            {"text": "C. সোডিয়াম", "score": 1},
+            {"text": "D. পটাসিয়াম", "score": 0}
+        ],
+        "correct_answer": "C. সোডিয়াম",
+        "hint": "সোডিয়াম পানি অপেক্ষা হালকা।"
+    },
+    {
+        "question": "71. পারমাণবিক চুল্লীতে তাপ পরিবাহক হিসেবে কোন ধাতু ব্যবহৃত হয়?",
+        "answers": [
+            {"text": "A. সোডিয়াম", "score": 1},
+            {"text": "B. পটাসিয়াম", "score": 0},
+            {"text": "C. ম্যাগনেসিয়াম", "score": 0},
+            {"text": "D. জিংক", "score": 0}
+        ],
+        "correct_answer": "A. সোডিয়াম",
+        "hint": "পারমাণবিক চুল্লিতে সোডিয়াম ধাতু তাপ পরিবাহক হিসেবে ব্যবহৃত হয়।"
+    },
+    {
+        "question": "72. কোন বিজ্ঞানী রোগজীবাণু তত্ত্ব উদ্ভাবন করেন?",
+        "answers": [
+            {"text": "A. ডারউইন", "score": 0},
+            {"text": "B. লুইপাস্তুর", "score": 1},
+            {"text": "C. প্রিস্টলী", "score": 0},
+            {"text": "D. ল্যাভয়সিয়ে", "score": 0}
+        ],
+        "correct_answer": "B. লুইপাস্তুর",
+        "hint": "রোগজীবাণু তত্ত্বের প্রমাণ লুই পাস্তুর দেন।"
+    },
+    {
+        "question": "73. সুষম খাদ্যের উপাদান কয়টি?",
+        "answers": [
+            {"text": "A. ৪টি", "score": 0},
+            {"text": "B. ৫টি", "score": 0},
+            {"text": "C. ৬টি", "score": 1},
+            {"text": "D. ৮টি", "score": 0}
+        ],
+        "correct_answer": "C. ৬টি",
+        "hint": "সুষম খাদ্যের উপাদান ৬টি।"
+    },
+    {
+        "question": "74. গ্রীন হাউজে গাছ লাগানো হয় কেন?",
+        "answers": [
+            {"text": "A. উষ্ণতা থেকে রক্ষার জন্য", "score": 1},
+            {"text": "B. অত্যধিক ঠাণ্ডা থেকে রক্ষার জন্য", "score": 0},
+            {"text": "C. আলো থেকে রক্ষার জন্য", "score": 0},
+            {"text": "D. ঝড়-বৃষ্টি থেকে রক্ষার জন্য", "score": 0}
+        ],
+        "correct_answer": "A. উষ্ণতা থেকে রক্ষার জন্য",
+        "hint": "গ্রীন হাউজে গাছ লাগানো হয় উষ্ণতা রক্ষার জন্য।"
+    },
+    {
+        "question": "75. পৃথিবীর প্রথম বাণিজ্যিক যোগাযোগ কৃত্রিম উপগ্রহ কোনটি?",
+        "answers": [
+            {"text": "A. আর্লিবার্ড হল", "score": 1},
+            {"text": "B. এস্ট্রোলার হল", "score": 0},
+            {"text": "C. ওবেরী হল", "score": 0},
+            {"text": "D. কসমস", "score": 0}
+        ],
+        "correct_answer": "A. আর্লিবার্ড হল",
+        "hint": "আর্লি বার্ড হলো পৃথিবীর প্রথম বাণিজ্যিক যোগাযোগ কৃত্রিম উপগ্রহ।"
+    },
+    {
+        "question": "76. সূর্য পৃষ্ঠের উত্তাপ কত?",
+        "answers": [
+            {"text": "A. ৬০০০ ডিগ্রি সেন্টিগ্রেড", "score": 1},
+            {"text": "B. ৮০০০ ডিগ্রি সেন্টিগ্রেড", "score": 0},
+            {"text": "C. ১০০০০ ডিগ্রি সেন্টিগ্রেড", "score": 0},
+            {"text": "D. ১২১০০ ডিগ্রি সেন্টিগ্রেড", "score": 0}
+        ],
+        "correct_answer": "A. ৬০০০ ডিগ্রি সেন্টিগ্রেড",
+        "hint": "সূর্য পৃষ্ঠের উত্তাপ প্রায় ৬,০০০ ডিগ্রি সেন্টিগ্রেড।"
+    },
+    {
+        "question": "77. জোয়ারের কত সময় পর ভাঁটার সৃষ্টি হয়?",
+        "answers": [
+            {"text": "A. ৬ ঘণ্টা ১৩ মি.", "score": 1},
+            {"text": "B. ৮ ঘণ্টা", "score": 0},
+            {"text": "C. ১২ ঘণ্টা", "score": 0},
+            {"text": "D. ১৩ ঘণ্টা ১৫ মি.", "score": 0}
+        ],
+        "correct_answer": "A. ৬ ঘণ্টা ১৩ মি.",
+        "hint": "জোয়ারের পর ভাঁটার সৃষ্টি হয় ৬ ঘণ্টা ১৩ মিনিটের পর।"
+    },
+    {
+        "question": "78. কোনটি বায়ুর উপাদান নহে?",
+        "answers": [
+            {"text": "A. নাইট্রোজেন", "score": 0},
+            {"text": "B. হাইড্রোজেন", "score": 1},
+            {"text": "C. কার্বন", "score": 0},
+            {"text": "D. ফসফরাস", "score": 0}
+        ],
+        "correct_answer": "B. হাইড্রোজেন",
+        "hint": "ফসফরাস বায়ুর উপাদান নয়।"
+    },
+    {
+        "question": "79. অ্যালিউমিনিয়াম সালফেটকে চলতি বাংলায় কি বলে?",
+        "answers": [
+            {"text": "A. চুন", "score": 0},
+            {"text": "B. সেভিং সোপ", "score": 0},
+            {"text": "C. ফিটকিরি", "score": 1},
+            {"text": "D. কস্টিক সোডা", "score": 0}
+        ],
+        "correct_answer": "C. ফিটকিরি",
+        "hint": "ফিটকিরি হলো অ্যালিউমিনিয়াম সালফেটের বাংলায় নাম।"
+    },
+    {
+        "question": "80. কোন কোন স্থানে সলিড ফিনাইল ব্যবহার করা হয়?",
+        "answers": [
+            {"text": "A. পায়খানা, প্রস্রাবখানায়", "score": 1},
+            {"text": "B. গোসলখানায়", "score": 0},
+            {"text": "C. পুকুরে", "score": 0},
+            {"text": "D. নালায়", "score": 0}
+        ],
+        "correct_answer": "A. পায়খানা, প্রস্রাবখানায়",
+        "hint": "সলিড ফিনাইল পায়খানা ও প্রস্রাবখানায় ব্যবহার করা হয়।"
+    },
+    {
+        "question": "81. ১০ থেকে ৬০ পর্যন্ত যে সকল মৌলিক সংখ্যার একই স্থানীয় অংক ৯ তাদের সমষ্টি কত?",
+        "answers": [
+            {"text": "A. ১৪৬", "score": 0},
+            {"text": "B. ৯৯", "score": 0},
+            {"text": "C. ১০৫", "score": 0},
+            {"text": "D. ১০৭", "score": 1}
+        ],
+        "correct_answer": "D. ১০৭",
+        "hint": "মৌলিক সংখ্যার সমষ্টি বের করতে হবে।"
+    },
+    {
+        "question": "82. ৪০ সংখ্যাটি a হতে ১১ কম। গাণিতিক আকারে প্রকাশ করলে কি হবে?",
+        "answers": [
+            {"text": "A. a + ১১ = ৪০", "score": 0},
+            {"text": "B. a + ৪০ = ১১", "score": 0},
+            {"text": "C. a = ৪০ + ১১", "score": 1},
+            {"text": "D. a = ৪০ + ১", "score": 0}
+        ],
+        "correct_answer": "C. a = ৪০ + ১১",
+        "hint": "৪০ থেকে ১১ কম হলে গাণিতিক আকারে 'a = ৪০ - ১১'।"
+    },
+    {
+        "question": "83. পাঁচ অঙ্কের ক্ষুদ্রতম সংখ্যা ও চার অঙ্কের বৃহত্তম সংখ্যার অন্তর কত?",
+        "answers": [
+            {"text": "A. ৯", "score": 0},
+            {"text": "B. ১০", "score": 0},
+            {"text": "C. ১", "score": 0},
+            {"text": "D. -১", "score": 1}
+        ],
+        "correct_answer": "D. -১",
+        "hint": "৫ অঙ্কের ক্ষুদ্রতম সংখ্যা ১০,০০০ এবং ৪ অঙ্কের বৃহত্তম সংখ্যা ৯,৯৯৯."
+    },
+    {
+        "question": "84. ১.১, .০১, ও .০০১১ এর সমষ্টি কত?",
+        "answers": [
+            {"text": "A. ০.০১১১১", "score": 0},
+            {"text": "B. ১.১১১১", "score": 1},
+            {"text": "C. ১১.১১০১", "score": 0},
+            {"text": "D. ১.১০১১১", "score": 0}
+        ],
+        "correct_answer": "B. ১.১১১১",
+        "hint": "প্রাপ্ত সংখ্যা যোগফল হতে হবে সাবধানতার সাথে।"
+    },
+    {
+        "question": "85. ১.১৬ এর সাধারণ ভগ্নাংশ কোনটি?",
+        "answers": [
+            {"text": "A. ১/৬", "score": 1},
+            {"text": "B. ১/৮", "score": 0},
+            {"text": "C. ১/৬", "score": 0},
+            {"text": "D. ১/৪", "score": 0}
+        ],
+        "correct_answer": "A. ১/৬",
+        "hint": "১.১৬ কে সাধারণ ভগ্নাংশে প্রকাশ করতে হয়।"
+    },
+    {
+        "question": "86. ৪টি ১ টাকার নোট ও ৮টি ২ টাকার নোট একত্রে ৮টি ৫ টাকার নোটের কত অংশ?",
+        "answers": [
+            {"text": "A. ১/৪", "score": 0},
+            {"text": "B. ১/২", "score": 0},
+            {"text": "C. ১/৮", "score": 1},
+            {"text": "D. ১/১", "score": 0}
+        ],
+        "correct_answer": "C. ১/৮",
+        "hint": "টাকার মূল্য বের করতে হবে।"
+    },
+    {
+        "question": "87. পরপর তিনটি সংখ্যার গুণফল ১২০ হলে তাদের যোগফল হবে -",
+        "answers": [
+            {"text": "A. ৯", "score": 0},
+            {"text": "B. ১২", "score": 0},
+            {"text": "C. ১৪", "score": 1},
+            {"text": "D. ১৫", "score": 0}
+        ],
+        "correct_answer": "C. ১৪",
+        "hint": "গুণফল নিয়ে সংশ্লিষ্ট সংখ্যাগুলোর যোগফল বের করতে হবে।"
+    },
+    {
+        "question": "88. Which of the following integers has the most divisors?",
+        "answers": [
+            {"text": "A. 88", "score": 0},
+            {"text": "B. 91", "score": 1},
+            {"text": "C. 95", "score": 0},
+            {"text": "D. 99", "score": 0}
+        ],
+        "correct_answer": "B. 91",
+        "hint": "বিশেষ সংখ্যা যাদের গুণফল অর্থাৎ divisors আছে।"
+    },
+    {
+        "question": "89. Successive discount of 20% and 15% are equal to a single discount of -",
+        "answers": [
+            {"text": "A. 30%", "score": 0},
+            {"text": "B. 32%", "score": 0},
+            {"text": "C. 34%", "score": 1},
+            {"text": "D. 35%", "score": 0}
+        ],
+        "correct_answer": "C. 34%",
+        "hint": "সফল ডিসকাউন্টের হিসাব অনুযায়ী বের করতে হবে।"
+    },
+    {
+        "question": "90. City B is 5 miles east of city A. City C is 10 miles southeast of city B. Which of the following is the closest to the distance from city A to City C?",
+        "answers": [
+            {"text": "A. 11 miles", "score": 0},
+            {"text": "B. 12 miles", "score": 1},
+            {"text": "C. 13 miles", "score": 0},
+            {"text": "D. 14 miles", "score": 0}
+        ],
+        "correct_answer": "B. 12 miles",
+        "hint": "দূরত্ব হিসাব করার জন্য সঠিক পদ্ধতি যেন ব্যবস্থা হয়।"
+    },
+    {
+        "question": "91. ‘আবদুল্লাহ’ উপন্যাসের রচয়িতা কে?",
+        "answers": [
+            {"text": "A. মোহাম্মদ নজীবর রহমান", "score": 0},
+            {"text": "B. কাজী ইমদাদুল হক", "score": 1},
+            {"text": "C. শেক ফজলুল করিম", "score": 0},
+            {"text": "D. মমতাজ উদ্দিন আহম্মেদ", "score": 0}
+        ],
+        "correct_answer": "B. কাজী ইমদাদুল হক",
+        "hint": "'আবদুল্লাহ' উপন্যাসের রচয়িতা কাজী ইমদাদুল হক।"
+    },
+    {
+        "question": "92. বঙ্কিমচন্দ্রের প্রথম উপন্যাসের নাম -",
+        "answers": [
+            {"text": "A. দুর্গেশনন্দিনী", "score": 1},
+            {"text": "B. কপালকুণ্ডলা", "score": 0},
+            {"text": "C. কৃষ্ণকান্তের উইল", "score": 0},
+            {"text": "D. রজনী", "score": 0}
+        ],
+        "correct_answer": "A. দুর্গেশনন্দিনী",
+        "hint": "বঙ্কিমচন্দ্রের প্রথম উপন্যাস দুর্গেশনন্দিনী।"
+    },
+    {
+        "question": "93. দক্ষিণ তালপট্টি কোন নদীর মোহনায় অবস্থিত?",
+        "answers": [
+            {"text": "A. নাফ", "score": 0},
+            {"text": "B. তেতুলিয়া", "score": 0},
+            {"text": "C. আড়িয়াল খাঁ", "score": 1},
+            {"text": "D. হাড়িয়াভাঙ্গা", "score": 0}
+        ],
+        "correct_answer": "C. আড়িয়াল খাঁ",
+        "hint": "দক্ষিণ তালপট্টি আড়িয়াল খাঁ নদীর মোহনায় অবস্থিত।"
+    },
+    {
+        "question": "94. খাদ্য ও কৃষি সংস্থার প্রধান কার্যালয় কোথায় অবস্থিত?",
+        "answers": [
+            {"text": "A. নিউইয়র্কে", "score": 0},
+            {"text": "B. রোমে", "score": 1},
+            {"text": "C. জেনেভায়", "score": 0},
+            {"text": "D. অটোয়ায়", "score": 0}
+        ],
+        "correct_answer": "B. রোমে",
+        "hint": "FAO-এর প্রধান কার্যালয় রোমে অবস্থিত।"
+    },
+    {
+        "question": "95. গৌড়ের সোনা মসজিদ কার আমলে নির্মিত হয়?",
+        "answers": [
+            {"text": "A. ফখরুদ্দিন মোবারক শাহ", "score": 0},
+            {"text": "B. হোসেন শাহ্", "score": 1},
+            {"text": "C. শায়েস্তা খাঁ", "score": 0},
+            {"text": "D. ঈশা খাঁ", "score": 0}
+        ],
+        "correct_answer": "B. হোসেন শাহ্",
+        "hint": "গৌড়ের সোনা মসজিদ নির্মিত হয় হোসেন শাহ-এর আমলে।"
+    },
+    {
+        "question": "96. ডেভিস কাপ কোন খেলায় দেয়া হয়?",
+        "answers": [
+            {"text": "A. ব্যাডমিন্টন", "score": 0},
+            {"text": "B. লন টেনিস", "score": 1},
+            {"text": "C. টেবিল টেনিস", "score": 0},
+            {"text": "D. ক্রিকেট", "score": 0}
+        ],
+        "correct_answer": "B. লন টেনিস",
+        "hint": "ডেভিস কাপ লন টেনিস খেলার প্রতিযোগিতা।"
+    },
+    {
+        "question": "97. পৃথিবীতে সবচেয়ে বেশি ধাতু কোনটি?",
+        "answers": [
+            {"text": "A. লোহা", "score": 1},
+            {"text": "B. সিলিকন", "score": 0},
+            {"text": "C. পারদ", "score": 0},
+            {"text": "D. তামা", "score": 0}
+        ],
+        "correct_answer": "A. লোহা",
+        "hint": "পৃথিবীতে সবচেয়ে বেশি পাওয়া যায় লোহা।"
+    },
+    {
+        "question": "98. অন্ধদের জন্য লিখনরীতির উদ্ভাবন করেন -",
+        "answers": [
+            {"text": "A. ব্রেইল", "score": 1},
+            {"text": "B. কপার্নিকাস", "score": 0},
+            {"text": "C. ডেভিটবোর", "score": 0},
+            {"text": "D. টমাস আলভা এডিসন", "score": 0}
+        ],
+        "correct_answer": "A. ব্রেইল",
+        "hint": "লুইস ব্রেইল অন্ধদের জন্য লিখনরীতির উদ্ভাবন করেন।"
+    },
+    {
+        "question": "99. পারমাণবিক চুল্লীতে কোন মৌল জ্বালানি হিসাবে ব্যবহৃত হয়?",
+        "answers": [
+            {"text": "A. পেট্রোলিয়াম", "score": 0},
+            {"text": "B. ইউরেনিয়াম-২৩৫", "score": 1},
+            {"text": "C. অক্সিজেন", "score": 0},
+            {"text": "D. হাইড্রোজেন", "score": 0}
+        ],
+        "correct_answer": "B. ইউরেনিয়াম-২৩৫",
+        "hint": "পারমাণবিক চুল্লিতে ইউরেনিয়াম-২৩৫ জ্বালানি হিসেবে ব্যবহৃত হয়।"
+    },
+    {
+        "question": "100. বৈদ্যুতিক হিটার ও ইস্ত্রিতে কোন ধাতুর তার ব্যবহার করা হয়?",
+        "answers": [
+            {"text": "A. তামা", "score": 0},
+            {"text": "B. নাইক্রোম", "score": 1},
+            {"text": "C. স্টেনিয়াম", "score": 0},
+            {"text": "D. প্লাটিনাম", "score": 0}
+        ],
+        "correct_answer": "B. নাইক্রোম",
+        "hint": "বৈদ্যুতিক হিটার ও ইস্ত্রিতে নাইক্রোমের তার ব্যবহার হয়।"
+    }
+]

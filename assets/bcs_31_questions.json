@@ -1,0 +1,1102 @@
+[
+    {
+        "question": "1. বাংলা গদ্যের জনক কে?",
+        "answers": [
+            {"text": "A. ঈশ্বরচন্দ্র বিদ্যাসাগর", "score": 1},
+            {"text": "B. বঙ্কিমচন্দ্র চট্টোপাধ্যায়", "score": 0},
+            {"text": "C. উইলিয়াম কেরি", "score": 0},
+            {"text": "D. রবীন্দ্রনাথ ঠাকুর", "score": 0}
+        ],
+        "correct_answer": "A. ঈশ্বরচন্দ্র বিদ্যাসাগর",
+        "hint": "বাংলা গদ্যের জনক ঈশ্বরচন্দ্র বিদ্যাসাগর।"
+    },
+    {
+        "question": "2. ‘আনন্দমঠ’ উপন্যাসের লেখক কে?",
+        "answers": [
+            {"text": "A. বঙ্কিমচন্দ্র চট্টোপাধ্যায়", "score": 1},
+            {"text": "B. তারাশঙ্কর বন্দোপাধ্যায়", "score": 0},
+            {"text": "C. শরৎচন্দ্র চট্টোপাধ্যায়", "score": 0},
+            {"text": "D. আনন্দমোহন বাগচী", "score": 0}
+        ],
+        "correct_answer": "A. বঙ্কিমচন্দ্র চট্টোপাধ্যায়",
+        "hint": "'আনন্দমঠ' উপন্যাসটি বঙ্কিমচন্দ্র চট্টোপাধ্যায়ের লেখা।"
+    },
+    {
+        "question": "3. ‘বিদ্রোহী’ কবিতা কোন কাব্যের অন্তর্গত?",
+        "answers": [
+            {"text": "A. দোলনচাঁপা", "score": 0},
+            {"text": "B. বিষের বাঁশী", "score": 0},
+            {"text": "C. সাম্যবাদী", "score": 0},
+            {"text": "D. অগ্নিবীণা", "score": 1}
+        ],
+        "correct_answer": "D. অগ্নিবীণা",
+        "hint": "'বিদ্রোহী' কবিতা অগ্নিবীণা কাব্যের অন্তর্গত।"
+    },
+    {
+        "question": "4. তাম্বুলখানা গ্রামে জন্মেছিলেন কোন কবি?",
+        "answers": [
+            {"text": "A. জসীমউদ্দীন", "score": 1},
+            {"text": "B. ফররুখ আহমদ", "score": 0},
+            {"text": "C. আবুল হাসান", "score": 0},
+            {"text": "D. শহীদ কাদরী", "score": 0}
+        ],
+        "correct_answer": "A. জসীমউদ্দীন",
+        "hint": "'তাম্বুলখানা' গ্রামে জন্মগ্রহণ করেছেন জসীমউদ্দীন।"
+    },
+    {
+        "question": "5. ‘ছিন্নপত্রে’র অধিকাংশ পত্র কাকে উদ্দেশ্য করে লেখা?",
+        "answers": [
+            {"text": "A. ইন্দিরা দেবী", "score": 1},
+            {"text": "B. কাদম্বরী দেবী", "score": 0},
+            {"text": "C. মৃণালিনী দেবী", "score": 0},
+            {"text": "D. মৈত্রেয়ী দেবী", "score": 0}
+        ],
+        "correct_answer": "A. ইন্দিরা দেবী",
+        "hint": "'ছিন্নপত্র' ইন্দিরা দেবীকে উদ্দেশ্য করে লেখা।"
+    },
+    {
+        "question": "6. মাইকেল মধুসূদন দত্তের ‘বীরাঙ্গনা কাব্য’ কোন ধরনের কাব্য?",
+        "answers": [
+            {"text": "A. মহাকাব্য", "score": 0},
+            {"text": "B. সনেট", "score": 0},
+            {"text": "C. পত্রকাব্য", "score": 1},
+            {"text": "D. গীতিকাব্য", "score": 0}
+        ],
+        "correct_answer": "C. পত্রকাব্য",
+        "hint": "'বীরাঙ্গনা কাব্য' একটি পত্রকাব্য।"
+    },
+    {
+        "question": "7. আলাওলের ‘তোহফা’ কোন ধরনের কাব্য?",
+        "answers": [
+            {"text": "A. আত্মজীবনী", "score": 0},
+            {"text": "B. প্রণয়কাব্য", "score": 0},
+            {"text": "C. নীতিকাব্য", "score": 1},
+            {"text": "D. জঙ্গনামা", "score": 0}
+        ],
+        "correct_answer": "C. নীতিকাব্য",
+        "hint": "'তোহফা' কাব্য একটি নীতিকাব্য।"
+    },
+    {
+        "question": "8. ‘উজবুক’ শব্দটি কোন ভাষা থেকে বাংলা ভাষায় এসেছে?",
+        "answers": [
+            {"text": "A. ফার্সি", "score": 0},
+            {"text": "B. তুর্কি", "score": 1},
+            {"text": "C. পর্তুগিজ", "score": 0},
+            {"text": "D. আরবি", "score": 0}
+        ],
+        "correct_answer": "B. তুর্কি",
+        "hint": "'উজবুক' শব্দটি তুর্কি ভাষা থেকে এসেছে।"
+    },
+    {
+        "question": "9. সমাসবদ্ধ শব্দ ‘আনত’ কোন সমাসের উদাহরণ?",
+        "answers": [
+            {"text": "A. বহুব্রীহি", "score": 0},
+            {"text": "B. কর্মধারয়", "score": 1},
+            {"text": "C. সুপসুপা", "score": 0},
+            {"text": "D. অব্যয়ীভাব", "score": 0}
+        ],
+        "correct_answer": "B. কর্মধারয়",
+        "hint": "'আনত' হলো কর্মধারয় সমাসের উদাহরণ।"
+    },
+    {
+        "question": "10. অশোক সৈয়দ কার ছদ্মনাম?",
+        "answers": [
+            {"text": "A. আবদুল মান্নান সৈয়দ", "score": 1},
+            {"text": "B. সৈয়দ আজিজুল হক", "score": 0},
+            {"text": "C. আবু সয়ীদ আইয়ুব", "score": 0},
+            {"text": "D. সৈয়দ শামসুল হক", "score": 0}
+        ],
+        "correct_answer": "A. আবদুল মান্নান সৈয়দ",
+        "hint": "অশোক সৈয়দ হলো আবদুল মান্নান সৈয়দের ছদ্মনাম।"
+    },
+    {
+        "question": "11. সন্ধি-সাধিত শব্দ ‘পরস্পর’ কোন ধরনের সন্ধির দৃষ্টান্ত?",
+        "answers": [
+            {"text": "A. ব্যঞ্জন ধ্বনি", "score": 0},
+            {"text": "B. স্বরধ্বনি", "score": 1},
+            {"text": "C. নিপাতনে সিদ্ধ", "score": 0},
+            {"text": "D. বিসর্গ সন্ধি", "score": 0}
+        ],
+        "correct_answer": "B. স্বরধ্বনি",
+        "hint": "'পরস্পর' শব্দটি স্বরধ্বনি সন্ধির উদাহরণ।"
+    },
+    {
+        "question": "12. ‘অদিতি’ শব্দের সমার্থক শব্দ নয় কোনটি?",
+        "answers": [
+            {"text": "A. পৃথ্বী", "score": 0},
+            {"text": "B. নীর", "score": 1},
+            {"text": "C. ক্ষিতি", "score": 0},
+            {"text": "D. অবনী", "score": 0}
+        ],
+        "correct_answer": "B. নীর",
+        "hint": "'অদিতি' শব্দের অর্থ পৃথিবী, কিন্তু নীর এর সমার্থক নয়।"
+    },
+    {
+        "question": "13. ‘পরাগলী মহাভারত’ খ্যাত গ্রন্থের অনুবাদকের নাম কী?",
+        "answers": [
+            {"text": "A. সঞ্চয়", "score": 0},
+            {"text": "B. কবীন্দ্র পরমেশ্বর", "score": 1},
+            {"text": "C. শ্রীকর নন্দী", "score": 0},
+            {"text": "D. কাশীরাম দাস", "score": 0}
+        ],
+        "correct_answer": "B. কবীন্দ্র পরমেশ্বর",
+        "hint": "'পরাগলী মহাভারতের' অনুবাদক কবীন্দ্র পরমেশ্বর।"
+    },
+    {
+        "question": "14. ‘বটতলার উপন্যাস’ গ্রন্থের লেখকের নাম কী?",
+        "answers": [
+            {"text": "A. দিলারা হাশেম", "score": 0},
+            {"text": "B. রাজিয়া খান", "score": 1},
+            {"text": "C. রিজিয়া রহমান", "score": 0},
+            {"text": "D. সেলিনা হোসেন", "score": 0}
+        ],
+        "correct_answer": "B. রাজিয়া খান",
+        "hint": "'বটতলার উপন্যাস' লেখক রাজিয়া খান।"
+    },
+    {
+        "question": "15. Quarterly শব্দের অর্থ কী?",
+        "answers": [
+            {"text": "A. সাপ্তাহিক", "score": 0},
+            {"text": "B. পাক্ষিক", "score": 0},
+            {"text": "C. ষাণ্মাসিক", "score": 0},
+            {"text": "D. ত্রৈমাসিক", "score": 1}
+        ],
+        "correct_answer": "D. ত্রৈমাসিক",
+        "hint": "'ত্রৈমাসিক' অর্থ quarterly।"
+    },
+    {
+        "question": "16. নিচের কোন বানানটি শুদ্ধ?",
+        "answers": [
+            {"text": "A. নিশিথিনী", "score": 0},
+            {"text": "B. নিশীথীনি", "score": 0},
+            {"text": "C. নিশিথীনী", "score": 1},
+            {"text": "D. নিশীথিনী", "score": 0}
+        ],
+        "correct_answer": "C. নিশিথীনী",
+        "hint": "শুদ্ধ বানান হচ্ছে নিশিথীনী।"
+    },
+    {
+        "question": "17. শিখণ্ডী শব্দের অর্থ কী?",
+        "answers": [
+            {"text": "A. কবুতর", "score": 0},
+            {"text": "B. কোকিল", "score": 0},
+            {"text": "C. খরগোশ", "score": 0},
+            {"text": "D. ময়ূর", "score": 1}
+        ],
+        "correct_answer": "D. ময়ূর",
+        "hint": "'শিখণ্ডী' শব্দের অর্থ ময়ূর।"
+    },
+    {
+        "question": "18. সাহিত্যে অলঙ্কার প্রধানত কত প্রকার?",
+        "answers": [
+            {"text": "A. ৬", "score": 0},
+            {"text": "B. ২", "score": 0},
+            {"text": "C. ৪", "score": 1},
+            {"text": "D. ৫", "score": 0}
+        ],
+        "correct_answer": "C. ৪",
+        "hint": "সাহিত্যে অলঙ্কার প্রধানত চার প্রকার।"
+    },
+    {
+        "question": "19. গাড়ি চলে না, চলে না, নারে ____ গানের গীতিকার কে?",
+        "answers": [
+            {"text": "A. সঞ্জীব চৌধুরী", "score": 0},
+            {"text": "B. বাপ্পা মজুমদার", "score": 0},
+            {"text": "C. শাহ আবদুল করিম", "score": 1},
+            {"text": "D. দাশরথি রায়", "score": 0}
+        ],
+        "correct_answer": "C. শাহ আবদুল করিম",
+        "hint": "গানের গীতিকার শাহ আবদুল করিম।"
+    },
+    {
+        "question": "20. অধ্যাপক আহমদ শরীফের মৃত্যুসন কোনটি?",
+        "answers": [
+            {"text": "A. ১৯৯৭", "score": 0},
+            {"text": "B. ১৯৯৮", "score": 0},
+            {"text": "C. ১৯৯৯", "score": 1},
+            {"text": "D. ২০০০", "score": 0}
+        ],
+        "correct_answer": "C. ১৯৯৯",
+        "hint": "অধ্যাপক আহমদ শরীফ ১৯৯৯ সালে মৃত্যুবরণ করেন।"
+    },
+    {
+        "question": "21. Sporadic-",
+        "answers": [
+            {"text": "A. Consistent", "score": 0},
+            {"text": "B. Uniform", "score": 0},
+            {"text": "C. Frequent", "score": 0},
+            {"text": "D. Scattered", "score": 1}
+        ],
+        "correct_answer": "D. Scattered",
+        "hint": "Sporadic এর অর্থ হচ্ছে Scattered।"
+    },
+    {
+        "question": "22. Omnipotent–",
+        "answers": [
+            {"text": "A. Feeble", "score": 0},
+            {"text": "B. Supreme", "score": 1},
+            {"text": "C. Impotent", "score": 0},
+            {"text": "D. Vulnerable", "score": 0}
+        ],
+        "correct_answer": "B. Supreme",
+        "hint": "Omnipotent এর অর্থ হচ্ছে Supreme।"
+    },
+    {
+        "question": "23. Repeal –",
+        "answers": [
+            {"text": "A. Abolish", "score": 1},
+            {"text": "B. Enact", "score": 0},
+            {"text": "C. Annul", "score": 0},
+            {"text": "D. Nullify", "score": 0}
+        ],
+        "correct_answer": "A. Abolish",
+        "hint": "Repeal এর একই অর্থ Abolish।"
+    },
+    {
+        "question": "24. Equity –",
+        "answers": [
+            {"text": "A. Uprightness", "score": 0},
+            {"text": "B. Justice", "score": 1},
+            {"text": "C. Integrity", "score": 0},
+            {"text": "D. Bias", "score": 0}
+        ],
+        "correct_answer": "B. Justice",
+        "hint": "Equity এর অর্থ হচ্ছে Justice।"
+    },
+    {
+        "question": "25. A formal composition or speech expressing high praise of somebody –",
+        "answers": [
+            {"text": "A. elegy", "score": 0},
+            {"text": "B. eulogy", "score": 1},
+            {"text": "C. caricature", "score": 0},
+            {"text": "D. exaggeration", "score": 0}
+        ],
+        "correct_answer": "B. eulogy",
+        "hint": "Eulogy হচ্ছে কাউকে উচ্চ প্রশংসাসমৃদ্ধ রচনা।"
+    },
+    {
+        "question": "26. The word ‘Shrug’ indicating doubt or indifference is associated with –",
+        "answers": [
+            {"text": "A. shoulders", "score": 1},
+            {"text": "B. head", "score": 0},
+            {"text": "C. forehead", "score": 0},
+            {"text": "D. eyebrows", "score": 0}
+        ],
+        "correct_answer": "A. shoulders",
+        "hint": "Shrug অর্থাৎ কাঁধ ঝাঁকানো।"
+    },
+    {
+        "question": "27. He is quite ____ in dealing with people.",
+        "answers": [
+            {"text": "A. unsubtle", "score": 0},
+            {"text": "B. imprudent", "score": 0},
+            {"text": "C. diplomatic", "score": 1},
+            {"text": "D. impolite", "score": 0}
+        ],
+        "correct_answer": "C. diplomatic",
+        "hint": "He is quite diplomatic in dealing with people।"
+    },
+    {
+        "question": "28. The suffered much ____ tornado had hit their village.",
+        "answers": [
+            {"text": "A. until", "score": 0},
+            {"text": "B. since", "score": 0},
+            {"text": "C. as if", "score": 0},
+            {"text": "D. let alone", "score": 1}
+        ],
+        "correct_answer": "D. let alone",
+        "hint": "Let alone শব্দটি ব্যবহার করা সঙ্গতিপূর্ণ।"
+    },
+    {
+        "question": "29. Choose the Wrong sentence?",
+        "answers": [
+            {"text": "A. The land is belonged to an old lady.", "score": 1},
+            {"text": "B. They parted from one another suddenly.", "score": 0},
+            {"text": "C. The leader expressed himself forcibly.", "score": 0},
+            {"text": "D. Mother bought me an icecream.", "score": 0}
+        ],
+        "correct_answer": "A. The land is belonged to an old lady.",
+        "hint": "Belong এর Passive Voice এ ব্যবহার হয় না।"
+    },
+    {
+        "question": "30. Choose the Wrong sentence?",
+        "answers": [
+            {"text": "A. He was always arguing with his brother.", "score": 0},
+            {"text": "B. His failure resulted for lack of attention.", "score": 1},
+            {"text": "C. When will you write to him about your plan?", "score": 0},
+            {"text": "D. Who was the boy you were all laughing at?", "score": 0}
+        ],
+        "correct_answer": "B. His failure resulted for lack of attention.",
+        "hint": "Result এর সঙ্গে from ব্যবহার করতে হয়।"
+    },
+    {
+        "question": "31. Choose the correctly spelt word:",
+        "answers": [
+            {"text": "A. Volantory", "score": 0},
+            {"text": "B. Volantary", "score": 0},
+            {"text": "C. Voluntary", "score": 1},
+            {"text": "D. Voluntory", "score": 0}
+        ],
+        "correct_answer": "C. Voluntary",
+        "hint": "Voluntary শব্দের সঠিক বানান হচ্ছে Voluntary।"
+    },
+    {
+        "question": "32. Choose the correctly spelt word:",
+        "answers": [
+            {"text": "A. Accilerate", "score": 0},
+            {"text": "B. Accelerate", "score": 1},
+            {"text": "C. Accelerrate", "score": 0},
+            {"text": "D. Accilarate", "score": 0}
+        ],
+        "correct_answer": "B. Accelerate",
+        "hint": "Accelerate শব্দের সঠিক বানান হচ্ছে Accelerate।"
+    },
+    {
+        "question": "33. Choose the correctly spelt word:",
+        "answers": [
+            {"text": "A. Tsunami", "score": 1},
+            {"text": "B. Sunami", "score": 0},
+            {"text": "C. Suname", "score": 0},
+            {"text": "D. Sunamee", "score": 0}
+        ],
+        "correct_answer": "A. Tsunami",
+        "hint": "Tsunami শব্দের সঠিক বানান হচ্ছে Tsunami।"
+    },
+    {
+        "question": "34. While living in poverty, the poet had to ____ a great deal of sufferings.",
+        "answers": [
+            {"text": "A. see through", "score": 0},
+            {"text": "B. put up with", "score": 1},
+            {"text": "C. pass by", "score": 0},
+            {"text": "D. fall back", "score": 0}
+        ],
+        "correct_answer": "B. put up with",
+        "hint": "Put up with মানে সহ্য করা।"
+    },
+    {
+        "question": "35. Wordsworth introduced the readers ____ a new kind of poetry.",
+        "answers": [
+            {"text": "A. with", "score": 0},
+            {"text": "B. at", "score": 0},
+            {"text": "C. to", "score": 1},
+            {"text": "D. by", "score": 0}
+        ],
+        "correct_answer": "C. to",
+        "hint": "Introduce somebody to something অর্থাৎ পরিচয় করানো।"
+    },
+    {
+        "question": "36. ____ his earlier study, the professor's new study indicates a general warning trend in global weather.",
+        "answers": [
+            {"text": "A. In contrast of", "score": 0},
+            {"text": "B. In contrast to", "score": 1},
+            {"text": "C. In contrast by", "score": 0},
+            {"text": "D. In contrast as", "score": 0}
+        ],
+        "correct_answer": "B. In contrast to",
+        "hint": "In contrast to একটি প্রিপোজিশনাল ফ্রেজ।"
+    },
+    {
+        "question": "37. Only those who are not serious to their success work by ___ and starts.",
+        "answers": [
+            {"text": "A. long odds", "score": 0},
+            {"text": "B. against time", "score": 0},
+            {"text": "C. every inch", "score": 0},
+            {"text": "D. fits and starts", "score": 1}
+        ],
+        "correct_answer": "D. fits and starts",
+        "hint": "Fits and starts অর্থ অনিয়মিতভাবে কাজ করা।"
+    },
+    {
+        "question": "38. ‘One day women will have what has so long been denied them ____ leisure, money and room to themselves’.",
+        "answers": [
+            {"text": "A. Space", "score": 0},
+            {"text": "B. Liberty", "score": 1},
+            {"text": "C. Office", "score": 0},
+            {"text": "D. Capacity", "score": 0}
+        ],
+        "correct_answer": "B. Liberty",
+        "hint": "Liberty এখানে ব্যবহৃত হয়েছে room এর অর্থে।"
+    },
+    {
+        "question": "39. Crafty men condemn studies, simple men admire them and wise men use them.",
+        "answers": [
+            {"text": "A. Denounce", "score": 1},
+            {"text": "B. Laud", "score": 0},
+            {"text": "C. Compliment", "score": 0},
+            {"text": "D. Acclaim", "score": 0}
+        ],
+        "correct_answer": "A. Denounce",
+        "hint": "Crafty men condemn studies- মানে Denounce এর সমার্থক।"
+    },
+    {
+        "question": "40. To end in smoke –",
+        "answers": [
+            {"text": "A. To create fire", "score": 0},
+            {"text": "B. To go through suffering", "score": 0},
+            {"text": "C. To come to nothing", "score": 1},
+            {"text": "D. To see fire", "score": 0}
+        ],
+        "correct_answer": "C. To come to nothing",
+        "hint": "End in smoke মানে ব্যর্থতায় পরিণত হওয়া।"
+    },
+    {
+        "question": "41. বাংলাদেশের লোকশিল্প জাদুঘর কোথায় অবস্থিত?",
+        "answers": [
+            {"text": "A. ময়নামতি", "score": 0},
+            {"text": "B. সোনারগাঁ", "score": 1},
+            {"text": "C. ঢাকা", "score": 0},
+            {"text": "D. পাহাড়পুর", "score": 0}
+        ],
+        "correct_answer": "B. সোনারগাঁ",
+        "hint": "বাংলাদেশের লোকশিল্প জাদুঘর সোনারগাঁয়ে অবস্থিত।"
+    },
+    {
+        "question": "42. জাতিসংঘের জনসংখ্যা সংক্রান্ত রিপোর্ট ১৯৯৪ অনুযায়ী জনসংখ্যার দিক দিয়ে বাংলাদেশের স্থান কত?",
+        "answers": [
+            {"text": "A. সপ্তম", "score": 0},
+            {"text": "B. নবম", "score": 0},
+            {"text": "C. একাদশ", "score": 0},
+            {"text": "D. ত্রয়োদশ", "score": 1}
+        ],
+        "correct_answer": "D. ত্রয়োদশ",
+        "hint": "জনসংখ্যায় বাংলাদেশের অবস্থান ত্রয়োদশ।"
+    },
+    {
+        "question": "43. ঢাকা বিশ্ববিদ্যালয় কবে প্রতিষ্ঠিত হয়?",
+        "answers": [
+            {"text": "A. ১৯২১", "score": 1},
+            {"text": "B. ১৯২৫", "score": 0},
+            {"text": "C. ১৯২৯", "score": 0},
+            {"text": "D. ১৯৩৩", "score": 0}
+        ],
+        "correct_answer": "A. ১৯২১",
+        "hint": "ঢাকা বিশ্ববিদ্যালয় ১৯২১ সালে প্রতিষ্ঠিত হয়।"
+    },
+    {
+        "question": "44. বাংলাদেশের সংবিধানের কত অনুচ্ছেদ অনুযায়ী বাংলাদেশ সরকারি কর্ম কমিশন গঠিত হয়?",
+        "answers": [
+            {"text": "A. ১৩৭", "score": 0},
+            {"text": "B. ১৩৮", "score": 1},
+            {"text": "C. ১৪৭", "score": 0},
+            {"text": "D. ১৫০", "score": 0}
+        ],
+        "correct_answer": "B. ১৩৮",
+        "hint": "বাংলাদেশ সরকারি কর্ম কমিশন গঠিত হয়েছে ১৩৮ নং অনুচ্ছেদের দ্বারা।"
+    },
+    {
+        "question": "45. কে বাংলার সাল গণনা শুরু করেন?",
+        "answers": [
+            {"text": "A. লক্ষ্মণ সেন", "score": 0},
+            {"text": "B. ইলিয়াস শাহ", "score": 0},
+            {"text": "C. বিজয় সেন", "score": 0},
+            {"text": "D. আকবর", "score": 1}
+        ],
+        "correct_answer": "D. আকবর",
+        "hint": "বাংলা সনের প্রবর্তক হচ্ছেন আকবর।"
+    },
+    {
+        "question": "46. গম্ভীরা বাংলাদেশের কোন অঞ্চলের লোকসঙ্গীত?",
+        "answers": [
+            {"text": "A. চট্টগ্রাম", "score": 0},
+            {"text": "B. রাঙ্গামাটি", "score": 0},
+            {"text": "C. চাঁপাইনবাবগঞ্জ", "score": 1},
+            {"text": "D. জামালপুর", "score": 0}
+        ],
+        "correct_answer": "C. চাঁপাইনবাবগঞ্জ",
+        "hint": "গম্ভীরা সাধারণত চাঁপাইনবাবগঞ্জ এলাকায় প্রচলিত।"
+    },
+    {
+        "question": "47. বাংলাদেশে কয়টি উপজাতীয় প্রতিষ্ঠান আছে?",
+        "answers": [
+            {"text": "A. ৬টি", "score": 0},
+            {"text": "B. ৫টি", "score": 0},
+            {"text": "C. ৪টি", "score": 0},
+            {"text": "D. ৩টি", "score": 1}
+        ],
+        "correct_answer": "D. ৩টি",
+        "hint": "বাংলাদেশে এখন ৮টি উপজাতীয় সাংস্কৃতিক প্রতিষ্ঠান রয়েছে।"
+    },
+    {
+        "question": "48. রেলপথে ঢাকা থেকে খুলনার দূরত্ব কত?",
+        "answers": [
+            {"text": "A. ৬২৭ কি.মি.", "score": 0},
+            {"text": "B. ৫২৯ কি.মি.", "score": 0},
+            {"text": "C. ৪২০ কি.মি.", "score": 0},
+            {"text": "D. ৩০৭ কি.মি.", "score": 1}
+        ],
+        "correct_answer": "D. ৩০৭ কি.মি.",
+        "hint": "রেলের দূরত্ব ঢাকা থেকে খুলনার ৩০৭ কি.মি।"
+    },
+    {
+        "question": "49. নিম্নলিখিত কোন দেশ থেকে বাংলাদেশ বর্তমানে সবচেয়ে বেশি সাহায্য পায়?",
+        "answers": [
+            {"text": "A. মার্কিন যুক্তরাষ্ট্র", "score": 1},
+            {"text": "B. জাপান", "score": 0},
+            {"text": "C. দক্ষিণ কোরিয়া", "score": 0},
+            {"text": "D. জার্মানি", "score": 0}
+        ],
+        "correct_answer": "A. মার্কিন যুক্তরাষ্ট্র",
+        "hint": "বাংলাদেশ সবচেয়ে বেশি সাহায্য মার্কিন যুক্তরাষ্ট্র থেকে পায়।"
+    },
+    {
+        "question": "50. বাংলাদেশ কোন সাল থেকে শান্তিরক্ষা বাহিনীতে কাজ করছে?",
+        "answers": [
+            {"text": "A. ১৯৮২", "score": 0},
+            {"text": "B. ১৯৮৫", "score": 0},
+            {"text": "C. ১৯৭৫", "score": 0},
+            {"text": "D. ১৯৭৯", "score": 1}
+        ],
+        "correct_answer": "D. ১৯৭৯",
+        "hint": "বাংলাদেশ ১৯৮৫ সাল থেকে শান্তিরক্ষা বাহিনীতে কাজ শুরু করে।"
+    },
+    {
+        "question": "51. হাজার হ্রদের দেশ কোনটি?",
+        "answers": [
+            {"text": "A. নরওয়ে", "score": 0},
+            {"text": "B. ফিনল্যান্ড", "score": 1},
+            {"text": "C. ইন্দোনেশিয়া", "score": 0},
+            {"text": "D. জাপান", "score": 0}
+        ],
+        "correct_answer": "B. ফিনল্যান্ড",
+        "hint": "ফিনল্যান্ডকে হাজার হ্রদের দেশ বলে পরিচিত।"
+    },
+    {
+        "question": "52. পূর্বে কোন দেশটি শ্যামদেশ নামে পরিচিত ছিল?",
+        "answers": [
+            {"text": "A. মালয়েশিয়া", "score": 0},
+            {"text": "B. ইন্দোনেশিয়া", "score": 0},
+            {"text": "C. থাইল্যান্ড", "score": 1},
+            {"text": "D. মায়ানমার", "score": 0}
+        ],
+        "correct_answer": "C. থাইল্যান্ড",
+        "hint": "থাইল্যান্ডের পূর্বনাম ছিল শ্যামদেশ।"
+    },
+    {
+        "question": "53. হারারে’র পূর্ব নাম কি?",
+        "answers": [
+            {"text": "A. সলসব্যারি", "score": 1},
+            {"text": "B. রোডেসিয়া", "score": 0},
+            {"text": "C. জিবুতি", "score": 0},
+            {"text": "D. জায়ারে", "score": 0}
+        ],
+        "correct_answer": "A. সলসব্যারি",
+        "hint": "হারারে’র পূর্ব নাম সলসব্যারি।"
+    },
+    {
+        "question": "54. কবে ফরাসি বিপ্লব সংঘটিত হয়?",
+        "answers": [
+            {"text": "A. ১৭৮৯", "score": 1},
+            {"text": "B. ১৭৯১", "score": 0},
+            {"text": "C. ১৭৯৫", "score": 0},
+            {"text": "D. ১৮০০", "score": 0}
+        ],
+        "correct_answer": "A. ১৭৮৯",
+        "hint": "ফরাসি বিপ্লব সংঘটিত হয় ১৭৮৯ সালে।"
+    },
+    {
+        "question": "55. কার্ল মার্কস কোন দেশে মৃত্যুবরণ করেন?",
+        "answers": [
+            {"text": "A. জার্মানি", "score": 0},
+            {"text": "B. ফ্রান্স", "score": 0},
+            {"text": "C. যুক্তরাজ্য", "score": 1},
+            {"text": "D. রাশিয়া", "score": 0}
+        ],
+        "correct_answer": "C. যুক্তরাজ্য",
+        "hint": "কার্ল মার্কস যুক্তরাজ্যে মৃত্যুবরণ করেন।"
+    },
+    {
+        "question": "56. আফগানিস্তানের শেষ বাদশাহ কে ছিলেন?",
+        "answers": [
+            {"text": "A. দাউদ খাঁ", "score": 0},
+            {"text": "B. জহির শাহ", "score": 1},
+            {"text": "C. নাদির শাহ", "score": 0},
+            {"text": "D. নজীবুল্লাহ", "score": 0}
+        ],
+        "correct_answer": "B. জহির শাহ",
+        "hint": "আফগানিস্তানের শেষ বাদশাহ জহির শাহ।"
+    },
+    {
+        "question": "57. স্বাধীন ফিলিস্তিন রাষ্ট্রকে সর্বপ্রথম কোন দেশ স্বীকৃতি দান করে?",
+        "answers": [
+            {"text": "A. ইরাক", "score": 0},
+            {"text": "B. ইরান", "score": 0},
+            {"text": "C. সৌদি আরব", "score": 1},
+            {"text": "D. আলজেরিয়া", "score": 0}
+        ],
+        "correct_answer": "C. সৌদি আরব",
+        "hint": "ফিলিস্তিনকে সৌদি আরব প্রথম স্বীকৃতি দেয়।"
+    },
+    {
+        "question": "58. ‘লাইন অব কন্ট্রোল’ কোন দুটি রাষ্ট্রের সীমান্তবর্তী রেখা চিহ্নিত করে?",
+        "answers": [
+            {"text": "A. ইসরাইল ও জর্ডান", "score": 0},
+            {"text": "B. ভারত ও পাকিস্তান", "score": 1},
+            {"text": "C. চীন ও তাইওয়ান", "score": 0},
+            {"text": "D. দক্ষিণ কোরিয়া ও উত্তর কোরিয়া", "score": 0}
+        ],
+        "correct_answer": "B. ভারত ও পাকিস্তান",
+        "hint": "লাইন অব কন্ট্রোল ভারত-পাকিস্তানের সীমান্তে অবস্থিত।"
+    },
+    {
+        "question": "59. মধ্য আমেরিকার কোন দেশে স্থায়ী সেনাবাহিনী নেই?",
+        "answers": [
+            {"text": "A. কলাম্বিয়া", "score": 0},
+            {"text": "B. নিকারাগুয়া", "score": 0},
+            {"text": "C. কোস্টারিকা", "score": 1},
+            {"text": "D. এল সালভাদর", "score": 0}
+        ],
+        "correct_answer": "C. কোস্টারিকা",
+        "hint": "কোস্টারিকার সেনাবাহিনী নেই।"
+    },
+    {
+        "question": "60. পৃথিবীর সর্বাপেক্ষা বেশি গম উৎপাদনকারী দেশ কোনটি?",
+        "answers": [
+            {"text": "A. অস্ট্রেলিয়া", "score": 0},
+            {"text": "B. কানাডা", "score": 0},
+            {"text": "C. যুক্তরাষ্ট্র", "score": 0},
+            {"text": "D. চীন", "score": 1}
+        ],
+        "correct_answer": "D. চীন",
+        "hint": "গম উৎপাদনে শীর্ষ দেশ চীন।"
+    },
+    {
+        "question": "61. কোনটি অর্ধ-পরিবাহী (Semi-conductor) নয়?",
+        "answers": [
+            {"text": "A. লোহা", "score": 1},
+            {"text": "B. সিলিকন", "score": 0},
+            {"text": "C. জার্মেনিয়াম", "score": 0},
+            {"text": "D. গ্যালিয়াম", "score": 0}
+        ],
+        "correct_answer": "A. লোহা",
+        "hint": "লোহা অর্ধ-পরিবাহী নয়।"
+    },
+    {
+        "question": "62. আইসোটোপের ক্ষেত্রে কোনটি সঠিক?",
+        "answers": [
+            {"text": "A. ভর সংখ্যা সমান থাকে", "score": 0},
+            {"text": "B. নিউট্রন সংখ্যা সমান থাকে", "score": 1},
+            {"text": "C. প্রোটন ও নিউট্রন সংখ্যা সমান থাকে", "score": 0},
+            {"text": "D. প্রোটন সংখ্যা সমান থাকে", "score": 0}
+        ],
+        "correct_answer": "B. নিউট্রন সংখ্যা সমান থাকে",
+        "hint": "আইসোটোপে নিউট্রন সংখ্যা সমান হয়ে থাকে।"
+    },
+    {
+        "question": "63. ভারী পানি (Heavy water) এর সংকেত হচ্ছে–",
+        "answers": [
+            {"text": "A. D2O", "score": 1},
+            {"text": "B. H2O", "score": 0},
+            {"text": "C. H2O2", "score": 0},
+            {"text": "D. O2H", "score": 0}
+        ],
+        "correct_answer": "A. D2O",
+        "hint": "ভারী পানির সংকেত D2O।"
+    },
+    {
+        "question": "64. জারণ বিক্রিয়ায় ঘটে–",
+        "answers": [
+            {"text": "A. ইলেকট্রন বর্জন", "score": 1},
+            {"text": "B. ইলেকট্রন গ্রহণ", "score": 0},
+            {"text": "C. ইলেকট্রন আদান-প্রদান", "score": 0},
+            {"text": "D. তড়িৎ ধনাত্মক মৌলের বা মূলকের অপসারণ", "score": 0}
+        ],
+        "correct_answer": "A. ইলেকট্রন বর্জন",
+        "hint": "জারণ বিক্রিয়ায় ইলেকট্রন বর্জন ঘটে।"
+    },
+    {
+        "question": "65. বিদ্যুতের উচ্চতর ভোল্ট থেকে নিম্নতর ভোল্ট পাওয়া যায়–",
+        "answers": [
+            {"text": "A. ট্রান্সমিটারের সাহায্যে", "score": 0},
+            {"text": "B. স্টেপ-আপ ট্রান্সফর্মারের সাহায্যে", "score": 0},
+            {"text": "C. স্টেপ-ডাউন ট্রান্সফর্মারের সাহায্যে", "score": 1},
+            {"text": "D. এডাপটারের সাহায্যে", "score": 0}
+        ],
+        "correct_answer": "C. স্টেপ-ডাউন ট্রান্সফর্মারের সাহায্যে",
+        "hint": "স্টেপ-ডাউন ট্রান্সফর্মার উচ্চতর ভোল্ট থেকে নিম্নতর ভোল্ট তৈরি করে।"
+    },
+    {
+        "question": "66. কাজ ও বলের একক যথাক্রমে–",
+        "answers": [
+            {"text": "A. নিউটন ও মিটার", "score": 0},
+            {"text": "B. জুল ও ডাইন", "score": 1},
+            {"text": "C. ওয়াট ও পাউন্ড", "score": 0},
+            {"text": "D. প্যাসকেল ও কিলোগ্রাম", "score": 0}
+        ],
+        "correct_answer": "B. জুল ও ডাইন",
+        "hint": "কাজের একক জুল এবং বলের একক ডাইন।"
+    },
+    {
+        "question": "67. আকাশে বিদ্যুৎ চমকায় –",
+        "answers": [
+            {"text": "A. মেঘের অসংখ্য জলকণা/বরফকণার মধ্যে চার্জ সঞ্চিত হলে", "score": 1},
+            {"text": "B. দুখণ্ড মেঘ পরস্পর সংঘর্ষ হলে", "score": 0},
+            {"text": "C. মেঘের মধ্যে বিদ্যুৎ কোষ তৈরি হলে", "score": 0},
+            {"text": "D. মেঘ বিদ্যুৎ পরিবাহী অবস্থায় এলে", "score": 0}
+        ],
+        "correct_answer": "A. মেঘের অসংখ্য জলকণা/বরফকণার মধ্যে চার্জ সঞ্চিত হলে",
+        "hint": "চার্জের কারণে বিদ্যুৎ চমকায়।"
+    },
+    {
+        "question": "68. কোন নিষ্ক্রিয় গ্যাসে (Inert gas) আটটি ইলেকট্রন নেই?",
+        "answers": [
+            {"text": "A. হিলিয়াম", "score": 0},
+            {"text": "B. নিয়ন", "score": 0},
+            {"text": "C. আর্গন", "score": 1},
+            {"text": "D. জেনন", "score": 0}
+        ],
+        "correct_answer": "C. আর্গন",
+        "hint": "নিয়ন এবং হিলিয়ামের ৮ ইলেকট্রন রয়েছে কিন্তু আর্গনের নেই।"
+    },
+    {
+        "question": "69. এপিকালচার বলতে বুঝায়–",
+        "answers": [
+            {"text": "A. রেশমের চাষ", "score": 0},
+            {"text": "B. মৎস্য চাষ", "score": 0},
+            {"text": "C. মৌমাছির চাষ", "score": 1},
+            {"text": "D. পাখিপালন বিদ্যা", "score": 0}
+        ],
+        "correct_answer": "C. মৌমাছির চাষ",
+        "hint": "এপিকালচার হচ্ছে মৌমাছির চাষ।"
+    },
+    {
+        "question": "70. বিগ ব্যাং (Big Bang) তত্ত্বের আধুনিক তত্ত্ব ব্যাখ্যা উপস্থাপন করেছেন–",
+        "answers": [
+            {"text": "A. স্টিফেন হকিং", "score": 1},
+            {"text": "B. জি লেমেটার", "score": 0},
+            {"text": "C. আব্দুস সালাম", "score": 0},
+            {"text": "D. এডুইন হাবল", "score": 0}
+        ],
+        "correct_answer": "A. স্টিফেন হকিং",
+        "hint": "বিগ ব্যাংয়ের আধুনিক ব্যাখ্যা দিয়ে থাকেন স্টিফেন হকিং।"
+    },
+    {
+        "question": "71. বায়ুমণ্ডলে যে স্তরে বেতার তরঙ্গ প্রতিফলিত হয়–",
+        "answers": [
+            {"text": "A. স্ট্রাটোস্ফিয়ার", "score": 0},
+            {"text": "B. ট্রাপোস্ফিয়ার", "score": 0},
+            {"text": "C. আয়োনোস্ফিয়ার", "score": 1},
+            {"text": "D. ওজোন স্তর", "score": 0}
+        ],
+        "correct_answer": "C. আয়োনোস্ফিয়ার",
+        "hint": "বেতার তরঙ্গ আয়োনোস্ফিয়ারে প্রতিফলিত হয়।"
+    },
+    {
+        "question": "72. অপটিক্যাল ফাইবার (Optical fibre) হচ্ছে –",
+        "answers": [
+            {"text": "A. খুব সরু এবং নমনীয় কাচ তন্তুর আলোক নল", "score": 1},
+            {"text": "B. খুব সূক্ষ্ম সুপরিবাহী তামার তার তন্তু নল", "score": 0},
+            {"text": "C. খুব সরু এসবেস্টোস ফাইবার নল", "score": 0},
+            {"text": "D. সূক্ষ্ম প্লাস্টিক ঘটিত নল", "score": 0}
+        ],
+        "correct_answer": "A. খুব সরু এবং নমনীয় কাচ তন্তুর আলোক নল",
+        "hint": "অপটিক্যাল ফাইবার হচ্ছে খুব সরু এবং নমনীয় কাচ তন্তুর আলোক নল।"
+    },
+    {
+        "question": "73. তথ্য আদান-প্রদানের প্রযুক্তিকে বলা হয়–",
+        "answers": [
+            {"text": "A. ই-মেইল", "score": 0},
+            {"text": "B. ইন্টারকম", "score": 0},
+            {"text": "C. ইন্টারনেট", "score": 1},
+            {"text": "D. টেলিকমিউনিকেশন", "score": 0}
+        ],
+        "correct_answer": "C. ইন্টারনেট",
+        "hint": "কম্পিউটার তথ্য আদান-প্রদানের প্রযুক্তি ইন্টারনেট বলে।"
+    },
+    {
+        "question": "74. সমুদ্রে দ্রাঘিমাংশ নির্ণয়ের যন্ত্রের নাম –",
+        "answers": [
+            {"text": "A. ক্রনোমিটার", "score": 1},
+            {"text": "B. কম্পাস", "score": 0},
+            {"text": "C. সিসমোগ্রাফ", "score": 0},
+            {"text": "D. সেক্সট্যান্ট", "score": 0}
+        ],
+        "correct_answer": "A. ক্রনোমিটার",
+        "hint": "দ্রাঘিমাংশ নির্ণয়ের যন্ত্রের নাম ক্রনোমিটার।"
+    },
+    {
+        "question": "75. প্রবল জোয়ারের কারণ, যখন –",
+        "answers": [
+            {"text": "A. সূর্য ও চন্দ্র পৃথিবীর সঙ্গে সমকোণে অবস্থান করে", "score": 1},
+            {"text": "B. চন্দ্র পৃথিবীর সবচেয়ে কাছে অবস্থান করে", "score": 0},
+            {"text": "C. পৃথিবী সূর্যের সবচেয়ে কাছে থাকে", "score": 0},
+            {"text": "D. সূর্য, চন্দ্র ও পৃথিবী যথাক্রমে এক সরলরেখায় অবস্থান করে", "score": 0}
+        ],
+        "correct_answer": "A. সূর্য ও চন্দ্র পৃথিবীর সঙ্গে সমকোণে অবস্থান করে",
+        "hint": "অমাবস্যায় চন্দ্র ও সূর্য এক দিকে অবস্থান করলে প্রবল জোয়ার হয়।"
+    },
+    {
+        "question": "76. কোলেস্টেরল এক ধরনের –",
+        "answers": [
+            {"text": "A. অসম্পৃক্ত এলকোহল", "score": 0},
+            {"text": "B. জৈব এসিড", "score": 0},
+            {"text": "C. পলিমার", "score": 0},
+            {"text": "D. এমিনো এসিড", "score": 1}
+        ],
+        "correct_answer": "D. এমিনো এসিড",
+        "hint": "কোলেস্টেরল হলো এমিনো এসিড।"
+    },
+    {
+        "question": "77. কৃষি জমিতে প্রধানত চুন ব্যবহার করা হয় –",
+        "answers": [
+            {"text": "A. মাটির ক্ষয় রোধের জন্য", "score": 0},
+            {"text": "B. মাটির অম্লতা বৃদ্ধির জন্য", "score": 0},
+            {"text": "C. মাটির অম্লতা হ্রাসের জন্য", "score": 1},
+            {"text": "D. মাটির জৈব পদার্থ বৃদ্ধির জন্য", "score": 0}
+        ],
+        "correct_answer": "C. মাটির অম্লতা হ্রাসের জন্য",
+        "hint": "মাটির অম্লতা কমানোর জন্য চুন প্রয়োগ করা হয়।"
+    },
+    {
+        "question": "78. কোন আলোক তরঙ্গ (Light spectrum) মানব চোখে দেখতে পাওয়া যায়?",
+        "answers": [
+            {"text": "A. ১০ থেকে ৪০০ নে.মি (nm)", "score": 0},
+            {"text": "B. ৪০০ থেকে ৭০০ নে.মি (nm)", "score": 1},
+            {"text": "C. ১০০ মাইক্রোমিটার (μm) থেকে ১ মি (m)", "score": 0},
+            {"text": "D. ১ মি (m)-এর ঊর্ধ্বে", "score": 0}
+        ],
+        "correct_answer": "B. ৪০০ থেকে ৭০০ নে.মি (nm)",
+        "hint": "মানব চোখে ৪০০ থেকে ৭০০ ন্যানোমিটার পর্যন্ত আলোক তরঙ্গ দেখতে পাওয়া যায়।"
+    },
+    {
+        "question": "79. হীরক উজ্জ্বল দেখার কারণ–",
+        "answers": [
+            {"text": "A. পূর্ণ অভ্যন্তরীণ প্রতিফলনের জন্য", "score": 1},
+            {"text": "B. প্রতিসরণের জন্য", "score": 0},
+            {"text": "C. প্রতিফলনের জন্য", "score": 0},
+            {"text": "D. অপবর্তনের জন্য", "score": 0}
+        ],
+        "correct_answer": "A. পূর্ণ অভ্যন্তরীণ প্রতিফলনের জন্য",
+        "hint": "হীরক উজ্জ্বল হয় পূর্ণ অভ্যন্তরীণ প্রতিফলনের কারণে।"
+    },
+    {
+        "question": "80. মানব দেহে সাধারণভাবে ক্রোমোজোম থাকে–",
+        "answers": [
+            {"text": "A. ২৫ জোড়া", "score": 0},
+            {"text": "B. ২৪ জোড়া", "score": 0},
+            {"text": "C. ২৩ জোড়া", "score": 1},
+            {"text": "D. ২০ জোড়া", "score": 0}
+        ],
+        "correct_answer": "C. ২৩ জোড়া",
+        "hint": "মানব দেহে ২৩ জোড়া ক্রোমোজোম থাকে।"
+    },
+    {
+        "question": "81. কোনটি সবচেয়ে ছোট?",
+        "answers": [
+            {"text": "A. 5", "score": 0},
+            {"text": "B. 0", "score": 1},
+            {"text": "C. 1", "score": 0},
+            {"text": "D. 2", "score": 0}
+        ],
+        "correct_answer": "B. 0",
+        "hint": "প্রশ্নে সর্বনিম্ন সংখ্যা 0 হিসেবে পরিচিত।"
+    },
+    {
+        "question": "82. যদি _____ হয় তবে ____ এর মান –",
+        "answers": [
+            {"text": "A. 10", "score": 0},
+            {"text": "B. 20", "score": 0},
+            {"text": "C. 30", "score": 1},
+            {"text": "D. 40", "score": 0}
+        ],
+        "correct_answer": "C. 30",
+        "hint": "মান বের করার জন্য উপযুক্ত সূত্র ব্যবহৃত হবে।"
+    },
+    {
+        "question": "83. রহিম, করিম এবং গাজী তিন জনে একটি কাজ করতে পারে যথাক্রমে 15, 6 এবং 10 দিনে। তাহারা একত্রে তিন জনে কাজটি কত দিনে শেষ করতে পারবে?",
+        "answers": [
+            {"text": "A. 21 দিন", "score": 0},
+            {"text": "B. 18 দিন", "score": 1},
+            {"text": "C. 7 দিন", "score": 0},
+            {"text": "D. 15 দিন", "score": 0}
+        ],
+        "correct_answer": "B. 18 দিন",
+        "hint": "তিনজনের কাজের হার বের করে সম্পূর্ণ কাজের গণনা করতে হবে।"
+    },
+    {
+        "question": "84. কোনো সংখ্যার 40% এর সাথে 42 যোগ করলে ফলাফল হবে ঐ সংখ্যাটি। উহা কত?",
+        "answers": [
+            {"text": "A. 70", "score": 0},
+            {"text": "B. 80", "score": 1},
+            {"text": "C. 90", "score": 0},
+            {"text": "D. 75", "score": 0}
+        ],
+        "correct_answer": "B. 80",
+        "hint": "সংখ্যার ক্ষেত্রফল বের করে মধ্যে থেকে বিষয়টি কার্যকর ফল দিতে হবে।"
+    },
+    {
+        "question": "85. কোন সংখ্যার 60% থেকে 60 বিয়োগ করলে ফলাফল হবে 60। তবে সংখ্যাটি কত?",
+        "answers": [
+            {"text": "A. 250", "score": 1},
+            {"text": "B. 100", "score": 0},
+            {"text": "C. 200", "score": 0},
+            {"text": "D. 300", "score": 0}
+        ],
+        "correct_answer": "A. 250",
+        "hint": "সংখ্যাটি বের করতে হবে যে অবস্থায় সংখ্যা সঠিক হবে।"
+    },
+    {
+        "question": "86. এর মান –",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. ", "score": 0}
+        ],
+        "correct_answer": "A. ",
+        "hint": "গাণিতিক সমস্যা যা প্রমাণ হবে সত্য।"
+    },
+    {
+        "question": "87. একটি রম্বসের কর্ণদ্বয় যথাক্রমে 4cm এবং 6cm হয় তবে রম্বসের ক্ষেত্রফল কত?",
+        "answers": [
+            {"text": "A. 6", "score": 0},
+            {"text": "B. 8", "score": 0},
+            {"text": "C. 12", "score": 1},
+            {"text": "D. 24", "score": 0}
+        ],
+        "correct_answer": "C. 12",
+        "hint": "রম্বসের ক্ষেত্রফল নির্ণয় করতে হবে।"
+    },
+    {
+        "question": "88. এবং ____ এর গসাগু–",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. ", "score": 0}
+        ],
+        "correct_answer": "A. ",
+        "hint": "গসাগু বের করা কঠিন প্রকৃতি।"
+    },
+    {
+        "question": "89. কে ____ দ্বারা ভাগ করলে অবশেষ থাকবে–",
+        "answers": [
+            {"text": "A. 2", "score": 0},
+            {"text": "B. 4", "score": 0},
+            {"text": "C. -6", "score": 1},
+            {"text": "D. -8", "score": 0}
+        ],
+        "correct_answer": "C. -6",
+        "hint": "বিভাজনের ক্ষেত্রে অবশেষ বের করতে হবে।"
+    },
+    {
+        "question": "90. যদি ____ হয় তবে ____ এর মান কত?",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. ", "score": 0}
+        ],
+        "correct_answer": "A. ",
+        "hint": "দূরত্ব বা বিষয় সমাধান করতে হবে।"
+    },
+    {
+        "question": "91. এবং ____ এর সমাধান–",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. ", "score": 0}
+        ],
+        "correct_answer": "A. ",
+        "hint": "সমাধান নির্দেশনা এসেছে।"
+    },
+    {
+        "question": "92. যদি ____ হয় তবে ____ এবং ____ এর মান যথাক্রমে–",
+        "answers": [
+            {"text": "A. 0, 2", "score": 0},
+            {"text": "B. 1, 1", "score": 1},
+            {"text": "C. – 1, 3", "score": 0},
+            {"text": "D. – 3, – 4", "score": 0}
+        ],
+        "correct_answer": "B. 1, 1",
+        "hint": "মান নিরূপণের জন্য বুঝতে হবে।"
+    },
+    {
+        "question": "93. এর মান কত?",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. ", "score": 0}
+        ],
+        "correct_answer": "A. ",
+        "hint": "মান বের করার সংখ্যা হবে।"
+    },
+    {
+        "question": "94. হলে ____ কত?",
+        "answers": [
+            {"text": "A. 1", "score": 0},
+            {"text": "B. 5", "score": 0},
+            {"text": "C. 8", "score": 1},
+            {"text": "D. 10", "score": 0}
+        ],
+        "correct_answer": "C. 8",
+        "hint": "প্রশ্ন পরীক্ষায় ফলাবে এটি।"
+    },
+    {
+        "question": "95. বৃত্তের কেন্দ্রীয় স্থানাংক কত?",
+        "answers": [
+            {"text": "A. (0, 0)", "score": 1},
+            {"text": "B. (4,– 3)", "score": 0},
+            {"text": "C. (– 4, 3)", "score": 0},
+            {"text": "D. (10, 10)", "score": 0}
+        ],
+        "correct_answer": "A. (0, 0)",
+        "hint": "বৃত্তের কেন্দ্রীয় স্থানাংক (0, 0)।"
+    },
+    {
+        "question": "96. দুটি সংখ্যার যোগফল 48 এবং তাদের গুণফল 432। তবে বড় সংখ্যাটি কত?",
+        "answers": [
+            {"text": "A. 36", "score": 1},
+            {"text": "B. 37", "score": 0},
+            {"text": "C. 38", "score": 0},
+            {"text": "D. 40", "score": 0}
+        ],
+        "correct_answer": "A. 36",
+        "hint": "অনুসন্ধান করতে হবে বড় সংখ্যাটি।"
+    },
+    {
+        "question": "97. একটি ত্রিভুজাকৃতি মাঠের বাহুগুলোর দৈর্ঘ্য যথাক্রমে 20m, 21m এবং 29m হলে এর ক্ষেত্রফল কত?",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. ", "score": 0}
+        ],
+        "correct_answer": "A. ",
+        "hint": "ক্ষেত্রফল বের করতে হবে হারনের নিয়ম অনুযায়ী।"
+    },
+    {
+        "question": "98. যদি ____ হয় তবে ____ এর মান–",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. ", "score": 0}
+        ],
+        "correct_answer": "A. ",
+        "hint": "উপযুক্ত তথ্য বের করতে হবে।"
+    },
+    {
+        "question": "99. যদি দুটি সংখ্যার যোগফল এবং গুণফল যথাক্রমে 20 এবং 96 হয়, তবে সংখ্যা দুইটির ব্যস্তানুপাতিক (reciprocals) যোগফল কত হবে?",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. ", "score": 0}
+        ],
+        "correct_answer": "A. ",
+        "hint": "ব্যস্তানুপাতিক যোগফল বের করতে হবে।"
+    },
+    {
+        "question": "100. 0,1,2 এবং 3 দ্বারা গঠিত চার অঙ্কের বৃহত্তম এবং ক্ষুদ্রতম সংখ্যার বিয়োগফল–",
+        "answers": [
+            {"text": "A. 3147", "score": 1},
+            {"text": "B. 2287", "score": 0},
+            {"text": "C. 2987", "score": 0},
+            {"text": "D. 2187", "score": 0}
+        ],
+        "correct_answer": "A. 3147",
+        "hint": "বৃহত্তম এবং ক্ষুদ্রতম সংখ্যার মধ্যে বিয়োগফল বের করতে হবে।"
+    }
+]

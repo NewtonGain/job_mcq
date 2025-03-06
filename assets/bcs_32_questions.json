@@ -1,0 +1,1102 @@
+[
+    {
+        "question": "1. ‘বৃক্ষ’ শব্দের সমার্থক শব্দ কোনটি?",
+        "answers": [
+            {"text": "A. কলাপী", "score": 0},
+            {"text": "B. নীরধি", "score": 0},
+            {"text": "C. বিটপী", "score": 1},
+            {"text": "D. অবনি", "score": 0}
+        ],
+        "correct_answer": "C. বিটপী",
+        "hint": "'বৃক্ষ' শব্দের সমার্থক শব্দ বিটপী।"
+    },
+    {
+        "question": "2. ‘Subconscious’ শব্দটির বাংলা পারিভাষিক শব্দ হলো-",
+        "answers": [
+            {"text": "A. অর্ধচেতন", "score": 0},
+            {"text": "B. অবচেতন", "score": 1},
+            {"text": "C. চেতনাহীন", "score": 0},
+            {"text": "D. চেতনাপ্রবাহ", "score": 0}
+        ],
+        "correct_answer": "B. অবচেতন",
+        "hint": "'Subconscious' মানে অবচেতন।"
+    },
+    {
+        "question": "3. কোনটি ইংরেজি শব্দ?",
+        "answers": [
+            {"text": "A. ম্যাজেন্টা", "score": 1},
+            {"text": "B. পিস্তল", "score": 0},
+            {"text": "C. আলমারি", "score": 0},
+            {"text": "D. কমা", "score": 0}
+        ],
+        "correct_answer": "A. ম্যাজেন্টা",
+        "hint": "'ম্যাজেন্টা' ইংরেজি শব্দ।"
+    },
+    {
+        "question": "4. ‘শূন্যপুরাণ’ রচনা করেছেন-",
+        "answers": [
+            {"text": "A. রামাই পণ্ডিত", "score": 1},
+            {"text": "B. শ্রীকর নন্দী", "score": 0},
+            {"text": "C. বিজয় গুপ্ত", "score": 0},
+            {"text": "D. লোচন দাস", "score": 0}
+        ],
+        "correct_answer": "A. রামাই পণ্ডিত",
+        "hint": "'শূন্যপুরাণ' রচনা করেছেন রামাই পণ্ডিত।"
+    },
+    {
+        "question": "5. কোন শব্দ গঠনে বাংলা উপসর্গ ব্যবহার করা হয়েছে?",
+        "answers": [
+            {"text": "A. পরাকাষ্ঠা", "score": 1},
+            {"text": "B. অভিব্যক্তি", "score": 0},
+            {"text": "C. পরিশ্রান্ত", "score": 0},
+            {"text": "D. অনাবৃষ্টি", "score": 0}
+        ],
+        "correct_answer": "A. পরাকাষ্ঠা",
+        "hint": "'পরাকাষ্ঠা' শব্দটি বাংলা উপসর্গ দ্বারা গঠিত।"
+    },
+    {
+        "question": "6. ‘পালামৌ’ ভ্রমণকাহিনীটি কার রচনা?",
+        "answers": [
+            {"text": "A. শরৎচন্দ্র চট্টোপাধ্যায়", "score": 0},
+            {"text": "B. সুনীল গঙ্গোপাধ্যায়", "score": 0},
+            {"text": "C. সঞ্জীবচন্দ্র চট্টোপাধ্যায়", "score": 1},
+            {"text": "D. তারাশঙ্কর বন্দ্যোপাধ্যায়", "score": 0}
+        ],
+        "correct_answer": "C. সঞ্জীবচন্দ্র চট্টোপাধ্যায়",
+        "hint": "'পালামৌ' ভ্রমণকাহিনীর রচয়িতা সঞ্জীবচন্দ্র চট্টোপাধ্যায়।"
+    },
+    {
+        "question": "7. ‘আলোছায়া’ পদটি কোন সমাসের অন্তর্গত?",
+        "answers": [
+            {"text": "A. দ্বন্দ্ব সমাস", "score": 1},
+            {"text": "B. অব্যয়ীভাব সমাস", "score": 0},
+            {"text": "C. তৎপুরুষ সমাস", "score": 0},
+            {"text": "D. কর্মধারয় সমাস", "score": 0}
+        ],
+        "correct_answer": "A. দ্বন্দ্ব সমাস",
+        "hint": "'আলোছায়া' হলো দ্বন্দ্ব সমাসের উদাহরণ।"
+    },
+    {
+        "question": "8. কোনটি সাধিত শব্দ নয়?",
+        "answers": [
+            {"text": "A. পানসা", "score": 0},
+            {"text": "B. ফুলেল", "score": 1},
+            {"text": "C. গোলাপ", "score": 0},
+            {"text": "D. হাতল", "score": 0}
+        ],
+        "correct_answer": "B. ফুলেল",
+        "hint": "ফুলেল একটি সাধিত শব্দ।"
+    },
+    {
+        "question": "9. ‘দিবারাত্রির কাব্য’ কার লেখা উপন্যাস?",
+        "answers": [
+            {"text": "A. তারাশঙ্কর বন্দ্যোপাধ্যায়", "score": 0},
+            {"text": "B. শ্রীকুমার বন্দ্যোপাধ্যায়", "score": 0},
+            {"text": "C. ঈশানচন্দ্র বন্দ্যোপাধ্যায়", "score": 0},
+            {"text": "D. মানিক বন্দ্যোপাধ্যায়", "score": 1}
+        ],
+        "correct_answer": "D. মানিক বন্দ্যোপাধ্যায়",
+        "hint": "'দিবারাত্রির কাব্য' মানিক বন্দ্যোপাধ্যায়ের লেখা উপন্যাস।"
+    },
+    {
+        "question": "10. কাজী নজরুল ইসলাম রচিত গল্প কোনটি?",
+        "answers": [
+            {"text": "A. পদ্মরাগ", "score": 0},
+            {"text": "B. পদ্মগোখরা", "score": 1},
+            {"text": "C. পদ্মাপুরাণ", "score": 0},
+            {"text": "D. পদ্মাবতী", "score": 0}
+        ],
+        "correct_answer": "B. পদ্মগোখরা",
+        "hint": "পদ্মগোখরা কাজী নজরুল ইসলাম রচিত গল্প।"
+    },
+    {
+        "question": "11. ‘আনোয়ারা’ গ্রন্থটি কার রচনা?",
+        "answers": [
+            {"text": "A. কাজী এমদাদুল হক", "score": 0},
+            {"text": "B. মীর মশাররফ হোসেন", "score": 0},
+            {"text": "C. মোহাম্মদ নজিবর রহমান", "score": 1},
+            {"text": "D. ইসমাইল হোসেন সিরাজী", "score": 0}
+        ],
+        "correct_answer": "C. মোহাম্মদ নজিবর রহমান",
+        "hint": "'আনোয়ারা' মোহাম্মদ নজিবর রহমানের রচনা।"
+    },
+    {
+        "question": "12. ‘বীরবল’ ছদ্মনামে কে লিখতেন?",
+        "answers": [
+            {"text": "A. রবীন্দ্রনাথ ঠাকুর", "score": 0},
+            {"text": "B. মুনীর চৌধুরী", "score": 0},
+            {"text": "C. সমরেশ বসু", "score": 0},
+            {"text": "D. প্রমথ চৌধুরী", "score": 1}
+        ],
+        "correct_answer": "D. প্রমথ চৌধুরী",
+        "hint": "প্রমথ চৌধুরীর ছদ্মনাম বীরবল।"
+    },
+    {
+        "question": "13. কোনটি শুদ্ধ বানান?",
+        "answers": [
+            {"text": "A. আকাংখা", "score": 0},
+            {"text": "B. আকাঙ্ক্ষা", "score": 1},
+            {"text": "C. আকাঙ্খা", "score": 0},
+            {"text": "D. আকাংক্ষা", "score": 0}
+        ],
+        "correct_answer": "B. আকাঙ্ক্ষা",
+        "hint": "শুদ্ধ বানান হচ্ছে আকাঙ্ক্ষা।"
+    },
+    {
+        "question": "14. কোনটি ‘বাতাস’ শব্দের সমার্থক নয়?",
+        "answers": [
+            {"text": "A. পাবক", "score": 1},
+            {"text": "B. মারুত", "score": 0},
+            {"text": "C. পবন", "score": 0},
+            {"text": "D. অনিল", "score": 0}
+        ],
+        "correct_answer": "A. পাবক",
+        "hint": "'বাতাস' শব্দের সমার্থক নয় পাবক।"
+    },
+    {
+        "question": "15. ভাষার ক্ষুদ্রতম একক কোনটি?",
+        "answers": [
+            {"text": "A. বর্ণ", "score": 0},
+            {"text": "B. শব্দ", "score": 0},
+            {"text": "C. অক্ষর", "score": 0},
+            {"text": "D. ধ্বনি", "score": 1}
+        ],
+        "correct_answer": "D. ধ্বনি",
+        "hint": "ভাষার ক্ষুদ্রতম একক হলো ধ্বনি।"
+    },
+    {
+        "question": "16. ‘মা ছিল না বলে কেউ তার চুল বেঁধে দেয়নি।’ এটি একটি-",
+        "answers": [
+            {"text": "A. জটিল বাক্য", "score": 0},
+            {"text": "B. যৌগিক বাক্য", "score": 0},
+            {"text": "C. সরল বাক্য", "score": 1},
+            {"text": "D. মিশ্র বাক্য", "score": 0}
+        ],
+        "correct_answer": "C. সরল বাক্য",
+        "hint": "'মা ছিল না বলে কেউ তার চুল বেঁধে দেয়নি' বাক্যটি সরল।"
+    },
+    {
+        "question": "17. ‘গাছপাথর’ বাগধারাটির অর্থ-",
+        "answers": [
+            {"text": "A. ভূমিকা করা", "score": 0},
+            {"text": "B. হিসাব-নিকাশ", "score": 0},
+            {"text": "C. অসম্ভব বস্তু", "score": 1},
+            {"text": "D. বাড়াবাড়ি করা", "score": 0}
+        ],
+        "correct_answer": "C. অসম্ভব বস্তু",
+        "hint": "'গাছপাথর' বাগধারার অর্থ অসম্ভব বস্তু।"
+    },
+    {
+        "question": "18. ‘তুমি অধম, তাই বলিয়া আমি উত্তম হইব না কেন?’ এই প্রবাদটির রচয়িতা কে?",
+        "answers": [
+            {"text": "A. মীর মশাররফ হোসেন", "score": 0},
+            {"text": "B. রোকেয়া সাখাওয়াত হোসেন", "score": 0},
+            {"text": "C. বঙ্কিমচন্দ্র চট্টোপাধ্যায়", "score": 1},
+            {"text": "D. রবীন্দ্রনাথ ঠাকুর", "score": 0}
+        ],
+        "correct_answer": "C. বঙ্কিমচন্দ্র চট্টোপাধ্যায়",
+        "hint": "এর রচয়িতা হচ্ছেন বঙ্কিমচন্দ্র।"
+    },
+    {
+        "question": "19. ভাষা আন্দোলন বিষয়ক উপন্যাস কোনটি?",
+        "answers": [
+            {"text": "A. আরেক ফাল্গুন", "score": 1},
+            {"text": "B. জীবন ঘষে আগুন", "score": 0},
+            {"text": "C. নন্দিত নরকে", "score": 0},
+            {"text": "D. পিঙ্গল আকাশ", "score": 0}
+        ],
+        "correct_answer": "A. আরেক ফাল্গুন",
+        "hint": "'আরেক ফাল্গুন' ভাষা আন্দোলনের বিষয়ক উপন্যাস।"
+    },
+    {
+        "question": "20. মুক্তিযুদ্ধনির্ভর রচনা কোনটি?",
+        "answers": [
+            {"text": "A. এইসব দিন রাত্রি", "score": 1},
+            {"text": "B. নূরলদীনের সারা জীবন", "score": 0},
+            {"text": "C. একাত্তরের দিনগুলি", "score": 0},
+            {"text": "D. সৎ মানুষের খোঁজে", "score": 0}
+        ],
+        "correct_answer": "A. এইসব দিন রাত্রি",
+        "hint": "'এইসব দিন রাত্রি' মুক্তিযুদ্ধের স্মৃতিচারণমূলক গ্রন্থ।"
+    },
+    {
+        "question": "21. **Choose the meaning of the given expressions:**",
+        "answers": [
+            {"text": "A. It is likely to have bad news.", "score": 0},
+            {"text": "B. It is likely that nothing bad has happened.", "score": 1},
+            {"text": "C. Occasionally our neighbour has invited us into his house.", "score": 0},
+            {"text": "D. Our neighbour has not always invited us into his house.", "score": 0}
+        ],
+        "correct_answer": "B. It is likely that nothing bad has happened.",
+        "hint": "No news is good news অর্থ হলো খারাপ কিছু ঘটেনি।"
+    },
+    {
+        "question": "22. Choose the correct synonym for ‘Menacing’. ",
+        "answers": [
+            {"text": "A. Encouraging", "score": 0},
+            {"text": "B. Alarming", "score": 1},
+            {"text": "C. Promising", "score": 0},
+            {"text": "D. Auspicious", "score": 0}
+        ],
+        "correct_answer": "B. Alarming",
+        "hint": "Menacing আর Alarming সমার্থক শব্দ।"
+    },
+    {
+        "question": "23. Choose the correct antonym for ‘Oblige’. ",
+        "answers": [
+            {"text": "A. Bind", "score": 0},
+            {"text": "B. Require", "score": 0},
+            {"text": "C. Bother", "score": 1},
+            {"text": "D. Censure", "score": 0}
+        ],
+        "correct_answer": "C. Bother",
+        "hint": "Oblige এর বিপরীত অর্থ হলো Bother।"
+    },
+    {
+        "question": "24. Choose the correct antonym for ‘Cynical’. ",
+        "answers": [
+            {"text": "A. Pessimistic", "score": 0},
+            {"text": "B. Gullible", "score": 1},
+            {"text": "C. Equivocal", "score": 0},
+            {"text": "D. Liberal", "score": 0}
+        ],
+        "correct_answer": "B. Gullible",
+        "hint": "Cynical এর বিপরীত শব্দ হলো Gullible।"
+    },
+    {
+        "question": "25. **Choose the correctly completed sentence:**",
+        "answers": [
+            {"text": "A. We were less surprised than Rahman.", "score": 0},
+            {"text": "B. We were all surprised.", "score": 0},
+            {"text": "C. Rahman was less surprised than us.", "score": 0},
+            {"text": "D. We were as surprised as Rahman.", "score": 1}
+        ],
+        "correct_answer": "D. We were as surprised as Rahman.",
+        "hint": "We were as surprised as Rahman এর অর্থ একসাথে বিস্মিত ছিলাম।"
+    },
+    {
+        "question": "26. 'Not once has our neighbour invited us into his house.'",
+        "answers": [
+            {"text": "A. Our neighbour has invited us into his house not once but many times.", "score": 0},
+            {"text": "B. Our neighbour has never invited us into his house.", "score": 1},
+            {"text": "C. Occasionally our neighbour has invited us into his house.", "score": 0},
+            {"text": "D. Our neighbour has not always invited us into his house.", "score": 0}
+        ],
+        "correct_answer": "B. Our neighbour has never invited us into his house.",
+        "hint": "Not once means never।"
+    },
+    {
+        "question": "27. **Choose the correct form of the sentence:**",
+        "answers": [
+            {"text": "A. had better to get", "score": 0},
+            {"text": "B. had to better get", "score": 0},
+            {"text": "C. had better get", "score": 1},
+            {"text": "D. had better got", "score": 0}
+        ],
+        "correct_answer": "C. had better get",
+        "hint": "Had better এর সাথে verb এর base form ব্যবহার হবে।"
+    },
+    {
+        "question": "28. After food has been dried or canned __ for later consumption.",
+        "answers": [
+            {"text": "A. it should be stored", "score": 1},
+            {"text": "B. that it should be stored", "score": 0},
+            {"text": "C. should be stored", "score": 0},
+            {"text": "D. which should be stored", "score": 0}
+        ],
+        "correct_answer": "A. it should be stored",
+        "hint": "After দিয়ে দৃষ্টেই independant clause আসবে।"
+    },
+    {
+        "question": "29. **Follow the directions to find the meaning:**",
+        "answers": [
+            {"text": "A. make his ideas understood", "score": 1},
+            {"text": "B. get his ideas down pat", "score": 0},
+            {"text": "C. summarise his ideas", "score": 0},
+            {"text": "D. put together his ideas", "score": 0}
+        ],
+        "correct_answer": "A. make his ideas understood.",
+        "hint": "Get something across to somebody মানে কাউকে কিছু বোঝানো।"
+    },
+    {
+        "question": "30. What may be considered ___ in one culture may be arrogant in another.",
+        "answers": [
+            {"text": "A. flimsy", "score": 0},
+            {"text": "B. coarse", "score": 0},
+            {"text": "C. gracious", "score": 1},
+            {"text": "D. friendly", "score": 0}
+        ],
+        "correct_answer": "C. gracious",
+        "hint": "Gracious মানে ভদ্রতা।"
+    },
+    {
+        "question": "31. **Fill in the blanks:**",
+        "answers": [
+            {"text": "A. Every", "score": 0},
+            {"text": "B. should vote", "score": 1},
+            {"text": "C. for", "score": 0},
+            {"text": "D. their", "score": 0}
+        ],
+        "correct_answer": "B. should vote",
+        "hint": "Every singular subject requires a singular pronoun."
+    },
+    {
+        "question": "32. **Choose the correct form of the verb:**",
+        "answers": [
+            {"text": "A. to diagnose", "score": 1},
+            {"text": "B. perfect", "score": 0},
+            {"text": "C. to which", "score": 0},
+            {"text": "D. will respond.", "score": 0}
+        ],
+        "correct_answer": "A. to diagnose",
+        "hint": "to Diagnose should accompany the object."
+    },
+    {
+        "question": "33. **Fill in the correct form:**",
+        "answers": [
+            {"text": "A. to", "score": 1},
+            {"text": "B. improve", "score": 0},
+            {"text": "C. by", "score": 0},
+            {"text": "D. watch", "score": 0}
+        ],
+        "correct_answer": "A. to",
+        "hint": "By-এর পর gerund ব্যবহার করা উচিত।"
+    },
+    {
+        "question": "34. **Choose the correct relationship:**",
+        "answers": [
+            {"text": "A. Laws : policeman", "score": 1},
+            {"text": "B. Butter : baker", "score": 0},
+            {"text": "C. Chalk : black board", "score": 0},
+            {"text": "D. Joy : emotion", "score": 0}
+        ],
+        "correct_answer": "A. Laws : policeman",
+        "hint": "Laws works on words।"
+    },
+    {
+        "question": "35. **Identify the correct relationship:**",
+        "answers": [
+            {"text": "A. Patron : support", "score": 1},
+            {"text": "B. Spouse : divorce", "score": 0},
+            {"text": "C. Artist : imitation", "score": 0},
+            {"text": "D. Counselor : advice", "score": 0}
+        ],
+        "correct_answer": "A. Patron : support",
+        "hint": "Patron supports work, Counselor gives advice."
+    },
+    {
+        "question": "36. **Recognize the relationship:**",
+        "answers": [
+            {"text": "A. Heart : human", "score": 1},
+            {"text": "B. Wall : brick", "score": 0},
+            {"text": "C. Hand : child", "score": 0},
+            {"text": "D. Kitchen : house", "score": 0}
+        ],
+        "correct_answer": "A. Heart : human",
+        "hint": "Heart keeps humans active."
+    },
+    {
+        "question": "37. **Identify the meaning of the phrase:**",
+        "answers": [
+            {"text": "A. Choose the meaning of the given expressions :", "score": 0},
+            {"text": "B. It is likely to have bad news.", "score": 0},
+            {"text": "C. It is likely that nothing bad has happened.", "score": 1},
+            {"text": "D. Occasionally our neighbour has invited us into his house.", "score": 0}
+        ],
+        "correct_answer": "C. It is likely that nothing bad has happened.",
+        "hint": "No news is good news expression."
+    },
+    {
+        "question": "38. **Phrase interpretation:**",
+        "answers": [
+            {"text": "A. Take what you have got readily available rather than expecting better in the future.", "score": 1},
+            {"text": "B. The seen is better than the unseen.", "score": 0},
+            {"text": "C. Promises are better than actuals.", "score": 0},
+            {"text": "D. It is no good beating about the bush.", "score": 0}
+        ],
+        "correct_answer": "A. Take what you have got readily available rather than expecting better in the future.",
+        "hint": "A bird in hand is worth two in the bush expression."
+    },
+    {
+        "question": "39. **Identify the expression:**",
+        "answers": [
+            {"text": "A. hyperbole", "score": 0},
+            {"text": "B. interrogation", "score": 0},
+            {"text": "C. command", "score": 0},
+            {"text": "D. wonder", "score": 1}
+        ],
+        "correct_answer": "D. wonder",
+        "hint": "The sentence expresses wonder."
+    },
+    {
+        "question": "40. **Phrase Meaning:**",
+        "answers": [
+            {"text": "A. annoyance", "score": 0},
+            {"text": "B. disapproval", "score": 0},
+            {"text": "C. indifference", "score": 0},
+            {"text": "D. surprise", "score": 1}
+        ],
+        "correct_answer": "D. surprise",
+        "hint": "Raise one’s brows indicates surprise."
+    },
+    {
+        "question": "41. প্রথম বাংলাদেশী এভারেস্ট বিজয়ী মুসা ইব্রাহীম কোন সালে মাউন্ট এভারেস্ট শৃঙ্গে আরোহণ করেন?",
+        "answers": [
+            {"text": "A. ২০০৮", "score": 0},
+            {"text": "B. ২০১১", "score": 0},
+            {"text": "C. ২০০৯", "score": 0},
+            {"text": "D. ২০১০", "score": 1}
+        ],
+        "correct_answer": "D. ২০১০",
+        "hint": "মুসা ইব্রাহীম ২০১০ সালে এভারেস্ট জয় করেন।"
+    },
+    {
+        "question": "42. তামাবিল সীমান্তের সাথে ভারতের কোন শহরটি অবস্থিত?",
+        "answers": [
+            {"text": "A. করিমগঞ্জ", "score": 1},
+            {"text": "B. খোয়াই", "score": 0},
+            {"text": "C. পেট্রাপোল", "score": 0},
+            {"text": "D. ডাউকি", "score": 0}
+        ],
+        "correct_answer": "A. করিমগঞ্জ",
+        "hint": "তামাবিল সীমান্তের সাথে করিমগঞ্জ শহর অবস্থিত।"
+    },
+    {
+        "question": "43. BTRC এর ইংরেজি পূর্ণরূপ কোনটি?",
+        "answers": [
+            {"text": "A. Bangladesh Telephone Regulatory Commission", "score": 0},
+            {"text": "B. Bangladesh Telecommunication Regulatory Commission", "score": 1},
+            {"text": "C. Bangladesh Telecom Regulatory Commission", "score": 0},
+            {"text": "D. Bangladesh Telephone and Telegraph Regulatory Commission", "score": 0}
+        ],
+        "correct_answer": "B. Bangladesh Telecommunication Regulatory Commission",
+        "hint": "BTRC এর পূর্ণরূপ Bangladesh Telecommunication Regulatory Commission।"
+    },
+    {
+        "question": "44. বাংলাদেশের সর্ববৃহৎ রেলওয়ে কারখানা কোথায়?",
+        "answers": [
+            {"text": "A. চট্টগ্রাম", "score": 0},
+            {"text": "B. পাকশি", "score": 1},
+            {"text": "C. সৈয়দপুর", "score": 0},
+            {"text": "D. আখাউড়া", "score": 0}
+        ],
+        "correct_answer": "B. পাকশি",
+        "hint": "বাংলাদেশের সর্ববৃহৎ রেলওয়ে কারখানা পাকশিতে অবস্থিত।"
+    },
+    {
+        "question": "45. বাংলাদেশের White gold কোনটি?",
+        "answers": [
+            {"text": "A. ইলিশ", "score": 0},
+            {"text": "B. পাট", "score": 1},
+            {"text": "C. রূপা", "score": 0},
+            {"text": "D. চিংড়ি", "score": 0}
+        ],
+        "correct_answer": "B. পাট",
+        "hint": "পাটকে বাংলাদেশে ‘White gold’ বলা হয়।"
+    },
+    {
+        "question": "46. বাংলাদেশের কোন জেলাটি বাংলাদেশ-ভারত সীমান্তের মধ্যে নয়?",
+        "answers": [
+            {"text": "A. পঞ্চগড়", "score": 0},
+            {"text": "B. সাতক্ষীরা", "score": 0},
+            {"text": "C. হবিগঞ্জ", "score": 1},
+            {"text": "D. কক্সবাজার", "score": 0}
+        ],
+        "correct_answer": "C. হবিগঞ্জ",
+        "hint": "হবিগঞ্জ জেলা ভারত-ভারত সীমান্তে নেই।"
+    },
+    {
+        "question": "47. ‘সোনালিকা’ ও ‘আকবর’ বাংলাদেশের কৃষি ক্ষেত্রে কিসের নাম?",
+        "answers": [
+            {"text": "A. উন্নত কৃষি যন্ত্রপাতির নাম", "score": 0},
+            {"text": "B. উন্নত জাতের ধানের নাম", "score": 1},
+            {"text": "C. দুটি কৃষি বিষয়ক বেসরকারি সংস্থার নাম", "score": 0},
+            {"text": "D. উন্নত জাতের গমের নাম", "score": 0}
+        ],
+        "correct_answer": "B. উন্নত জাতের ধানের নাম",
+        "hint": "'সোনালিকা' ও 'আকবর' হলো উন্নত জাতের ধানের নাম।"
+    },
+    {
+        "question": "48. ‘আলোকিত মানুষ চাই’ এটি কোন প্রতিষ্ঠানের শ্লোগান?",
+        "answers": [
+            {"text": "A. জাতীয় গ্রন্হ কেন্দ্র", "score": 0},
+            {"text": "B. বিশ্বসাহিত্য কেন্দ্র", "score": 1},
+            {"text": "C. সুশাসনের জন্য নাগরিক", "score": 0},
+            {"text": "D. পাবলিক লাইব্রেরী", "score": 0}
+        ],
+        "correct_answer": "B. বিশ্বসাহিত্য কেন্দ্র",
+        "hint": "'আলোকিত মানুষ চাই' বিশ্বসাহিত্য কেন্দ্রের স্লোগান।"
+    },
+    {
+        "question": "49. বাংলাদেশের জাতীয় পতাকার দৈর্ঘ্য-প্রস্থের অনুপাত কোনটি?",
+        "answers": [
+            {"text": "A. ৮ : ৫", "score": 0},
+            {"text": "B. ১০ : ৬", "score": 1},
+            {"text": "C. ১১ : ৮", "score": 0},
+            {"text": "D. ১১ : ৭", "score": 0}
+        ],
+        "correct_answer": "B. ১০ : ৬",
+        "hint": "বাংলাদেশের জাতীয় পতাকার দৈর্ঘ্য-প্রস্থের অনুপাত ১০ : ৬।"
+    },
+    {
+        "question": "50. বাংলাদেশের কোন জেলায় চা-বাগান বেশি?",
+        "answers": [
+            {"text": "A. সিলেট", "score": 1},
+            {"text": "B. হবিগঞ্জ", "score": 0},
+            {"text": "C. মৌলভীবাজার", "score": 0},
+            {"text": "D. বান্দরবান", "score": 0}
+        ],
+        "correct_answer": "A. সিলেট",
+        "hint": "বাংলাদেশে সিলেট জেলার চা-বাগান বেশি রয়েছে।"
+    },
+    {
+        "question": "51. জনসংখ্যার ভিত্তিতে বৃহত্তর মুসলিম রাষ্ট্র কোনটি?",
+        "answers": [
+            {"text": "A. পাকিস্তান", "score": 0},
+            {"text": "B. সৌদি আরব", "score": 0},
+            {"text": "C. মিশর", "score": 0},
+            {"text": "D. ইন্দোনেশিয়া", "score": 1}
+        ],
+        "correct_answer": "D. ইন্দোনেশিয়া",
+        "hint": "জনসংখ্যার ভিত্তিতে বৃহত্তর মুসলিম রাষ্ট্র হলো ইন্দোনেশিয়া।"
+    },
+    {
+        "question": "52. রেডক্রসের সদর দপ্তর কোথায় অবস্থিত?",
+        "answers": [
+            {"text": "A. প্যারিস", "score": 0},
+            {"text": "B. লন্ডন", "score": 0},
+            {"text": "C. নিউইয়র্ক", "score": 0},
+            {"text": "D. জেনেভা", "score": 1}
+        ],
+        "correct_answer": "D. জেনেভা",
+        "hint": "রেডক্রসের সদর দপ্তর জেনেভায় অবস্থিত।"
+    },
+    {
+        "question": "53. ‘জুলিয়াস সীজার’ কেন বিখ্যাত?",
+        "answers": [
+            {"text": "A. রোমান সম্রাট হিসেবে", "score": 1},
+            {"text": "B. বর্ণবাদ বিরোধী হিসেবে", "score": 0},
+            {"text": "C. ব্রিটেনের রাজা হিসেবে", "score": 0},
+            {"text": "D. আমেরিকার প্রেসিডেন্ট হিসেবে", "score": 0}
+        ],
+        "correct_answer": "A. রোমান সম্রাট হিসেবে",
+        "hint": "'জুলিয়াস সীজার' রোমান সম্রাট হিসেবে বিখ্যাত।"
+    },
+    {
+        "question": "54. पूर्व तिमोरের রাজধানী কোথায়?",
+        "answers": [
+            {"text": "A. লাসা", "score": 0},
+            {"text": "B. পোর্টো নোভো", "score": 0},
+            {"text": "C. দিলি", "score": 1},
+            {"text": "D. তিয়েন আন মেন", "score": 0}
+        ],
+        "correct_answer": "C. দিলি",
+        "hint": "পূর্ব তিমোরের রাজধানী দিলি।"
+    },
+    {
+        "question": "55. নোবেল পুরস্কার বিজয়ী ‘তাওয়াকুল কারমান’ কোন দেশের নাগরিক?",
+        "answers": [
+            {"text": "A. ইরান", "score": 0},
+            {"text": "B. ইন্দোনেশিয়া", "score": 0},
+            {"text": "C. তুরস্ক", "score": 0},
+            {"text": "D. ইয়েমেন", "score": 1}
+        ],
+        "correct_answer": "D. ইয়েমেন",
+        "hint": "তাওয়াকুল কারমান ইয়েমেনের নাগরিক।"
+    },
+    {
+        "question": "56. আমেরিকার চালকবিহীন গোয়েন্দা বিমান ‘স্টিলথ ড্রোন’টি কি?",
+        "answers": [
+            {"text": "A. বোমারু বিমান চালিত", "score": 1},
+            {"text": "B. মিগ চালিত", "score": 0},
+            {"text": "C. হেলিকপ্টার চালিত", "score": 0},
+            {"text": "D. শক্তিশালী রকেট চালিত", "score": 0}
+        ],
+        "correct_answer": "A. বোমারু বিমান চালিত",
+        "hint": "স্টিলথ ড্রোনটি বোমারু বিমান চালিত।"
+    },
+    {
+        "question": "57. আটলান্টিক ও প্রশান্ত মহাসাগরকে যুক্ত করেছে কোনটি?",
+        "answers": [
+            {"text": "A. সুয়েজ খাল", "score": 0},
+            {"text": "B. মিসিসিপি", "score": 0},
+            {"text": "C. ভলগা", "score": 0},
+            {"text": "D. পানামা খাল", "score": 1}
+        ],
+        "correct_answer": "D. পানামা খাল",
+        "hint": "পানামা খাল আটলান্টিক ও প্রশান্ত মহাসাগরকে যুক্ত করেছে।"
+    },
+    {
+        "question": "58. ‘গ্রিনল্যান্ড’ এর মালিকানা কোন দেশের?",
+        "answers": [
+            {"text": "A. সুইডেন", "score": 0},
+            {"text": "B. নেদারল্যান্ডস্", "score": 0},
+            {"text": "C. ডেনমার্ক", "score": 1},
+            {"text": "D. ইংল্যান্ড", "score": 0}
+        ],
+        "correct_answer": "C. ডেনমার্ক",
+        "hint": "গ্রিনল্যান্ডের মালিকানা ডেনমার্কের।"
+    },
+    {
+        "question": "59. ‘গ্রেট হল’ কোথায় অবস্থিত?",
+        "answers": [
+            {"text": "A. ব্রিটেন", "score": 0},
+            {"text": "B. যুক্তরাষ্ট্র", "score": 0},
+            {"text": "C. চীন", "score": 1},
+            {"text": "D. রাশিয়া", "score": 0}
+        ],
+        "correct_answer": "C. চীন",
+        "hint": "'গ্রেট হল' চীনের রাজধানী বেইজিংয়ে অবস্থিত।"
+    },
+    {
+        "question": "60. ‘তাস’ কোন দেশের সংবাদ সংস্থা?",
+        "answers": [
+            {"text": "A. রাশিয়া", "score": 1},
+            {"text": "B. চীন", "score": 0},
+            {"text": "C. ভারত", "score": 0},
+            {"text": "D. পাকিস্তান", "score": 0}
+        ],
+        "correct_answer": "A. রাশিয়া",
+        "hint": "'তাস' সংবাদ সংস্থা রাশিয়ার।"
+    },
+    {
+        "question": "61. মডেম এর মধ্যে যা থাকে তা হলো-",
+        "answers": [
+            {"text": "A. একটি মডুলেটর", "score": 0},
+            {"text": "B. একটি মডুলেটর ও একটি ডিমডুলেটর", "score": 1},
+            {"text": "C. একটি কোডেক", "score": 0},
+            {"text": "D. একটি এনকোডার", "score": 0}
+        ],
+        "correct_answer": "B. একটি মডুলেটর ও একটি ডিমডুলেটর",
+        "hint": "মডেম এ থাকে মডুলেটর এবং ডিমডুলেটর।"
+    },
+    {
+        "question": "62. ডায়োড সবচেয়ে বেশি ব্যবহৃত হয়-",
+        "answers": [
+            {"text": "A. ক্যাপাসিটর হিসেবে", "score": 0},
+            {"text": "B. ট্রান্সফরমার হিসেবে", "score": 0},
+            {"text": "C. রেজিস্টর হিসেবে", "score": 0},
+            {"text": "D. রেক্টিফায়ার হিসেবে", "score": 1}
+        ],
+        "correct_answer": "D. রেক্টিফায়ার হিসেবে",
+        "hint": "ডায়োড সবচেয়ে বেশি রেক্টিফায়ার হিসেবে ব্যবহৃত হয়।"
+    },
+    {
+        "question": "63. বাসা বাড়িতে সরবরাহকৃত বিদ্যুতের ফ্রিকোয়েন্সি হলো–",
+        "answers": [
+            {"text": "A. ৫০ হার্জ", "score": 1},
+            {"text": "B. ২২০ হার্জ", "score": 0},
+            {"text": "C. ২০০ হার্জ", "score": 0},
+            {"text": "D. ১০০ হার্জ", "score": 0}
+        ],
+        "correct_answer": "A. ৫০ হার্জ",
+        "hint": "বাংলাদেশে বিদ্যুতের ফ্রিকোয়েন্সি ৫০ হার্জ।"
+    },
+    {
+        "question": "64. বাংলাদেশের কৃষিতে ‘দোয়েল’–",
+        "answers": [
+            {"text": "A. জাতীয় পাখির নাম", "score": 0},
+            {"text": "B. কৃষি সংস্থার নাম", "score": 0},
+            {"text": "C. উন্নত জাতের গমের নাম", "score": 1},
+            {"text": "D. কৃষি যন্ত্রের নাম", "score": 0}
+        ],
+        "correct_answer": "C. উন্নত জাতের গমের নাম",
+        "hint": "'দোয়েল' হলো উন্নত জাতের গমের নাম।"
+    },
+    {
+        "question": "65. মৌমাছির চাষ হলো-",
+        "answers": [
+            {"text": "A. এপিকালচার", "score": 1},
+            {"text": "B. সেরিকালচার", "score": 0},
+            {"text": "C. পিসিকালচার", "score": 0},
+            {"text": "D. হর্টিকালচার", "score": 0}
+        ],
+        "correct_answer": "A. এপিকালচার",
+        "hint": "এপিকালচার হচ্ছে মৌমাছির চাষ।"
+    },
+    {
+        "question": "66. দুধে থাকে–",
+        "answers": [
+            {"text": "A. সাইট্রিক এসিড", "score": 0},
+            {"text": "B. ল্যাকটিক এসিড", "score": 1},
+            {"text": "C. নাইট্রিক এসিড", "score": 0},
+            {"text": "D. এসিটিক এসিড", "score": 0}
+        ],
+        "correct_answer": "B. ল্যাকটিক এসিড",
+        "hint": "দুধে রয়েছে ল্যাকটিক এসিড।"
+    },
+    {
+        "question": "67. কোনটি জৈব অম্ল?",
+        "answers": [
+            {"text": "A. নাইট্রিক এসিড", "score": 0},
+            {"text": "B. হাইড্রোক্লোরিক এসিড", "score": 0},
+            {"text": "C. এসিটিক এসিড", "score": 1},
+            {"text": "D. সালফিউরিক এসিড", "score": 0}
+        ],
+        "correct_answer": "C. এসিটিক এসিড",
+        "hint": "এসিটিক এসিড হলো জৈব অম্ল।"
+    },
+    {
+        "question": "68. কম্পিউটার ভাইরাস কি?",
+        "answers": [
+            {"text": "A. একটি ক্ষতিকারক জীবাণু", "score": 1},
+            {"text": "B. একটি ক্ষতিকারক সার্কিট", "score": 0},
+            {"text": "C. একটি ক্ষতিকারক চৌম্বক ফ্লাক্স", "score": 0},
+            {"text": "D. একটি ক্ষতিকারক প্রোগ্রাম", "score": 0}
+        ],
+        "correct_answer": "A. একটি ক্ষতিকারক জীবাণু",
+        "hint": "কম্পিউটার ভাইরাস হলো একটি ক্ষতিকারক প্রোগ্রাম।"
+    },
+    {
+        "question": "69. কোনটি তারবিহীন দ্রুতগতির ইন্টারনেট সংযোগের জন্য উপযোগী?",
+        "answers": [
+            {"text": "A. ওয়াইম্যাক্স", "score": 1},
+            {"text": "B. সি-মস", "score": 0},
+            {"text": "C. ব্লু-টুথ", "score": 0},
+            {"text": "D. ব্রডব্যান্ড", "score": 0}
+        ],
+        "correct_answer": "A. ওয়াইম্যাক্স",
+        "hint": "ওয়াইম্যাক্স হলো তারবিহীন দ্রুতগতির ইন্টারনেট সংযোগের জন্য উপযোগী।"
+    },
+    {
+        "question": "70. এন্টিবায়োটিকের কাজ–",
+        "answers": [
+            {"text": "A. রোগ প্রতিরোধের ক্ষমতা বৃদ্ধি করা", "score": 0},
+            {"text": "B. জীবাণু ধ্বংস করা", "score": 1},
+            {"text": "C. ভাইরাস ধ্বংস করা", "score": 0},
+            {"text": "D. দ্রুত রোগ নিরাময় করা", "score": 0}
+        ],
+        "correct_answer": "B. জীবাণু ধ্বংস করা",
+        "hint": "এন্টিবায়োটিক জীবাণু ধ্বংস করে।"
+    },
+    {
+        "question": "71. মাশরুম এক ধরনের-",
+        "answers": [
+            {"text": "A. অপুষ্পক উদ্ভিদ", "score": 0},
+            {"text": "B. পরজীবী উদ্ভিদ", "score": 0},
+            {"text": "C. ফাঙ্গাস", "score": 1},
+            {"text": "D. অর্কিড", "score": 0}
+        ],
+        "correct_answer": "C. ফাঙ্গাস",
+        "hint": "মাশরুম হচ্ছে একটি ফাঙ্গাস।"
+    },
+    {
+        "question": "72. অপটিক্যাল ফাইবারে আলোর কোন ঘটনাটি ঘটে?",
+        "answers": [
+            {"text": "A. প্রতিসরণ", "score": 0},
+            {"text": "B. বিচ্ছুরণ", "score": 0},
+            {"text": "C. অপবর্তন", "score": 0},
+            {"text": "D. অভ্যন্তরীণ প্রতিফলন", "score": 1}
+        ],
+        "correct_answer": "D. অভ্যন্তরীণ প্রতিফলন",
+        "hint": "অপটিক্যাল ফাইবারে অভ্যন্তরীণ প্রতিফলন ঘটে।"
+    },
+    {
+        "question": "73. যকৃতের রোগ কোনটি?",
+        "answers": [
+            {"text": "A. জন্ডিস", "score": 1},
+            {"text": "B. টাইফয়েড", "score": 0},
+            {"text": "C. হাম", "score": 0},
+            {"text": "D. কলেরা", "score": 0}
+        ],
+        "correct_answer": "A. জন্ডিস",
+        "hint": "যকৃতের রোগ জন্ডিস।"
+    },
+    {
+        "question": "74. যেই বায়ু সর্বদাই উচ্চচাপ অঞ্চল থেকে নিম্নচাপ অঞ্চলের দিকে প্রবাহিত হয় তা হলো-",
+        "answers": [
+            {"text": "A. অয়ন বায়ু", "score": 0},
+            {"text": "B. নিয়ত বায়ু", "score": 1},
+            {"text": "C. প্রত্যয়ন বায়ু", "score": 0},
+            {"text": "D. মৌসুমী বায়ু", "score": 0}
+        ],
+        "correct_answer": "B. নিয়ত বায়ু",
+        "hint": "নিয়ত বায়ু উচ্চচাপ অঞ্চল থেকে নিম্নচাপের দিকে প্রবাহিত হয়।"
+    },
+    {
+        "question": "75. পিতলের পরীক্ষা সোস্যি হলে-",
+        "answers": [
+            {"text": "A. তামা ও টিন", "score": 1},
+            {"text": "B. তামা ও নিকেল", "score": 0},
+            {"text": "C. তামা ও সিসা", "score": 0},
+            {"text": "D. তামা ও দস্তা", "score": 0}
+        ],
+        "correct_answer": "A. তামা ও দস্তা",
+        "hint": "পিতল হলো তামা ও দস্তার মিশ্রণ।"
+    },
+    {
+        "question": "76. বৈদ্যুতিক মিটারে এক ইউনিট বিদ্যুৎ খরচ বলতে বুঝায়-",
+        "answers": [
+            {"text": "A. এক কিলোওয়াট-ঘণ্টা", "score": 1},
+            {"text": "B. এক ওয়াট-ঘণ্টা", "score": 0},
+            {"text": "C. এক কিলোওয়াট", "score": 0},
+            {"text": "D. এক ওয়াট", "score": 0}
+        ],
+        "correct_answer": "A. এক কিলোওয়াট-ঘণ্টা",
+        "hint": "এক ইউনিট বিদ্যুৎ খরচ হচ্ছে এক কিলোওয়াট-ঘণ্টা।"
+    },
+    {
+        "question": "77. পারস্পরিক আবেশকে ব্যবহার করা হয় কোনটিতে?",
+        "answers": [
+            {"text": "A. ডায়োড", "score": 0},
+            {"text": "B. ট্রান্সফরমার", "score": 1},
+            {"text": "C. ট্রানজিস্টার", "score": 0},
+            {"text": "D. অ্যামপ্লিফায়ার", "score": 0}
+        ],
+        "correct_answer": "B. ট্রান্সফরমার",
+        "hint": "পরস্পরিক আবেশ ট্রান্সফরমারে করা হয়।"
+    },
+    {
+        "question": "78. উদ্ভিদের বৃদ্ধি নির্ণায়ক যন্ত্র–",
+        "answers": [
+            {"text": "A. ওডোমিটার", "score": 0},
+            {"text": "B. ক্রনোমিটার", "score": 0},
+            {"text": "C. ট্যাকোমিটার", "score": 0},
+            {"text": "D. ক্রেসকোগ্রাফ", "score": 1}
+        ],
+        "correct_answer": "D. ক্রেসকোগ্রাফ",
+        "hint": "ক্রেসকোগ্রাফ উদ্ভিদের বৃদ্ধি নির্ণয় করে।"
+    },
+    {
+        "question": "79. স্বর্ণের খাদ বের করতে ব্যবহার করা হয়–",
+        "answers": [
+            {"text": "A. সালফিউরিক এসিড", "score": 0},
+            {"text": "B. নাইট্রিক এসিড", "score": 1},
+            {"text": "C. সাইট্রিক এসিড", "score": 0},
+            {"text": "D. কার্বোলিক এসিড", "score": 0}
+        ],
+        "correct_answer": "B. নাইট্রিক এসিড",
+        "hint": "স্বর্ণের খাদ বের করতে নাইট্রিক এসিড ব্যবহার করা হয়।"
+    },
+    {
+        "question": "80. ভূপৃষ্ঠের সৌরদীপ্ত ও অন্ধকারাচ্ছন্ন অংশের সংযোগস্থলকে বলে–",
+        "answers": [
+            {"text": "A. ঊষা", "score": 0},
+            {"text": "B. গোধূলি", "score": 0},
+            {"text": "C. গুরুবৃত্ত", "score": 0},
+            {"text": "D. ছায়াবৃত্ত", "score": 1}
+        ],
+        "correct_answer": "D. ছায়াবৃত্ত",
+        "hint": "ভূপৃষ্ঠের সৌরদীপ্ত ও অন্ধকারাচ্ছন্ন অংশের সংযোগস্থলকে ছায়াবৃত্ত বলে।"
+    },
+    {
+        "question": "81. এবং y উভয়ই বিজোড় সংখ্যা হলে কোনটি জোড় সংখ্যা হবে?",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. ", "score": 0}
+        ],
+        "correct_answer": "A. ",
+        "hint": "একত্রে বিজোড় সংখ্যা হলে তাদের যোগফল হবে জোড়।"
+    },
+    {
+        "question": "82. ৭ সে.মি. ব্যাসার্ধ বিশিষ্ট বৃত্তের অন্তর্লিখিত বর্গক্ষেত্রের ক্ষেত্রফল কত?",
+        "answers": [
+            {"text": "A. ৯৮ ব.সে.মি.", "score": 0},
+            {"text": "B. ৪৯ ব.সে.মি.", "score": 1},
+            {"text": "C. ১৯৬ ব.সে.মি.", "score": 0},
+            {"text": "D. ১৪৬ ব.সে.মি.", "score": 0}
+        ],
+        "correct_answer": "B. ৪৯ ব.সে.মি.",
+        "hint": "বৃত্তের অন্তর্ভুক্ত বর্গক্ষেত্রের ক্ষেত্রফল বের করা হবে।"
+    },
+    {
+        "question": "83. কোনো ত্রিভুজের তিনটি বাহুকে বর্ধিত করলে উৎপন্ন বহিঃস্থকোণ তিনটির সমষ্টি কত?",
+        "answers": [
+            {"text": "A. ১", "score": 0},
+            {"text": "B. ৮", "score": 0},
+            {"text": "C. ২", "score": 0},
+            {"text": "D. ৩", "score": 1}
+        ],
+        "correct_answer": "D. ৩",
+        "hint": "বহিঃস্থকোণ তিনটির সমষ্টি হবে ৩।"
+    },
+    {
+        "question": "84. ১, ৩, ৬, ১০, ১৫, ২১........ ধারাটির দশম পদ কত?",
+        "answers": [
+            {"text": "A. ৪৫", "score": 0},
+            {"text": "B. ৫৫", "score": 0},
+            {"text": "C. ৬২", "score": 0},
+            {"text": "D. ৬৫", "score": 1}
+        ],
+        "correct_answer": "D. ৬৫",
+        "hint": "ধারাটির দশম পদ বের করতে হবে।"
+    },
+    {
+        "question": "85. কত?",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. ", "score": 0}
+        ],
+        "correct_answer": "A. ",
+        "hint": "গণনা করে সংখ্যাটি সঠিকভাবে বের করতে হবে।"
+    },
+    {
+        "question": "86. এর সাথে কত যোগ করলে যোগফল একটি পূর্ণ বর্গ হবে?",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. ", "score": 0}
+        ],
+        "correct_answer": "A. ",
+        "hint": "ফলাফল বের করতে হবে৷"
+    },
+    {
+        "question": "87. টাকায় ৩টি করে লেবু কিনে টাকায় ২টি করে বিক্রি করলে শতকরা কত লাভ হবে?",
+        "answers": [
+            {"text": "A. ৫০%", "score": 0},
+            {"text": "B. ২০%", "score": 1},
+            {"text": "C. ৩০%", "score": 0},
+            {"text": "D. ৩৩%", "score": 0}
+        ],
+        "correct_answer": "B. ২০%",
+        "hint": "লাভের হার বের করতে হবে।"
+    },
+    {
+        "question": "88. বৃত্তের ব্যাস তিনগুণ বৃদ্ধি পেলে ক্ষেত্রফল কতগুণ বৃদ্ধি পাবে?",
+        "answers": [
+            {"text": "A. ৩ গুণ", "score": 0},
+            {"text": "B. ৯ গুণ", "score": 1},
+            {"text": "C. ১২ গুণ", "score": 0},
+            {"text": "D. ১৬ গুণ", "score": 0}
+        ],
+        "correct_answer": "B. ৯ গুণ",
+        "hint": "ব্যাস বাড়ানোর সূত্র অনুযায়ী ক্ষেত্রফল বৃদ্ধি হবে ৯ গুণ।"
+    },
+    {
+        "question": "89. একটি গাড়ির চাকা প্রতি মিনিটে ৯০ বার ঘোরে। ১ সেকেন্ডে চাকাটি কত ডিগ্রি ঘুরবে?",
+        "answers": [
+            {"text": "A. ৩০০", "score": 0},
+            {"text": "B. ৩৬০", "score": 1},
+            {"text": "C. ৪২০", "score": 0},
+            {"text": "D. ৪৫০", "score": 0}
+        ],
+        "correct_answer": "B. ৩৬০",
+        "hint": "১ সেকেন্ডে চাকাটি ৯০ ঘাড়ে ঘুরবে।"
+    },
+    {
+        "question": "90. চতুর্ভুজে ____ এবং ____ হলে, সঠিক চতুর্ভুজ কোনটি?",
+        "answers": [
+            {"text": "A. সামান্তরিক", "score": 0},
+            {"text": "B. রম্ভস", "score": 1},
+            {"text": "C. ট্রাপিজিয়াম", "score": 0},
+            {"text": "D. আয়তক্ষেত্র", "score": 0}
+        ],
+        "correct_answer": "B. রম্ভস",
+        "hint": "চতুর্ভুজ হলে রম্ভস হবে সঠিক।"
+    },
+    {
+        "question": "91. কোন ভগ্নাংশটি ক্ষুদ্রতম?",
+        "answers": [
+            {"text": "A. ৬/৫", "score": 0},
+            {"text": "B. ১/২", "score": 1},
+            {"text": "C. ১/৩", "score": 0},
+            {"text": "D. ১/৪", "score": 0}
+        ],
+        "correct_answer": "B. ১/২",
+        "hint": "ভগ্নাংশের মান বের করতে হবে।"
+    },
+    {
+        "question": "92. পরপর তিনটি সংখ্যার গুণফল ১২০ হলে তাদের যোগফল কত?",
+        "answers": [
+            {"text": "A. ১২", "score": 0},
+            {"text": "B. ১০", "score": 1},
+            {"text": "C. ১৪", "score": 0},
+            {"text": "D. ১৫", "score": 0}
+        ],
+        "correct_answer": "B. ১০",
+        "hint": "যোগফল বের করতে হবে।"
+    },
+    {
+        "question": "93. ০.৪৭ ̇ কে সাধারণ ভগ্নাংশে পরিণত করলে কত হবে?",
+        "answers": [
+            {"text": "A. ৪/৯", "score": 1},
+            {"text": "B. ৪/৩", "score": 0},
+            {"text": "C. ৪/২", "score": 0},
+            {"text": "D. ৪/৫", "score": 0}
+        ],
+        "correct_answer": "A. ৪/৯",
+        "hint": "০.৪৭ কে সাধারণ ভগ্নাংশে পরিণতি করতে হবে।"
+    },
+    {
+        "question": "94. এর একটি উৎপাদক–",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. ", "score": 0}
+        ],
+        "correct_answer": "A. ",
+        "hint": "উৎপাদক নির্ধারণ করতে হবে।"
+    },
+    {
+        "question": "95. কত?",
+        "answers": [
+            {"text": "A. ১", "score": 0},
+            {"text": "B. ২", "score": 1},
+            {"text": "C. ৩", "score": 0},
+            {"text": "D. ৪", "score": 0}
+        ],
+        "correct_answer": "B. ২",
+        "hint": "মান বের করতে হবে।"
+    },
+    {
+        "question": "96. এর ল.সা.গু কোনটি?",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. ", "score": 0}
+        ],
+        "correct_answer": "A. ",
+        "hint": "ল.সা.গু বের করতে হবে।"
+    },
+    {
+        "question": "97. একটি আয়তাকার ঘরের দৈর্ঘ্য প্রস্থ অপেক্ষা ৪ মিটার বেশি। ঘরটির পরিসীমা ৩২ মিটার হলে ঘরটির দৈর্ঘ্য কত?",
+        "answers": [
+            {"text": "A. ৬ মিটার", "score": 0},
+            {"text": "B. ১০ মিটার", "score": 1},
+            {"text": "C. ১৮ মিটার", "score": 0},
+            {"text": "D. ১২ মিটার", "score": 0}
+        ],
+        "correct_answer": "B. ১০ মিটার",
+        "hint": "দৈর্ঘ্য বের করতে হবে ঘরের পরিসীমার ভিত্তিতে।"
+    },
+    {
+        "question": "98. একটি সমবাহু ত্রিভুজের বাহুর প্রত্যেকটির দৈর্ঘ্য ২ মিটার বাড়ালে এর ক্ষেত্রফল ____ বর্গমিটার বেড়ে যায়। সমবাহু ত্রিভুজের বাহুর দৈর্ঘ্য কত?",
+        "answers": [
+            {"text": "A. 1 মিটার", "score": 0},
+            {"text": "B. 2 মিটার", "score": 0},
+            {"text": "C. 3 মিটার", "score": 1},
+            {"text": "D. 4 মিটার", "score": 0}
+        ],
+        "correct_answer": "C. 3 মিটার",
+        "hint": "ক্ষেত্রফল বের করতে হবে সমবাহু ত্রিভুজের সূত্র ব্যবহার করে।"
+    },
+    {
+        "question": "99. যদি ____ হয় তবে ____ এর মান কত?",
+        "answers": [
+            {"text": "A. 334", "score": 0},
+            {"text": "B. 154", "score": 0},
+            {"text": "C. 364", "score": 1},
+            {"text": "D. 512", "score": 0}
+        ],
+        "correct_answer": "C. 364",
+        "hint": "সঠিকভাবে মান বের করতে হবে।"
+    },
+    {
+        "question": "100. সেট ____ হলে ____ এর মান কোনটি?",
+        "answers": [
+            {"text": "A. 2", "score": 1},
+            {"text": "B. 3", "score": 0},
+            {"text": "C. 4", "score": 0},
+            {"text": "D. 5", "score": 0}
+        ],
+        "correct_answer": "A. 2",
+        "hint": "সঠিক মান নির্ধারণ করতে হবে।"
+    }
+]

@@ -1,0 +1,1102 @@
+[
+    {
+        "question": "1. চর্যাপদ কোন ছন্দে লেখা?",
+        "answers": [
+            {"text": "A. অক্ষরবৃত্ত", "score": 0},
+            {"text": "B. মাত্রাবৃত্ত", "score": 1},
+            {"text": "C. স্বরবৃত্ত", "score": 0},
+            {"text": "D. অমিত্রাক্ষর ছন্দ", "score": 0}
+        ],
+        "correct_answer": "B. মাত্রাবৃত্ত",
+        "hint": "চর্যাপদের পদগুলো সম্ভবত মাত্রাবৃত্ত ছন্দে লেখা।"
+    },
+    {
+        "question": "2. কবিওয়ালা ও শায়েরের উদ্ভব ঘটে কখন?",
+        "answers": [
+            {"text": "A. আঠারো শতকের শেষার্ধে ও উনিশ শতকের প্রথমার্ধে", "score": 1},
+            {"text": "B. ষোড়শ শতকের শেষার্ধে ও সপ্তদশ শতকের প্রথমার্ধে", "score": 0},
+            {"text": "C. সপ্তদশ শতকের শেষার্ধে ও আঠারো শতকের প্রথমার্ধে", "score": 0},
+            {"text": "D. উনিশ শতকের শেষার্ধে ও বিংশ শতকের প্রথমার্ধে", "score": 0}
+        ],
+        "correct_answer": "A. আঠারো শতকের শেষার্ধে ও উনিশ শতকের প্রথমার্ধে",
+        "hint": "এ সময় কবিওয়ালা ও শায়েররা উদ্ভব হয়েছিল।"
+    },
+    {
+        "question": "3. কবি গানের প্রথম কবি কে?",
+        "answers": [
+            {"text": "A. গোঁজলা পুট [গুই]", "score": 1},
+            {"text": "B. হরু ঠাকুর", "score": 0},
+            {"text": "C. ভবানী ঘোষ", "score": 0},
+            {"text": "D. নিতাই বৈরাগী", "score": 0}
+        ],
+        "correct_answer": "A. গোঁজলা পুট [গুই]",
+        "hint": "গোঁজলা গুই হচ্ছেন কবি গানের প্রথম কবি।"
+    },
+    {
+        "question": "4. ‘কেন পান্থ ক্ষান্ত হও হেরি দীর্ঘ পথ?’ – কার লেখা?",
+        "answers": [
+            {"text": "A. কৃষ্ণচন্দ্র মজুমদার", "score": 0},
+            {"text": "B. ঈশ্বরচন্দ্র গুপ্ত", "score": 1},
+            {"text": "C. কামিনী রায়", "score": 0},
+            {"text": "D. যতীন্দ্রমোহন বাগচী", "score": 0}
+        ],
+        "correct_answer": "B. ঈশ্বরচন্দ্র গুপ্ত",
+        "hint": "ঈশ্বরচন্দ্র গুপ্তের রচনা 'কেন পান্থ ক্ষান্ত হও'।"
+    },
+    {
+        "question": "5. কোন চরণটি সঠিক?",
+        "answers": [
+            {"text": "A. ধন ধান্য পুষ্পে ভরা", "score": 0},
+            {"text": "B. ধন্য ধান্যে পুষ্পে ভরা", "score": 1},
+            {"text": "C. ধণ্যে ধান্যে পুষ্প ভরা", "score": 0},
+            {"text": "D. ধন্যে ধান্য পুষ্পে ভরা", "score": 0}
+        ],
+        "correct_answer": "B. ধন্য ধান্যে পুষ্পে ভরা",
+        "hint": "'ধন্য ধান্যে পুষ্পে ভরা' চরণ সঠিক।"
+    },
+    {
+        "question": "6. কোন বানানটি শুদ্ধ নয়?",
+        "answers": [
+            {"text": "A. দরিদ্রতা", "score": 0},
+            {"text": "B. উপযোগিতা", "score": 0},
+            {"text": "C. শ্রদ্ধাঞ্জলি", "score": 0},
+            {"text": "D. উর্দ্ধ", "score": 1}
+        ],
+        "correct_answer": "D. উর্দ্ধ",
+        "hint": "শুদ্ধ বানান হলো 'ঊর্ধ্ব'।"
+    },
+    {
+        "question": "7. ‘গৃহী’ শব্দের বিপরীতার্থক শব্দ-",
+        "answers": [
+            {"text": "A. সংসারী", "score": 0},
+            {"text": "B. সঞ্চয়ী", "score": 0},
+            {"text": "C. সংস্থিতি", "score": 0},
+            {"text": "D. সন্ন্যাসী", "score": 1}
+        ],
+        "correct_answer": "D. সন্ন্যাসী",
+        "hint": "'গৃহী' শব্দের বিপরীত 'সন্ন্যাসী'।"
+    },
+    {
+        "question": "8. Excise duty – এর পরিভাষা কোনটি?",
+        "answers": [
+            {"text": "A. অতিরিক্ত কর", "score": 0},
+            {"text": "B. আবগারি শুল্ক", "score": 1},
+            {"text": "C. অর্পিত দায়িত্ব", "score": 0},
+            {"text": "D. অতিরিক্ত কর্তব্য", "score": 0}
+        ],
+        "correct_answer": "B. আবগারি শুল্ক",
+        "hint": "Excise duty অর্থ হলো আবগারি শুল্ক।"
+    },
+    {
+        "question": "9. কোন বাক্যটি শুদ্ধ?",
+        "answers": [
+            {"text": "A. তোমার গোপন কথা শোনা আমার পক্ষে সম্ভব নয়।", "score": 0},
+            {"text": "B. দরিদ্রতা আমাদের প্রধান সমস্যা।", "score": 1},
+            {"text": "C. সলজ্জিত হাসি হেসে মেয়েটি উত্তর দিল।", "score": 0},
+            {"text": "D. সর্ব বিষয়ে বাহুল্যতা বর্জন করা উচিত।", "score": 0}
+        ],
+        "correct_answer": "B. দরিদ্রতা আমাদের প্রধান সমস্যা।",
+        "hint": "এটি সংশোধন ও সমঝোতার বোধগম্য বাক্য।"
+    },
+    {
+        "question": "10. ‘তুমি আসবে বলে হে স্বাধীনতা সখিনা বিবির কপাল ভাঙল।’ –এটি কোন বাক্য?",
+        "answers": [
+            {"text": "A. সরল", "score": 0},
+            {"text": "B. মিশ্র বা জটিল", "score": 1},
+            {"text": "C. যৌগিক", "score": 0},
+            {"text": "D. সংযুক্ত", "score": 0}
+        ],
+        "correct_answer": "B. মিশ্র বা জটিল",
+        "hint": "'তুমি আসবে বলে...' এর প্রুড় অংশ ও সমাপিকা রয়েছে।"
+    },
+    {
+        "question": "11. কোনটি ‘অগ্নি’-র সমার্থক শব্দ নয়?",
+        "answers": [
+            {"text": "A. পাবক", "score": 0},
+            {"text": "B. বৈশ্বানর", "score": 0},
+            {"text": "C. সর্বশুচি", "score": 1},
+            {"text": "D. প্রজ্বলিত", "score": 0}
+        ],
+        "correct_answer": "C. সর্বশুচি",
+        "hint": "'অগ্নি' এর সমার্থক নয় 'সর্বশুচি'।"
+    },
+    {
+        "question": "12. কোনটি সঠিক বানান?",
+        "answers": [
+            {"text": "A. নিশিথীয়া", "score": 0},
+            {"text": "B. নীশিথিনী", "score": 0},
+            {"text": "C. নিশীথিনী", "score": 1},
+            {"text": "D. নিশিথিনি", "score": 0}
+        ],
+        "correct_answer": "C. নিশীথিনী",
+        "hint": "'নিশীথিনী' হলো সঠিক বানান।"
+    },
+    {
+        "question": "13. কোনটি ‘কোলন’?",
+        "answers": [
+            {"text": "A. ;", "score": 0},
+            {"text": "B. :", "score": 1},
+            {"text": "C. =", "score": 0},
+            {"text": "D. “ ”", "score": 0}
+        ],
+        "correct_answer": "B. :",
+        "hint": "'কোলন' হলো ':' চিহ্ন।"
+    },
+    {
+        "question": "14. বাংলা সাহিত্যের অন্যতম বিশিষ্ট পত্রিকা ‘কল্লোল’ কত সালে প্রথম প্রকাশিত হয়?",
+        "answers": [
+            {"text": "A. ১৯২৩ সালে", "score": 1},
+            {"text": "B. ১৯২৪ সালে", "score": 0},
+            {"text": "C. ১৯২৫ সালে", "score": 0},
+            {"text": "D. ১৯২৭ সালে", "score": 0}
+        ],
+        "correct_answer": "A. ১৯২৩ সালে",
+        "hint": "'কল্লোল' পত্রিকার প্রথম প্রকাশ ১৯২৩ সালে।"
+    },
+    {
+        "question": "15. কোন গ্রন্থটি সুকান্ত ভট্টাচার্য কর্তৃক রচিত?",
+        "answers": [
+            {"text": "A. হরতাল", "score": 1},
+            {"text": "B. পালাবদল", "score": 0},
+            {"text": "C. উত্তীর্ণ পঞ্চাশে", "score": 0},
+            {"text": "D. অন্বিষ্ট স্বদেশ", "score": 0}
+        ],
+        "correct_answer": "A. হরতাল",
+        "hint": "'হরতাল' সুকান্ত ভট্টাচার্য কর্তৃক রচিত।"
+    },
+    {
+        "question": "16. ‘ঢাকের কাঠি’ বাগধারার অর্থ কি?",
+        "answers": [
+            {"text": "A. কপট ব্যক্তি", "score": 0},
+            {"text": "B. ঘনিষ্ঠ সম্পর্ক", "score": 1},
+            {"text": "C. হতভাগ্য", "score": 0},
+            {"text": "D. মোসাহেব", "score": 0}
+        ],
+        "correct_answer": "B. ঘনিষ্ঠ সম্পর্ক",
+        "hint": "'ঢাকের কাঠি' অর্থ হলো ঘনিষ্ঠ সম্পর্ক।"
+    },
+    {
+        "question": "17. বঙ্কিমচন্দ্র চট্টোপাধ্যায়ের ‘বিষবৃক্ষ’ উপন্যাসের চরিত্র কোনটি?",
+        "answers": [
+            {"text": "A. কুন্দনন্দিনী", "score": 1},
+            {"text": "B. শ্যামাসুন্দরী", "score": 0},
+            {"text": "C. বিমলা", "score": 0},
+            {"text": "D. রোহিনী", "score": 0}
+        ],
+        "correct_answer": "A. কুন্দনন্দিনী",
+        "hint": "'বিষবৃক্ষ' উপন্যাসের প্রধান চরিত্র হলো কুন্দনন্দিনী।"
+    },
+    {
+        "question": "18. কোন বানানটি শুদ্ধ?",
+        "answers": [
+            {"text": "A. পিপিলিকা", "score": 1},
+            {"text": "B. পিপীলিকা", "score": 0},
+            {"text": "C. পীপিলিকা", "score": 0},
+            {"text": "D. রোহিনী", "score": 0}
+        ],
+        "correct_answer": "A. পিপিলিকা",
+        "hint": "'পিপিলিকা' হলো সঠিক বানান।"
+    },
+    {
+        "question": "19. গীতাঞ্জলির ইংরেজি অনুবাদ সম্পাদনা করেছেন-",
+        "answers": [
+            {"text": "A. এজরা পাউন্ড", "score": 0},
+            {"text": "B. টি.এস. এলিয়ট", "score": 0},
+            {"text": "C. ডবলিউ.বি. ইয়েটস", "score": 1},
+            {"text": "D. কীটস", "score": 0}
+        ],
+        "correct_answer": "C. ডবলিউ.বি. ইয়েটস",
+        "hint": "'গীতাঞ্জলি' বইটির ইংরেজি অনুবাদ সম্পাদনা করেছেন ডবলিউ.বি. ইয়েটস।"
+    },
+    {
+        "question": "20. ‘The Origin and Development of Bengali Language’ গ্রন্থটি রচনা করেছেন-",
+        "answers": [
+            {"text": "A. ড.মুহাম্মদ শহীদুল্লাহ", "score": 0},
+            {"text": "B. ড. সুনীতিকুমার চট্টোপাধ্যায়", "score": 1},
+            {"text": "C. হরপ্রসাদ শাস্ত্রী", "score": 0},
+            {"text": "D. স্যার জর্জ গ্রিয়ারসন", "score": 0}
+        ],
+        "correct_answer": "B. ড. সুনীতিকুমার চট্টোপাধ্যায়",
+        "hint": "'The Origin and Development of Bengali Language' গ্রন্থটি সুনীতিকুমার চট্টোপাধ্যায়ের লেখা।"
+    },
+    {
+        "question": "21. Noureen will discuss the issue with Nasir __ phone.",
+        "answers": [
+            {"text": "A. in", "score": 0},
+            {"text": "B. over", "score": 1},
+            {"text": "C. by", "score": 0},
+            {"text": "D. on", "score": 0}
+        ],
+        "correct_answer": "B. over",
+        "hint": "Over is widely used in conversation for means of contact."
+    },
+    {
+        "question": "22. Put appropriate preposition for the sentence below: Some writers sink __ oblivion in course of time.",
+        "answers": [
+            {"text": "A. on", "score": 0},
+            {"text": "B. from", "score": 0},
+            {"text": "C. under", "score": 0},
+            {"text": "D. into", "score": 1}
+        ],
+        "correct_answer": "D. into",
+        "hint": "Sink into implies that one sinks into forgetfulness."
+    },
+    {
+        "question": "23. ‘Call to mind’ means–.",
+        "answers": [
+            {"text": "A. fantasize", "score": 0},
+            {"text": "B. attend", "score": 0},
+            {"text": "C. remember", "score": 1},
+            {"text": "D. request", "score": 0}
+        ],
+        "correct_answer": "C. remember",
+        "hint": "'Call to mind's meaning signifies recalling."
+    },
+    {
+        "question": "24. ‘Pass away’ means–",
+        "answers": [
+            {"text": "A. disappear", "score": 0},
+            {"text": "B. die", "score": 1},
+            {"text": "C. erase", "score": 0},
+            {"text": "D. fall", "score": 0}
+        ],
+        "correct_answer": "B. die",
+        "hint": "'Pass away' refers to the meaning of dying."
+    },
+    {
+        "question": "25. Pick the word that is synonymous with ‘authoritarian’. ",
+        "answers": [
+            {"text": "A. autocratic", "score": 1},
+            {"text": "B. senior", "score": 0},
+            {"text": "C. elderly", "score": 0},
+            {"text": "D. potential", "score": 0}
+        ],
+        "correct_answer": "A. autocratic",
+        "hint": "'Authoritarian' is synonymous with 'Autocratic'."
+    },
+    {
+        "question": "26. The word ‘permissive’ implies–",
+        "answers": [
+            {"text": "A. humble", "score": 0},
+            {"text": "B. law-abiding", "score": 0},
+            {"text": "C. liberal", "score": 1},
+            {"text": "D. submissive", "score": 0}
+        ],
+        "correct_answer": "C. liberal",
+        "hint": "'Permissive' suggests a sense of being liberal."
+    },
+    {
+        "question": "27. **Choose the correct pronoun for the sentence:**",
+        "answers": [
+            {"text": "A. their", "score": 0},
+            {"text": "B. her", "score": 1},
+            {"text": "C. whose", "score": 0},
+            {"text": "D. his", "score": 0}
+        ],
+        "correct_answer": "B. her",
+        "hint": "Each requires a singular pronoun in context."
+    },
+    {
+        "question": "28. ‘Subject-Verb Agreement’ refers to–",
+        "answers": [
+            {"text": "A. person only", "score": 0},
+            {"text": "B. number, person and gender", "score": 1},
+            {"text": "C. number and person", "score": 0},
+            {"text": "D. number only", "score": 0}
+        ],
+        "correct_answer": "B. number, person and gender",
+        "hint": "'Subject-Verb Agreement' considers subject alignment."
+    },
+    {
+        "question": "29. The only error in the sentence ‘One of the recommendation made by the committee was accepted by the authorities’ is–",
+        "answers": [
+            {"text": "A. recommendation", "score": 1},
+            {"text": "B. was", "score": 0},
+            {"text": "C. accepted by", "score": 0},
+            {"text": "D. committee", "score": 0}
+        ],
+        "correct_answer": "A. recommendation",
+        "hint": "This phrase function typically requires plural attachment."
+    },
+    {
+        "question": "30. ‘The French’ refers to–",
+        "answers": [
+            {"text": "A. the French people", "score": 1},
+            {"text": "B. the French language", "score": 0},
+            {"text": "C. the French manners", "score": 0},
+            {"text": "D. the French society", "score": 0}
+        ],
+        "correct_answer": "A. the French people",
+        "hint": "'The French' usually signifies the French as people."
+    },
+    {
+        "question": "31. If a person cannot stop taking drugs, he or she is–",
+        "answers": [
+            {"text": "A. attached to them", "score": 0},
+            {"text": "B. committed to them", "score": 0},
+            {"text": "C. addicted to them", "score": 1},
+            {"text": "D. devoted to them", "score": 0}
+        ],
+        "correct_answer": "C. addicted to them",
+        "hint": "'Addicted' describes someone unable to stop drugs."
+    },
+    {
+        "question": "32. The word ‘officialese’ means–",
+        "answers": [
+            {"text": "A. plural number of official", "score": 0},
+            {"text": "B. language used in offices", "score": 1},
+            {"text": "C. plural number of office", "score": 0},
+            {"text": "D. vague expressions", "score": 0}
+        ],
+        "correct_answer": "B. language used in offices",
+        "hint": "'Officialese' refers to bureaucratic language."
+    },
+    {
+        "question": "33. The verb ‘succumb’ means–",
+        "answers": [
+            {"text": "A. achieve", "score": 0},
+            {"text": "B. submit", "score": 1},
+            {"text": "C. win", "score": 0},
+            {"text": "D. conquer", "score": 0}
+        ],
+        "correct_answer": "B. submit",
+        "hint": "'Succumb' relates to giving in or submitting."
+    },
+    {
+        "question": "34. **Choose the correct form:**",
+        "answers": [
+            {"text": "A. to receiving", "score": 0},
+            {"text": "B. to receive", "score": 1},
+            {"text": "C. in receiving", "score": 0},
+            {"text": "D. for receiving", "score": 0}
+        ],
+        "correct_answer": "B. to receive",
+        "hint": "Following 'look forward to,' use the base verb form."
+    },
+    {
+        "question": "35. If a part of a speech or writing breaks the theme, it is called ___",
+        "answers": [
+            {"text": "A. pomposity", "score": 0},
+            {"text": "B. digression", "score": 1},
+            {"text": "C. exaggeration", "score": 0},
+            {"text": "D. anti-climax", "score": 0}
+        ],
+        "correct_answer": "B. digression",
+        "hint": "'Digression' denotes straying from the main topic."
+    },
+    {
+        "question": "36. The expression ‘take into account’ means–",
+        "answers": [
+            {"text": "A. count numbers", "score": 0},
+            {"text": "B. consider", "score": 1},
+            {"text": "C. think seriously", "score": 0},
+            {"text": "D. assess", "score": 0}
+        ],
+        "correct_answer": "B. consider",
+        "hint": "'Take into account' signifies consideration."
+    },
+    {
+        "question": "37. **Choose the best translation of ‘কর্তৃপক্ষ তাকে তিরস্কার করলো’ from the alternatives below–",
+        "answers": [
+            {"text": "A. The authorities criticised him.", "score": 0},
+            {"text": "B. The authorities took him to book.", "score": 0},
+            {"text": "C. The authorities gave reins to him.", "score": 0},
+            {"text": "D. The authorities took him to task.", "score": 1}
+        ],
+        "correct_answer": "D. The authorities took him to task.",
+        "hint": "'Take to task' means to criticize severely."
+    },
+    {
+        "question": "38. “Such claim needs to be tested empirically” suggests that–",
+        "answers": [
+            {"text": "A. The test should be based on assumption.", "score": 0},
+            {"text": "B. The test should be based on idea.", "score": 0},
+            {"text": "C. The test should be based on experience.", "score": 1},
+            {"text": "D. The test should be based on calculation.", "score": 0}
+        ],
+        "correct_answer": "C. The test should be based on experience.",
+        "hint": "'Empirically' implies testing through experience."
+    },
+    {
+        "question": "39. The idiom “put up with” means –",
+        "answers": [
+            {"text": "A. stay together", "score": 0},
+            {"text": "B. tolerate", "score": 1},
+            {"text": "C. keep trust", "score": 0},
+            {"text": "D. protect", "score": 0}
+        ],
+        "correct_answer": "B. tolerate",
+        "hint": "'Put up with' implies to endure or tolerate."
+    },
+    {
+        "question": "40. In many ways, riding a bicycle is similar to-",
+        "answers": [
+            {"text": "A. driving a car", "score": 1},
+            {"text": "B. when one drives a car", "score": 0},
+            {"text": "C. the driving of a car", "score": 0},
+            {"text": "D. when we drive a car", "score": 0}
+        ],
+        "correct_answer": "A. driving a car.",
+        "hint": "Bicycle and car riding share similar phrasing."
+    },
+    {
+        "question": "41. বাংলাদেশের সংবিধানে এখন পর্যন্ত কতটি সংশোধনী আনা হয়েছে?",
+        "answers": [
+            {"text": "A. ১৭", "score": 0},
+            {"text": "B. ১৫", "score": 0},
+            {"text": "C. ২০", "score": 0},
+            {"text": "D. ১৯", "score": 1}
+        ],
+        "correct_answer": "D. ১৯",
+        "hint": "বাংলাদেশের সংবিধানে ১৯টি সংশোধনী আনা হয়েছে।"
+    },
+    {
+        "question": "42. পূর্বাশা দ্বীপের অপর নাম কি?",
+        "answers": [
+            {"text": "A. নিঝুম দ্বীপ", "score": 0},
+            {"text": "B. সন্দ্বীপ", "score": 0},
+            {"text": "C. দক্ষিণ তালপট্টি", "score": 1},
+            {"text": "D. কুতুবদিয়া", "score": 0}
+        ],
+        "correct_answer": "C. দক্ষিণ তালপট্টি",
+        "hint": "'দক্ষিণ তালপট্টি' দ্বীপটি পূর্বাশা হিসেবেও পরিচিত।"
+    },
+    {
+        "question": "43. মুজিবনগর কোন জেলায় অবস্থিত?",
+        "answers": [
+            {"text": "A. যশোর", "score": 0},
+            {"text": "B. কুষ্টিয়া", "score": 0},
+            {"text": "C. মেহেরপুর", "score": 1},
+            {"text": "D. চুয়াডাঙ্গা", "score": 0}
+        ],
+        "correct_answer": "C. মেহেরপুর",
+        "hint": "'মুজিবনগর' অবস্থিত মেহেরপুরে।"
+    },
+    {
+        "question": "44. বাংলাদেশের সেন্টমার্টিন দ্বীপ কোন জেলায়?",
+        "answers": [
+            {"text": "A. ভোলা", "score": 0},
+            {"text": "B. নোয়াখালী", "score": 0},
+            {"text": "C. চট্টগ্রাম", "score": 1},
+            {"text": "D. কক্সবাজার", "score": 0}
+        ],
+        "correct_answer": "C. চট্টগ্রাম",
+        "hint": "'সেন্টমার্টিন দ্বীপ' চট্টগ্রাম জেলার অন্তর্গত।"
+    },
+    {
+        "question": "45. বাংলাদেশের সর্বাধিক বৈদেশিক মুদ্রা অর্জনকারী বিষয় কি?",
+        "answers": [
+            {"text": "A. প্রবাসী শ্রমিক", "score": 1},
+            {"text": "B. পাট", "score": 0},
+            {"text": "C. রেডিমেড গার্মেন্টস", "score": 0},
+            {"text": "D. চামড়া", "score": 0}
+        ],
+        "correct_answer": "A. প্রবাসী শ্রমিক",
+        "hint": "প্রবাসী শ্রমিকদের মাধ্যমে বৈদেশিক মুদ্রা অর্জন হয়।"
+    },
+    {
+        "question": "46. ‘শালবন বিহার’ কোথায়?",
+        "answers": [
+            {"text": "A. গাজীপুর", "score": 0},
+            {"text": "B. মধুপুর", "score": 1},
+            {"text": "C. রাজবাড়ী", "score": 0},
+            {"text": "D. কুমিল্লার ময়নামতি পাহাড়ের পাশে", "score": 0}
+        ],
+        "correct_answer": "B. মধুপুর",
+        "hint": "'শালবন বিহার' মধুপুরে অবস্থিত।"
+    },
+    {
+        "question": "47. ‘সাবাস বাংলাদেশ’ ভাস্কর্যটি কোথায় অবস্থিত?",
+        "answers": [
+            {"text": "A. টিএসসি মোড়ে", "score": 0},
+            {"text": "B. ঢাকা বিশ্ববিদ্যালয়ে", "score": 0},
+            {"text": "C. রেসকোর্স ময়দানে", "score": 0},
+            {"text": "D. রাজশাহী বিশ্ববিদ্যালয়ে", "score": 1}
+        ],
+        "correct_answer": "D. রাজশাহী বিশ্ববিদ্যালয়ে",
+        "hint": "'সাবাস বাংলাদেশ' ভাস্কর্য রাজশাহী বিশ্ববিদ্যালয়ে অবস্থিত।"
+    },
+    {
+        "question": "48. এশিয়া কাপ ক্রিকেট, ২০১২ কোন স্টেডিয়ামে অনুষ্ঠিত হয়?",
+        "answers": [
+            {"text": "A. বঙ্গবন্ধু জাতীয় স্টেডিয়াম", "score": 0},
+            {"text": "B. শেরে বাংলা জাতীয় স্টেডিয়াম", "score": 1},
+            {"text": "C. বাংলাদেশ আর্মি স্টেডিয়াম", "score": 0},
+            {"text": "D. রাজশাহী স্টেডিয়াম", "score": 0}
+        ],
+        "correct_answer": "B. শেরে বাংলা জাতীয় স্টেডিয়াম",
+        "hint": "২০১২ সালের এশিয়া কাপ শেরে বাংলা জাতীয় স্টেডিয়ামে অনুষ্ঠিত হয়।"
+    },
+    {
+        "question": "49. বাংলাদেশের জাতীয় দিবস কবে?",
+        "answers": [
+            {"text": "A. ১৬ ডিসেম্বর", "score": 0},
+            {"text": "B. ৭ মার্চ", "score": 0},
+            {"text": "C. ২৬ মার্চ", "score": 1},
+            {"text": "D. ১৭ এপ্রিল", "score": 0}
+        ],
+        "correct_answer": "C. ২৬ মার্চ",
+        "hint": "বাংলাদেশের জাতীয় দিবস হলো ২৬ মার্চ।"
+    },
+    {
+        "question": "50. শ্রীলঙ্কার মুদ্রার নাম কি?",
+        "answers": [
+            {"text": "A. ডলার", "score": 0},
+            {"text": "B. পাউন্ড", "score": 0},
+            {"text": "C. টাকা", "score": 0},
+            {"text": "D. রূপী", "score": 1}
+        ],
+        "correct_answer": "D. রূপী",
+        "hint": "শ্রীলঙ্কার মুদ্রার নাম হলো রুপি।"
+    },
+    {
+        "question": "51. সার্ক-এর সদস্য দেশ কয়টি?",
+        "answers": [
+            {"text": "A. ৬", "score": 0},
+            {"text": "B. ৭", "score": 1},
+            {"text": "C. ৮", "score": 0},
+            {"text": "D. ৯", "score": 0}
+        ],
+        "correct_answer": "B. ৭",
+        "hint": "সার্কভুক্ত দেশ ৭টি।"
+    },
+    {
+        "question": "52. বাংলাদেশের প্রথম প্রধান সেনাপতি কে ছিলেন?",
+        "answers": [
+            {"text": "A. মে. জে. জিয়াউর রহমান", "score": 0},
+            {"text": "B. মে. জে. সফিউল্লাহ", "score": 0},
+            {"text": "C. লে. জে. এইচ. এম এরশাদ", "score": 0},
+            {"text": "D. জে. আতাউল গনি ওসমানী", "score": 1}
+        ],
+        "correct_answer": "D. জে. আতাউল গনি ওসমানী",
+        "hint": "জে. আতাউল গনি ওসমানী প্রথম প্রধান সেনাপতি।"
+    },
+    {
+        "question": "53. বাংলাদেশের রাজধানী কোথায়?",
+        "answers": [
+            {"text": "A. ঢাকা উত্তর", "score": 0},
+            {"text": "B. ঢাকা দক্ষিণ", "score": 0},
+            {"text": "C. ঢাকা", "score": 1},
+            {"text": "D. শেরে বাংলা নগর", "score": 0}
+        ],
+        "correct_answer": "C. ঢাকা",
+        "hint": "বাংলাদেশের রাজধানী হলো ঢাকা।"
+    },
+    {
+        "question": "54. পৃথিবীর বৃহত্তম বিমান বন্দরটি কোথায় অবস্থিত?",
+        "answers": [
+            {"text": "A. নিউইয়র্ক", "score": 0},
+            {"text": "B. লন্ডন", "score": 0},
+            {"text": "C. বার্লিন", "score": 0},
+            {"text": "D. জেদ্দা", "score": 1}
+        ],
+        "correct_answer": "D. জেদ্দা",
+        "hint": "সৌদি আরবের কিং ফাহাদ আন্তর্জাতিক বিমানবন্দর হলো বৃহত্তম।"
+    },
+    {
+        "question": "55. পৃথিবীর গভীরতম স্থান কোন মহাসাগরে?",
+        "answers": [
+            {"text": "A. ভারত", "score": 0},
+            {"text": "B. আটলান্টিক", "score": 0},
+            {"text": "C. প্রশান্ত", "score": 1},
+            {"text": "D. উত্তর", "score": 0}
+        ],
+        "correct_answer": "C. প্রশান্ত",
+        "hint": "মারিয়ানা ট্রেঞ্চ প্রশান্ত মহাসাগরে অবস্থিত।"
+    },
+    {
+        "question": "56. পৃথিবীর গভীরতম হ্রদ কোনটি?",
+        "answers": [
+            {"text": "A. কাস্পিয়ান", "score": 0},
+            {"text": "B. বৈকাল", "score": 1},
+            {"text": "C. মানস সরোবর", "score": 0},
+            {"text": "D. ডেড সী (Dead Sea)", "score": 0}
+        ],
+        "correct_answer": "B. বৈকাল",
+        "hint": "বৈকাল হ্রদ বিশ্বের গভীরতম হ্রদ।"
+    },
+    {
+        "question": "57. ২০১৪ সালে বিশ্বকাপ ফুটবল কোথায় অনুষ্ঠিত হবে?",
+        "answers": [
+            {"text": "A. লন্ডন", "score": 0},
+            {"text": "B. বার্লিন", "score": 0},
+            {"text": "C. ব্রাজিল", "score": 1},
+            {"text": "D. আর্জেন্টিনা", "score": 0}
+        ],
+        "correct_answer": "C. ব্রাজিল",
+        "hint": "২০১৪ সালের বিশ্বকাপ ব্রাজিলে অনুষ্ঠিত হয়।"
+    },
+    {
+        "question": "58. শিল্পী জয়নুল আবেদিনের সংগ্রহশালাটি কোথায়?",
+        "answers": [
+            {"text": "A. ঢাকায়", "score": 0},
+            {"text": "B. ময়মনসিংহে", "score": 1},
+            {"text": "C. চট্টগ্রামে", "score": 0},
+            {"text": "D. নড়াইলে", "score": 0}
+        ],
+        "correct_answer": "B. ময়মনসিংহে",
+        "hint": "ময়মনসিংহে শিল্পী জয়নুল আবেদিনের সংগ্রহশালা অবস্থিত।"
+    },
+    {
+        "question": "59. বাংলাদেশের কোন ছবি সম্প্রতি ‘কলকাতা ফিল্ম ফেস্টিভাল’ পুরস্কার লাভ করে?",
+        "answers": [
+            {"text": "A. ওরা এগার জন", "score": 0},
+            {"text": "B. গেরিলা", "score": 1},
+            {"text": "C. আবার তোরা মানুষ হ", "score": 0},
+            {"text": "D. স্টপ জেনোসাইড", "score": 0}
+        ],
+        "correct_answer": "B. গেরিলা",
+        "hint": "'গেরিলা' ছবিটি কলকাতা ফিল্ম ফেস্টিভাল পুরস্কার লাভ করে।"
+    },
+    {
+        "question": "60. বাংলাদেশের আপিল বিভাগের মোট বিচারক কতজন?",
+        "answers": [
+            {"text": "A. ১১", "score": 1},
+            {"text": "B. ২১", "score": 0},
+            {"text": "C. ৯", "score": 0},
+            {"text": "D. ১৫", "score": 0}
+        ],
+        "correct_answer": "A. ১১",
+        "hint": "আপিল বিভাগে বিচারক সংখ্যা ১১।"
+    },
+    {
+        "question": "61. কোনটি এন্টিবায়োটিক?",
+        "answers": [
+            {"text": "A. ইনসুলিন", "score": 0},
+            {"text": "B. পেপসিন", "score": 0},
+            {"text": "C. পেনিসিলিন", "score": 1},
+            {"text": "D. ইথিলিন", "score": 0}
+        ],
+        "correct_answer": "C. পেনিসিলিন",
+        "hint": "'পেনিসিলিন' হলো একটি এন্টিবায়োটিক।"
+    },
+    {
+        "question": "62. জন্ডিসে আক্রান্ত হয়–",
+        "answers": [
+            {"text": "A. যকৃত", "score": 1},
+            {"text": "B. কিডনি", "score": 0},
+            {"text": "C. পাকস্থলী", "score": 0},
+            {"text": "D. হৃৎপিণ্ড", "score": 0}
+        ],
+        "correct_answer": "A. যকৃত",
+        "hint": "'জন্ডিস' রোগে যকৃত আক্রান্ত হয়।"
+    },
+    {
+        "question": "63. কোনটি বিদ্যুৎ পরিবাহী নয়?",
+        "answers": [
+            {"text": "A. তামা", "score": 0},
+            {"text": "B. লোহা", "score": 0},
+            {"text": "C. রূপা", "score": 0},
+            {"text": "D. রাবার", "score": 1}
+        ],
+        "correct_answer": "D. রাবার",
+        "hint": "'রাবার' হলো একটি অচৌম্বক পদার্থ।"
+    },
+    {
+        "question": "64. কোনটি নবায়নযোগ্য শক্তির উৎস?",
+        "answers": [
+            {"text": "A. সূর্যরশ্মি", "score": 1},
+            {"text": "B. পীট কয়লা", "score": 0},
+            {"text": "C. পেট্রোল", "score": 0},
+            {"text": "D. প্রাকৃতিক গ্যাস", "score": 0}
+        ],
+        "correct_answer": "A. সূর্যরশ্মি",
+        "hint": "'সূর্যরশ্মি' হলো নবায়নযোগ্য শক্তির উৎস।"
+    },
+    {
+        "question": "65. ইন্টারনেট চালুর বছর-",
+        "answers": [
+            {"text": "A. ১৯৫৯", "score": 0},
+            {"text": "B. ১৯৬৫", "score": 0},
+            {"text": "C. ১৯৬৯", "score": 1},
+            {"text": "D. ১৯৮১", "score": 0}
+        ],
+        "correct_answer": "C. ১৯৬৯",
+        "hint": "ইন্টারনেট ১৯৬৯ সালে চালু হয়।"
+    },
+    {
+        "question": "66. MKS পদ্ধতিতে ভরের একক-",
+        "answers": [
+            {"text": "A. কিলোগ্রাম", "score": 1},
+            {"text": "B. পাউন্ড", "score": 0},
+            {"text": "C. গ্রাম", "score": 0},
+            {"text": "D. আউন্স", "score": 0}
+        ],
+        "correct_answer": "A. কিলোগ্রাম",
+        "hint": "MKS পদ্ধতিতে ভরের একক কিলোগ্রাম।"
+    },
+    {
+        "question": "67. কোনটিকে চুম্বকে পরিণত করা যায়?",
+        "answers": [
+            {"text": "A. তামা", "score": 0},
+            {"text": "B. ইস্পাত", "score": 1},
+            {"text": "C. পিতল", "score": 0},
+            {"text": "D. স্বর্ণ", "score": 0}
+        ],
+        "correct_answer": "B. ইস্পাত",
+        "hint": "'ইস্পাত' চুম্বক হিসাবে ব্যবহৃত হতে পারে।"
+    },
+    {
+        "question": "68. অ্যালটিমিটার (Altimeter) কি?",
+        "answers": [
+            {"text": "A. তাপ পরিমাপক যন্ত্র", "score": 0},
+            {"text": "B. উষ্ণতা পরিমাপক যন্ত্র", "score": 0},
+            {"text": "C. গ্যাসের চাপ পরিমাপক যন্ত্র", "score": 0},
+            {"text": "D. উচ্চতা পরিমাপক যন্ত্র", "score": 1}
+        ],
+        "correct_answer": "D. উচ্চতা পরিমাপক যন্ত্র",
+        "hint": "'অ্যালটিমিটার' উচ্চতা পরিমাপক যন্ত্র।"
+    },
+    {
+        "question": "69. কোনটি মৌলিক পদার্থ?",
+        "answers": [
+            {"text": "A. লোহা", "score": 1},
+            {"text": "B. ব্রোঞ্জ", "score": 0},
+            {"text": "C. পানি", "score": 0},
+            {"text": "D. ইস্পাত", "score": 0}
+        ],
+        "correct_answer": "A. লোহা",
+        "hint": "'লোহা' একটি মৌলিক পদার্থ।"
+    },
+    {
+        "question": "70. কোন ধাতু স্বাভাবিক তাপমাত্রায় তরল থাকে?",
+        "answers": [
+            {"text": "A. পারদ", "score": 1},
+            {"text": "B. লিথিয়াম", "score": 0},
+            {"text": "C. জার্মেনিয়াম", "score": 0},
+            {"text": "D. ইউরেনিয়াম", "score": 0}
+        ],
+        "correct_answer": "A. পারদ",
+        "hint": "'পারদ' স্বাভাবিক অবস্থায় তরল।"
+    },
+    {
+        "question": "71. স্টেইনলেস স্টিলের অন্যতম উপাদান-",
+        "answers": [
+            {"text": "A. তামা", "score": 0},
+            {"text": "B. দস্তা", "score": 0},
+            {"text": "C. ক্রোমিয়াম", "score": 1},
+            {"text": "D. এলুমিনিয়াম", "score": 0}
+        ],
+        "correct_answer": "C. ক্রোমিয়াম",
+        "hint": "'স্টেইনলেস স্টিল' এর অন্যতম উপাদান হলো ক্রোমিয়াম।"
+    },
+    {
+        "question": "72. সর্বাপেক্ষা হালকা গ্যাস–",
+        "answers": [
+            {"text": "A. অক্সিজেন", "score": 0},
+            {"text": "B. হাইড্রোজেন", "score": 1},
+            {"text": "C. র‌্যাডন", "score": 0},
+            {"text": "D. নাইট্রোজেন", "score": 0}
+        ],
+        "correct_answer": "B. হাইড্রোজেন",
+        "hint": "হাইড্রোজেন হলো সবচেয়ে হালকা গ্যাস।"
+    },
+    {
+        "question": "73. ভারী পানির রাসায়নিক সংকেত–",
+        "answers": [
+            {"text": "A. D2O", "score": 1},
+            {"text": "B. H2O", "score": 0},
+            {"text": "C. H2O2", "score": 0},
+            {"text": "D. O2H", "score": 0}
+        ],
+        "correct_answer": "A. D2O",
+        "hint": "'ভারী পানি' হলো D2O এর অণুরূপ।"
+    },
+    {
+        "question": "74. লোহাকে গ্যালভানাইজিং করতে ব্যবহৃত হয়–",
+        "answers": [
+            {"text": "A. তামা", "score": 0},
+            {"text": "B. দস্তা", "score": 1},
+            {"text": "C. রূপা", "score": 0},
+            {"text": "D. এলুমিনিয়াম", "score": 0}
+        ],
+        "correct_answer": "B. দস্তা",
+        "hint": "'গ্যালভানাইজিং' করতে দস্তা ব্যবহার করা হয়।"
+    },
+    {
+        "question": "75. সংকর ধাতু পিতলের উপাদান-",
+        "answers": [
+            {"text": "A. তামা ও টিন", "score": 1},
+            {"text": "B. তামা ও দস্তা", "score": 0},
+            {"text": "C. তামা ও সীসা", "score": 0},
+            {"text": "D. তামা ও নিকেল", "score": 0}
+        ],
+        "correct_answer": "A. তামা ও টিন",
+        "hint": "'পিতল' হলো তামা ও টিনের মিশ্রণ।"
+    },
+    {
+        "question": "76. কোনটি সিমেন্ট তৈরির অন্যতম কাঁচামাল?",
+        "answers": [
+            {"text": "A. জিপসাম", "score": 1},
+            {"text": "B. সালফার", "score": 0},
+            {"text": "C. সোডিয়াম", "score": 0},
+            {"text": "D. খনিজ লবণ", "score": 0}
+        ],
+        "correct_answer": "A. জিপসাম",
+        "hint": "'সিমেন্ট' তৈরির অন্যতম কাঁচামাল হলো জিপসাম।"
+    },
+    {
+        "question": "77. বিগব্যাঙ তত্ত্বের প্রবক্তা–",
+        "answers": [
+            {"text": "A. আইনস্টাইন", "score": 0},
+            {"text": "B. জি. ল্যামেটার", "score": 1},
+            {"text": "C. স্টিফেন হকিং", "score": 0},
+            {"text": "D. গ্যালিলিও", "score": 0}
+        ],
+        "correct_answer": "B. জি. ল্যামেটার",
+        "hint": "'বিগব্যাঙ' তত্ত্বের প্রবক্তা হলো জর্জ ল্যামেটার।"
+    },
+    {
+        "question": "78. মহাজাগতিক রশ্মির আবিষ্কারক–",
+        "answers": [
+            {"text": "A. হেস", "score": 1},
+            {"text": "B. আইনস্টাইন", "score": 0},
+            {"text": "C. টলেমি", "score": 0},
+            {"text": "D. হাবল", "score": 0}
+        ],
+        "correct_answer": "A. হেস",
+        "hint": "'মহাজাগতিক রশ্মি' আবিষ্কারের জন্য হেস নোবেল পেয়েছিলেন।"
+    },
+    {
+        "question": "79. ইউরি গ্যাগারিন মহাশূন্যে যান–",
+        "answers": [
+            {"text": "A. ১৯৫৬ সালে", "score": 0},
+            {"text": "B. ১৯৬১ সালে", "score": 1},
+            {"text": "C. ১৯৬৪ সালে", "score": 0},
+            {"text": "D. ১৯৬৯ সালে", "score": 0}
+        ],
+        "correct_answer": "B. ১৯৬১ সালে",
+        "hint": "গ্যাগারিন ১৯৬১ সালে মহাশূন্যে যান।"
+    },
+    {
+        "question": "80. গ্রিনিচ মানমন্দির অবস্থিত-",
+        "answers": [
+            {"text": "A. যুক্তরাজ্যে", "score": 1},
+            {"text": "B. যুক্তরাষ্ট্রে", "score": 0},
+            {"text": "C. ফ্রান্সে", "score": 0},
+            {"text": "D. জার্মানিতে", "score": 0}
+        ],
+        "correct_answer": "A. যুক্তরাজ্যে",
+        "hint": "'গ্রিনিচ মানমন্দির' অবস্থিত যুক্তরাজ্যে।"
+    },
+    {
+        "question": "81. তিন সদস্যের একটি বিতর্ক দলের সদস্যদের গড় বয়স ২৪ বছর। যদি কোনো সদস্যের বয়সই ২১ বছরের নিচে না হয় তবে তাদের কোনো একজনের সর্বোচ্চ বয়স কত হতে পারে?",
+        "answers": [
+            {"text": "A. ২৫ বছর", "score": 0},
+            {"text": "B. ৩০ বছর", "score": 1},
+            {"text": "C. ২৮ বছর", "score": 0},
+            {"text": "D. ৩২ বছর", "score": 0}
+        ],
+        "correct_answer": "B. ৩০ বছর",
+        "hint": "যদি ২১ বছরের নিচে না হয় তবে একজনের বয়স ৩০ হতে পারে।"
+    },
+    {
+        "question": "82. = কত?",
+        "answers": [
+            {"text": "A. 12", "score": 0},
+            {"text": "B. 48", "score": 1},
+            {"text": "C. 36", "score": 0},
+            {"text": "D. 144", "score": 0}
+        ],
+        "correct_answer": "B. 48",
+        "hint": "সঠিকভাবে সংখ্যা নির্ধারণ করতে হবে।"
+    },
+    {
+        "question": "83. একটি সমকোণী ত্রিভুজের লম্ব ভূমি অপেক্ষা ২ সে.মি. ছোট; কিন্তু অতিভুজ ভূমি অপেক্ষা ২ সে. মি. বড়। অতিভুজের দৈর্ঘ্য কত?",
+        "answers": [
+            {"text": "A. ১০ সে. মি.", "score": 1},
+            {"text": "B. ৮ সে. মি.", "score": 0},
+            {"text": "C. ৪ সে. মি.", "score": 0},
+            {"text": "D. ৬ সে. মি.", "score": 0}
+        ],
+        "correct_answer": "A. ১০ সে. মি.",
+        "hint": "সমকোণী ত্রিভুজের চিহ্নিত করতে হবে অতিভুজের দৈর্ঘ্য।"
+    },
+    {
+        "question": "84.  সংখ্যা গড় ____ এবং ____ সংখ্যক সংখ্যার গড় ____ হলে সব সংখ্যার গড় কত?",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. ", "score": 0}
+        ],
+        "correct_answer": "A. ",
+        "hint": "অবশ্যই মান নির্ধারণ করা উচিত।"
+    },
+    {
+        "question": "85. যদি ____ হয় তবে ____ এর মান কত?",
+        "answers": [
+            {"text": "A. 8", "score": 0},
+            {"text": "B. 3", "score": 1},
+            {"text": "C. 5", "score": 0},
+            {"text": "D. 4", "score": 0}
+        ],
+        "correct_answer": "B. 3",
+        "hint": "চূড়ান্ত মান জানতে হবে।"
+    },
+    {
+        "question": "86. = কত?",
+        "answers": [
+            {"text": "A. a", "score": 0},
+            {"text": "B. 1", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. ", "score": 0}
+        ],
+        "correct_answer": "A. a",
+        "hint": "ক্রিয়ার সঠিকভাবে ব্যবধান বের করতে হবে।"
+    },
+    {
+        "question": "87. একটি সাবানের আকার ৫ সে.মি. × ৪ সে.মি. × ১.৫ সে.মি. হলে ৫৫ সে.মি. দৈর্ঘ্য, ৪৮ সে.মি. প্রস্থ এবং ৩০ সে.মি. উচ্চতাবিশিষ্ট একটি বাক্সের মধ্যে কতটি সাবান রাখা যাবে?",
+        "answers": [
+            {"text": "A. ২৬৪০টি", "score": 0},
+            {"text": "B. ১৩২০টি", "score": 1},
+            {"text": "C. ৩৬০০টি", "score": 0},
+            {"text": "D. ৫২৪০টি", "score": 0}
+        ],
+        "correct_answer": "B. ১৩২০টি",
+        "hint": "বাক্সের পরিসীমা জানিয়ে সাবানের সংখ্যা বের করতে হবে।"
+    },
+    {
+        "question": "88. যদি সেট A={5, 15, 20, 30} এবং B={3, 5, 15, 18, 20} হয় তবে নিচের কোনটি A∩B নির্দেশ করবে?",
+        "answers": [
+            {"text": "A. {3, 18, 30}", "score": 0},
+            {"text": "B. {3, 5, 15, 18, 20, 30}", "score": 0},
+            {"text": "C. {5, 15, 20}", "score": 1},
+            {"text": "D. কোনটিই নয়", "score": 0}
+        ],
+        "correct_answer": "C. {5, 15, 20}",
+        "hint": "A∩B হলো A এবং B এর উপস্থিত মান।"
+    },
+    {
+        "question": "89. ১,১,২,৩,৫,৮,১৩,২১.............. ধারার ১০ম পদটি কত?",
+        "answers": [
+            {"text": "A. ৩৪", "score": 1},
+            {"text": "B. ৫৫", "score": 0},
+            {"text": "C. ৪৮", "score": 0},
+            {"text": "D. ৬৪", "score": 0}
+        ],
+        "correct_answer": "A. ৩৪",
+        "hint": "ফিবোনাচ্চি ধারার ১০ম পদ বের করতে হবে।"
+    },
+    {
+        "question": "90.  এর মান নিচের কোনটি?",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. ", "score": 0}
+        ],
+        "correct_answer": "A. ",
+        "hint": "বিষয়ের সঠিক মান বের করতে হবে।"
+    },
+    {
+        "question": "91. রকীব সাহেব ৩,৭৩,৮৯৯ টাকা ব্যাংকে রাখলেন। ৭ বছর পর তিনি আসল টাকার ১/১৪ অংশ সুদ পেলেন। ব্যাংকের সুদের হার কত?",
+        "answers": [
+            {"text": "A. ১/২", "score": 0},
+            {"text": "B. ১/৬", "score": 0},
+            {"text": "C. ৮/৩", "score": 1},
+            {"text": "D. ১/৯", "score": 0}
+        ],
+        "correct_answer": "C. ৮/৩",
+        "hint": "সুদ নির্ধারণে গণনা করতে হবে।"
+    },
+    {
+        "question": "92. নিচের কোনটা  এর সমান?",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. +", "score": 0}
+        ],
+        "correct_answer": "A. ",
+        "hint": "হিসাব করুন এর সঠিক মান বের করুন।"
+    },
+    {
+        "question": "93. ৫ জন তাঁত-শ্রমিক ৫ দিনে ৫টি কাপড় বুনতে পারে। একই ধরনের ৭টি কাপড় বুনতে ৭ জন শ্রমিকের কত দিন লাগবে?",
+        "answers": [
+            {"text": "A. ৫ দিন", "score": 0},
+            {"text": "B. ২/৫/৪/৯ দিন", "score": 1},
+            {"text": "C. ৪/৯/২/৫ দিন", "score": 0},
+            {"text": "D. ৭ দিন", "score": 0}
+        ],
+        "correct_answer": "B. ২/৫/৪/৯ দিন",
+        "hint": "গণনা করে শ্রমিকের সংখ্যা অনুযায়ী সময় বের করতে হবে।"
+    },
+    {
+        "question": "94. হলে ____ এ রর মান কত?",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. 3", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. 2", "score": 1}
+        ],
+        "correct_answer": "D. 2",
+        "hint": "মান নির্ধারণ করতে সংখ্যাগুলি বের করুন।"
+    },
+    {
+        "question": "95. একটি ত্রিভুজের দুটি কোণের পরিমাণ ৩৫°ও ৫৫°। ত্রিভুজটি কোন ধরনের?",
+        "answers": [
+            {"text": "A. সমকোণী", "score": 0},
+            {"text": "B. সমবাহু", "score": 0},
+            {"text": "C. সমদ্বিবাহু", "score": 1},
+            {"text": "D. স্থূলকোণী", "score": 0}
+        ],
+        "correct_answer": "C. সমদ্বিবাহু",
+        "hint": "ত্রিভুজের সংজ্ঞা অনুযায়ী এটি সমদ্বিবাহু।"
+    },
+    {
+        "question": "96. হলে ____= কত?",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. ", "score": 0}
+        ],
+        "correct_answer": "A. ",
+        "hint": "সঠিক ফলাফল বের করতে হবে।"
+    },
+    {
+        "question": "97. একটি আয়তাকার ঘরের দৈর্ঘ্য প্রস্থ অপেক্ষা ৪ মিটার বেশি। ঘরটির পরিসীমা ৩২ মিটার হলে ঘরটির দৈর্ঘ্য কত?",
+        "answers": [
+            {"text": "A. ৬ মিটার", "score": 0},
+            {"text": "B. ১০ মিটার", "score": 1},
+            {"text": "C. ১৮ মিটার", "score": 0},
+            {"text": "D. ১২ মিটার", "score": 0}
+        ],
+        "correct_answer": "B. ১০ মিটার",
+        "hint": "ঘরের দৈর্ঘ্য বের করতে হবে তার পরিসীমা অনুযায়ী।"
+    },
+    {
+        "question": "98. একটি সমবাহু ত্রিভুজের বাহুর প্রত্যেকটির দৈর্ঘ্য ২ মিটার বাড়ালে এর ক্ষেত্রফল ____ বর্গমিটার বেড়ে যায়। সমবাহু ত্রিভুজের বাহুর দৈর্ঘ্য কত?",
+        "answers": [
+            {"text": "A. 1 মিটার", "score": 0},
+            {"text": "B. 2 মিটার", "score": 0},
+            {"text": "C. 3 মিটার", "score": 1},
+            {"text": "D. 4 মিটার", "score": 0}
+        ],
+        "correct_answer": "C. 3 মিটার",
+        "hint": "ক্ষেত্রফল নির্ধারণের সূত্র ব্যবহার করতে হবে।"
+    },
+    {
+        "question": "99. ৩ সে.মি., ৪ সে.মি. ও ৫ সে.মি. বাহুবিশিষ্ট তিনটি ঘনক গলিয়ে নতুন একটি ঘনক তৈরি করা হল। নতুন ঘনকের বাহুর দৈর্ঘ্য কত হবে?",
+        "answers": [
+            {"text": "A. ৭.৫ সে.মি.", "score": 0},
+            {"text": "B. ৬.৫ সে.মি.", "score": 0},
+            {"text": "C. ৬ সে.মি.", "score": 1},
+            {"text": "D. ৭ সে.মি.", "score": 0}
+        ],
+        "correct_answer": "C. ৬ সে.মি.",
+        "hint": "ঘনক গলানোর পরে নতুন ঘনকের দৈর্ঘ্য বের করতে হবে।"
+    },
+    {
+        "question": "100. একটি রম্বসের কর্ণদ্বয়ের দৈর্ঘ্য ৮ সে.মি. ও ৯ সে.মি.। এই রম্বসের ক্ষেত্রফলের সমান ক্ষেত্রফলবিশিষ্ট বর্গক্ষেত্রের পরিসীমা কত?",
+        "answers": [
+            {"text": "A. ২৪ সে.মি.", "score": 1},
+            {"text": "B. ১৮ সে.মি.", "score": 0},
+            {"text": "C. ৩৬ সে.মি.", "score": 0},
+            {"text": "D. ১২ সে.মি.", "score": 0}
+        ],
+        "correct_answer": "A. ২৪ সে.মি.",
+        "hint": "রম্বসের ক্ষেত্রফল বের করে বর্গক্ষেত্রের পরিসীমা নির্ধারণ করতে হবে।"
+    }
+]

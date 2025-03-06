@@ -1,0 +1,1102 @@
+[
+    {
+        "question": "1. ‘চর্যাপদ’ কত সালে আবিষ্কৃত হয়?",
+        "answers": [
+            {"text": "A. ১৮০০", "score": 0},
+            {"text": "B. ১৮৫৭", "score": 0},
+            {"text": "C. ১৯০৭", "score": 1},
+            {"text": "D. ১৯০৯", "score": 0}
+        ],
+        "correct_answer": "C. ১৯০৭",
+        "hint": "'চর্যাপদ' আবিষ্কার করেন হরপ্রসাদ শাস্ত্রী ১৯০৭ সালে।"
+    },
+    {
+        "question": "2. বাংলা সাহিত্যের পঠন-পাঠনের সুবিধার জন্য বাংলা সাহিত্যের ইতিহাসকে তিনটি যুগে ভাগ করা হয়েছে- বাংলা সাহিত্যের প্রাচীন যুগ।",
+        "answers": [
+            {"text": "A. ৪৫০-৬৫০", "score": 0},
+            {"text": "B. ৬৫০-৮৫০", "score": 0},
+            {"text": "C. ৬৫০-১২০০", "score": 1},
+            {"text": "D. ৬৫০-১২৫০", "score": 0}
+        ],
+        "correct_answer": "C. ৬৫০-১২০০",
+        "hint": "বাংলা সাহিত্যের প্রাচীন যুগ ৬৫০-১২০০ সাল পর্যন্ত।"
+    },
+    {
+        "question": "3. মধ্যযুগের কবি নন কে?",
+        "answers": [
+            {"text": "A. জয়নন্দী", "score": 1},
+            {"text": "B. বড়ু চণ্ডীদাস", "score": 0},
+            {"text": "C. গোবিন্দ দাস", "score": 0},
+            {"text": "D. জ্ঞান দাস", "score": 0}
+        ],
+        "correct_answer": "A. জয়নন্দী",
+        "hint": "'জয়নন্দী' মধ্যযুগের কবি নয়।"
+    },
+    {
+        "question": "4. বাংলা সাহিত্যে অন্ধকার যুগ বলতে-",
+        "answers": [
+            {"text": "A. ১১৯৯-১২৫০ পর্যন্ত", "score": 0},
+            {"text": "B. ১২০১-১৩৫০ পর্যন্ত", "score": 1},
+            {"text": "C. ১২৫০-১৩৫০ পর্যন্ত", "score": 0},
+            {"text": "D. ১২৫০-১৪৫০ পর্যন্ত", "score": 0}
+        ],
+        "correct_answer": "B. ১২০১-১৩৫০ পর্যন্ত",
+        "hint": "অন্ধকার যুগ ১২০১ থেকে ১৩৫০ সাল পর্যন্ত, উল্লেখযোগ্য সাহিত্যের অভাব।"
+    },
+    {
+        "question": "5. ফোর্ট উইলিয়াম কলেজের অধ্যক্ষ কে ছিলেন?",
+        "answers": [
+            {"text": "A. উইলিয়াম কেরি", "score": 1},
+            {"text": "B. লর্ড ওয়েলেসলি", "score": 0},
+            {"text": "C. মৃত্তুঞ্জয় বিদ্যালঙ্কার", "score": 0},
+            {"text": "D. রামরাম বসু", "score": 0}
+        ],
+        "correct_answer": "A. উইলিয়াম কেরি",
+        "hint": "'ফোর্ট উইলিয়াম কলেজের প্রথম অধ্যক্ষ উইলিয়াম কেরি।"
+    },
+    {
+        "question": "6. ‘বাংলা সাহিত্যের জনক’ হিসেবে কার নাম চির স্মরণীয়?",
+        "answers": [
+            {"text": "A. মাইকেল মধুসূদন দত্ত", "score": 0},
+            {"text": "B. রাজা রামমোহন রায়", "score": 0},
+            {"text": "C. ঈশ্বরচন্দ্র বিদ্যাসাগর", "score": 1},
+            {"text": "D. বঙ্কিমচন্দ্র চট্টোপাধ্যায়", "score": 0}
+        ],
+        "correct_answer": "C. ঈশ্বরচন্দ্র বির্যাসাগর",
+        "hint": "'বাংলা গদ্যের জনক' ঈশ্বরচন্দ্র বিদ্যাসাগর।"
+    },
+    {
+        "question": "7. মাইকেল মধুসূদন দত্তের রচনা নয় কোনটি?",
+        "answers": [
+            {"text": "A. তিলোত্তমা কাব্য", "score": 1},
+            {"text": "B. মেঘনাদ বধ কাব্য", "score": 0},
+            {"text": "C. বেতাল পঞ্চবিংশতি", "score": 0},
+            {"text": "D. বীরাঙ্গনা", "score": 0}
+        ],
+        "correct_answer": "A. তিলোত্তমা কাব্য",
+        "hint": "'তিলোত্তমা' মধুসূদন দত্তের রচনা নয়।"
+    },
+    {
+        "question": "8. ‘কুলীন কুলসর্বস্ব’ নাটকটি কার লেখা?",
+        "answers": [
+            {"text": "A. মাইকেল মধুসূদন দত্ত", "score": 0},
+            {"text": "B. দীনবন্ধু মিত্র", "score": 0},
+            {"text": "C. রামনারায়ণ তর্করত্ন", "score": 1},
+            {"text": "D. রবীন্দ্রনাথ ঠাকুর", "score": 0}
+        ],
+        "correct_answer": "C. রামনারায়ণ তর্করত্ন",
+        "hint": "'কুলীন কুলসর্বস্ব' নাটক রচনা করেছেন রামনারায়ণ তর্করত্ন।"
+    },
+    {
+        "question": "9. ‘নীল দর্পণ’ নাটকটির বিষয়বস্তু কি?",
+        "answers": [
+            {"text": "A. নীলকরদের অত্যাচার", "score": 1},
+            {"text": "B. ভাষা আন্দোলন", "score": 0},
+            {"text": "C. অসহযোগ আন্দোলন", "score": 0},
+            {"text": "D. তে-ভাগা আন্দোলন", "score": 0}
+        ],
+        "correct_answer": "A. নীলকরদের অত্যাচার",
+        "hint": "'নীল দর্পণ' নাটকের বিষয় নীলকরদের অত্যাচার।"
+    },
+    {
+        "question": "10. ‘ঘরে বাইরে’ উপন্যাসটি কার লেখা?",
+        "answers": [
+            {"text": "A. আলাওল", "score": 0},
+            {"text": "B. কাজী দীন মহম্মদ", "score": 0},
+            {"text": "C. কাজী মোতাহের হোসেন", "score": 0},
+            {"text": "D. রবীন্দ্রনাথ ঠাকুর", "score": 1}
+        ],
+        "correct_answer": "D. রবীন্দ্রনাথ ঠাকুর",
+        "hint": "'ঘরে বাইরে' উপন্যাসের লেখক রবীন্দ্রনাথ ঠাকুর।"
+    },
+    {
+        "question": "11. সৈয়দ মুজতবা আলীর প্রবন্ধ গ্রন্থ কোনটি?",
+        "answers": [
+            {"text": "A. পঞ্চতন্ত্রী", "score": 0},
+            {"text": "B. কালান্তর", "score": 1},
+            {"text": "C. প্রবন্ধ সংগ্রহ", "score": 0},
+            {"text": "D. শাশ্বত বঙ্গ", "score": 0}
+        ],
+        "correct_answer": "B. কালান্তর",
+        "hint": "'কালান্তর' হলো সৈয়দ মুজতবা আলীর প্রবন্ধ গ্রন্থ।"
+    },
+    {
+        "question": "12. ‘তত্ত্ববোধিনী’ পত্রিকার সম্পাদক কে ছিলেন?",
+        "answers": [
+            {"text": "A. অক্ষয়কুমার দত্ত", "score": 1},
+            {"text": "B. প্যারীচাঁদ মিত্র", "score": 0},
+            {"text": "C. ঈশ্বরচন্দ্র বিদ্যাসাগর", "score": 0},
+            {"text": "D. সৈয়দ মুজতবা আলী", "score": 0}
+        ],
+        "correct_answer": "A. অক্ষয়কুমার দত্ত",
+        "hint": "'তত্ত্ববোধিনী' পত্রিকার সম্পাদক অক্ষয়কুমার দত্ত।"
+    },
+    {
+        "question": "13. ভাষা আন্দোলনভিত্তিক নাটক কোনটি?",
+        "answers": [
+            {"text": "A. কবর", "score": 1},
+            {"text": "B. পায়ের আওয়াজ পাওয়া যায়", "score": 0},
+            {"text": "C. জন্ডিস ও বিবিধ বেলুন", "score": 0},
+            {"text": "D. ওরা কদম আলী", "score": 0}
+        ],
+        "correct_answer": "A. কবর",
+        "hint": "'কবর' নাটক ভাষা আন্দোলনভিত্তিক।"
+    },
+    {
+        "question": "14. ‘ভানুসিংহ ঠাকুর’ কার ছদ্মনাম?",
+        "answers": [
+            {"text": "A. দীনবন্ধু মিত্র", "score": 0},
+            {"text": "B. রবীন্দ্রনাথ ঠাকুর", "score": 1},
+            {"text": "C. প্রমথ চৌধুরী", "score": 0},
+            {"text": "D. জীবনানন্দ দাস", "score": 0}
+        ],
+        "correct_answer": "B. রবীন্দ্রনাথ ঠাকুর",
+        "hint": "'ভানুসিংহ ঠাকুর' হলো রবীন্দ্রনাথ ঠাকুরের ছদ্মনাম।"
+    },
+    {
+        "question": "15. কোন কাব্যটি পল্লীকবি জসীমউদ্দীন রচিত?",
+        "answers": [
+            {"text": "A. চৈতালী", "score": 0},
+            {"text": "B. রাখালী", "score": 1},
+            {"text": "C. ফনিমনসা", "score": 0},
+            {"text": "D. আলো পৃথিবী", "score": 0}
+        ],
+        "correct_answer": "B. রাখালী",
+        "hint": "'রাখালী' হলো পল্লীকবি জসীমউদ্দীনের রচনা।"
+    },
+    {
+        "question": "16. ‘তুমি আসবে বলে হে স্বাধীনতা’- কার কবিতা?",
+        "answers": [
+            {"text": "A. শওকত ওসমান", "score": 0},
+            {"text": "B. সিকান্দার আবু জাফর", "score": 0},
+            {"text": "C. সুফিয়া কামাল", "score": 0},
+            {"text": "D. শামসুর রাহমান", "score": 1}
+        ],
+        "correct_answer": "D. শামসুর রাহমান",
+        "hint": "'তুমি আসবে বলে...' কবিতা লেখক শামসুর রাহমান।"
+    },
+    {
+        "question": "17. ‘দেয়াল’ রচনাটি কার?",
+        "answers": [
+            {"text": "A. হুমায়ূন আহমেদ", "score": 1},
+            {"text": "B. তারাশঙ্কর বন্দ্যোপাধ্যায়", "score": 0},
+            {"text": "C. বুদ্ধদেব বসু", "score": 0},
+            {"text": "D. সেলিনা হোসেন", "score": 0}
+        ],
+        "correct_answer": "A. হুমায়ূন আহমেদ",
+        "hint": "'দেয়াল' উপন্যাসটি হুমায়ূন আহমেদের।"
+    },
+    {
+        "question": "18. মুক্তিযুদ্ধভিত্তিক উপন্যাস কোনটি?",
+        "answers": [
+            {"text": "A. ক্রীতদাসের হাসি", "score": 0},
+            {"text": "B. মাটি আর অশ্রু", "score": 0},
+            {"text": "C. হাঙর নদী গ্রেনেড", "score": 1},
+            {"text": "D. সারেং বউ", "score": 0}
+        ],
+        "correct_answer": "C. হাঙর নদী গ্রেনেড",
+        "hint": "'হাঙর নদী গ্রেনেড' হলো মুক্তিযুদ্ধভিত্তিক উপন্যাস।"
+    },
+    {
+        "question": "19. ‘আমার ভাইয়ের রক্তে রাঙানো একুশে ফেব্রুয়ারি আমি কি ভুলিতে পারি।’ এ গানের প্রথম সুরকার কে?",
+        "answers": [
+            {"text": "A. আবদুল গাফফার চৌধুরী", "score": 0},
+            {"text": "B. আসাদ চৌধুরী", "score": 0},
+            {"text": "C. আলতাফ মাহমুদ", "score": 1},
+            {"text": "D. আব্দুল লতিফ", "score": 0}
+        ],
+        "correct_answer": "C. আলতাফ মাহমুদ",
+        "hint": "'আমার ভাইয়ের রক্তে...' গানের প্রথম সুরকার আলতাফ মাহমুদ।"
+    },
+    {
+        "question": "20. ১৯৮৫ সালে নাসির উদ্দিন স্বর্ণপদক কে পান?",
+        "answers": [
+            {"text": "A. সৈয়দ আলী আহসান", "score": 0},
+            {"text": "B. সৈয়দ ওয়ালীউল্লাহ", "score": 0},
+            {"text": "C. সৈয়দ শামসুল হক", "score": 0},
+            {"text": "D. সিকান্দার আবু জাফর", "score": 1}
+        ],
+        "correct_answer": "D. সিকান্দার আবু জাফর",
+        "hint": "'নাসির উদ্দিন স্বর্ণপদক' পান সিকান্দার আবু জাফর।"
+    },
+    {
+        "question": "21. Who is known as the 'Lady with the Lamp'?",
+        "answers": [
+            {"text": "A. Sorojini Naidu", "score": 0},
+            {"text": "B. Hellen Killer", "score": 0},
+            {"text": "C. Florence Nightingale", "score": 1},
+            {"text": "D. Madame Teresa", "score": 0}
+        ],
+        "correct_answer": "C. Florence Nightingale",
+        "hint": "'Lady with the Lamp' is a title for Florence Nightingale."
+    },
+    {
+        "question": "22. For which of the following disciplines Nobel Prize is awarded?",
+        "answers": [
+            {"text": "A. Physics and Chemistry", "score": 0},
+            {"text": "B. Physiology or Medicine", "score": 0},
+            {"text": "C. Literature, Peace and Economics", "score": 0},
+            {"text": "D. All of the above", "score": 1}
+        ],
+        "correct_answer": "D. All of the above",
+        "hint": "Nobel Prize is awarded in multiple disciplines."
+    },
+    {
+        "question": "23. Lunar eclipse occurs on-",
+        "answers": [
+            {"text": "A. A new moon day", "score": 0},
+            {"text": "B. A full moon day", "score": 1},
+            {"text": "C. A half moon day", "score": 0},
+            {"text": "D. A moonless day", "score": 0}
+        ],
+        "correct_answer": "B. A full moon day",
+        "hint": "Lunar eclipse happens during a full moon."
+    },
+    {
+        "question": "24. World 'No-Tobacco Day' is observed on-",
+        "answers": [
+            {"text": "A. May 25", "score": 0},
+            {"text": "B. May 28", "score": 0},
+            {"text": "C. May 30", "score": 0},
+            {"text": "D. May 31", "score": 1}
+        ],
+        "correct_answer": "D. May 31",
+        "hint": "World No-Tobacco Day is celebrated on May 31."
+    },
+    {
+        "question": "25. Which one of the following ecosystems covers the largest area of the earth's surface?",
+        "answers": [
+            {"text": "A. Desert Ecosystem", "score": 0},
+            {"text": "B. Mountain Ecosystem", "score": 0},
+            {"text": "C. Fresh water Ecosystem", "score": 0},
+            {"text": "D. Marine Ecosystem", "score": 1}
+        ],
+        "correct_answer": "D. Marine Ecosystem",
+        "hint": "Marine ecosystems cover most of the Earth's surface."
+    },
+    {
+        "question": "26. In Cricket game the length of pitch between the two wickets is-",
+        "answers": [
+            {"text": "A. 24 yards", "score": 0},
+            {"text": "B. 23 yards", "score": 0},
+            {"text": "C. 22 yards", "score": 1},
+            {"text": "D. 21 yards", "score": 0}
+        ],
+        "correct_answer": "C. 22 yards",
+        "hint": "Cricket pitch length between wickets is 22 yards."
+    },
+    {
+        "question": "27. IMF (International Monetary Fund) is the result of-",
+        "answers": [
+            {"text": "A. Hawana Conference", "score": 0},
+            {"text": "B. Geneva Conference", "score": 0},
+            {"text": "C. Rome Conference", "score": 0},
+            {"text": "D. Brettonwood Conference", "score": 1}
+        ],
+        "correct_answer": "D. Brettonwood Conference",
+        "hint": "IMF was established at the Bretton Woods Conference in 1944."
+    },
+    {
+        "question": "28. Dengue fever is spread by -",
+        "answers": [
+            {"text": "A. Aedes aegypti mosquito", "score": 1},
+            {"text": "B. Common House flies", "score": 0},
+            {"text": "C. Anophilies mosquito", "score": 0},
+            {"text": "D. Rats and squirrels", "score": 0}
+        ],
+        "correct_answer": "A. Aedes aegypti mosquito",
+        "hint": "'Dengue' is spread by Aedes mosquitoes."
+    },
+    {
+        "question": "29. The International Court of Justice is located in-",
+        "answers": [
+            {"text": "A. New York", "score": 0},
+            {"text": "B. London", "score": 0},
+            {"text": "C. Geneva", "score": 0},
+            {"text": "D. Hague", "score": 1}
+        ],
+        "correct_answer": "D. Hague",
+        "hint": "The International Court of Justice is located in The Hague."
+    },
+    {
+        "question": "30. 169 এর বর্গমূল কত?",
+        "answers": [
+            {"text": "A. 11", "score": 1},
+            {"text": "B. 13", "score": 0},
+            {"text": "C. 15", "score": 0},
+            {"text": "D. 17", "score": 0}
+        ],
+        "correct_answer": "A. 13",
+        "hint": "The square root of 169 is 13."
+    },
+    {
+        "question": "31. Badminton is the national sport of-",
+        "answers": [
+            {"text": "A. Malaysia", "score": 1},
+            {"text": "B. Scotland", "score": 0},
+            {"text": "C. China", "score": 0},
+            {"text": "D. Nepal", "score": 0}
+        ],
+        "correct_answer": "A. Malaysia",
+        "hint": "Badminton is considered the national sport of Malaysia."
+    },
+    {
+        "question": "32. EURO is the currency of-",
+        "answers": [
+            {"text": "A. Asia", "score": 0},
+            {"text": "B. Europe", "score": 1},
+            {"text": "C. America", "score": 0},
+            {"text": "D. Africa", "score": 0}
+        ],
+        "correct_answer": "B. Europe",
+        "hint": "EURO is the currency used in European countries."
+    },
+    {
+        "question": "33. Photosynthesis takes place in-",
+        "answers": [
+            {"text": "A. Roots of the plants", "score": 0},
+            {"text": "B. Stems of the plants", "score": 0},
+            {"text": "C. Green parts of the plants", "score": 1},
+            {"text": "D. All parts of the plants", "score": 0}
+        ],
+        "correct_answer": "C. Green parts of the plants",
+        "hint": "Photosynthesis occurs mainly in the green parts of plants."
+    },
+    {
+        "question": "34. The term PC means-",
+        "answers": [
+            {"text": "A. Private Computer", "score": 0},
+            {"text": "B. Prime Computer", "score": 0},
+            {"text": "C. Personal Computer", "score": 1},
+            {"text": "D. Professional Computer", "score": 0}
+        ],
+        "correct_answer": "C. Personal Computer",
+        "hint": "'PC' stands for Personal Computer."
+    },
+    {
+        "question": "35. Fill in the blank of the following sentence with the right form of verb. If I - a king!",
+        "answers": [
+            {"text": "A. am", "score": 0},
+            {"text": "B. was", "score": 0},
+            {"text": "C. were", "score": 1},
+            {"text": "D. shall be", "score": 0}
+        ],
+        "correct_answer": "C. were",
+        "hint": "Conditional sentences use 'were' after 'If'."
+    },
+    {
+        "question": "36. Tiger : Zoology:: Mars:-",
+        "answers": [
+            {"text": "A. Astrology", "score": 0},
+            {"text": "B. Cryptology", "score": 0},
+            {"text": "C. Astronomy", "score": 1},
+            {"text": "D. Telescopy", "score": 0}
+        ],
+        "correct_answer": "C. Astronomy",
+        "hint": "Tiger relates to Zoology, just like Mars relates to Astronomy."
+    },
+    {
+        "question": "37. Maiden speech means-",
+        "answers": [
+            {"text": "A. First speech", "score": 1},
+            {"text": "B. Middle speech", "score": 0},
+            {"text": "C. Maid servant's speech", "score": 0},
+            {"text": "D. Final speech", "score": 0}
+        ],
+        "correct_answer": "A. First speech",
+        "hint": "'Maiden Speech' refers to the first time speaking publicly."
+    },
+    {
+        "question": "38. N.B. stands for -",
+        "answers": [
+            {"text": "A. Note before", "score": 0},
+            {"text": "B. No bar", "score": 0},
+            {"text": "C. Non bearing", "score": 0},
+            {"text": "D. Nota bene", "score": 1}
+        ],
+        "correct_answer": "D. Nota bene",
+        "hint": "N.B. signifies to note well in writings."
+    },
+    {
+        "question": "39. What is the masculine gender of 'mare'?",
+        "answers": [
+            {"text": "A. Mermaid", "score": 0},
+            {"text": "B. Bear", "score": 0},
+            {"text": "C. Stallion", "score": 1},
+            {"text": "D. Dog", "score": 0}
+        ],
+        "correct_answer": "C. Stallion",
+        "hint": "The masculine form of mare is stallion."
+    },
+    {
+        "question": "40. Botany is to plants as Zoology is to -",
+        "answers": [
+            {"text": "A. Flowers", "score": 0},
+            {"text": "B. Rivers", "score": 0},
+            {"text": "C. Mountains", "score": 0},
+            {"text": "D. Animals", "score": 1}
+        ],
+        "correct_answer": "D. Animals",
+        "hint": "Botany studies plants, while Zoology studies animals."
+    },
+    {
+        "question": "41. ১৯৭১ সনের কত তারিখে মুজিবনগরে স্বাধীন বাংলাদেশের অস্থায়ী সরকার গঠিত হয়?",
+        "answers": [
+            {"text": "A. ৭ মার্চ, ১৯৭১ খ্রি.", "score": 0},
+            {"text": "B. ২৬ মার্চ, ১৯৭১ খ্রি.", "score": 0},
+            {"text": "C. ১০ এপ্রিল, ১৯৭১ খ্রি.", "score": 1},
+            {"text": "D. ১৬ ডিসেম্বর, ১৯৭১ খ্রি.", "score": 0}
+        ],
+        "correct_answer": "C. ১০ এপ্রিল, ১৯৭১ খ্রি.",
+        "hint": "মুজিবনগরে ১০ এপ্রিল স্বাধীন বাংলাদেশের সরকার গঠিত হয়।"
+    },
+    {
+        "question": "42. বঙ্গবন্ধু শেখ মুজিবুর রহমান কত তারিখে জন্মগ্রহণ করেন?",
+        "answers": [
+            {"text": "A. ১ মার্চ, ১৯১৯ খ্রি.", "score": 0},
+            {"text": "B. ১৭ মার্চ, ১৯২০ খ্রি.", "score": 1},
+            {"text": "C. ১৪ আগস্ট, ১৯৪৭ খ্রি.", "score": 0},
+            {"text": "D. ২১ জুন, ১৯৪১ খ্রি.", "score": 0}
+        ],
+        "correct_answer": "B. ১৭ মার্চ, ১৯২০ খ্রি.",
+        "hint": "বঙ্গবন্ধু মুজিবুর রহমান ১৭ মার্চ ১৯২০ সালে জন্মগ্রহণ করেন।"
+    },
+    {
+        "question": "43. বহুল আলোচিত মুহুরীর চর কোন জেলায় অবস্থিত?",
+        "answers": [
+            {"text": "A. নোয়াখালী", "score": 0},
+            {"text": "B. ফেনী", "score": 1},
+            {"text": "C. লালমনিরহাট", "score": 0},
+            {"text": "D. সাতক্ষীরা", "score": 0}
+        ],
+        "correct_answer": "B. ফেনী",
+        "hint": "মুহুরীর চর ফেনী জেলার পরশুরাম উপজেলায় অবস্থিত।"
+    },
+    {
+        "question": "44. বাংলাদেশ টেলিভিশনের যাত্রা শুরু হয় কত সনে?",
+        "answers": [
+            {"text": "A. ১৯৪৭ খ্রি.", "score": 0},
+            {"text": "B. ১৯৫৮ খ্রি.", "score": 0},
+            {"text": "C. ১৯৬৪ খ্রি.", "score": 1},
+            {"text": "D. ১৯৬৫ খ্রি.", "score": 0}
+        ],
+        "correct_answer": "C. ১৯৬৪ খ্রি.",
+        "hint": "বাংলাদেশ টেলিভিশনের যাত্রা শুরু ১৯৬৪ সালের ২৫ ডিসেম্বর।"
+    },
+    {
+        "question": "45. বাংলাদেশের জাতীয় সংসদের প্রথম নির্বাচন কবে অনুষ্ঠিত হয়?",
+        "answers": [
+            {"text": "A. ৭ মার্চ, ১৯৭৩ খ্রি.", "score": 0},
+            {"text": "B. ৭ এপ্রিল, ১৯৭৩ খ্রি.", "score": 0},
+            {"text": "C. ১৬ ডিসেম্বর, ১৯৭২ খ্রি.", "score": 0},
+            {"text": "D. ৭ ডিসেম্বর, ১৯৭২ খ্রি.", "score": 1}
+        ],
+        "correct_answer": "D. ৭ ডিসেম্বর, ১৯৭২ খ্রি.",
+        "hint": "বাংলাদেশের প্রথম জাতীয় সংসদের নির্বাচন ৭ মার্চ, ১৯৭৩।"
+    },
+    {
+        "question": "46. চিরস্থায়ী বন্দোবস্ত প্রবর্তন করা হয় কত সনে?",
+        "answers": [
+            {"text": "A. ১৭৫৭ খ্রি.", "score": 0},
+            {"text": "B. ১৭৭০ খ্রি.", "score": 0},
+            {"text": "C. ১৮৫৭ খ্রি.", "score": 0},
+            {"text": "D. ১৭৯৩ খ্রি.", "score": 1}
+        ],
+        "correct_answer": "D. ১৭৯৩ খ্রি.",
+        "hint": "চিরস্থায়ী বন্দোবস্ত ১৭৯৩ সালে প্রবর্তিত হয়।"
+    },
+    {
+        "question": "47. বাংলাদেশ উন্নয়ন ফোরামের সমন্বয়কারী কোন সংস্থা?",
+        "answers": [
+            {"text": "A. এডিবি", "score": 0},
+            {"text": "B. বিশ্বব্যাংক", "score": 1},
+            {"text": "C. জাইকা", "score": 0},
+            {"text": "D. আইএমএফ", "score": 0}
+        ],
+        "correct_answer": "B. বিশ্বব্যাংক",
+        "hint": "বাংলাদেশ উন্নয়ন ফোরামের সমন্বয়কারী হলো বিশ্বব্যাংক।"
+    },
+    {
+        "question": "48. বাংলাদেশ ও বার্মার সীমান্তবর্তী নদী কোনটি?",
+        "answers": [
+            {"text": "A. গোমতী", "score": 0},
+            {"text": "B. জিঞ্জিরাম", "score": 0},
+            {"text": "C. নাফ", "score": 1},
+            {"text": "D. কর্ণফুলী", "score": 0}
+        ],
+        "correct_answer": "C. নাফ",
+        "hint": "'নাফ' নদী বাংলাদেশ ও মিয়ানমার সীমান্তবর্তী।"
+    },
+    {
+        "question": "49. বাংলাদেশের শেয়ারবাজার কার্যক্রম কোন সংস্থা নিয়ন্ত্রণ করে?",
+        "answers": [
+            {"text": "A. অর্থ মন্ত্রণালয়", "score": 0},
+            {"text": "B. প্রধানমন্ত্রীর কার্যালয়", "score": 0},
+            {"text": "C. বাংলাদেশ ব্যাংক", "score": 0},
+            {"text": "D. সিকিউরিটিজ এক্সচেঞ্জ কমিশন", "score": 1}
+        ],
+        "correct_answer": "D. সিকিউরিটিজ এক্সচেঞ্জ কমিশন",
+        "hint": "শেয়ারবাজার নিয়ন্ত্রণ করে সিকিউরিটিজ এক্সচেঞ্জ কমিশন।"
+    },
+    {
+        "question": "50. জামাল নজরুল ইসলাম কে?",
+        "answers": [
+            {"text": "A. ফুটবল খেলোয়াড়", "score": 0},
+            {"text": "B. অর্থনীতিবিদ", "score": 0},
+            {"text": "C. কবি", "score": 0},
+            {"text": "D. বৈজ্ঞানিক", "score": 1}
+        ],
+        "correct_answer": "D. বৈজ্ঞানিক",
+        "hint": "'জামাল নজরুল ইসলাম' এক বিখ্যাত পদার্থবিজ্ঞানী।"
+    },
+    {
+        "question": "51. নিচের কোন সংস্থাটি ২১ ফেব্রুয়ারিকে আন্তর্জাতিক মাতৃভাষা দিবস হিসাবে স্বীকৃতি দিয়েছে?",
+        "answers": [
+            {"text": "A. UNDP", "score": 0},
+            {"text": "B. UNESCO", "score": 1},
+            {"text": "C. UNICEF", "score": 0},
+            {"text": "D. UNCTAD", "score": 0}
+        ],
+        "correct_answer": "B. UNESCO",
+        "hint": "২১ ফেব্রুয়ারি UNESCO দ্বারা আন্তর্জাতিক মাতৃভাষা দিবস হিসেবে স্বীকৃত।"
+    },
+    {
+        "question": "52. ‘তাহরির স্কয়ার’ কোথায় অবস্থিত?",
+        "answers": [
+            {"text": "A. সিউল", "score": 0},
+            {"text": "B. আম্মান", "score": 0},
+            {"text": "C. কায়রো", "score": 1},
+            {"text": "D. তেহরান", "score": 0}
+        ],
+        "correct_answer": "C. কায়রো",
+        "hint": "'তাহরির স্কয়ার' মিশরের কায়রোতে অবস্থিত।"
+    },
+    {
+        "question": "53. কোনটি D-৮ ভুক্ত দেশ নয়?",
+        "answers": [
+            {"text": "A. নাইজেরিয়া", "score": 0},
+            {"text": "B. ভারত", "score": 1},
+            {"text": "C. মালয়েশিয়া", "score": 0},
+            {"text": "D. তুরস্ক", "score": 0}
+        ],
+        "correct_answer": "B. ভারত",
+        "hint": "D-৮ এর সদস্য দেশ নাইজেরিয়া, মালয়েশিয়া, তুরস্ক এবং ভারত নয়।"
+    },
+    {
+        "question": "54. অ্যামনেস্টি ইন্টারন্যাশনাল-এর সদর দপ্তর কোথায় অবস্থিত?",
+        "answers": [
+            {"text": "A. লন্ডন", "score": 1},
+            {"text": "B. নিউইয়র্ক", "score": 0},
+            {"text": "C. প্যারিস", "score": 0},
+            {"text": "D. ভিয়েনা", "score": 0}
+        ],
+        "correct_answer": "A. লন্ডন",
+        "hint": "অ্যামনেস্টি ইন্টারন্যাশনাল এর সদর দপ্তর লন্ডনে অবস্থিত।"
+    },
+    {
+        "question": "55. ‘আরব বসন্ত’ বলতে কি বুঝায়?",
+        "answers": [
+            {"text": "A. আরবের বিভিন্ন দেশে গণজাগরণ", "score": 1},
+            {"text": "B. আরব অঞ্চলে বসন্তকাল", "score": 0},
+            {"text": "C. আরব রাজতন্ত্র", "score": 0},
+            {"text": "D. আরবীয় মহিলাদের ক্ষমতায়ন", "score": 0}
+        ],
+        "correct_answer": "A. আরবের বিভিন্ন দেশে গণজাগরণ",
+        "hint": "'আরব বসন্ত' আরব জাগরণের সময়কাল নির্দেশ করে।"
+    },
+    {
+        "question": "56. আয়তনে পৃথিবীর সবচেয়ে ছোট দেশ?",
+        "answers": [
+            {"text": "A. ফিজি", "score": 0},
+            {"text": "B. ভ্যাটিকান", "score": 1},
+            {"text": "C. কুয়েত", "score": 0},
+            {"text": "D. মালদ্বীপ", "score": 0}
+        ],
+        "correct_answer": "B. ভ্যাটিকান",
+        "hint": "'ভ্যাটিকান' হলো আয়তনে পৃথিবীর সবচেয়ে ছোট দেশ।"
+    },
+    {
+        "question": "57. এশিয়ার হিন্দু রাষ্ট্র কোনটি?",
+        "answers": [
+            {"text": "A. নেপাল", "score": 1},
+            {"text": "B. ভারত", "score": 0},
+            {"text": "C. ভূটান", "score": 0},
+            {"text": "D. মালদ্বীপ", "score": 0}
+        ],
+        "correct_answer": "A. নেপাল",
+        "hint": "'নেপাল' হলো এশিয়ার হিন্দু রাষ্ট্র।"
+    },
+    {
+        "question": "58. ‘লয়া জিরগা’ কোন দেশের আইন সভা?",
+        "answers": [
+            {"text": "A. ফিজি", "score": 0},
+            {"text": "B. সিরিয়া", "score": 0},
+            {"text": "C. লেবানন", "score": 0},
+            {"text": "D. আফগানিস্তান", "score": 1}
+        ],
+        "correct_answer": "D. আফগানিস্তান",
+        "hint": "'লয়া জিরগা' হলো আফগানিস্তানের আইনসভা।"
+    },
+    {
+        "question": "59. কোপেনহেগেন কোন দেশের রাজধানী?",
+        "answers": [
+            {"text": "A. ডেনমার্ক", "score": 1},
+            {"text": "B. বেলজিয়াম", "score": 0},
+            {"text": "C. ভিয়েতনাম", "score": 0},
+            {"text": "D. আর্মেনিয়া", "score": 0}
+        ],
+        "correct_answer": "A. ডেনমার্ক",
+        "hint": "'কোপেনহেগেন' হলো ডেনমার্কের রাজধানী।"
+    },
+    {
+        "question": "60. শ্যামদেশ কোন দেশের পুরাতন নাম?",
+        "answers": [
+            {"text": "A. মিসর", "score": 0},
+            {"text": "B. ইরাক", "score": 0},
+            {"text": "C. ইরান", "score": 0},
+            {"text": "D. থাইল্যান্ড", "score": 1}
+        ],
+        "correct_answer": "D. থাইল্যান্ড",
+        "hint": "'শ্যামদেশ' হলো থাইল্যান্ডের পুরাতন নাম।"
+    },
+    {
+        "question": "61. ইউরিয়া সার থেকে উদ্ভিদ কি খাদ্য উপাদান গ্রহণ করে?",
+        "answers": [
+            {"text": "A. ফসফরাস", "score": 0},
+            {"text": "B. নাইট্রোজেন", "score": 1},
+            {"text": "C. পটাশিয়াম", "score": 0},
+            {"text": "D. সালফার", "score": 0}
+        ],
+        "correct_answer": "B. নাইট্রোজেন",
+        "hint": "'ইউরিয়া সার' উদ্ভিদে নাইট্রোজেন সরবরাহ করে।"
+    },
+    {
+        "question": "62. পরমাণুর নিউক্লিয়াসে কি কি থাকে?",
+        "answers": [
+            {"text": "A. নিউট্রন ও প্রোটন", "score": 1},
+            {"text": "B. ইলেকট্রন ও প্রোটন", "score": 0},
+            {"text": "C. নিউট্রন ও পজিট্রন", "score": 0},
+            {"text": "D. ইলেকট্রন ও পজিট্রন", "score": 0}
+        ],
+        "correct_answer": "A. নিউট্রন ও প্রোটন",
+        "hint": "নিউক্লিয়াসে থাকে নিউট্রন ও প্রোটন।"
+    },
+    {
+        "question": "63. রক্তে হিমোগ্লোবিনের কাজ কি?",
+        "answers": [
+            {"text": "A. অক্সিজেন পরিবহন করা", "score": 1},
+            {"text": "B. রোগ প্রতিরোধ করা", "score": 0},
+            {"text": "C. রক্ত জমাট বাধতে সাহায্য করা", "score": 0},
+            {"text": "D. উপরে উল্লিখিত সব কয়টিই", "score": 0}
+        ],
+        "correct_answer": "A. অক্সিজেন পরিবহন করা",
+        "hint": "হিমোগ্লোবিনের প্রধান কাজ হলো অক্সিজেন পরিবহন।"
+    },
+    {
+        "question": "64. সুষম খাদ্যের উপাদান কয়টি?",
+        "answers": [
+            {"text": "A. ৪টি", "score": 0},
+            {"text": "B. ৬টি", "score": 1},
+            {"text": "C. ৫টি", "score": 0},
+            {"text": "D. ৮টি", "score": 0}
+        ],
+        "correct_answer": "B. ৬টি",
+        "hint": "সুষম খাদ্যের উপাদান হচ্ছে ৬টি।"
+    },
+    {
+        "question": "65. ইনসুলিন নিঃসৃত হয় কোথা থেকে?",
+        "answers": [
+            {"text": "A. অগ্ন্যাশয় হতে", "score": 1},
+            {"text": "B. প্যানক্রিয়াস হতে", "score": 0},
+            {"text": "C. লিভার হতে", "score": 0},
+            {"text": "D. পিটুইটারী গ্লান্ড হতে", "score": 0}
+        ],
+        "correct_answer": "A. অগ্ন্যাশয় হতে",
+        "hint": "ইনসুলিন অগ্ন্যাশয় থেকে নিঃসৃত হয়।"
+    },
+    {
+        "question": "66. পানির জীব হয়েও বাতাসে নিঃশ্বাস নেয় -",
+        "answers": [
+            {"text": "A. পটকা মাছ", "score": 1},
+            {"text": "B. হাঙ্গর", "score": 0},
+            {"text": "C. শুশুক", "score": 0},
+            {"text": "D. জেলী ফিস", "score": 0}
+        ],
+        "correct_answer": "A. পটকা মাছ",
+        "hint": "পটকা মাছ বাতাস থেকে অক্সিজেন নেয়।"
+    },
+    {
+        "question": "67. অতিরিক্ত খাদ্য থেকে লিভারে সঞ্চিত সুগার হল -",
+        "answers": [
+            {"text": "A. গ্লাইকোজেন", "score": 1},
+            {"text": "B. গ্লুকোজ", "score": 0},
+            {"text": "C. ফ্রুক্টোজ (Fructose)", "score": 0},
+            {"text": "D. সুক্রোজ", "score": 0}
+        ],
+        "correct_answer": "A. গ্লাইকোজেন",
+        "hint": "অতিরিক্ত খাদ্য থেকে লিভারে গ্লাইকোজেন সঞ্চিত হয়।"
+    },
+    {
+        "question": "68. প্রাণিজগতের উৎপত্তি ও বংশ সম্বন্ধীয় বিদ্যাকে বলে-",
+        "answers": [
+            {"text": "A. জুওলজী", "score": 0},
+            {"text": "B. বায়োলজী", "score": 0},
+            {"text": "C. ইভোলিউশন", "score": 0},
+            {"text": "D. জেনেটিক্স", "score": 1}
+        ],
+        "correct_answer": "D. জেনেটিক্স",
+        "hint": "জেনেটিক্স হলো বংশগতির বিদ্যা।"
+    },
+    {
+        "question": "69. কোন খাদ্যে প্রোটিন বেশি?",
+        "answers": [
+            {"text": "A. ভাত", "score": 0},
+            {"text": "B. গরুর মাংস", "score": 0},
+            {"text": "C. মসুর ডাল", "score": 1},
+            {"text": "D. ময়দা", "score": 0}
+        ],
+        "correct_answer": "C. মসুর ডাল",
+        "hint": "মসুর ডালে প্রোটিনের পরিমাণ বেশি।"
+    },
+    {
+        "question": "70. হাড় ও দাঁতকে মজবুত করে-",
+        "answers": [
+            {"text": "A. আয়োডিন", "score": 0},
+            {"text": "B. আয়রন", "score": 0},
+            {"text": "C. ম্যাগনেসিয়াম", "score": 0},
+            {"text": "D. ক্যালসিয়াম ও ফসফরাস", "score": 1}
+        ],
+        "correct_answer": "D. ক্যালসিয়াম ও ফসফরাস",
+        "hint": "হাড় ও দাঁতের গঠন মজবুত করে ক্যালসিয়াম এবং ফসফরাস।"
+    },
+    {
+        "question": "71. সুনামির কারণ হলো-",
+        "answers": [
+            {"text": "A. আগ্নেয়গিরির অগ্ন্যুৎপাত", "score": 0},
+            {"text": "B. ঘূর্ণিঝড়", "score": 0},
+            {"text": "C. চন্দ্র ও সূর্যের আকর্ষণ", "score": 0},
+            {"text": "D. সমুদ্রের তলদেশে ভূমিকম্প", "score": 1}
+        ],
+        "correct_answer": "D. সমুদ্রের তলদেশে ভূমিকম্প",
+        "hint": "ভূমিকম্পের জন্য সুনামি সৃষ্টি হয়।"
+    },
+    {
+        "question": "72. ডায়াবেটিস রোগ সম্পর্কে যে তথ্যটি সঠিক নয় তা হল-",
+        "answers": [
+            {"text": "A. এ রোগে মানবদেহের কিডনি নষ্ট করে", "score": 1},
+            {"text": "B. চিনি জাতীয় খাবার খেলে এ রোগ হয়", "score": 0},
+            {"text": "C. এ রোগ হলে রক্তে গ্লুকোজের পরিমাণ বৃদ্ধি পায়", "score": 0},
+            {"text": "D. ইনসুলিনের অভাবে এ রোগ হয়", "score": 0}
+        ],
+        "correct_answer": "A. এ রোগে মানবদেহের কিডনি নষ্ট করে",
+        "hint": "ডায়াবেটিস কিডনিকে নষ্ট করে না।"
+    },
+    {
+        "question": "73. প্রাকৃতিক কোন উৎস হতে সবচেয়ে বেশি মৃদু পানি পাওয়া যায়?",
+        "answers": [
+            {"text": "A. নদী", "score": 0},
+            {"text": "B. সাগর", "score": 0},
+            {"text": "C. হ্রদ", "score": 0},
+            {"text": "D. বৃষ্টিপাত", "score": 1}
+        ],
+        "correct_answer": "D. বৃষ্টিপাত",
+        "hint": "বৃষ্টিপাত স্বাভাবিক মৃদু পানির প্রধান উৎস।"
+    },
+    {
+        "question": "74. নবায়নযোগ্য জ্বালানি কোনটি?",
+        "answers": [
+            {"text": "A. পরমাণু শক্তি", "score": 0},
+            {"text": "B. কয়লা", "score": 0},
+            {"text": "C. পেট্রোল", "score": 0},
+            {"text": "D. প্রাকৃতিক গ্যাস", "score": 1}
+        ],
+        "correct_answer": "D. প্রাকৃতিক গ্যাস",
+        "hint": "নবায়নযোগ্য জ্বালানি হলো প্রাকৃতিক গ্যাস।"
+    },
+    {
+        "question": "75. জমির লবণাক্ততা নিয়ন্ত্রণ করে কোনটি?",
+        "answers": [
+            {"text": "A. কৃত্রিম সার প্রয়োগ", "score": 0},
+            {"text": "B. পানি সেচ", "score": 1},
+            {"text": "C. মাটিতে নাইট্রোজেন ধরে রাখা", "score": 0},
+            {"text": "D. প্রাকৃতিক গ্যাস প্রয়োগ", "score": 0}
+        ],
+        "correct_answer": "B. পানি সেচ",
+        "hint": "জমির লবণাক্ততা নিয়ন্ত্রণের জন্য পানি সেচ করা হয়।"
+    },
+    {
+        "question": "76. নিচের কোনটির বিদ্যুৎ পরিবাহিতা সবচেয়ে বেশি?",
+        "answers": [
+            {"text": "A. তামা", "score": 0},
+            {"text": "B. রূপা", "score": 1},
+            {"text": "C. সোনা", "score": 0},
+            {"text": "D. কার্বন", "score": 0}
+        ],
+        "correct_answer": "B. রূপা",
+        "hint": "রূপা বিদ্যুৎ পরিবাহিতায় সবচেয়ে বেশি কার্যকরী।"
+    },
+    {
+        "question": "77. কোন ডালের সঙ্গে ল্যাথারাইজম রোগের সম্পর্ক আছে?",
+        "answers": [
+            {"text": "A. অড়হর", "score": 0},
+            {"text": "B. ছোলা", "score": 0},
+            {"text": "C. খেসারি", "score": 1},
+            {"text": "D. মটর", "score": 0}
+        ],
+        "correct_answer": "C. খেসারি",
+        "hint": "খেসারির ডালে ল্যাথারাইজম রোগের সম্পর্ক রয়েছে।"
+    },
+    {
+        "question": "78. মানবদেহে শক্তি উৎপাদনের প্রধান উৎস-",
+        "answers": [
+            {"text": "A. পরিপাক", "score": 0},
+            {"text": "B. খাদ্য গ্রহণ", "score": 0},
+            {"text": "C. শ্বসন", "score": 1},
+            {"text": "D. রক্ত সংবহন", "score": 0}
+        ],
+        "correct_answer": "C. শ্বসন",
+        "hint": "শক্তি উৎপাদনের প্রধান উৎস হলো শ্বসন।"
+    },
+    {
+        "question": "79. বরফ পানিতে ভাসে কারণ বরফের তুলনায় পানির-",
+        "answers": [
+            {"text": "A. ঘনত্ব কম", "score": 1},
+            {"text": "B. ঘনত্ব বেশি", "score": 0},
+            {"text": "C. তাপমাত্রা বেশি", "score": 0},
+            {"text": "D. দ্রবণীয়তা বেশি", "score": 0}
+        ],
+        "correct_answer": "A. ঘনত্ব কম",
+        "hint": "বরফ পানির তুলনায় ঘনত্ব কম বলেই ভাসে।"
+    },
+    {
+        "question": "80. গাড়ির ব্যাটারিতে কোন এসিড ব্যবহৃত হয়?",
+        "answers": [
+            {"text": "A. নাইট্রিক", "score": 0},
+            {"text": "B. সালফিউরিক", "score": 1},
+            {"text": "C. হাইড্রোক্লোরিক", "score": 0},
+            {"text": "D. পারক্লোরিক", "score": 0}
+        ],
+        "correct_answer": "B. সালফিউরিক",
+        "hint": "গাড়ির ব্যাটারিতে সালফিউরিক এসিড ব্যবহার হয়।"
+    },
+    {
+        "question": "81. কোন সংখ্যার ০.১ ভাগ এবং ০.১ ভাগের মধ্যে পার্থক্য ১.০ হলে, সংখ্যাটি কত?",
+        "answers": [
+            {"text": "A. ১০", "score": 1},
+            {"text": "B. ৯", "score": 0},
+            {"text": "C. ৯০", "score": 0},
+            {"text": "D. ১০০", "score": 0}
+        ],
+        "correct_answer": "A. ১০",
+        "hint": "সংখ্যাটি বের করতে গণনা করতে হবে।"
+    },
+    {
+        "question": "82. একটি আয়তাকার কক্ষের ক্ষেত্রফল ১৯২ বর্গমিটার। এর দৈর্ঘ্য ৪ মিটার কমালে এবং প্রস্থ ৪ মিটার বাড়ালে ক্ষেত্রফল অপরিবর্তিত থাকে। আয়তাকার কক্ষের সমান পরিসীমাবিশিষ্ট বর্গাকার কক্ষের ক্ষেত্রফল কত হবে?",
+        "answers": [
+            {"text": "A. ২২৫ বর্গমিটার", "score": 0},
+            {"text": "B. ১৪৪ বর্গমিটার", "score": 0},
+            {"text": "C. ১৬৯ বর্গমিটার", "score": 0},
+            {"text": "D. ১৯৬ বর্গমিটার", "score": 1}
+        ],
+        "correct_answer": "D. ১৯৬ বর্গমিটার",
+        "hint": "কক্ষের ক্ষেত্রফল বের করতে হবে।"
+    },
+    {
+        "question": "83.  এর মান কত?",
+        "answers": [
+            {"text": "A. 4", "score": 0},
+            {"text": "B. 8", "score": 1},
+            {"text": "C. 5", "score": 0},
+            {"text": "D. 7", "score": 0}
+        ],
+        "correct_answer": "B. 8",
+        "hint": "মান নির্ধারণের জন্য উপাদান নির্ধারণ করতে হবে।"
+    },
+    {
+        "question": "84. বিষমবাহু ∆ABC এর বাহুগুলির মান এমনভাবে নির্ধারিত যে, AD মধ্যমা দ্বারা গঠিত ∆ABD এর ক্ষেত্রফল ____ বর্গমিটার। ∆ABC এর ক্ষেত্রফল কত?",
+        "answers": [
+            {"text": "A.  ____ বর্গমিটার", "score": 0},
+            {"text": "B.  ____ বর্গমিটার", "score": 0},
+            {"text": "C.  ____ বর্গমিটার", "score": 0},
+            {"text": "D.  ____ বর্গমিটার", "score": 0}
+        ],
+        "correct_answer": "A.  ____ বর্গমিটার",
+        "hint": "ক্ষেত্রফল নির্ধারণ করতে হবে।"
+    },
+    {
+        "question": "85. A = {1, 2, 3} B = ϕ হলে A∪B= কত?",
+        "answers": [
+            {"text": "A. {1,2,3}", "score": 1},
+            {"text": "B. {1,2,ϕ}", "score": 0},
+            {"text": "C. {2,3,ϕ}", "score": 0},
+            {"text": "D. ϕ", "score": 0}
+        ],
+        "correct_answer": "A. {1,2,3}",
+        "hint": "A∪B 하면 됩니다."
+    },
+    {
+        "question": "86. হলে ____ কত?",
+        "answers": [
+            {"text": "A. 8", "score": 0},
+            {"text": "B. 9", "score": 0},
+            {"text": "C. 16", "score": 0},
+            {"text": "D. 25", "score": 1}
+        ],
+        "correct_answer": "D. 25",
+        "hint": "বাক্যে সঠিক সংখ্যাটি বের করতে হবে।"
+    },
+    {
+        "question": "87. তিনটি ক্রমিক সংখ্যার গুণফল তাদের যোগফলের ৫ গুণ; সংখ্যা তিনটির গড় কত?",
+        "answers": [
+            {"text": "A. ৬", "score": 0},
+            {"text": "B. ৩", "score": 1},
+            {"text": "C. ৫", "score": 0},
+            {"text": "D. ৪", "score": 0}
+        ],
+        "correct_answer": "B. ৩",
+        "hint": "ক্রমিক সংখ্যাগুলোর গড় বের করতে হবে।"
+    },
+    {
+        "question": "88. একটি বৃত্তের পরিধি ও ক্ষেত্রফল যথাক্রমে ১৩২ সেন্টিমিটার ও ১৩৮৬ বর্গসেন্টিমিটার। বৃত্তটির বৃহত্তম জ্যা-এর দৈর্ঘ্য কত?",
+        "answers": [
+            {"text": "A. ৬৬ সেন্টিমিটার", "score": 0},
+            {"text": "B. ৪২ সেন্টিমিটার", "score": 0},
+            {"text": "C. ২১ সেন্টিমিটার", "score": 1},
+            {"text": "D. ২২ সেন্টিমিটার", "score": 0}
+        ],
+        "correct_answer": "C. ২১ সেন্টিমিটার",
+        "hint": "বৃত্তের ক্ষেত্রফল অনুযায়ী জ্যা বের করতে হবে।"
+    },
+    {
+        "question": "89. একটি শ্রেণিতে যতজন ছাত্র-ছাত্রী আছে প্রত্যেকে তত পয়সার চেয়ে আরও ২৫ পয়সা বেশি করে চাঁদা দেওয়ায় মোট ৭৫ টাকা উঠল। ঐ শ্রেণির ছাত্র-ছাত্রীর সংখ্যা কত?",
+        "answers": [
+            {"text": "A. 70", "score": 0},
+            {"text": "B. 85", "score": 0},
+            {"text": "C. 75", "score": 1},
+            {"text": "D. 100", "score": 0}
+        ],
+        "correct_answer": "C. 75",
+        "hint": "চাঁদা দেয়ার ভিত্তিতে ছাত্র-ছাত্রী সংখ্যা বের করতে হবে।"
+    },
+    {
+        "question": "90. মামুন 240 টাকায় একই রকম কতগুলি কলম কিনে দেখল যে, যদি সে একটি কলম বেশি পেত তাহলে প্রতিটি কলমের মূল্য 1 টাকা কম পড়ত। সে কতগুলো কলম কিনেছিল?",
+        "answers": [
+            {"text": "A. 13টি", "score": 0},
+            {"text": "B. 14টি", "score": 1},
+            {"text": "C. 15টি", "score": 0},
+            {"text": "D. 16টি", "score": 0}
+        ],
+        "correct_answer": "B. 14টি",
+        "hint": "কলমের সংখ্যাটি বের করতে সমীকরণ ভাষা ব্যবহার করতে হবে।"
+    },
+    {
+        "question": "91. একটি পঞ্চভুজের সমষ্টি -",
+        "answers": [
+            {"text": "A. ৪ সমকোণ", "score": 0},
+            {"text": "B. ৬ সমকোণ", "score": 1},
+            {"text": "C. ৮ সমকোণ", "score": 0},
+            {"text": "D. ১০ সমকোণ", "score": 0}
+        ],
+        "correct_answer": "B. ৬ সমকোণ",
+        "hint": "পঞ্চভুজের কোণের সংখ্যা বের করতে হবে।"
+    },
+    {
+        "question": "92. ঘড়িতে এখন ৮টা বাজে। ঘণ্টার কাঁটা ও মিনিটের কাঁটার মধ্যকার কোণটি হলো -",
+        "answers": [
+            {"text": "A. ১৫°", "score": 0},
+            {"text": "B. ৬০°", "score": 1},
+            {"text": "C. ৯০°", "score": 0},
+            {"text": "D. ৭২°", "score": 0}
+        ],
+        "correct_answer": "B. ৬০°",
+        "hint": "অতিরিক্ত বিশ্লেষণ মাধ্যমে কোণ বের করতে হবে।"
+    },
+    {
+        "question": "93. ১৭ দিন আগে আবদুর রহিম বলেছিল যে তার জন্মদিন ‘আগামীকাল’। আজ ২৩ তারিখ হলে তার জন্মদিন কোন তারিখে?",
+        "answers": [
+            {"text": "A. ৭", "score": 0},
+            {"text": "B. ৮", "score": 1},
+            {"text": "C. ৯", "score": 0},
+            {"text": "D. ১০", "score": 0}
+        ],
+        "correct_answer": "B. ৮",
+        "hint": "জন্মদিনের সঠিক দিন গণনা করতে হবে।"
+    },
+    {
+        "question": "94. ০.০৩, ০.১২, ০.৪৮ -শূন্যস্থানে সংখ্যাটি কত হবে?",
+        "answers": [
+            {"text": "A. ০.৯৬", "score": 1},
+            {"text": "B. ১.৪৮", "score": 0},
+            {"text": "C. ১.৯২", "score": 0},
+            {"text": "D. ১.৫০", "score": 0}
+        ],
+        "correct_answer": "A. ০.৯৬",
+        "hint": "সংখ্যার যোগফল বের করতে হবে।"
+    },
+    {
+        "question": "95. ২০ ফুট লম্বা একটি বাঁশ এমনভাবে কেটে দু’ভাগ করা হলো যেন ছোট অংশ বড় অংশের দুই তৃতীয়াংশ হয়, ছোট অংশের দৈর্ঘ্য কত ফুট?",
+        "answers": [
+            {"text": "A. ৬", "score": 0},
+            {"text": "B. ৭", "score": 1},
+            {"text": "C. ৮", "score": 0},
+            {"text": "D. ১০", "score": 0}
+        ],
+        "correct_answer": "B. ৭",
+        "hint": "বাঁশের অংশের সঠিক দৈর্ঘ্য বের করতে হবে।"
+    },
+    {
+        "question": "96. একটি পঞ্চভুজের সমষ্টি -",
+        "answers": [
+            {"text": "A. ৪ সমকোণ", "score": 0},
+            {"text": "B. ৬ সমকোণ", "score": 1},
+            {"text": "C. ৮ সমকোণ", "score": 0},
+            {"text": "D. ১০ সমকোণ", "score": 0}
+        ],
+        "correct_answer": "B. ৬ সমকোণ",
+        "hint": "পঞ্চভুজের কোণের সংখ্যা বের করতে হবে।"
+    },
+    {
+        "question": "97. ঘড়িতে এখন ৮টা বাজে। ঘণ্টার কাঁটা ও মিনিটের কাঁটার মধ্যকার কোণটি হলো -",
+        "answers": [
+            {"text": "A. ১৫°", "score": 0},
+            {"text": "B. ৬০°", "score": 1},
+            {"text": "C. ৯০°", "score": 0},
+            {"text": "D. ৭২°", "score": 0}
+        ],
+        "correct_answer": "B. ৬০°",
+        "hint": "অতিরিক্ত বিশ্লেষণ মাধ্যমে কোণ বের করতে হবে।"
+    },
+    {
+        "question": "98. ৩ সে.মি., ৪ সে.মি. ও ৫ সে.মি. বাহুবিশিষ্ট তিনটি ঘনক গলিয়ে নতুন একটি ঘনক তৈরি করা হল। নতুন ঘনকের বাহুর দৈর্ঘ্য কত হবে?",
+        "answers": [
+            {"text": "A. ৭.৫ সে.মি.", "score": 0},
+            {"text": "B. ৬.৫ সে.মি.", "score": 0},
+            {"text": "C. ৬ সে.মি.", "score": 1},
+            {"text": "D. ৭ সে.মি.", "score": 0}
+        ],
+        "correct_answer": "C. ৬ সে.মি.",
+        "hint": "ঘনক গলানোর পরে নতুন ঘনকের দৈর্ঘ্য বের করতে হবে।"
+    },
+    {
+        "question": "99. একটি রম্বসের কর্ণদ্বয়ের দৈর্ঘ্য ৮ সে.মি. ও ৯ সে.মি.। এই রম্বসের ক্ষেত্রফলের সমান ক্ষেত্রফলবিশিষ্ট বর্গক্ষেত্রের পরিসীমা কত?",
+        "answers": [
+            {"text": "A. ২৪ সে.মি.", "score": 1},
+            {"text": "B. ১৮ সে.মি.", "score": 0},
+            {"text": "C. ৩৬ সে.মি.", "score": 0},
+            {"text": "D. ১২ সে.মি.", "score": 0}
+        ],
+        "correct_answer": "A. ২৪ সে.মি.",
+        "hint": "রম্বসের ক্ষেত্রফল থেকে বর্গক্ষেত্রের পরিসীমা বের করতে হবে।"
+    },
+    {
+        "question": "100. উক্তস্থান দ্বয়ে EY বসালে যথার্থ হয়। সেক্ষেত্রে উত্তর হবে ASSEMBLY.",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. ", "score": 0}
+        ],
+        "correct_answer": "A. ",
+        "hint": "সঠিকভাবে শব্দ গঠন করতে EY বসাতে হবে।"
+    }
+]

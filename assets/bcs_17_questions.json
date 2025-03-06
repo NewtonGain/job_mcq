@@ -1,0 +1,1102 @@
+[
+    {
+        "question": "1. ‘ল্যাপটপ’ হলো এক ধরনের-",
+        "answers": [
+            {"text": "A. পর্বতারোহণ সামগ্রী", "score": 0},
+            {"text": "B. ছোট কুকুর", "score": 0},
+            {"text": "C. বাদ্যযন্ত্র", "score": 0},
+            {"text": "D. ছোট কম্পিউটার", "score": 1}
+        ],
+        "correct_answer": "D. ছোট কম্পিউটার",
+        "hint": "ল্যাপটপ হলো একটি ছোট কম্পিউটার।"
+    },
+    {
+        "question": "2. বাংলাদেশের পাহাড়শ্রেণি ভূ-তাত্ত্বিক যুগের ভূমিরূপ হচ্ছে-",
+        "answers": [
+            {"text": "A. প্লাইস্টোসিন যুগের", "score": 0},
+            {"text": "B. টারশিয়ারী যুগের", "score": 1},
+            {"text": "C. মায়োসিন যুগের", "score": 0},
+            {"text": "D. ডেবোনিয়াস যুগের", "score": 0}
+        ],
+        "correct_answer": "B. টারশিয়ারী যুগের",
+        "hint": "বাংলাদেশের ভূগাঠনিক যুগ টারশিয়ারী যুগের শিলাস্তরের উপর ভিত্তি করে।"
+    },
+    {
+        "question": "3. বাংলাদেশের সবচেয়ে উত্তরে অবস্থিত স্থানের নাম-",
+        "answers": [
+            {"text": "A. তেঁতুলিয়া", "score": 1},
+            {"text": "B. পঞ্চগড়", "score": 0},
+            {"text": "C. বাংলাবান্ধা", "score": 0},
+            {"text": "D. নকশালবাড়ি", "score": 0}
+        ],
+        "correct_answer": "A. তেঁতুলিয়া",
+        "hint": "বাংলাদেশের সর্ব উত্তরে তেঁতুলিয়া অবস্থিত।"
+    },
+    {
+        "question": "4. ‘সোয়াচ অব নো গ্রাউন্ড’ এর মানে-",
+        "answers": [
+            {"text": "A. একটি খেলার মাঠ", "score": 0},
+            {"text": "B. একটি প্লাবন ভূমির নাম", "score": 0},
+            {"text": "C. বঙ্গোপসাগরের একটি খাদের নাম", "score": 1},
+            {"text": "D. ঢাকা সেনানিবাসের পোলো গ্রাউন্ডের নাম", "score": 0}
+        ],
+        "correct_answer": "C. বঙ্গোপসাগরের একটি খাদের নাম",
+        "hint": "সোয়াচ অব নো গ্রাউন্ড বঙ্গোপসাগরের গভীর খাদের নাম।"
+    },
+    {
+        "question": "5. ব্রিটিশ বণিকদের বিরুদ্ধে একজন চাকমা জুমিয়া নেতা বিদ্রোহের পতাকা উড়িয়েছিলেন, তার নাম-",
+        "answers": [
+            {"text": "A. রাজা ত্রিদিব রায়", "score": 0},
+            {"text": "B. রাজা ত্রিভুবন চাকমা", "score": 1},
+            {"text": "C. জুম্মা খান", "score": 0},
+            {"text": "D. জান বখশ খাঁ", "score": 0}
+        ],
+        "correct_answer": "B. রাজা ত্রিভুবন চাকমা",
+        "hint": "রাজার নেতৃত্বে চাকমা বিদ্রোহ ঘটে।"
+    },
+    {
+        "question": "6. ১ ২ ৫ ২ ৭ ২ ৩ - এর সহজ প্রকাশ?",
+        "answers": [
+            {"text": "A. ১ ২ ৫", "score": 0},
+            {"text": "B. ৫ ২ ০", "score": 0},
+            {"text": "C. ৯ ২ ৫", "score": 1},
+            {"text": "D. ৩ ২ ০", "score": 0}
+        ],
+        "correct_answer": "C. ৯ ২ ৫",
+        "hint": "সহজ প্রকাশের জন্য গাণিতিক অপারেশন প্রযোজ্য।"
+    },
+    {
+        "question": "7. দুটি লম্বালম্বি শক্তির পরিমাণ ৫N এবং ৪N, তাদের লব্ধি পরিমাণ কত?",
+        "answers": [
+            {"text": "A. ৩N", "score": 0},
+            {"text": "B. ১ ১", "score": 1},
+            {"text": "C. ৪ ১", "score": 0},
+            {"text": "D. ১ N", "score": 0}
+        ],
+        "correct_answer": "B. ১ ১",
+        "hint": "লব্ধি টান শক্তির সমন্বয় প্রাপ্ত হয়।"
+    },
+    {
+        "question": "8. লব্ধিবল কোন ক্ষুদ্রতম সংখ্যাকে ৩, ৫ ও ৬ দ্বারা ভাগ করলে ভাগশেষ হবে ১?",
+        "answers": [
+            {"text": "A. ৭১", "score": 0},
+            {"text": "B. ৪১", "score": 0},
+            {"text": "C. ৩১", "score": 1},
+            {"text": "D. ৩৯", "score": 0}
+        ],
+        "correct_answer": "C. ৩১",
+        "hint": "ল.সা.গু প্রয়োগ করে ক্ষুদ্রতম সংখ্যাটি বের করতে হবে।"
+    },
+    {
+        "question": "9. একটি কাঠের টুকরোর দৈর্ঘ্য আরেকটি টুকরোর দৈর্ঘ্যের ৩ গুণ। টুকরো দুটো সংযুক্ত করা হলে সংযুক্ত টুকরোটির দৈর্ঘ্য ছোট টুকরোর চেয়ে কতগুণ বড় হবে?",
+        "answers": [
+            {"text": "A. ৩ গুণ", "score": 0},
+            {"text": "B. ৪ গুণ", "score": 0},
+            {"text": "C. ৫ গুণ", "score": 0},
+            {"text": "D. ১ গুণ", "score": 1}
+        ],
+        "correct_answer": "D. ১ গুণ",
+        "hint": "লম্বা টুকরা ছোট টুকরার ৩ গুণ এবং দুইটি টুকরো মিললে ১ গুণ বড় হবে।"
+    },
+    {
+        "question": "10. নয়া আন্তর্জাতিক অর্থনৈতিক ব্যবস্থার প্রস্তাব জাতিসংঘের সাধারণ পরিষদের কোন বিশেষ অধিবেশন গৃহীত হয়?",
+        "answers": [
+            {"text": "A. দ্বিতীয়", "score": 0},
+            {"text": "B. তৃতীয়", "score": 1},
+            {"text": "C. পঞ্চম", "score": 0},
+            {"text": "D. ষষ্ঠ", "score": 0}
+        ],
+        "correct_answer": "B. তৃতীয়",
+        "hint": "নয়া আন্তর্জাতিক অর্থনৈতিক ব্যবস্থা তৃতীয় সাধারণ পরিষদে গৃহীত হয়।"
+    },
+    {
+        "question": "11. মধ্য এশিয়ায় অবস্থিত আয়তনে সর্ববৃহৎ প্রজাতন্ত্রের নাম-",
+        "answers": [
+            {"text": "A. তাজিকিস্তান", "score": 0},
+            {"text": "B. কাজাখস্তান", "score": 1},
+            {"text": "C. উজবেকিস্তান", "score": 0},
+            {"text": "D. কিরগিজস্তান", "score": 0}
+        ],
+        "correct_answer": "B. কাজাখস্তান",
+        "hint": "কাজাখস্তান মধ্য এশিয়ার বৃহত্তম প্রজাতন্ত্র।"
+    },
+    {
+        "question": "12. জোট নিরপেক্ষ আন্দোলনের প্রথম শীর্ষ সম্মেলন কবে অনুষ্ঠিত হয়?",
+        "answers": [
+            {"text": "A. হারারে, ১৯৮৯ সালে", "score": 0},
+            {"text": "B. বেলগ্রেডে, ১৯৬১ সালে", "score": 1},
+            {"text": "C. হাভানা, ১৯৭৩ সালে", "score": 0},
+            {"text": "D. কায়রো, ১৯৭০ সালে", "score": 0}
+        ],
+        "correct_answer": "B. বেলগ্রেডে, ১৯৬১ সালে",
+        "hint": "জোট নিরপেক্ষ আন্দোলনের প্রথম শীর্ষ সম্মেলন ১৯৬১ সালে অনুষ্ঠিত হয়।"
+    },
+    {
+        "question": "13. ১৭২৫ সালে বিশ্বের প্রাচীনতম রেস্তোরাঁ চালু হয়েছিল ইউরোপের একটি শহরে, তার নাম এবং রেস্তোরাঁর নাম-",
+        "answers": [
+            {"text": "A. ইতালির মিলান শহর, মালদিনীয়ানি", "score": 0},
+            {"text": "B. জার্মানির হামবুর্গ শহর, ক্যাসানোভা", "score": 0},
+            {"text": "C. স্পেনের মাদ্রিদ শহর, কাসা বোতিল", "score": 0},
+            {"text": "D. ফ্রান্সের টুলোন শহর, লাফ্রাসে", "score": 1}
+        ],
+        "correct_answer": "D. ফ্রান্সের টুলোন শহর, লাফ্রাসে",
+        "hint": "১৭২৫ সালে ফ্রান্সের টুলোন শহরে এই রেস্তোরাঁ চালু হয়।"
+    },
+    {
+        "question": "14. ‘অ্যাকোয়া রেজিয়া’ বলতে বুঝায়-",
+        "answers": [
+            {"text": "A. কনসেনট্রেটেড সালফিউরিক এসিড", "score": 0},
+            {"text": "B. কনসেনট্রেটেড নাইট্রিক এসিড", "score": 0},
+            {"text": "C. কনসেনট্রেটেড সালফিউরিক এবং কনসেনট্রেটেড নাইট্রিক এসিডের মিশ্রণ", "score": 1},
+            {"text": "D. কনসেনট্রেটেড নাইট্রিক ও হাইড্রোক্লোরিক এসিডের মিশ্রণ", "score": 0}
+        ],
+        "correct_answer": "C. কনসেনট্রেটেড সালফিউরিক এবং কনসেনট্রেটেড নাইট্রিক এসিডের মিশ্রণ",
+        "hint": "অ্যাকোয়া রেজিয়া হলো দুই ধরনের এসিডের মিশ্রণ।"
+    },
+    {
+        "question": "15. বায়ুমণ্ডলের চাপের ফলে ভূগর্ভস্থ পানি লিফট পাম্পের সাহায্যে সর্বোচ্চ যে গভীরতা থেকে উঠানো যায়-",
+        "answers": [
+            {"text": "A. ১ মিটার", "score": 0},
+            {"text": "B. ১০ মিটার", "score": 1},
+            {"text": "C. ১৫ মিটার", "score": 0},
+            {"text": "D. ৩০ মিটার", "score": 0}
+        ],
+        "correct_answer": "B. ১০ মিটার",
+        "hint": "বায়ুমণ্ডলের চাপ ১০ মিটার পর্যন্ত পানি প্রভাবিত করে।"
+    },
+    {
+        "question": "16. বাংলা ভাষার প্রথম কাব্য সংকলন ‘চর্যাপদ’-এর আবিষ্কারক-",
+        "answers": [
+            {"text": "A. ডক্টর মুহম্মদ শহীদুল্লাহ", "score": 1},
+            {"text": "B. ডক্টর সুনীতিকুমার চট্টোপাধ্যায়", "score": 0},
+            {"text": "C. হরপ্রাসাদ শাস্ত্রী", "score": 0},
+            {"text": "D. ডক্টর সুকুমার সেন", "score": 0}
+        ],
+        "correct_answer": "A. ডক্টর মুহম্মদ শহীদুল্লাহ",
+        "hint": "ডক্টর মুহম্মদ শহীদুল্লাহ চর্যাপদ আবিষ্কার করেছেন।"
+    },
+    {
+        "question": "17. হিন্দি ‘পদুমাবৎ’-এর অবলম্বনে ‘পদ্মাবতী’ কাব্যের রচয়িতা-",
+        "answers": [
+            {"text": "A. দৌলত উজীর বাহরাম খান", "score": 0},
+            {"text": "B. রাজা ত্রিভুবন চাকমা", "score": 0},
+            {"text": "C. আবদুল করিম সাহিত্য বিশারদ", "score": 0},
+            {"text": "D. আলাওল", "score": 1}
+        ],
+        "correct_answer": "D. আলাওল",
+        "hint": "আলাওল ‘পদ্মাবতী’ কাব্যটি অবলম্বনে রচনা করেছেন।"
+    },
+    {
+        "question": "18. ‘তও্ববোধিনী পত্রিকা’ প্রথম প্রকাশিত হয়-",
+        "answers": [
+            {"text": "A. ১৮৪১ সালে", "score": 0},
+            {"text": "B. ১৮৪২ সালে", "score": 1},
+            {"text": "C. ১৮৫০ সালে", "score": 0},
+            {"text": "D. ১৮৪৩ সালে", "score": 0}
+        ],
+        "correct_answer": "B. ১৮৪২ সালে",
+        "hint": "তও্ববোধিনী পত্রিকা ১৮৪২ সালে প্রকাশিত হয়।"
+    },
+    {
+        "question": "19. উপসর্গের সাথে প্রত্যয়ের পার্থক্য-",
+        "answers": [
+            {"text": "A. অব্যয় ও শব্দাংশে", "score": 0},
+            {"text": "B. নতুন শব্দ গঠনে", "score": 0},
+            {"text": "C. উপসর্গ থাকে সামনে, প্রত্যয় থাকে পেছনে", "score": 1},
+            {"text": "D. ভিন্ন অর্থ প্রকাশে", "score": 0}
+        ],
+        "correct_answer": "C. উপসর্গ থাকে সামনে, প্রত্যয় থাকে পেছনে",
+        "hint": "উপসর্গ ও প্রত্যয় শব্দের মধ্যে ব্যবধান রয়েছে।"
+    },
+    {
+        "question": "20. যে ছন্দের মূল পর্বের মাত্রা সংখ্যা চার, তাকে বলা হয়-",
+        "answers": [
+            {"text": "A. স্বরবৃত্ত", "score": 0},
+            {"text": "B. পয়ার", "score": 0},
+            {"text": "C. মাত্রাবৃত্ত", "score": 1},
+            {"text": "D. অক্ষরবৃত্ত", "score": 0}
+        ],
+        "correct_answer": "C. মাত্রাবৃত্ত",
+        "hint": "মুখ্য মাত্রা সংখ্যা ৪ হলে তাকে মাত্রাবৃত্ত বলা হয়।"
+    },
+    {
+        "question": "21. The sentence with correct punctuations-",
+        "answers": [
+            {"text": "A. Maria, my student, is on leave to-day", "score": 1},
+            {"text": "B. Maria my student, is on leave to-day", "score": 0},
+            {"text": "C. Maria my student is on leave to-day", "score": 0},
+            {"text": "D. Maria my student is, on leave to-day", "score": 0}
+        ],
+        "correct_answer": "A. Maria, my student, is on leave to-day",
+        "hint": "সঠিক punctuation ব্যবহার করতে হবে।"
+    },
+    {
+        "question": "22. The antonym for ‘inimical’-",
+        "answers": [
+            {"text": "A. Hostile", "score": 0},
+            {"text": "B. Friendly", "score": 1},
+            {"text": "C. Indifferent", "score": 0},
+            {"text": "D. Agnry", "score": 0}
+        ],
+        "correct_answer": "B. Friendly",
+        "hint": "Inimical মানে বৈরী; এর বিপরীত অর্থ হচ্ছে Friendly।"
+    },
+    {
+        "question": "23. The synonym for ‘efface’-",
+        "answers": [
+            {"text": "A. Improve", "score": 0},
+            {"text": "B. Exhaust", "score": 0},
+            {"text": "C. Rub out", "score": 1},
+            {"text": "D. Cut out", "score": 0}
+        ],
+        "correct_answer": "C. Rub out",
+        "hint": "'Efface' মানে মুছে ফেলা।"
+    },
+    {
+        "question": "24. The best passive form of the sentence: ‘We don’t like idle people’-",
+        "answers": [
+            {"text": "A. we are not liked by idle people", "score": 0},
+            {"text": "B. Idle people are not like us", "score": 0},
+            {"text": "C. Idle people are not liked by us", "score": 1},
+            {"text": "D. Idle people are not of our liking", "score": 0}
+        ],
+        "correct_answer": "C. Idle people are not liked by us",
+        "hint": "Passive voice অনুযায়ী বাক্যটি সঠিক হলো (গ)।"
+    },
+    {
+        "question": "25. The correct sentence of the followings-",
+        "answers": [
+            {"text": "A. The Nile is longest river in Africa", "score": 0},
+            {"text": "B. The Nile is longest river in the Africa", "score": 0},
+            {"text": "C. Nile is longest river in Africa", "score": 0},
+            {"text": "D. The Nile is the longest river in Africa", "score": 1}
+        ],
+        "correct_answer": "D. The Nile is the longest river in Africa",
+        "hint": "Longest শব্দটি superlative বলে এর পূর্বে the বসবে।"
+    },
+    {
+        "question": "26. টুথপেস্টের প্রধান উপাদান-",
+        "answers": [
+            {"text": "A. জেলী ও মশলা", "score": 0},
+            {"text": "B. ভোজ্য তেল ও সোডা", "score": 0},
+            {"text": "C. সাবান ও পাউডার", "score": 0},
+            {"text": "D. ফ্লোরাইড ও ক্লোরোফিল", "score": 1}
+        ],
+        "correct_answer": "D. ফ্লোরাইড ও ক্লোরোফিল",
+        "hint": "টুথপেস্টের প্রধান উপাদান হলো ফ্লোরাইড ও ক্লোরোফিল।"
+    },
+    {
+        "question": "27. পানির ছোট ফোটা পানির যে গুণের জন্য গোলাকৃতি হয়-",
+        "answers": [
+            {"text": "A. সান্দ্রতা", "score": 0},
+            {"text": "B. স্থিতিস্থাপকতা", "score": 1},
+            {"text": "C. প্লবতা", "score": 0},
+            {"text": "D. পৃষ্ঠটান", "score": 0}
+        ],
+        "correct_answer": "B. স্থিতিস্থাপকতা",
+        "hint": "পানির পৃষ্ঠটান গোলাকৃতি তৈরিতে ভূমিকা রাখে।"
+    },
+    {
+        "question": "28. মুক্তা হলো ঝিনুকের-",
+        "answers": [
+            {"text": "A. খোলসের টুকরা", "score": 0},
+            {"text": "B. চোখের মণি", "score": 0},
+            {"text": "C. প্রদাহের ফল", "score": 1},
+            {"text": "D. জমাট হরমোন", "score": 0}
+        ],
+        "correct_answer": "C. প্রদাহের ফল",
+        "hint": "ঝিনুকের ভিতরে প্রদাহের ফলে মুক্তা উৎপন্ন হয়।"
+    },
+    {
+        "question": "29. ১৯৯৪ সালের ১ ডিসেম্বর বৃহস্পতিবার হলে, ১৯৯৫ সালের ঐ একই তারিখে হবে-",
+        "answers": [
+            {"text": "A. বৃহস্পতিবার", "score": 0},
+            {"text": "B. শুক্রবার", "score": 1},
+            {"text": "C. রবিবার", "score": 0},
+            {"text": "D. শনিবার", "score": 0}
+        ],
+        "correct_answer": "B. শুক্রবার",
+        "hint": "১৯৯৫ সাল লিপইয়ার নয়, তাই ১ ডিসেম্বর হবে শুক্রবার।"
+    },
+    {
+        "question": "30. একটি ত্রিভুজাকৃতি ক্ষেত্রের ক্ষেত্রফল ৮৪ বর্গগজ। ত্রিভুজটির শীর্ষ বিন্দু হতে ভূমির ওপর অংকিত লম্বের দৈর্ঘ্য ১২ গজ হলে ভূমির দৈর্ঘ্য কত?",
+        "answers": [
+            {"text": "A. ১০ গজ", "score": 0},
+            {"text": "B. ১২ গজ", "score": 0},
+            {"text": "C. ১৪ গজ", "score": 1},
+            {"text": "D. ৭ গজ", "score": 0}
+        ],
+        "correct_answer": "C. ১৪ গজ",
+        "hint": "ক্ষেত্রফল হিসেবে প্রাপ্ত গাণিতিক রূপ ব্যবহার করুন।"
+    },
+    {
+        "question": "31. - এর মান কত?",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. 1", "score": 1},
+            {"text": "D. -1", "score": 0}
+        ],
+        "correct_answer": "C. 1",
+        "hint": "গণনার মাধ্যমে এটি বের করুন।"
+    },
+    {
+        "question": "32. AB ও CD সরলরেখাদ্বয় ‘O’ বিন্দুতে ছেদ করলে নিচের কোন গাণিতিক বাক্যটি সঠিক হবে?",
+        "answers": [
+            {"text": "A. ∠AOD = ∠BOC", "score": 1},
+            {"text": "B. ∠AOD = ∠BOD", "score": 0},
+            {"text": "C. ∠BOC = ∠AOC", "score": 0},
+            {"text": "D. ∠AOD > ∠BOC", "score": 0}
+        ],
+        "correct_answer": "A. ∠AOD = ∠BOC",
+        "hint": "দুটি সরলরেখা ছেদ করলে বিপ্রতীপ কোণ সমান হয়।"
+    },
+    {
+        "question": "33. ঢাকা ও চট্টগ্রাম এই দুই রেল স্টেশন থেকে প্রতি ঘণ্টায় একটা ট্রেন এক স্টেশন থেকে অন্য স্টেশনের দিকে যাত্রা করে। সব ট্রেনই সমান গতিতে চলে এবং গন্তব্যস্থলে পৌঁছাতে প্রত্যেক ট্রেনের ৫ ঘণ্টা সময় লাগে। এক স্টেশন থেকে যাত্রা করে অন্য স্টেশনে পৌঁছানো পযর্ন্ত একটা ট্রেন কয়টা ট্রেনের দেখা পাবে?",
+        "answers": [
+            {"text": "A. ৮", "score": 0},
+            {"text": "B. ১০", "score": 1},
+            {"text": "C. ১১", "score": 0},
+            {"text": "D. ১২", "score": 0}
+        ],
+        "correct_answer": "B. ১০",
+        "hint": "মোট ট্রেনের সংখ্যা বের করতে হবে।"
+    },
+    {
+        "question": "34. ৮১, ২৭, -, ৩, ১ লুপ্ত সংখ্যাটি কত?",
+        "answers": [
+            {"text": "A. ৬", "score": 0},
+            {"text": "B. ৯", "score": 1},
+            {"text": "C. ১২", "score": 0},
+            {"text": "D. ১৫", "score": 0}
+        ],
+        "correct_answer": "B. ৯",
+        "hint": "গণনার মাধ্যমে সংখ্যাটি বের করতে হবে।"
+    },
+    {
+        "question": "35. দুটি সংখ্যার গ.সা.গু বিয়োগফল এবং ল.সা.গু. যথাক্রমে ১২, ৬০ এবং ২৪৪৮। সংখ্যা দুটি কত?",
+        "answers": [
+            {"text": "A. ১০৮, ১৪৪", "score": 1},
+            {"text": "B. ১১২, ১৪৮", "score": 0},
+            {"text": "C. ১৪৪, ২০৮", "score": 0},
+            {"text": "D. ১৪৪, ২০৪", "score": 0}
+        ],
+        "correct_answer": "A. ১০৮, ১৪৪",
+        "hint": "গ.সা.গু এবং ল.সা.গু ব্যবহার করে সংখ্যাটি বের করুন।"
+    },
+    {
+        "question": "36. বিশ্ব তামাকমুক্ত দিবস প্রতিপালিত হয় প্রতি বছরের-",
+        "answers": [
+            {"text": "A. ৩১ জানুয়ারি", "score": 0},
+            {"text": "B. ৩১ মার্চ", "score": 0},
+            {"text": "C. ৩০ এপ্রিল", "score": 0},
+            {"text": "D. ৩১ মে", "score": 1}
+        ],
+        "correct_answer": "D. ৩১ মে",
+        "hint": "৩১ মে বিশ্ব তামাকমুক্ত দিবস।"
+    },
+    {
+        "question": "37. মার্কিন যুক্তরাষ্ট্রকে ‘স্ট্যাচু অব লিবার্টি’ উপহার দেয় যে রাষ্ট্র-",
+        "answers": [
+            {"text": "A. যুক্তরাজ্য", "score": 0},
+            {"text": "B. ফ্রান্স", "score": 1},
+            {"text": "C. জাপান", "score": 0},
+            {"text": "D. জার্মানি", "score": 0}
+        ],
+        "correct_answer": "B. ফ্রান্স",
+        "hint": "স্ট্যাচু অব লিবার্টি ফ্রান্সের উপহার।"
+    },
+    {
+        "question": "38. নিচের যে দেশটি জাতিসংঘের সদস্য নয়-",
+        "answers": [
+            {"text": "A. নামিবিয়া", "score": 0},
+            {"text": "B. সুইজারল্যান্ড", "score": 1},
+            {"text": "C. কিউবা", "score": 0},
+            {"text": "D. পানামা", "score": 0}
+        ],
+        "correct_answer": "B. সুইজারল্যান্ড",
+        "hint": "সুইজারল্যান্ড জাতিসংঘের সদস্য ছিল না।"
+    },
+    {
+        "question": "39. আধুনিক অলিম্পিকের প্রবর্তক বা জনক-",
+        "answers": [
+            {"text": "A. বেডেন পাওয়েল", "score": 0},
+            {"text": "B. ব্যারন পিয়ারে দ্য কুবার্তা", "score": 1},
+            {"text": "C. প্যারেজ দ্য কুয়েলার", "score": 0},
+            {"text": "D. জুয়ান এন্টনিও সামারাঞ্চ", "score": 0}
+        ],
+        "correct_answer": "B. ব্যারন পিয়ারে দ্য কুবার্তা",
+        "hint": "ব্যারন পিয়ারে দ্য কুবার্তা আধুনিক অলিম্পিকের প্রবর্তক।"
+    },
+    {
+        "question": "40. স্বাধীনতার আগে পাপুয়া নিউগিনি কোন দেশের অধীন ছিল?",
+        "answers": [
+            {"text": "A. ব্রিটেন", "score": 0},
+            {"text": "B. ফ্রান্স", "score": 0},
+            {"text": "C. অস্ট্রেলিয়া", "score": 1},
+            {"text": "D. নিউজিল্যান্ড", "score": 0}
+        ],
+        "correct_answer": "C. অস্ট্রেলিয়া",
+        "hint": "পাপুয়া নিউগিনি স্বাধীন হয়েছে অস্ট্রেলিয়া থেকে।"
+    },
+    {
+        "question": "41. ‘আমার সন্তান যেন থাকে দুধে-ভাতে’ লাইনটি নিম্নোক্ত একজনের কাব্যে পাওয়া যায়-",
+        "answers": [
+            {"text": "A. মুকুন্দরাম চক্রবর্তী", "score": 0},
+            {"text": "B. ভারতচন্দ্র রায়", "score": 0},
+            {"text": "C. মদন মোহন তর্কালঙ্কার", "score": 0},
+            {"text": "D. কামিনী রায়", "score": 1}
+        ],
+        "correct_answer": "D. কামিনী রায়",
+        "hint": "কবির বিখ্যাত লাইনটি কামিনী রায়ের রচনায় পাওয়া যায়।"
+    },
+    {
+        "question": "42. -এর অনুরূপ কোনটি?",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. ", "score": 0}
+        ],
+        "correct_answer": " ",
+        "hint": " "
+    },
+    {
+        "question": "43. এবং  সরলরেখা দুটি কোন বিন্দুতে ছেদ করে?",
+        "answers": [
+            {"text": "A. ১ ৩ ১ ৩", "score": 0},
+            {"text": "B. ১ ১", "score": 1},
+            {"text": "C. ৩ ৩", "score": 0},
+            {"text": "D. ১ ১", "score": 0}
+        ],
+        "correct_answer": "B. ১ ১",
+        "hint": "সরলরেখা ছেদ করার বিন্দু খুঁজুন।"
+    },
+    {
+        "question": "44. একটি সোনার গহনার ওজন ১৬ গ্রাম। এতে সোনা ও তামারের অনুপাত ৩ : ১। এতে কি পরিমাণ সোনা মেশালে অনুপাত ৪ : ১ হবে?",
+        "answers": [
+            {"text": "A. ৮ গ্রাম", "score": 0},
+            {"text": "B. ৬ গ্রাম", "score": 1},
+            {"text": "C. ৩ গ্রাম", "score": 0},
+            {"text": "D. ৪ গ্রাম", "score": 0}
+        ],
+        "correct_answer": "B. ৬ গ্রাম",
+        "hint": "অনুপাত পরিবর্তনের জন্য সোনার পরিমাণ বের করুন।"
+    },
+    {
+        "question": "45. যদি  এর মূল দুটি সমান এবং  তবে  এর মান কত?",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. 0", "score": 1},
+            {"text": "D. ", "score": 0}
+        ],
+        "correct_answer": "C. 0",
+        "hint": "মূল দুটি সমান হলে মান হবে ০।"
+    },
+    {
+        "question": "46. আরব দেশসমূহ পাশ্চাত্যের ওপর তেল অবরোধ করে -",
+        "answers": [
+            {"text": "A. ১৯৭০ সালে", "score": 0},
+            {"text": "B. ১৯৭৩ সালে", "score": 1},
+            {"text": "C. ১৯৭৪ সালে", "score": 0},
+            {"text": "D. ১৯৭৮ সালে", "score": 0}
+        ],
+        "correct_answer": "B. ১৯৭৩ সালে",
+        "hint": "আরব দেশগুলো ১৯৭৩ সালে পাশ্চাত্যের ওপর তেল অবরোধ করে।"
+    },
+    {
+        "question": "47. পোলিও টিকা আবিষ্কারক জোনাস সাল্ক যুক্তরাষ্ট্রে এক শহরে মারা যান, শহরটির নাম-",
+        "answers": [
+            {"text": "A. La Martini", "score": 0},
+            {"text": "B. La Zola", "score": 0},
+            {"text": "C. San Antonio", "score": 0},
+            {"text": "D. San Hose", "score": 1}
+        ],
+        "correct_answer": "D. San Hose",
+        "hint": "জোনাস সাল্ক যুক্তরাষ্ট্রের San Hose শহরে মারা যান।"
+    },
+    {
+        "question": "48. বাংলাদেশের গবাদিপশুতে প্রথম ভ্রূণ বদল করা হয়-",
+        "answers": [
+            {"text": "A. ৫ মে, ১৯৯৪", "score": 1},
+            {"text": "B. ৬ এপ্রিল, ১৯৯৪", "score": 0},
+            {"text": "C. ৫ মে, ১৯৯৫", "score": 0},
+            {"text": "D. ৭ মে, ১৯৯৫", "score": 0}
+        ],
+        "correct_answer": "A. ৫ মে, ১৯৯৪",
+        "hint": "গবাদিপশুর ভ্রূণ বদল করা হয় ৫ মে, ১৯৯৪।"
+    },
+    {
+        "question": "49. বেনেলাক্স (BENELUX) বলতে যে দেশগুলোকে বুঝায়-",
+        "answers": [
+            {"text": "A. সুইডেন, নরওয়ে, ফিনল্যান্ড", "score": 0},
+            {"text": "B. চেক প্রজাতন্ত্র, পোল্যান্ড, জার্মানি", "score": 0},
+            {"text": "C. বেলজিয়াম, নেদারল্যান্ড, লুক্সেমবার্গ", "score": 1},
+            {"text": "D. ইংল্যান্ড, আইরিশ প্রজাতন্ত্র, ফ্রান্স", "score": 0}
+        ],
+        "correct_answer": "C. বেলজিয়াম, নেদারল্যান্ড, লুক্সেমবার্গ",
+        "hint": "বেনেলাক্স অর্থনৈতিক জোট হলো বেলজিয়াম, নেদারল্যান্ড এবং লুক্সেমবার্গ।"
+    },
+    {
+        "question": "50. বাংলাদেশে ঢোকার পর গঙ্গা নদী, ব্রহ্মপুত্র-যমুনার সাথে নিম্নোক্ত একটা জায়গায় মেশে-",
+        "answers": [
+            {"text": "A. গোয়ালন্দ", "score": 1},
+            {"text": "B. বাহাদুরাবাদ", "score": 0},
+            {"text": "C. ভৈরববাজার", "score": 0},
+            {"text": "D. নারায়ণগঞ্জ", "score": 0}
+        ],
+        "correct_answer": "A. গোয়ালন্দ",
+        "hint": "গঙ্গা নদী, 브হ্মপুত্র-যমুনার সাথে গোয়ালন্দে মিশে যায়।"
+    },
+    {
+        "question": "51. ১৮৭৪ সালে ঢাকা শহরে পানি সরবরাহ করার জন্য প্রথম পানি সরবরাহ কার্যক্রম স্থাপিত হয়-",
+        "answers": [
+            {"text": "A. সদরঘাটে", "score": 0},
+            {"text": "B. চাঁদনীঘাটে", "score": 1},
+            {"text": "C. পোস্তগোলায়", "score": 0},
+            {"text": "D. শ্যামবাজারে", "score": 0}
+        ],
+        "correct_answer": "B. চাঁদনীঘাটে",
+        "hint": "ঢাকা শহরে ১৮৭৪ সালে পানি সরবরাহের কার্যক্রম চাঁদনীঘাটে স্থাপিত হয়েছিল।"
+    },
+    {
+        "question": "52. ঢাকা শহরের বড় কাটরা ও ছোট কাটরা নিচের কোন এলাকায় অবস্থিত?",
+        "answers": [
+            {"text": "A. চকবাজার", "score": 1},
+            {"text": "B. সদরঘাট", "score": 0},
+            {"text": "C. লালবাগ", "score": 0},
+            {"text": "D. ইসলামপুর", "score": 0}
+        ],
+        "correct_answer": "A. চকবাজার",
+        "hint": "বড় কাটরা ও ছোট কাটরা ঢাকার চকবাজার এলাকায় অবস্থিত।"
+    },
+    {
+        "question": "53. পর্তুগিজ ভাষা থেকে নিম্নোক্ত একটি শব্দ বাংলা ভাষায় আত্তীকরণ করা হয়েছে-",
+        "answers": [
+            {"text": "A. টেবিল", "score": 0},
+            {"text": "B. চেয়ার", "score": 0},
+            {"text": "C. বালতি", "score": 1},
+            {"text": "D. শরবত", "score": 0}
+        ],
+        "correct_answer": "C. বালতি",
+        "hint": "বালতি শব্দটি পর্তুগিজ ভাষা থেকে নেয়া হয়েছে।"
+    },
+    {
+        "question": "54. ‘কর্নারস্টোন অব পিস’- এই স্মৃতিসৌধটি সম্প্রতি স্থাপিত হয়েছে-",
+        "answers": [
+            {"text": "A. ম্যাকাও", "score": 0},
+            {"text": "B. হাইতি", "score": 0},
+            {"text": "C. ওকিনাওয়া", "score": 1},
+            {"text": "D. ভিয়েতনাম", "score": 0}
+        ],
+        "correct_answer": "C. ওকিনাওয়া",
+        "hint": "এটি ওকিনাওয়ার যুদ্ধে নিহতদের স্মরণে নির্মিত হয়েছে।"
+    },
+    {
+        "question": "55. বাংলাদেশের একটি জীবন্ত জীবাশ্মের নাম-",
+        "answers": [
+            {"text": "A. রাজ কাঁকড়া", "score": 1},
+            {"text": "B. গন্ডার", "score": 0},
+            {"text": "C. পিপীলিকাভুক্ত ম্যানিস", "score": 0},
+            {"text": "D. স্নো লোরিস", "score": 0}
+        ],
+        "correct_answer": "A. রাজ কাঁকড়া",
+        "hint": "রাজ কাঁকড়া বাংলাদেশের জীবন্ত জীবাশ্ম।"
+    },
+    {
+        "question": "56. Browning was the composer of any of the following poems-",
+        "answers": [
+            {"text": "A. Two Voice", "score": 0},
+            {"text": "B. The Scholar Gipsy", "score": 1},
+            {"text": "C. Andreadel Sarto", "score": 0},
+            {"text": "D. Oneone", "score": 0}
+        ],
+        "correct_answer": "B. The Scholar Gipsy",
+        "hint": "Browning-এর সৃষ্টির মধ্যে The Scholar Gipsy রয়েছে।"
+    },
+    {
+        "question": "57. The right word to fill in the gap of the following sentence - ‘Give her a telephone number to ring ____ she gets lost’-",
+        "answers": [
+            {"text": "A. Whether", "score": 0},
+            {"text": "B. Incase", "score": 1},
+            {"text": "C. Unless", "score": 0},
+            {"text": "D. Perhaps", "score": 0}
+        ],
+        "correct_answer": "B. Incase",
+        "hint": "Incise ব্যবহার হয় পূর্ব সর্তকতার ক্ষেত্রে।"
+    },
+    {
+        "question": "58. The synonym of ‘Franchise’-",
+        "answers": [
+            {"text": "A. Privilege", "score": 1},
+            {"text": "B. Utility", "score": 0},
+            {"text": "C. French", "score": 0},
+            {"text": "D. Frankness", "score": 0}
+        ],
+        "correct_answer": "A. Privilege",
+        "hint": "'Franchise' এর অর্থ অধিকার বা ভোটাধিকার।"
+    },
+    {
+        "question": "59. The opposite word of ‘sluggish’-",
+        "answers": [
+            {"text": "A. Animated", "score": 1},
+            {"text": "B. Dull", "score": 0},
+            {"text": "C. Heavy", "score": 0},
+            {"text": "D. Slow", "score": 0}
+        ],
+        "correct_answer": "A. Animated",
+        "hint": "'Sluggish' এর বিপরীত অর্থ Animated।"
+    },
+    {
+        "question": "60. The correct spelling is-",
+        "answers": [
+            {"text": "A. Humourous", "score": 0},
+            {"text": "B. Humourious", "score": 0},
+            {"text": "C. Humorous", "score": 1},
+            {"text": "D. Humorious", "score": 0}
+        ],
+        "correct_answer": "C. Humorous",
+        "hint": "'Humorous' শব্দের সঠিক বানান হলো Humorous।"
+    },
+    {
+        "question": "61. ‘Equivocation’ means-",
+        "answers": [
+            {"text": "A. A true statement", "score": 0},
+            {"text": "B. Equal opportunity to get a job", "score": 0},
+            {"text": "C. Free expression of opinions", "score": 0},
+            {"text": "D. Two contrary things in the same statement", "score": 1}
+        ],
+        "correct_answer": "D. Two contrary things in the same statement",
+        "hint": "'Equivocation' মানে বিপরীত ধর্মী বিষয় ভিন্নধর্মী বিষয় একত্রে।"
+    },
+    {
+        "question": "62. Natural protein-এর কোড নাম -",
+        "answers": [
+            {"text": "A. protein-P 53", "score": 0},
+            {"text": "B. protein-P 51", "score": 0},
+            {"text": "C. protein-P 49", "score": 0},
+            {"text": "D. protein-P 54", "score": 1}
+        ],
+        "correct_answer": "D. protein-P 54",
+        "hint": "'Natural protein' এর কোড নাম protein-P 54।"
+    },
+    {
+        "question": "63. উত্তর আটলান্টিক চুক্তি সংস্থা গঠিত হয়েছিল-",
+        "answers": [
+            {"text": "A. ৪ এপ্রিল, ১৯৪৯", "score": 1},
+            {"text": "B. ৩ জানুয়ারী, ১৯৫৪", "score": 0},
+            {"text": "C. ২৬ মে, ১৯৫৫", "score": 0},
+            {"text": "D. ১ ফেব্রুয়ারী, ১৯৫৬", "score": 0}
+        ],
+        "correct_answer": "A. ৪ এপ্রিল, ১৯৪৯",
+        "hint": "NATO ১৯৪৯ সালের ৪ এপ্রিল গঠিত হয়।"
+    },
+    {
+        "question": "64. ওপেকভুক্ত একমাত্র অ-আরব এশীয় দেশ-",
+        "answers": [
+            {"text": "A. ইন্দোনেশিয়া", "score": 1},
+            {"text": "B. মালয়েশিয়া", "score": 0},
+            {"text": "C. থাইল্যান্ড", "score": 0},
+            {"text": "D. ফিলিপাইন", "score": 0}
+        ],
+        "correct_answer": "A. ইন্দোনেশিয়া",
+        "hint": "ইন্দোনেশিয়া ওপেকভুক্ত একমাত্র অ-আরব দেশ।"
+    },
+    {
+        "question": "65. ‘Personan-non-grata’ শব্দসমষ্টি যে বিশেষ ব্যক্তির ক্ষেত্রে প্রযোজ্য-",
+        "answers": [
+            {"text": "A. রাজনীতিবিদ", "score": 0},
+            {"text": "B. ক্রীড়াবিদ", "score": 0},
+            {"text": "C. ব্যবসায়ী", "score": 0},
+            {"text": "D. কূটনীতিবিদ", "score": 1}
+        ],
+        "correct_answer": "D. কূটনীতিবিদ",
+        "hint": "এটি কূটনৈতিক ক্ষেত্রে ব্যবহৃত হয়।"
+    },
+    {
+        "question": "66. যেই যুদ্ধের প্রেক্ষাপটে সাধারণ পরিষদে ‘Uniting for Peace Resolution’ গৃহীত হয়েছিল?",
+        "answers": [
+            {"text": "A. সুয়েজ যুদ্ধ", "score": 0},
+            {"text": "B. কোরীয় যুদ্ধ", "score": 1},
+            {"text": "C. পাক-ভারত যুদ্ধ ১৯৬৫", "score": 0},
+            {"text": "D. ফকল্যান্ড যুদ্ধ", "score": 0}
+        ],
+        "correct_answer": "B. কোরীয় যুদ্ধ",
+        "hint": "কোরীয় যুদ্ধের প্রেক্ষাপটে ‘Uniting for Peace Resolution’ গৃহীত হয়েছিল।"
+    },
+    {
+        "question": "67. কমনওয়েলথের বর্তমান সদস্য সংখ্যা-",
+        "answers": [
+            {"text": "A. ৪৮", "score": 0},
+            {"text": "B. ৫০", "score": 0},
+            {"text": "C. ৫২", "score": 0},
+            {"text": "D. ৫৬", "score": 1}
+        ],
+        "correct_answer": "D. ৫৬",
+        "hint": "কমনওয়েলথ বর্তমানে ৫৬টি সদস্য দেশ নিয়ে গঠিত।"
+    },
+    {
+        "question": "68. ‘লাঠালাঠি’ শব্দটির সমাস-",
+        "answers": [
+            {"text": "A. দন্দ্ব", "score": 1},
+            {"text": "B. বহুব্রীহি", "score": 0},
+            {"text": "C. কর্মধারায়", "score": 0},
+            {"text": "D. তৎপুরুষ", "score": 0}
+        ],
+        "correct_answer": "A. দন্দ্ব",
+        "hint": "'লাঠালাঠি' শব্দটির সমাস হলো দন্দ্ব।"
+    },
+    {
+        "question": "69. বাংলা ভাষার উদ্ভব হয়েছে নিম্নোক্ত একটি ভাষা থেকে-",
+        "answers": [
+            {"text": "A. সংস্কৃত", "score": 1},
+            {"text": "B. pali", "score": 0},
+            {"text": "C. প্রাকৃত", "score": 0},
+            {"text": "D. অপ্রভ্রংশ", "score": 0}
+        ],
+        "correct_answer": "A. সংস্কৃত",
+        "hint": "বাংলা ভাষার উদ্ভব সংস্কৃত থেকে হয়েছে।"
+    },
+    {
+        "question": "70. শব্দার্থ অনুসারে বাংলা ভাষার শব্দ সমষ্টিকে ভাগ করা যায়-",
+        "answers": [
+            {"text": "A. দুই ভাগে", "score": 0},
+            {"text": "B. তিন ভাগে", "score": 0},
+            {"text": "C. চার ভাগে", "score": 1},
+            {"text": "D. পাঁচ ভাগে", "score": 0}
+        ],
+        "correct_answer": "C. চার ভাগে",
+        "hint": "শব্দগুলো অর্থের ভিত্তিতে চার ভাগে বিভক্ত হয়।"
+    },
+    {
+        "question": "71. ‘মানবজীবন’, ‘মহৎজীবন’, ‘উন্নতজীবন’- প্রভৃতি গ্রন্থের রচয়িতা-",
+        "answers": [
+            {"text": "A. এস ওয়াজেদ আলী", "score": 0},
+            {"text": "B. এম আছিরউদ্দীন", "score": 0},
+            {"text": "C. মোঃ লুৎফর রহমান", "score": 1},
+            {"text": "D. মোঃ ওয়াজেদ আলী", "score": 0}
+        ],
+        "correct_answer": "C. মোঃ লুৎফর রহমান",
+        "hint": "এগুলো লুৎফর রহমানের রচনা।"
+    },
+    {
+        "question": "72. সার্ক- এর ষষ্ঠ শীর্ষ সম্মেলন অনুষ্ঠিত হয়েছিল",
+        "answers": [
+            {"text": "A. মালেতে", "score": 0},
+            {"text": "B. কলম্বোতে", "score": 1},
+            {"text": "C. বাঙ্গালোরে", "score": 0},
+            {"text": "D. কাঠমাণ্ডুতে", "score": 0}
+        ],
+        "correct_answer": "B. কলম্বোতে",
+        "hint": "সার্কের ষষ্ঠ সম্মেলন কলম্বোতে অনুষ্ঠিত হয়েছে।"
+    },
+    {
+        "question": "73. When a person says he’s ‘all in’, it means-",
+        "answers": [
+            {"text": "A. He is very tired", "score": 1},
+            {"text": "B. He has arrived", "score": 0},
+            {"text": "C. He has finished packing", "score": 0},
+            {"text": "D. He has got everything", "score": 0}
+        ],
+        "correct_answer": "A. He is very tired",
+        "hint": "'All in' এর অর্থ হলো 'অত্যন্ত পরিশ্রান্ত'।"
+    },
+    {
+        "question": "74. ‘Bill of fare’ is -",
+        "answers": [
+            {"text": "A. A chart of bus fare", "score": 0},
+            {"text": "B. A price list", "score": 0},
+            {"text": "C. A valuable document", "score": 0},
+            {"text": "D. A list of dishes at a restaurant", "score": 1}
+        ],
+        "correct_answer": "D. A list of dishes at a restaurant",
+        "hint": "'Bill of fare' অর্থ হলো restaurant-এ খাদ্যের মূল্য তালিকা।"
+    },
+    {
+        "question": "75. A ‘bull market’ means, that share prices are-",
+        "answers": [
+            {"text": "A. Falling", "score": 0},
+            {"text": "B. Rising", "score": 1},
+            {"text": "C. Moving", "score": 0},
+            {"text": "D. Static", "score": 0}
+        ],
+        "correct_answer": "B. Rising",
+        "hint": "'Bull market' শেয়ারের ক্ষেত্রে ঊর্ধ্বগামী বাজার বোঝায়।"
+    },
+    {
+        "question": "76. ‘Blue chips’ are",
+        "answers": [
+            {"text": "A. Securities issued by the government", "score": 0},
+            {"text": "B. Industrial shares considered to be a safe investment", "score": 1},
+            {"text": "C. Industrial shares considered to be a risky investment", "score": 0},
+            {"text": "D. Flat plastic counters used as money tokens", "score": 0}
+        ],
+        "correct_answer": "B. Industrial shares considered to be a safe investment",
+        "hint": "'Blue chips' নির্ভরযোগ্য ও মূল্যবান শেয়ার বোঝায়।"
+    },
+    {
+        "question": "77. ‘Razzmatazz’ means-",
+        "answers": [
+            {"text": "A. A musical instrument", "score": 0},
+            {"text": "B. A well-planned programme", "score": 0},
+            {"text": "C. A noisy activity", "score": 1},
+            {"text": "D. A musical drama", "score": 0}
+        ],
+        "correct_answer": "C. A noisy activity",
+        "hint": "'Razzmatazz' এর অর্থ হলো شورগোলপূর্ণ কাজ।"
+    },
+    {
+        "question": "78. ‘সিরাজাম মুনীরা’ কাব্যের রচয়িতার নাম-",
+        "answers": [
+            {"text": "A. তালিম হোসেন", "score": 0},
+            {"text": "B. ফররুখ আহমদ", "score": 1},
+            {"text": "C. গোলাম মোস্তফা", "score": 0},
+            {"text": "D. আবুল হোসেন", "score": 0}
+        ],
+        "correct_answer": "B. ফররুখ আহমদ",
+        "hint": "'সিরাজাম মুনীরা' ফররুখ আহমেদের কাব্যগ্রন্থ।"
+    },
+    {
+        "question": "79. ষড়ঋতু শব্দের সন্ধি বিচ্ছেদ-",
+        "answers": [
+            {"text": "A. ষড় + ঋতু", "score": 1},
+            {"text": "B. ষড় + ঋতু", "score": 0},
+            {"text": "C. ষট + ঋতু", "score": 0},
+            {"text": "D. ষট্ + ঋতু", "score": 0}
+        ],
+        "correct_answer": "A. ষড় + ঋতু",
+        "hint": "'ষড়ঋতু' শব্দটির সন্ধি হলো ষড় + ঋতু।"
+    },
+    {
+        "question": "80. ‘বীরবল’ নিম্নোক্ত একজন লেখকের ছদ্দনাম-",
+        "answers": [
+            {"text": "A. প্রমথ চৌধুরী", "score": 1},
+            {"text": "B. ধূর্জটি প্রসাদ মুখোপাধ্যায়", "score": 0},
+            {"text": "C. সুধীন্দ্রনাথ দত্ত", "score": 0},
+            {"text": "D. নবীনচন্দ্র সেন", "score": 0}
+        ],
+        "correct_answer": "A. প্রমথ চৌধুরী",
+        "hint": "'বীরবল' ছদ্মনামে লেখক প্রমথ চৌধুরী রচনা করেছেন।"
+    },
+    {
+        "question": "81. ‘লাপাত্তা’ শব্দের ‘লা’ উপসর্গটি বাংলা ভাষায় এসেছে-",
+        "answers": [
+            {"text": "A. আরবি ভাষা থেকে", "score": 1},
+            {"text": "B. ফরাসি ভাষা থেকে", "score": 0},
+            {"text": "C. হিন্দি ভাষা থেকে", "score": 0},
+            {"text": "D. উর্দু ভাষা থেকে", "score": 0}
+        ],
+        "correct_answer": "A. আরবি ভাষা থেকে",
+        "hint": "'লা' আরবি উপসর্গ।"
+    },
+    {
+        "question": "82. রাশিয়ার যে শহরে হাসপাতালে আক্রমণ করার পর বাধ্য হয়ে রাশিয়া চেচনিয়ার সাথে শান্তি বৈঠকে বসতে রাজি হয়েছে তার নাম-",
+        "answers": [
+            {"text": "A. Budennovsk", "score": 1},
+            {"text": "B. Keldavisk", "score": 0},
+            {"text": "C. Dasanova", "score": 0},
+            {"text": "D. Gariev", "score": 0}
+        ],
+        "correct_answer": "A. Budennovsk",
+        "hint": "Budennovsk শহরে হাসপাতালে আক্রমণের কারণে শান্তি বৈঠক হয়।"
+    },
+    {
+        "question": "83. বাংলাদেশকে স্বাধীন দেশ হিসেবে স্বীকৃতি দানকারী দ্বিতীয় দেশের নাম-",
+        "answers": [
+            {"text": "A. ভারত", "score": 0},
+            {"text": "B. রাশিয়া", "score": 0},
+            {"text": "C. ভুটান", "score": 1},
+            {"text": "D. নেপাল", "score": 0}
+        ],
+        "correct_answer": "C. ভুটান",
+        "hint": "ভুটান প্রথম স্বীকৃতি প্রদানকারী দেশ।"
+    },
+    {
+        "question": "84. কক্সবাজার ছাড়া বাংলাদেশের আর একটি আকর্ষণীয় ও পর্যটন অনুকূল সমুদ্র সৈকত-",
+        "answers": [
+            {"text": "A. নোয়াখালী ছাগলনাইয়া", "score": 0},
+            {"text": "B. চট্টগ্রামের বাঁশখালী", "score": 0},
+            {"text": "C. খুলনার মংলা", "score": 0},
+            {"text": "D. পটুয়াখালীর কুয়াকাটা", "score": 1}
+        ],
+        "correct_answer": "D. পটুয়াখালীর কুয়াকাটা",
+        "hint": "কুয়াকাটা সৈকত সূর্যোদয় ও সূর্যাস্ত দেখা যায়।"
+    },
+    {
+        "question": "85. বাংলাদেশের গবাদিপশুতে প্রথম ভ্রূণ বদল করা হয়-",
+        "answers": [
+            {"text": "A. ৫ মে, ১৯৯৪", "score": 1},
+            {"text": "B. ৬ এপ্রিল, ১৯৯৪", "score": 0},
+            {"text": "C. ৫ মে, ১৯৯৫", "score": 0},
+            {"text": "D. ৭ মে, ১৯৯৫", "score": 0}
+        ],
+        "correct_answer": "A. ৫ মে, ১৯৯৪",
+        "hint": "বাংলাদেশে প্রথম ভ্রূণ বদল ৫ মে, ১৯৯৪ তারিখে করা হয়।"
+    },
+    {
+        "question": "86. লালবাগ দুর্গের অভ্যন্তরে সমাধিতে সমাহিত শায়েস্তা খানের এক কন্যার আসল নাম-",
+        "answers": [
+            {"text": "A. পরীবিবি", "score": 1},
+            {"text": "B. ইরান দুখ্ত", "score": 0},
+            {"text": "C. জাহানারা", "score": 0},
+            {"text": "D. মরিয়ম", "score": 0}
+        ],
+        "correct_answer": "A. পরীবিবি",
+        "hint": "শায়েস্তা খানের কন্যা পরীবিবির আসল নাম ইরান দুখ্ত।"
+    },
+    {
+        "question": "87. ১৯৯৪ সালে যে প্রবন্ধকার বাংলা একাডেমি পুরস্কার পেয়েছেন-",
+        "answers": [
+            {"text": "A. হুমায়ুন আজাদ", "score": 0},
+            {"text": "B. আহমদ শরীফ", "score": 0},
+            {"text": "C. ওয়াকিল আহমদ", "score": 1},
+            {"text": "D. আবদুল মতিন খান", "score": 0}
+        ],
+        "correct_answer": "C. ওয়াকিল আহমদ",
+        "hint": "১৯৯৪ সালে ওয়াকিল আহমদ বাংলা একাডেমি পুরস্কার পান।"
+    },
+    {
+        "question": "88. ‘কেউ মালা, কেউ তসবি গলায়, তাইতো জাত ভিন্ন বলায়’ এই পংক্তিটি নিচের একজনের লেখা-",
+        "answers": [
+            {"text": "A. লালন শাহ", "score": 1},
+            {"text": "B. সিরাজ সাঁই", "score": 0},
+            {"text": "C. মদন বাউল", "score": 0},
+            {"text": "D. পাগলা কানাই", "score": 0}
+        ],
+        "correct_answer": "A. লালন শাহ",
+        "hint": "লালন শাহের রচনা।"
+    },
+    {
+        "question": "89. ‘অক্ষির সমীপে’র সংক্ষেপ হলো-",
+        "answers": [
+            {"text": "A. সমক্ষ", "score": 1},
+            {"text": "B. পরোক্ষ", "score": 0},
+            {"text": "C. প্রত্যক্ষ", "score": 0},
+            {"text": "D. নিরপেক্ষ", "score": 0}
+        ],
+        "correct_answer": "A. সমক্ষ",
+        "hint": "'অক্ষির সমীপে' শব্দটির সংক্ষেপ হলো সমক্ষ।"
+    },
+    {
+        "question": "90. ‘হজরত মুহম্মদ (স) ছিলেন একজন আদর্শ মানব’ বাক্যটি নিম্নোক্ত একটি শ্রেণির––",
+        "answers": [
+            {"text": "A. মিশ্র", "score": 0},
+            {"text": "B. জটিল", "score": 0},
+            {"text": "C. যৌগিক", "score": 0},
+            {"text": "D. সরল", "score": 1}
+        ],
+        "correct_answer": "D. সরল",
+        "hint": "এটি একটি সরল বাক্য।"
+    },
+    {
+        "question": "91. ‘Blockbuster’ means-",
+        "answers": [
+            {"text": "A. A large solid piece of stone", "score": 0},
+            {"text": "B. A device to cut off a person’s head as a punishment", "score": 0},
+            {"text": "C. Something that makes movement difficult", "score": 0},
+            {"text": "D. A powerful explosive to demolish buildings", "score": 1}
+        ],
+        "correct_answer": "D. A powerful explosive to demolish buildings",
+        "hint": "'Blockbuster' মানে এমন বিস্ফোরক যেখানে একত্রে অনেক বাড়ি ধ্বংস হতে পারে।"
+    },
+    {
+        "question": "92. Any one of the following pairs are literary collaborators-",
+        "answers": [
+            {"text": "A. Eliot and Pound", "score": 1},
+            {"text": "B. Yeats and Eliot", "score": 0},
+            {"text": "C. Pope and Dryden", "score": 0},
+            {"text": "D. Shelly and Keats", "score": 0}
+        ],
+        "correct_answer": "A. Eliot and Pound",
+        "hint": "অঞ্চলিক এই দুইজনের মধ্যে সহযোগীতা রয়েছে।"
+    },
+    {
+        "question": "93. The correct sentence of the followings-",
+        "answers": [
+            {"text": "A. A new cabinet has been sworn in Dhaka", "score": 0},
+            {"text": "B. A new cabinet has been sworn at Dhaka", "score": 0},
+            {"text": "C. A new cabinet has been sworn by in Dhaka", "score": 0},
+            {"text": "D. A new cabinet has sworn in Dhaka", "score": 1}
+        ],
+        "correct_answer": "D. A new cabinet has sworn in Dhaka",
+        "hint": "The correct sentence is D."
+    },
+    {
+        "question": "94. ‘To read between the lines’ means-",
+        "answers": [
+            {"text": "A. To read carefully", "score": 0},
+            {"text": "B. To read only some lines", "score": 0},
+            {"text": "C. To read quickly to save time", "score": 0},
+            {"text": "D. To read carefully to find out any hidden meaning", "score": 1}
+        ],
+        "correct_answer": "D. To read carefully to find out any hidden meaning",
+        "hint": "'To read between the lines' means to find the hidden meaning."
+    },
+    {
+        "question": "95. The last word of the proverb, ‘Handsome is that handsome’–––.",
+        "answers": [
+            {"text": "A. Works", "score": 0},
+            {"text": "B. Thinks", "score": 0},
+            {"text": "C. Says", "score": 0},
+            {"text": "D. Does", "score": 1}
+        ],
+        "correct_answer": "D. Does",
+        "hint": "'Handsome is that handsome does' means good actions define handsomeness."
+    },
+    {
+        "question": "96. ‘মধুর চেয়েও আছে মধুর সে আমার এই দেশের মাটি আমার দেশের পথের ধুলা খাঁটি সোনার চেয়ে খাঁটি’। -কবিতার এই অংশ বিশেষের রচয়িতা-",
+        "answers": [
+            {"text": "A. রবীন্দ্রনাথ ঠাকুর", "score": 0},
+            {"text": "B. মোহাম্মদ মনিরুজ্জমান", "score": 0},
+            {"text": "C. সত্যেন্দ্রনাথ দত্ত", "score": 1},
+            {"text": "D. নির্মলেন্দু গুণ", "score": 0}
+        ],
+        "correct_answer": "C. সত্যেন্দ্রনাথ দত্ত",
+        "hint": "সত্যেন্দ্রনাথ দত্তের এই কবিতার অংশ।"
+    },
+    {
+        "question": "97. বাংলাদেশের অতি পরিচিত খাদ্য গোল আলু। এ খাদ্য আমাদের দেশে আনা হয়েছিল-",
+        "answers": [
+            {"text": "A. ইউরোপের হল্যান্ড থেকে", "score": 1},
+            {"text": "B. দক্ষিণ আমেরিকার পেরু-চিলি থেকে", "score": 0},
+            {"text": "C. আফ্রিকার মিশর থেকে", "score": 0},
+            {"text": "D. এশিয়ার থাইল্যান্ড থেকে", "score": 0}
+        ],
+        "correct_answer": "A. ইউরোপের হল্যান্ড থেকে",
+        "hint": "হল্যান্ড থেকে আলু বাংলাদেশে আনা হয়েছিল।"
+    },
+    {
+        "question": "98. কাপ্তাই থেকে প্লাবিত পার্বত্য চট্টগ্রামের উপত্যকা এলাকা-",
+        "answers": [
+            {"text": "A. মারিস্যা ভ্যালি", "score": 0},
+            {"text": "B. খাগড়া ভ্যালি", "score": 0},
+            {"text": "C. জাবরী ভ্যালি", "score": 0},
+            {"text": "D. ভেঙ্গী ভ্যালি", "score": 1}
+        ],
+        "correct_answer": "D. ভেঙ্গী ভ্যালি",
+        "hint": "ভেঙ্গী ভ্যালি কাপ্তাই থেকে প্লাবিত হয়।"
+    },
+    {
+        "question": "99. বাংলাদেশে প্রথম চায়ের চাষ আরম্ভ হয়-",
+        "answers": [
+            {"text": "A. সিলেটের মালনীছড়ায়", "score": 1},
+            {"text": "B. সিলেটের তামাবিলে", "score": 0},
+            {"text": "C. পার্বত্য চট্টগ্রামের খাগড়াছড়িতে", "score": 0},
+            {"text": "D. সিলেটের জাফলং এ", "score": 0}
+        ],
+        "correct_answer": "A. সিলেটের মালনীছড়ায়",
+        "hint": "বাংলাদেশে প্রথম চা চাষ ১৮৫৪ সালে মালনীছড়ায় শুরু হয়েছিল।"
+    },
+    {
+        "question": "100. ‘স্টেপস’ ভাস্কর্যটি সিউল অলিম্পিকের পার্কে স্থান পেয়েছিল। এর ভাস্করের নাম -",
+        "answers": [
+            {"text": "A. নভেরা আহমেদ", "score": 0},
+            {"text": "B. হামিদুজ্জামান খান", "score": 1},
+            {"text": "C. আবদুল্লাহ খালেদ", "score": 0},
+            {"text": "D. সুলতানুল ইসলাম", "score": 0}
+        ],
+        "correct_answer": "B. হামিদুজ্জামান খান",
+        "hint": "'স্টেপস' ভাস্কর্যটি হামিদুজ্জামান খানের রচনা।"
+    }
+]

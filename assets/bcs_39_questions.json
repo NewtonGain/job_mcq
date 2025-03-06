@@ -1,0 +1,1102 @@
+[
+    {
+        "question": "1. হলে  এর মান কত?",
+        "answers": [
+            {"text": "A. 3", "score": 0},
+            {"text": "B. -3", "score": 0},
+            {"text": "C. 7", "score": 0},
+            {"text": "D. 9", "score": 1}
+        ],
+        "correct_answer": "D. 9",
+        "hint": "সমাধানের মাধ্যমে মান নির্ধারণ করুন।"
+    },
+    {
+        "question": "2. কোন উপসর্গটি ভিন্নার্থে প্রযুক্ত?",
+        "answers": [
+            {"text": "A. উপনেতা", "score": 0},
+            {"text": "B. উপভোগ", "score": 1},
+            {"text": "C. উপগ্রহ", "score": 0},
+            {"text": "D. উপসাগর", "score": 0}
+        ],
+        "correct_answer": "B. উপভোগ",
+        "hint": "উপভোগে 'উপ' উপসর্গ বিশেষ অর্থে ব্যবহৃত হয়েছে।"
+    },
+    {
+        "question": "3. A person who believes that laws and governments are not necessary is known as–",
+        "answers": [
+            {"text": "A. a militant", "score": 0},
+            {"text": "B. an anarchist", "score": 1},
+            {"text": "C. a terrorist", "score": 0},
+            {"text": "D. an extremist", "score": 0}
+        ],
+        "correct_answer": "B. an anarchist",
+        "hint": "Anarchist আইন ও সরকারের অপ্রাসঙ্গিকতায় বিশ্বাসী।"
+    },
+    {
+        "question": "4. রবীন্দ্রনাথ ঠাকুর রচিত কৌতুক নাটক হচ্ছে–",
+        "answers": [
+            {"text": "A. বৈকুণ্ঠের খাতা", "score": 1},
+            {"text": "B. জামাই বারিক", "score": 0},
+            {"text": "C. বিবাহ-বিভ্রাট", "score": 0},
+            {"text": "D. হিতে বিপরীত", "score": 0}
+        ],
+        "correct_answer": "A. বৈকুণ্ঠের খাতা",
+        "hint": "রবীন্দ্রনাথের বিখ্যাত কৌতুক নাটক বৈকুণ্ঠের খাতা।"
+    },
+    {
+        "question": "5. সমুদ্রতীরে কোনটির প্রাচুর্য থাকে?",
+        "answers": [
+            {"text": "A. নাইট্রোজেন (Nitrogen)", "score": 0},
+            {"text": "B. হাইড্রোজেন (Hydrogen)", "score": 0},
+            {"text": "C. অক্সিজেন (Oxygen)", "score": 1},
+            {"text": "D. ওজোন (Ozone)", "score": 0}
+        ],
+        "correct_answer": "C. অক্সিজেন (Oxygen)",
+        "hint": "সমুদ্র তীরে অক্সিজেনের প্রাচুর্য থাকে।"
+    },
+    {
+        "question": "6. মুজিবনগর সরকার কখন গঠিত হয়?",
+        "answers": [
+            {"text": "A. ১২ই এপ্রিল, ১৯৭১", "score": 0},
+            {"text": "B. ১০ই এপ্রিল, ১৯৭১", "score": 1},
+            {"text": "C. ১৪ই এপ্রিল, ১৯৭১", "score": 0},
+            {"text": "D. ১৭ই এপ্রিল, ১৯৭১", "score": 0}
+        ],
+        "correct_answer": "B. ১০ই এপ্রিল, ১৯৭১",
+        "hint": "মুজিবনগর সরকার ১০ এপ্রিল, ১৯৭১ গঠিত হয়েছিল।"
+    },
+    {
+        "question": "7. মীর মশাররফ হোসেন রচিত গ্রন্থ হচ্ছে–",
+        "answers": [
+            {"text": "A. গাজী মিয়াঁর বস্তানী", "score": 0},
+            {"text": "B. আলালের ঘরের দুলাল", "score": 1},
+            {"text": "C. হুতোম প্যাঁচার নক্সা", "score": 0},
+            {"text": "D. কলিকাতা কমলালয়", "score": 0}
+        ],
+        "correct_answer": "B. আলালের ঘরের দুলাল",
+        "hint": "মীর মশাররফ হোসেনের বিখ্যাত উপন্যাস আলালের ঘরের দুলাল।"
+    },
+    {
+        "question": "8. ২০১৮ সালে অনুষ্ঠিত জি-সেভেন শীর্ষ সম্মেলনের পর যৌথ ঘোষণার স্বাক্ষর প্রদানে কোন দেশ বিরত ছিল?",
+        "answers": [
+            {"text": "A. যুক্তরাষ্ট্র", "score": 1},
+            {"text": "B. ফ্রান্স", "score": 0},
+            {"text": "C. জার্মানি", "score": 0},
+            {"text": "D. ইতালি", "score": 0}
+        ],
+        "correct_answer": "A. যুক্তরাষ্ট্র",
+        "hint": "যুক্তরাষ্ট্র যৌথ ঘোষণার স্বাক্ষরে বিরত ছিল।"
+    },
+    {
+        "question": "9. ‘বেদান্তগ্রন্থ’ ও ‘বেদান্তসার’ কার রচনা?",
+        "answers": [
+            {"text": "A. রাজা রামমোহন রায়", "score": 0},
+            {"text": "B. গোলকনাথ শর্মা", "score": 1},
+            {"text": "C. রামরাম বসু", "score": 0},
+            {"text": "D. মৃত্যুঞ্জয় বিদ্যালঙ্কার", "score": 0}
+        ],
+        "correct_answer": "B. গোলকনাথ শর্মা",
+        "hint": "বেদান্তগ্রন্থ ও বেদান্তসার রচনা করেন গোলকনাথ শর্মা।"
+    },
+    {
+        "question": "10. মুক্তিযুদ্ধভিত্তিক উপন্যাস ‘আগুনের পরশমণি’ কার রচনা?",
+        "answers": [
+            {"text": "A. আমজাদ হোসেন", "score": 1},
+            {"text": "B. হুমায়ূন আহমেদ", "score": 0},
+            {"text": "C. শওকত ওসমান", "score": 0},
+            {"text": "D. সৈয়দ শামসুল হক", "score": 0}
+        ],
+        "correct_answer": "A. আমজাদ হোসেন",
+        "hint": "আগুনের পরশমণি উপন্যাসের রচয়িতা আমজাদ হোসেন।"
+    },
+    {
+        "question": "11. ‘জীবন থেকে নেয়া’ চলচ্চিত্রটির পরিচালক কে?",
+        "answers": [
+            {"text": "A. আমজাদ হোসেন", "score": 0},
+            {"text": "B. আলমগীর", "score": 0},
+            {"text": "C. জহির রায়হান", "score": 1},
+            {"text": "D. সুভাষ দত্ত", "score": 0}
+        ],
+        "correct_answer": "C. জহির রায়হান",
+        "hint": "‘জীবন থেকে নেয়া’ পরিচালনা করেন জহির রায়হান।"
+    },
+    {
+        "question": "12. জিরোসাম গেম (Zero-Sum Game) আন্তর্জাতিক সম্পর্কে কোন তত্ত্বের সাথে সংশ্লিষ্ট?",
+        "answers": [
+            {"text": "A. বাস্তববাদ", "score": 1},
+            {"text": "B. মার্ফ্রবাদ (মার্ক্সবাদ)", "score": 0},
+            {"text": "C. গঠনবাদ", "score": 0},
+            {"text": "D. উদারতাবাদ", "score": 0}
+        ],
+        "correct_answer": "A. বাস্তববাদ",
+        "hint": "জিরোসাম গেম বাস্তববাদ তত্ত্বকে সমর্থন করে।"
+    },
+    {
+        "question": "13. He went to ___ hospital because he had ____ heart attack.",
+        "answers": [
+            {"text": "A. no article, an", "score": 0},
+            {"text": "B. a, an", "score": 0},
+            {"text": "C. the, no article", "score": 1},
+            {"text": "D. no article, a", "score": 0}
+        ],
+        "correct_answer": "C. the, no article",
+        "hint": "Hospital যাওয়ার ক্ষেত্রে any article প্রযোজ্য নয়।"
+    },
+    {
+        "question": "14. The word ‘florid’ indicates-",
+        "answers": [
+            {"text": "A. flour", "score": 0},
+            {"text": "B. foliage", "score": 0},
+            {"text": "C. floor", "score": 0},
+            {"text": "D. flower", "score": 1}
+        ],
+        "correct_answer": "D. flower",
+        "hint": "Florid অর্থ পুষ্পল বা ফুলে ভূষিত।"
+    },
+    {
+        "question": "15. ট্রাম্প-কিম শীর্ষ বৈঠকটি সিঙ্গাপুরের কোথায় অনুষ্ঠিত হয়েছিল?",
+        "answers": [
+            {"text": "A. ইস্টানা আইল্যান্ড", "score": 0},
+            {"text": "B. সেনার আয়ল্যান্ড", "score": 0},
+            {"text": "C. ম্যারিনা বে", "score": 0},
+            {"text": "D. সেন্তোসা", "score": 1}
+        ],
+        "correct_answer": "D. সেন্তোসা",
+        "hint": "এ বৈঠক অনুষ্ঠিত হয় সেন্তোসা দ্বীপে।"
+    },
+    {
+        "question": "16.  =  হলে  এর মান কত?",
+        "answers": [
+            {"text": "A.  12", "score": 0},
+            {"text": "B.  14", "score": 0},
+            {"text": "C.  16", "score": 1},
+            {"text": "D.  18", "score": 0}
+        ],
+        "correct_answer": "C. 16",
+        "hint": "ফলাফল বের করতে গণনা করে নির্ধারণ করতে হবে।"
+    },
+    {
+        "question": "17. Complete the following sentence: ‘Had I known you were waiting outside, I____",
+        "answers": [
+            {"text": "A. had invited you to come in", "score": 0},
+            {"text": "B. would invite you to come in", "score": 0},
+            {"text": "C. would be inviting you to come in", "score": 0},
+            {"text": "D. would have invited you to come in", "score": 1}
+        ],
+        "correct_answer": "D. would have invited you to come in",
+        "hint": "ব্যক্তির ঘটনাবলী নির্ধারণ করতে হবে।"
+    },
+    {
+        "question": "18. কোন দেশের জাতীয় সংসদ দ্বি-কক্ষ বিশিষ্ট?",
+        "answers": [
+            {"text": "A. মিয়ানমার", "score": 1},
+            {"text": "B. চীন", "score": 0},
+            {"text": "C. সিঙ্গাপুর", "score": 0},
+            {"text": "D. ব্রুনাই", "score": 0}
+        ],
+        "correct_answer": "A. মিয়ানমার",
+        "hint": "মিয়ানমারের সংসদ দ্বি-কক্ষ বিশিষ্ট।"
+    },
+    {
+        "question": "19. ‘खनार बछन’ –এর মূলভাব কী?",
+        "answers": [
+            {"text": "A. লৌকিক প্রণয়সঙ্গীত", "score": 0},
+            {"text": "B. শুদ্ধ জীবনযাপন রীতি", "score": 1},
+            {"text": "C. সামাজিক মঙ্গলবোধ", "score": 0},
+            {"text": "D. রাষ্ট্র পরিচালনা নীতি", "score": 0}
+        ],
+        "correct_answer": "B. শুদ্ধ জীবনযাপন রীতি",
+        "hint": "খনার বচন শুদ্ধ জীবনযাপন রীতি বোঝায়।"
+    },
+    {
+        "question": "20. ‘দুরবস্থা’ শব্দটি সন্ধি বিচ্ছেদ করা হলে নিচের কোনটি পাওয়া যায়?",
+        "answers": [
+            {"text": "A. দুঃ + অবস্থা", "score": 1},
+            {"text": "B. দূর + বস্থ","score": 0},
+            {"text": "C. দুর + বস্তা", "score": 0},
+            {"text": "D. দুর + অবস্থা", "score": 0}
+        ],
+        "correct_answer": "A. দুঃ + অবস্থা",
+        "hint": "দুরবস্থা, দুঃ + অবস্থা দ্বারা গঠিত।"
+    },
+    {
+        "question": "21. Cricket is a kind of play. It is also a kind of -",
+        "answers": [
+            {"text": "A. insect", "score": 0},
+            {"text": "B. food", "score": 0},
+            {"text": "C. bird", "score": 0},
+            {"text": "D. flower", "score": 1}
+        ],
+        "correct_answer": "D. flower",
+        "hint": "Cricket পোকা এবং পদের একটি নামও।"
+    },
+    {
+        "question": "22. বাংলাদেশের ২০১৮-১৯ অর্থবছরের প্রস্তাবিত বাজেটে বার্ষিক উন্নয়ন কর্মসূচির জন্য কত বরাদ্দ আছে?",
+        "answers": [
+            {"text": "A. ১,৭২,০০০ কোটি টাকা", "score": 0},
+            {"text": "B. ১,৭৩,০০০ কোটি টাকা", "score": 1},
+            {"text": "C. ১,৭০,০০০ কোটি টাকা", "score": 0},
+            {"text": "D. ১,৭১,০০০ কোটি টাকা", "score": 0}
+        ],
+        "correct_answer": "B. ১,৭৩,০০০ কোটি টাকা",
+        "hint": "২০১৮-১৯ অর্থবছরের বাজেটের ঘোষণায় বরাদ্দ ছিল ১,৭৩,০০০ কোটি টাকা।"
+    },
+    {
+        "question": "23. বিখ্যাত ‘ওয়াশিংটন কনসেনসাস’ (Washington Consensus) কোন বিষয়ের সঙ্গে জড়িত?",
+        "answers": [
+            {"text": "A. আন্তর্জাতিক অভিবাসন নীতি", "score": 0},
+            {"text": "B. নয়া উদারতাবাদী অর্থনৈতিক নীতি বাস্তবায়ন", "score": 1},
+            {"text": "C. অস্ত্র নিয়ন্ত্রণ", "score": 0},
+            {"text": "D. আন্তর্জাতিক সন্ত্রাসবাদ দমন", "score": 0}
+        ],
+        "correct_answer": "B. নয়া উদারতাবাদী অর্থনৈতিক নীতি বাস্তবায়ন",
+        "hint": "ওয়াশিংটন কনসেনসাস নয়া উদারতাবাদী অর্থনৈতিক নীতি বাস্তবায়নের সাথে সম্পৃক্ত।"
+    },
+    {
+        "question": "24. নিচের কোনটি যৌগিক কালের উদাহরণ নয়?",
+        "answers": [
+            {"text": "A. করছিলাম", "score": 0},
+            {"text": "B. করেছি", "score": 1},
+            {"text": "C. করছি", "score": 0},
+            {"text": "D. করব", "score": 0}
+        ],
+        "correct_answer": "B. করেছি",
+        "hint": "করেছি শব্দটি যৌগিক কালের উদাহরণ নয়।"
+    },
+    {
+        "question": "25. মুক্তিযুদ্ধের সময় নৌ-কমান্ড গঠিত হয় কোন সেক্টর নিয়ে?",
+        "answers": [
+            {"text": "A. ১০ নং সেক্টর", "score": 1},
+            {"text": "B. ১১ নং সেক্টর", "score": 0},
+            {"text": "C. ৮ নং সেক্টর", "score": 0},
+            {"text": "D. ৯ নং সেক্টর", "score": 0}
+        ],
+        "correct_answer": "A. ১০ নং সেক্টর",
+        "hint": "১০ নং সেক্টর নৌ-কমান্ড নিয়ে গঠিত।"
+    },
+    {
+        "question": "26. জীবনানন্দ দাশকে ‘নির্জনতম কবি’ বলে আখ্যায়িত করেন কে?",
+        "answers": [
+            {"text": "A. বিষ্ণু দে", "score": 0},
+            {"text": "B. বুদ্ধদেব বসু", "score": 1},
+            {"text": "C. রবীন্দ্রনাথ ঠাকুর", "score": 0},
+            {"text": "D. সৈয়দ শামসুল হক", "score": 0}
+        ],
+        "correct_answer": "B. বুদ্ধদেব বসু",
+        "hint": "বুদ্ধদেব বসু জীবনানন্দ দাশকে 'নির্জনতম কবি' বলেন।"
+    },
+    {
+        "question": "27. পলাশির যুদ্ধ কবে সংঘটিত হয়েছিল?",
+        "answers": [
+            {"text": "A. জুন ২২, ১৭৫৭", "score": 0},
+            {"text": "B. জুন ২৪, ১৭৫৭", "score": 0},
+            {"text": "C. জুন ২৩, ১৭৫৭", "score": 1},
+            {"text": "D. জুন ২৫, ১৭৫৭", "score": 0}
+        ],
+        "correct_answer": "C. জুন ২৩, ১৭৫৭",
+        "hint": "পলাশির যুদ্ধ সংঘটিত হয় ১৭৫৭ সালের ২৩ জুন।"
+    },
+    {
+        "question": "28. ‘তাম্বুলিক’ শব্দের সমার্থক নয় কোনটি?",
+        "answers": [
+            {"text": "A. তামসিক", "score": 0},
+            {"text": "B. বারুই", "score": 0},
+            {"text": "C. পানি-ব্যবসায়ী", "score": 1},
+            {"text": "D. পর্ণকার", "score": 0}
+        ],
+        "correct_answer": "C. পানি-ব্যবসায়ী",
+        "hint": "তাম্বুলিক শব্দের সমার্থক নয় পানি-ব্যবসায়ী।"
+    },
+    {
+        "question": "29. যুক্তরাষ্ট্রে রপ্তানি বাণিজ্যের বৃহত্তম বাজার কোথায়?",
+        "answers": [
+            {"text": "A. ইইউ", "score": 0},
+            {"text": "B. ভারত", "score": 0},
+            {"text": "C. কানাডা", "score": 1},
+            {"text": "D. চীন", "score": 0}
+        ],
+        "correct_answer": "C. কানাডা",
+        "hint": "কানাডা যুক্তরাষ্ট্রের রপ্তানি বাণিজ্যের বৃহত্তম বাজার।"
+    },
+    {
+        "question": "30. আধুনিক রাষ্ট্রব্যবস্থা উদ্ভবের সময়কাল কোনটি?",
+        "answers": [
+            {"text": "A. প্রাচীন-গ্রীস সময়কাল", "score": 0},
+            {"text": "B. প্রথম বিশ্বযুদ্ধ পরবর্তীকাল", "score": 1},
+            {"text": "C. ১৬০০-১৮০০ সাল", "score": 0},
+            {"text": "D. প্রাচীন রোম শাসনকাল", "score": 0}
+        ],
+        "correct_answer": "B. প্রথম বিশ্বযুদ্ধ পরবর্তীকাল",
+        "hint": "আধুনিক রাষ্ট্রব্যবস্থার উদ্ভব প্রথম বিশ্বযুদ্ধ পরবর্তীকাল।"
+    },
+    {
+        "question": "31. সর্বপ্রথম কোথায় ওপেক এর সদর দপ্তর স্থাপিত হয়?",
+        "answers": [
+            {"text": "A. জেনেভা", "score": 0},
+            {"text": "B. ভিয়েনা", "score": 1},
+            {"text": "C. জেদ্দা", "score": 0},
+            {"text": "D. বাগদাদ", "score": 0}
+        ],
+        "correct_answer": "B. ভিয়েনা",
+        "hint": "ওপেক প্রতিষ্ঠালগ্নে সদর দপ্তর ভিয়েনায় ছিল।"
+    },
+    {
+        "question": "32. জাতিসংঘের ‘Champion of the Earth’ খেতাবপ্রাপ্ত কে?",
+        "answers": [
+            {"text": "A. হিলারি ক্লিনটন", "score": 0},
+            {"text": "B. থেরেসা মে", "score": 0},
+            {"text": "C. এঞ্জেলা মার্কেল", "score": 0},
+            {"text": "D. শেখ হাসিনা", "score": 1}
+        ],
+        "correct_answer": "D. শেখ হাসিনা",
+        "hint": "শেখ হাসিনা জাতিসংঘের ‘Champion of the Earth’ খেতাব অর্জন করেছেন।"
+    },
+    {
+        "question": "33. বাংলাদেশের জিডিপিতে (GDP) কৃষি খাতের (ফসল, বন, প্রাণিসম্পদ, মৎস্যসহ) অবদান কত শতাংশ?",
+        "answers": [
+            {"text": "A. ১৪.৭৯ শতাংশ", "score": 0},
+            {"text": "B. ১৬ শতাংশ", "score": 0},
+            {"text": "C. ১২ শতাংশ", "score": 0},
+            {"text": "D. ১৮ শতাংশ", "score": 1}
+        ],
+        "correct_answer": "D. ১৮ শতাংশ",
+        "hint": "কৃষির অবদান জিডিপিতে ১৮ শতাংশ।"
+    },
+    {
+        "question": "34. যদি, ৯ × ৭ = ৩৫৪৫ এবং ৪ × ৩ = ১৫২০ হয় তবে, ৬ × ৭ =?",
+        "answers": [
+            {"text": "A. ৩০৪০", "score": 0},
+            {"text": "B. ৫০৪০", "score": 0},
+            {"text": "C. ৪০৩০", "score": 1},
+            {"text": "D. ৬০৫০", "score": 0}
+        ],
+        "correct_answer": "C. ৪০৩০",
+        "hint": "গণনার নিয়ম অনুসারে নির্ধারণ করতে হবে।"
+    },
+    {
+        "question": "35. A soporific speech is likely to–",
+        "answers": [
+            {"text": "A. be incomprehensible", "score": 0},
+            {"text": "B. appeal primarily to emotions", "score": 0},
+            {"text": "C. put one to sleep", "score": 1},
+            {"text": "D. stimulate action", "score": 0}
+        ],
+        "correct_answer": "C. put one to sleep",
+        "hint": "Soporific speech শ্রোতাদের অচেতন করতে পারে।"
+    },
+    {
+        "question": "36. বার্ষিক শতকরা 10% হারে 1000 টাকার 2 বছর পর সরল ও চক্রবৃদ্ধি মুনাফার পার্থক্য কত?",
+        "answers": [
+            {"text": "A. 11 টাকা", "score": 0},
+            {"text": "B. 11.5 টাকা", "score": 0},
+            {"text": "C. 12 টাকা", "score": 1},
+            {"text": "D. 10 টাকা", "score": 0}
+        ],
+        "correct_answer": "C. 12 টাকা",
+        "hint": "সরল ও চক্রবৃদ্ধি মুনাফার পার্থক্য বের করতে হবে।"
+    },
+    {
+        "question": "37. Select the word with right spelling-",
+        "answers": [
+            {"text": "A. Schizophrenia", "score": 1},
+            {"text": "B. Seizophrania", "score": 0},
+            {"text": "C. Scizophrenia", "score": 0},
+            {"text": "D. Schizophrania", "score": 0}
+        ],
+        "correct_answer": "A. Schizophrenia",
+        "hint": "'Schizophrenia' শব্দটি সঠিক বানান।"
+    },
+    {
+        "question": "38. ৯২ বছর বয়সী মালয়েশিয়ার প্রধানমন্ত্রী মাহাথির মোহাম্মদ –এর রাজনৈতিক জোট হচ্ছে?",
+        "answers": [
+            {"text": "A. ইউএমএনও", "score": 0},
+            {"text": "B. বারিসান ন্যাশনাল", "score": 0},
+            {"text": "C. পাটি পেরিকাতান", "score": 0},
+            {"text": "D. পাকাতান-হারুপান", "score": 1}
+        ],
+        "correct_answer": "D. পাকাতান-হারুপান",
+        "hint": "মাহাথির মোহাম্মদের রাজনৈতিক জোট পাকাতান-হারাপান।"
+    },
+    {
+        "question": "39. Love for the whole world is called-",
+        "answers": [
+            {"text": "A. philanthropy", "score": 1},
+            {"text": "B. misogyny", "score": 0},
+            {"text": "C. benevolence", "score": 0},
+            {"text": "D. misanthropy", "score": 0}
+        ],
+        "correct_answer": "A. philanthropy",
+        "hint": "ফিলানথ্রপি হলো মানবতার প্রতি ভালোবাসা।"
+    },
+    {
+        "question": "40. বঙ্গভঙ্গ রদ হয় কোন সালে?",
+        "answers": [
+            {"text": "A. ১৯১১ সালে", "score": 0},
+            {"text": "B. ১৯১২ সালে", "score": 0},
+            {"text": "C. ১৯০৮ সালে", "score": 1},
+            {"text": "D. ১৯০৯ সালে", "score": 0}
+        ],
+        "correct_answer": "C. ১৯০৮ সালে",
+        "hint": "বঙ্গভঙ্গ রদ হয় ১৯১১ সালে।"
+    },
+    {
+        "question": "41. দুটি সংখ্যার অনুপাত 7 : 5 এবং তাদের ল.সা.গু. 140 হলে সংখ্যা দুইটির গ.সা.গু. কত?",
+        "answers": [
+            {"text": "A. 4", "score": 1},
+            {"text": "B. 12", "score": 0},
+            {"text": "C. 6", "score": 0},
+            {"text": "D. 9", "score": 0}
+        ],
+        "correct_answer": "A. 4",
+        "hint": "গ.সা.গু বের করার জন্য উপস্থাপনা করতে হবে।"
+    },
+    {
+        "question": "42.  এর সমাধান কোনটি?",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. ", "score": 0}
+        ],
+        "correct_answer": "A. ",
+        "hint": "সমাধান করতে হবে গণনার ভিত্তিতে।"
+    },
+    {
+        "question": "43. মেসোপটেমীয় সভ্যতা গড়ে উঠেছিল কোথায়?",
+        "answers": [
+            {"text": "A. হোয়াংহো নদীর তীরে", "score": 0},
+            {"text": "B. ইয়াংসিকিয়াং নদীর তীরে", "score": 0},
+            {"text": "C. নীলনদের তীরে", "score": 0},
+            {"text": "D. ট্রাইগ্রিস ও ইউফ্রেটিস নদীর তীরে", "score": 1}
+        ],
+        "correct_answer": "D. ট্রাইগ্রিস ও ইউফ্রেটিস নদীর তীরে",
+        "hint": "মেসোপটেমীয় সভ্যতা গড়ে উঠেছিল ট্রাইগ্রিস ও ইউফ্রেটিস নদীর তীরে।"
+    },
+    {
+        "question": "44. একজন লোক A অবস্থান থেকে হেঁটে ডান দিকে ১০ ফুট, অতঃপর বামদিকে ২০ ফুট, তারপর বামদিকে ২০ ফুট এবং সবশেষে বামদিকে ২০ ফুট গিয়ে B অবস্থানে পৌঁছাল। A ও B এর মধ্যকার দূরত্ব কত ফুট?",
+        "answers": [
+            {"text": "A. ৩০ ফুট", "score": 0},
+            {"text": "B. ৪০ ফুট", "score": 1},
+            {"text": "C. ১০ ফুট", "score": 0},
+            {"text": "D. ২০ ফুট", "score": 0}
+        ],
+        "correct_answer": "B. ৪০ ফুট",
+        "hint": "যাত্রার জ্যামিতি অনুযায়ী দূরত্ব বের করতে হবে।"
+    },
+    {
+        "question": "45. বাংলাদেশের প্রধান বিচারপতি নিয়োগ দেন কে?",
+        "answers": [
+            {"text": "A. রাষ্ট্রপতি", "score": 1},
+            {"text": "B. জাতীয় সংসদ", "score": 0},
+            {"text": "C. প্রধানমন্ত্রী", "score": 0},
+            {"text": "D. স্পীকার", "score": 0}
+        ],
+        "correct_answer": "A. রাষ্ট্রপতি",
+        "hint": "প্রধান বিচারপতি রাষ্ট্রপতি নিয়োগ দেন।"
+    },
+    {
+        "question": "46. ‘সরল’ শব্দের বিপরীতার্থক নয় নিচের কোনটি?",
+        "answers": [
+            {"text": "A. বক্র", "score": 1},
+            {"text": "B. গরল", "score": 0},
+            {"text": "C. কুটিল", "score": 0},
+            {"text": "D. জটিল", "score": 0}
+        ],
+        "correct_answer": "A. বক্র",
+        "hint": "সরল শব্দের বিপরীতার্থক শব্দ নয়।"
+    },
+    {
+        "question": "47. নিচের কোনটি মৌলিক সংখ্যা?",
+        "answers": [
+            {"text": "A. ৪৭", "score": 1},
+            {"text": "B. ৮৭", "score": 0},
+            {"text": "C. ৯১", "score": 0},
+            {"text": "D. ১৪৩", "score": 0}
+        ],
+        "correct_answer": "A. ৪৭",
+        "hint": "৪৭ মৌলিক সংখ্যা।"
+    },
+    {
+        "question": "48. বাইজেনটাইন (Byzantine) সাম্রাজ্যের রাজধানী ছিল কোন নগরী?",
+        "answers": [
+            {"text": "A. লিসবন", "score": 0},
+            {"text": "B. কনস্টান্টিনোপল", "score": 1},
+            {"text": "C. প্যারিস", "score": 0},
+            {"text": "D. ভিয়েনা", "score": 0}
+        ],
+        "correct_answer": "B. কনস্টান্টিনোপল",
+        "hint": "বাইজেনটাইন সাম্রাজ্যের রাজধানী কনস্টান্টিনোপল ছিল।"
+    },
+    {
+        "question": "49. When we want to mean a government by the richest class we use the term-",
+        "answers": [
+            {"text": "A. Oligarchy", "score": 0},
+            {"text": "B. Plutocracy", "score": 1},
+            {"text": "C. Cryptocracy", "score": 0},
+            {"text": "D. Aristocracy", "score": 0}
+        ],
+        "correct_answer": "B. Plutocracy",
+        "hint": "Plutocracy হলো ধনিক শ্রেণির সরকারের নামে।"
+    },
+    {
+        "question": "50. ফোকেটিং (Folketing) কোন দেশের আইনসভা?",
+        "answers": [
+            {"text": "A. ডেনমার্ক", "score": 1},
+            {"text": "B. বেলজিয়াম", "score": 0},
+            {"text": "C. নরওয়ে", "score": 0},
+            {"text": "D. ফিনল্যান্ড", "score": 0}
+        ],
+        "correct_answer": "A. ডেনমার্ক",
+        "hint": "ফোকেটিং হলো ডেনমার্কের আইনসভা।"
+    },
+    {
+        "question": "51. Cozy Bear একটি কী?",
+        "answers": [
+            {"text": "A. চুক্তি", "score": 0},
+            {"text": "B. হ্যাকার গ্রুপ", "score": 1},
+            {"text": "C. বিনোদন কেন্দ্র", "score": 0},
+            {"text": "D. নদী", "score": 0}
+        ],
+        "correct_answer": "B. হ্যাকার গ্রুপ",
+        "hint": "Cozy Bear একটি রুশ হ্যাকার গ্রুপ।"
+    },
+    {
+        "question": "52. Hospitals __ the sick.",
+        "answers": [
+            {"text": "A. operate", "score": 0},
+            {"text": "B. treat", "score": 1},
+            {"text": "C. admit", "score": 0},
+            {"text": "D. nurse", "score": 0}
+        ],
+        "correct_answer": "B. treat",
+        "hint": "হাসপাতাল রোগীদের চিকিৎসা প্রদান করে।"
+    },
+    {
+        "question": "53. ন্যাটোর সর্বশেষ সদস্য রাষ্ট্র কোনটি?",
+        "answers": [
+            {"text": "A. মন্টিনিগ্রো", "score": 0},
+            {"text": "B. لیتھوانিয়া", "score": 0},
+            {"text": "C. আলবেনিয়া", "score": 0},
+            {"text": "D. ক্রোয়েশিয়া", "score": 1}
+        ],
+        "correct_answer": "D. ক্রোয়েশিয়া",
+        "hint": "ন্যাটোর সর্বশেষ সদস্য রাষ্ট্র ক্রোয়েশিয়া।"
+    },
+    {
+        "question": "54. প্রজাতন্ত্রের নির্বাহী ক্ষমতা কার কর্তৃত্বে প্রযুক্ত হয়?",
+        "answers": [
+            {"text": "A. প্রধানমন্ত্রী", "score": 0},
+            {"text": "B. রাষ্ট্রপতি", "score": 1},
+            {"text": "C. মন্ত্রী", "score": 0},
+            {"text": "D. সচিব", "score": 0}
+        ],
+        "correct_answer": "B. রাষ্ট্রপতি",
+        "hint": "প্রজাতন্ত্রের নির্বাহী ক্ষমতা রাষ্ট্রপতির অধীনে।"
+    },
+    {
+        "question": "55. ন্যাশনাল লীগ ফর ডেমোক্রেসি কোন দেশের রাজনৈতিক দল?",
+        "answers": [
+            {"text": "A. মালয়েশিয়া", "score": 0},
+            {"text": "B. মিয়ানমার", "score": 1},
+            {"text": "C. ভারত", "score": 0},
+            {"text": "D. থাইল্যান্ড", "score": 0}
+        ],
+        "correct_answer": "B. মিয়ানমার",
+        "hint": "ন্যাশনাল লীগ ফর ডেমোক্রেসি মিয়ানমারের রাজনৈতিক দল।"
+    },
+    {
+        "question": "56. মায়া সভ্যতা বিশ্বের কোন অঞ্চলে বিরাজমান ছিল?",
+        "answers": [
+            {"text": "A. পূর্ব এশিয়া", "score": 0},
+            {"text": "B. মধ্য আমেরিকা", "score": 1},
+            {"text": "C. মধ্যপ্রাচ্য", "score": 0},
+            {"text": "D. পূর্ব আফ্রিকা", "score": 0}
+        ],
+        "correct_answer": "B. মধ্য আমেরিকা",
+        "hint": "মায়া সভ্যতা মধ্য আমেরিকায় বিরাজমান ছিল।"
+    },
+    {
+        "question": "57. সাম্প্রতিক কাতার সংকটের সময় কোন দেশটি কাতারের সাথে কূটনৈতিক সম্পর্ক ছিন্ন করে নাই?",
+        "answers": [
+            {"text": "A. বাহরাইন", "score": 0},
+            {"text": "B. সংযুক্ত আরব আমিরাত", "score": 0},
+            {"text": "C. মিশর", "score": 0},
+            {"text": "D. কুয়েত", "score": 1}
+        ],
+        "correct_answer": "D. কুয়েত",
+        "hint": "কুয়েত কাতারের সাথে কূটনৈতিক সম্পর্ক ছিন্ন করেনি।"
+    },
+    {
+        "question": "58. ঋণাত্মক পূর্ণসংখ্যা এবং  ; c সেটের উপাদানগুলো হবে-",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. ", "score": 0}
+        ],
+        "correct_answer": "A. ",
+        "hint": "অংশগ্রহণ করলেই সেটের উপাদান নির্ধারণ হবে।"
+    },
+    {
+        "question": "59. কোন বিদেশী পত্রিকা বঙ্গবন্ধুকে ‘রাজনীতির কবি’ (Poet of Politics) উপাধি দিয়েছিলেন?",
+        "answers": [
+            {"text": "A. নিউজ উইরুস (উইকস)", "score": 0},
+            {"text": "B. দি ইকনমিস্ট", "score": 0},
+            {"text": "C. টাইম", "score": 0},
+            {"text": "D. গার্ডিয়ান", "score": 1}
+        ],
+        "correct_answer": "D. গার্ডিয়ান",
+        "hint": "গার্ডিয়ান বঙ্গবন্ধুকে ‘রাজনীতির কবি’ উপাধি দিয়েছিল।"
+    },
+    {
+        "question": "60. যদি 2 × 3 = 812, 4 × 5 = 1620 হয় তবে, 6 × 7 = ?",
+        "answers": [
+            {"text": "A. 2428", "score": 0},
+            {"text": "B. 2442", "score": 0},
+            {"text": "C. 42", "score": 1},
+            {"text": "D. 1214", "score": 0}
+        ],
+        "correct_answer": "C. 42",
+        "hint": "প্যাটার্ন অনুসারে সংখ্যাটি নির্ধারণ করুন।"
+    },
+    {
+        "question": "61. The warning of the authority falls on deaf ears. Here warning does the function of–",
+        "answers": [
+            {"text": "A. adverb", "score": 0},
+            {"text": "B. adjective", "score": 0},
+            {"text": "C. verb", "score": 0},
+            {"text": "D. noun", "score": 1}
+        ],
+        "correct_answer": "D. noun",
+        "hint": "'Warning' এখানে noun হিসেবে ব্যবহার হয়েছে।"
+    },
+    {
+        "question": "62. একটি আয়তক্ষেত্রের দৈর্ঘ্য 18 সেমি. এবং প্রস্থ 10 সেমি.। আয়তক্ষেত্রটির দৈর্ঘ্য বৃদ্ধি করে 25 সেমি. করা হলো। আয়তক্ষেত্রটির প্রস্থ কত হলে ক্ষেত্রফল অপরিবর্তিত থাকবে?",
+        "answers": [
+            {"text": "A. 7.2 সেমি.", "score": 1},
+            {"text": "B. 7.3 সেমি.", "score": 0},
+            {"text": "C. 7 সেমি.", "score": 0},
+            {"text": "D. 7.1 সেমি.", "score": 0}
+        ],
+        "correct_answer": "A. 7.2 সেমি.",
+        "hint": "ক্ষেত্রফল অপরিবর্তিত রাখতে হলে দৈর্ঘ্য অনুযায়ী প্রস্থ নির্ধারণ করতে হবে।"
+    },
+    {
+        "question": "63. The word ‘culinary’ is related to",
+        "answers": [
+            {"text": "A. printing", "score": 0},
+            {"text": "B. cooking", "score": 1},
+            {"text": "C. dress", "score": 0},
+            {"text": "D. musical instruments", "score": 0}
+        ],
+        "correct_answer": "B. cooking",
+        "hint": "'Culinary' শব্দটি রান্নার সাথে সম্পর্কিত।"
+    },
+    {
+        "question": "64. ১৯৪৫ সালে প্রতিষ্ঠাকালীন সময়ে জাতিসংঘের মোট কতটি সদস্য রাষ্ট্র ছিল?",
+        "answers": [
+            {"text": "A. ৫০", "score": 0},
+            {"text": "B. ৫১", "score": 1},
+            {"text": "C. ৪৮", "score": 0},
+            {"text": "D. ৪৯", "score": 0}
+        ],
+        "correct_answer": "B. ৫১",
+        "hint": "জাতিসংঘ প্রতিষ্ঠাকালে সদস্য সংখ্যাটি ৫১ ছিল।"
+    },
+    {
+        "question": "65. বেগম রোকেয়া সাখাওয়াত হোসেন রচিত গ্রন্থ কোনটি?",
+        "answers": [
+            {"text": "A. পদ্মমণি", "score": 0},
+            {"text": "B. পদ্মাবতী", "score": 0},
+            {"text": "C. পদ্মগোখরা", "score": 1},
+            {"text": "D. পদ্মরাগ", "score": 0}
+        ],
+        "correct_answer": "C. পদ্মগোখরা",
+        "hint": "বেগম রোকেয়ার একটি জনপ্রিয় গ্রন্থ হলো পদ্মগোখরা।"
+    },
+    {
+        "question": "66. Identify the correct passive form of the sentence below: ‘Do you know them?’",
+        "answers": [
+            {"text": "A. Are they known by you?", "score": 1},
+            {"text": "B. Would they be known by you?", "score": 0},
+            {"text": "C. Are they known with you?", "score": 0},
+            {"text": "D. Are they known to you?", "score": 0}
+        ],
+        "correct_answer": "A. Are they known by you?",
+        "hint": "বাক্যটি সঠিকভাবে passive voice এ রূপান্তরিত করুন।"
+    },
+    {
+        "question": "67.  এর সমাধান-",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. ", "score": 0}
+        ],
+        "correct_answer": "A. ",
+        "hint": "গণনার মাধ্যমে সঠিক সমাধান বের করুন।"
+    },
+    {
+        "question": "68. বিভক্তহীন নাম-শব্দকে কী বলে?",
+        "answers": [
+            {"text": "A. প্রাতিপদিক", "score": 1},
+            {"text": "B. নাম-পদ", "score": 0},
+            {"text": "C. মৌলিক শব্দ", "score": 0},
+            {"text": "D. কৃদন্ত শব্দ", "score": 0}
+        ],
+        "correct_answer": "A. প্রাতিপদিক",
+        "hint": "'বিভক্তহীন নাম শব্দ' প্রাতিপদিক বলা হয়।"
+    },
+    {
+        "question": "69. ‘Panacea’ means-",
+        "answers": [
+            {"text": "A. Cure-all", "score": 1},
+            {"text": "B. Pancreatic", "score": 0},
+            {"text": "C. Widespread disease", "score": 0},
+            {"text": "D. Gland", "score": 0}
+        ],
+        "correct_answer": "A. Cure-all",
+        "hint": "'Panacea' শব্দের অর্থ সকল রোগের ঔষধ।"
+    },
+    {
+        "question": "70. What is the plural number of ‘ovum’?",
+        "answers": [
+            {"text": "A. ovams", "score": 0},
+            {"text": "B. ovumes", "score": 0},
+            {"text": "C. ovums", "score": 0},
+            {"text": "D. ova", "score": 1}
+        ],
+        "correct_answer": "D. ova",
+        "hint": "'Ovum' শব্দের plural হলো 'ova'।"
+    },
+    {
+        "question": "71. কোন শব্দযुगলটি ভিন্ন?",
+        "answers": [
+            {"text": "A. False, True", "score": 0},
+            {"text": "B. Sharp, Blunt", "score": 0},
+            {"text": "C. Love, Affection", "score": 0},
+            {"text": "D. Abundance, Scarcity", "score": 1}
+        ],
+        "correct_answer": "D. Abundance, Scarcity",
+        "hint": "'Abundance' ও 'Scarcity' বিপরীতার্থক শব্দ।"
+    },
+    {
+        "question": "72. বাংলাদেশের সংবিধানে মোট কয়টি তফসিল আছে?",
+        "answers": [
+            {"text": "A. ৭টি", "score": 0},
+            {"text": "B. ৮টি", "score": 1},
+            {"text": "C. ৫টি", "score": 0},
+            {"text": "D. ৬টি", "score": 0}
+        ],
+        "correct_answer": "B. ৮টি",
+        "hint": "বাংলাদেশের সংবিধানে ৮টি তফসিল রয়েছে।"
+    },
+    {
+        "question": "73. ০.৪ × ০.০২ × ০.০৮ =?",
+        "answers": [
+            {"text": "A. ০.০০০৬৪", "score": 1},
+            {"text": "B. ৬.৪০০০০", "score": 0},
+            {"text": "C. ০.৬৪০০০", "score": 0},
+            {"text": "D. ০.০৬৪০০", "score": 0}
+        ],
+        "correct_answer": "A. ০.০০০৬৪",
+        "hint": "গুণফল হিসাব করতে হবে।"
+    },
+    {
+        "question": "74. নিচের কোন ভগ্নাংশটি বৃহত্তম?",
+        "answers": [
+            {"text": "A. ৬/১১", "score": 1},
+            {"text": "B. ৮/১৪", "score": 0},
+            {"text": "C. ৩/৫", "score": 0},
+            {"text": "D. ৫/৮", "score": 0}
+        ],
+        "correct_answer": "A. ৬/১১",
+        "hint": "ভগ্নাংশের গুণফল তুলনার মাধ্যমে বের করুন।"
+    },
+    {
+        "question": "75. ‘তুমি তো ভারি সুন্দর ছবি আঁক!’ – বাক্যটিতে কোন প্রকারের অব্যয় পদ ব্যবহৃত হয়েছে?",
+        "answers": [
+            {"text": "A. অনন্বয়ী অব্যয়", "score": 1},
+            {"text": "B. অনুকার অব্যয়", "score": 0},
+            {"text": "C. পদান্বয়ী অব্যয়", "score": 0},
+            {"text": "D. অনুসর্গ অব্যয়", "score": 0}
+        ],
+        "correct_answer": "A. অনন্বয়ী অব্যয়",
+        "hint": "'তো' এখানে অনন্বয়ী অব্যয়।"
+    },
+    {
+        "question": "76. ঘড়িতে যখন ৮টা বাজে তখন ঘণ্টার কাঁটা ও মিনিটের কাঁটার মধ্যবর্তী কোণ কত ডিগ্রি হবে?",
+        "answers": [
+            {"text": "A. ৯০°", "score": 0},
+            {"text": "B. ৯৫°", "score": 0},
+            {"text": "C. ১০৫°", "score": 1},
+            {"text": "D. ১১০°", "score": 0}
+        ],
+        "correct_answer": "C. ১০৫°",
+        "hint": "ঘণ্টা ও মিনিটের কাঁটার কোণ বের করতে হবে।"
+    },
+    {
+        "question": "77. ‘A Christmas Carol’ is a ___ by Charles Dickens.",
+        "answers": [
+            {"text": "A. ballad", "score": 0},
+            {"text": "B. sketch story", "score": 0},
+            {"text": "C. historical novel", "score": 0},
+            {"text": "D. short novel", "score": 1}
+        ],
+        "correct_answer": "D. short novel",
+        "hint": "'A Christmas Carol' একটি ছোট উপন্যাস।"
+    },
+    {
+        "question": "78. ৯২ বছর বয়সী মালয়েশিয়ার প্রধানমন্ত্রী মাহাথির মোহাম্মদ –এর রাজনৈতিক জোট হচ্ছে?",
+        "answers": [
+            {"text": "A. ইউএমএনও", "score": 0},
+            {"text": "B. বারিসান ন্যাশনাল", "score": 0},
+            {"text": "C. পাটি পেরিকাতান", "score": 0},
+            {"text": "D. পাকাতান-হারুপান", "score": 1}
+        ],
+        "correct_answer": "D. পাকাতান-হারুপান",
+        "hint": "মাহাথির মোহাম্মদর রাজনৈতিক জোট পাকাতান-হারাপান।"
+    },
+    {
+        "question": "79. Love for the whole world is called-",
+        "answers": [
+            {"text": "A. philanthropy", "score": 1},
+            {"text": "B. misogyny", "score": 0},
+            {"text": "C. benevolence", "score": 0},
+            {"text": "D. misanthropy", "score": 0}
+        ],
+        "correct_answer": "A. philanthropy",
+        "hint": "মহান মানবতার প্রতি প্রেম নির্দেশ করে philanthropy।"
+    },
+    {
+        "question": "80. বঙ্গভঙ্গ রদ হয় কোন সালে?",
+        "answers": [
+            {"text": "A. ১৯১১ সালে", "score": 0},
+            {"text": "B. ১৯১২ সালে", "score": 0},
+            {"text": "C. ১৯০৮ সালে", "score": 1},
+            {"text": "D. ১৯০৯ সালে", "score": 0}
+        ],
+        "correct_answer": "C. ১৯০৮ সালে",
+        "hint": "বঙ্গভঙ্গ রদ হয় ১৯১১ সালে।"
+    },
+    {
+        "question": "81. দুটি সংখ্যার অনুপাত 7 : 5 এবং তাদের ল.সা.গু. 140 হলে সংখ্যা দুইটির গ.সা.গু. কত?",
+        "answers": [
+            {"text": "A. 4", "score": 0},
+            {"text": "B. 12", "score": 0},
+            {"text": "C. 6", "score": 1},
+            {"text": "D. 9", "score": 0}
+        ],
+        "correct_answer": "C. 6",
+        "hint": "গ.সা.গু বের করতে হবে।"
+    },
+    {
+        "question": "82.  এর সমাধান কোনটি?",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. ", "score": 0}
+        ],
+        "correct_answer": "A. ",
+        "hint": "সমাধান বের করার জন্য গণনা করতে হবে।"
+    },
+    {
+        "question": "83. মেসোপটেমীয় সভ্যতা গড়ে উঠেছিল কোথায়?",
+        "answers": [
+            {"text": "A. হোয়াংহো নদীর তীরে", "score": 0},
+            {"text": "B. ইয়াংসিকিয়াং নদীর তীরে", "score": 0},
+            {"text": "C. নীলনদের তীরে", "score": 0},
+            {"text": "D. ট্রাইগ্রিস ও ইউফ্রেটিস নদীর তীরে", "score": 1}
+        ],
+        "correct_answer": "D. ট্রাইগ্রিস ও ইউফ্রেটিস নদীর তীরে",
+        "hint": "মেসোপটেমীয় সভ্যতা ট্রাইগ্রিস ও ইউফ্রেটিস নদীর তীরে গড়ে উঠেছিল।"
+    },
+    {
+        "question": "84. একজন লোক A অবস্থান থেকে হেঁটে ডান দিকে ১০ ফুট, অতঃপর বামদিকে ২০ ফুট, তারপর বামদিকে ২০ ফুট এবং সবশেষে বামদিকে ২০ ফুট গিয়ে B অবস্থানে পৌঁছাল। A ও B এর মধ্যকার দূরত্ব কত ফুট?",
+        "answers": [
+            {"text": "A. ৩০ ফুট", "score": 0},
+            {"text": "B. ৪০ ফুট", "score": 1},
+            {"text": "C. ১০ ফুট", "score": 0},
+            {"text": "D. ২০ ফুট", "score": 0}
+        ],
+        "correct_answer": "B. ৪০ ফুট",
+        "hint": "যাত্রা শেষে A থেকে B কত দূরে যেতে হবে।"
+    },
+    {
+        "question": "85. বাংলাদেশর প্রধান বিচারপতি নিয়োগ দেন কে?",
+        "answers": [
+            {"text": "A. রাষ্ট্রপতি", "score": 1},
+            {"text": "B. জাতীয় সংসদ", "score": 0},
+            {"text": "C. প্রধানমন্ত্রী", "score": 0},
+            {"text": "D. স্পীকার", "score": 0}
+        ],
+        "correct_answer": "A. রাষ্ট্রপতি",
+        "hint": "রাষ্ট্রপতি প্রধান বিচারপতি নিয়োগ দেন।"
+    },
+    {
+        "question": "86. ‘সরল’ শব্দের বিপরীতার্থক নয় নিচের কোনটি?",
+        "answers": [
+            {"text": "A. বক্র", "score": 1},
+            {"text": "B. গরল", "score": 0},
+            {"text": "C. কুটিল", "score": 0},
+            {"text": "D. জটিল", "score": 0}
+        ],
+        "correct_answer": "A. বক্র",
+        "hint": "'সরল' শব্দের বিপরীতার্থক শব্দ নয়।"
+    },
+    {
+        "question": "87. নিচের কোনটি মৌলিক সংখ্যা?",
+        "answers": [
+            {"text": "A. ৪৭", "score": 1},
+            {"text": "B. ৮৭", "score": 0},
+            {"text": "C. ৯১", "score": 0},
+            {"text": "D. ১৪৩", "score": 0}
+        ],
+        "correct_answer": "A. ৪৭",
+        "hint": "৪৭ মৌলিক সংখ্যা।"
+    },
+    {
+        "question": "88. বাইজেনটাইন (Byzantine) সাম্রাজ্যের রাজধানী ছিল কোন নগরী?",
+        "answers": [
+            {"text": "A. লিসবন", "score": 0},
+            {"text": "B. কনস্টান্টিনোপল", "score": 1},
+            {"text": "C. প্যারিস", "score": 0},
+            {"text": "D. ভিয়েনা", "score": 0}
+        ],
+        "correct_answer": "B. কনস্টান্টিনোপল",
+        "hint": "বাইজেনটাইন সভ্যতার রাজধানী কনস্টান্টিনোপল ছিল।"
+    },
+    {
+        "question": "89. When we want to mean a government by the richest class we use the term-",
+        "answers": [
+            {"text": "A. Oligarchy", "score": 0},
+            {"text": "B. Plutocracy", "score": 1},
+            {"text": "C. Cryptocracy", "score": 0},
+            {"text": "D. Aristocracy", "score": 0}
+        ],
+        "correct_answer": "B. Plutocracy",
+        "hint": "নতুন ধনী শ্রেণির সরকার কাঠামো।"
+    },
+    {
+        "question": "90. ফোকেটিং (Folketing) কোন দেশের আইনসভা?",
+        "answers": [
+            {"text": "A. ডেনমার্ক", "score": 1},
+            {"text": "B. বেলজিয়াম", "score": 0},
+            {"text": "C. নরওয়ে", "score": 0},
+            {"text": "D. ফিনল্যান্ড", "score": 0}
+        ],
+        "correct_answer": "A. ডেনমার্ক",
+        "hint": "ফোকেটিং হলো ডেনমার্কের আইনসভা।"
+    },
+    {
+        "question": "91. Cozy Bear একটি কী?",
+        "answers": [
+            {"text": "A. চুক্তি", "score": 0},
+            {"text": "B. হ্যাকার গ্রুপ", "score": 1},
+            {"text": "C. বিনোদন কেন্দ্র", "score": 0},
+            {"text": "D. নদী", "score": 0}
+        ],
+        "correct_answer": "B. হ্যাকার গ্রুপ",
+        "hint": "Cozy Bear একটি রুশ হ্যাকার গোষ্ঠী।"
+    },
+    {
+        "question": "92. Hospitals __ the sick.",
+        "answers": [
+            {"text": "A. operate", "score": 0},
+            {"text": "B. treat", "score": 1},
+            {"text": "C. admit", "score": 0},
+            {"text": "D. nurse", "score": 0}
+        ],
+        "correct_answer": "B. treat",
+        "hint": "হাসপাতাল রোগীদের চিকিৎসা দেয়।"
+    },
+    {
+        "question": "93. ন্যাটোর সর্বশেষ সদস্য রাষ্ট্র কোনটি?",
+        "answers": [
+            {"text": "A. মন্টিনিগ্রো", "score": 0},
+            {"text": "B. লিথুয়ানিয়া", "score": 0},
+            {"text": "C. আলবেনিয়া", "score": 0},
+            {"text": "D. ক্রোয়েশিয়া", "score": 1}
+        ],
+        "correct_answer": "D. ক্রোয়েশিয়া",
+        "hint": "ন্যাটোর সর্বশেষ সদস্য রাষ্ট্র ক্রোয়েশিয়া।"
+    },
+    {
+        "question": "94. প্রজাতন্ত্রের নির্বাহী ক্ষমতা কার কর্তৃত্বে প্রযুক্ত হয়?",
+        "answers": [
+            {"text": "A. প্রধানমন্ত্রী", "score": 0},
+            {"text": "B. রাষ্ট্রপতি", "score": 1},
+            {"text": "C. মন্ত্রী", "score": 0},
+            {"text": "D. সচিব", "score": 0}
+        ],
+        "correct_answer": "B. রাষ্ট্রপতি",
+        "hint": "রাষ্ট্রপতি নির্বাহী ক্ষমতা নিয়োগ দেন।"
+    },
+    {
+        "question": "95. ন্যাশনাল লীগ ফর ডেমোক্রেসি কোন দেশের রাজনৈতিক দল?",
+        "answers": [
+            {"text": "A. মালয়েশিয়া", "score": 0},
+            {"text": "B. মিয়ানমার", "score": 1},
+            {"text": "C. ভারত", "score": 0},
+            {"text": "D. থাইল্যান্ড", "score": 0}
+        ],
+        "correct_answer": "B. মিয়ানমার",
+        "hint": "ন্যাশনাল লীগ ফর ডেমোক্রেসি মিয়ানমারের রাজনৈতিক দল।"
+    },
+    {
+        "question": "96. মায়া সভ্যতা বিশ্বের কোন অঞ্চলে বিরাজমান ছিল?",
+        "answers": [
+            {"text": "A. পূর্ব এশিয়া", "score": 0},
+            {"text": "B. মধ্য আমেরিকা", "score": 1},
+            {"text": "C. মধ্যপ্রাচ্য", "score": 0},
+            {"text": "D. পূর্ব আফ্রিকা", "score": 0}
+        ],
+        "correct_answer": "B. মধ্য আমেরিকা",
+        "hint": "মায়া সভ্যতা মধ্য আমেরিকার অঞ্চল জুড়ে বিরাজমান ছিল।"
+    },
+    {
+        "question": "97. সাম্প্রতিক কাতার সংকটের সময় কোন দেশটি কাতারের সাথে কূটনৈতিক সম্পর্ক ছিন্ন করে নাই?",
+        "answers": [
+            {"text": "A. বাহরাইন", "score": 0},
+            {"text": "B. সংযুক্ত আরব আমিরাত", "score": 0},
+            {"text": "C. মিশর", "score": 0},
+            {"text": "D. কুয়েত", "score": 1}
+        ],
+        "correct_answer": "D. কুয়েত",
+        "hint": "কুয়েত কাতারের সাথে সম্পর্ক ছিন্ন করেনি।"
+    },
+    {
+        "question": "98. ঋণাত্মক পূর্ণসংখ্যা এবং  ; c সেটের উপাদানগুলো হবে-",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. ", "score": 0}
+        ],
+        "correct_answer": "A. ",
+        "hint": "সেটের উপাদানগুলি নির্ধারণ করতে হবে।"
+    },
+    {
+        "question": "99. কোন বিদেশী পত্রিকা বঙ্গবন্ধুকে ‘রাজনীতির কবি’ (Poet of Politics) উপাধি দিয়েছিলেন?",
+        "answers": [
+            {"text": "A. নিউজ উইরুস (উইকস)", "score": 0},
+            {"text": "B. দি ইকনমিস্ট", "score": 0},
+            {"text": "C. টাইম", "score": 0},
+            {"text": "D. গার্ডিয়ান", "score": 1}
+        ],
+        "correct_answer": "D. গার্ডিয়ান",
+        "hint": "গার্ডিয়ান বঙ্গবন্ধুকে রাজনীতির কবি উপাধি দিয়েছিল।"
+    },
+    {
+        "question": "100. যদি 2 × 3 = 812, 4 × 5 = 1620 হয় তবে, 6 × 7 = ?",
+        "answers": [
+            {"text": "A. 2428", "score": 0},
+            {"text": "B. 2442", "score": 0},
+            {"text": "C. 42", "score": 1},
+            {"text": "D. 1214", "score": 0}
+        ],
+        "correct_answer": "C. 42",
+        "hint": "প্যাটার্নের ভিত্তিতে মান বের করতে হবে।"
+    }
+]

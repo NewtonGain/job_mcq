@@ -1,0 +1,2204 @@
+[
+    {
+        "question": "1. She insisted on ––– leaving the house.",
+        "answers": [
+            {"text": "A. he", "score": 0},
+            {"text": "B. him", "score": 1},
+            {"text": "C. himself", "score": 0},
+            {"text": "D. his", "score": 0}
+        ],
+        "correct_answer": "B. him",
+        "hint": "Insist on এর পর সর্বদা Possessive form ব্যবহৃত হয়।"
+    },
+    {
+        "question": "2. The phrase “Achilles’ heel” means––",
+        "answers": [
+            {"text": "A. a strong point", "score": 0},
+            {"text": "B. a strong solution", "score": 0},
+            {"text": "C. a weak point", "score": 1},
+            {"text": "D. a permanent solution", "score": 0}
+        ],
+        "correct_answer": "C. a weak point",
+        "hint": "Achilles heel একটি idiom এর অর্থ - weak point."
+    },
+    {
+        "question": "3. He does not adhere ––– any principle.",
+        "answers": [
+            {"text": "A. by", "score": 0},
+            {"text": "B. in", "score": 0},
+            {"text": "C. at", "score": 0},
+            {"text": "D. to", "score": 1}
+        ],
+        "correct_answer": "D. to",
+        "hint": "Adhere to (sth)- লেগে থাকা, অটল থাকা।"
+    },
+    {
+        "question": "4. Millennium is a period of–––",
+        "answers": [
+            {"text": "A. 100 year", "score": 0},
+            {"text": "B. 1000 year", "score": 1},
+            {"text": "C. 1 million year", "score": 0},
+            {"text": "D. 1 million year", "score": 0}
+        ],
+        "correct_answer": "B. 1000 year",
+        "hint": "Millennium: a period of 1,000 years."
+    },
+    {
+        "question": "5. Identify the passive form of the following sentence: Who has broken this jug?",
+        "answers": [
+            {"text": "A. By whom has this jug been broken?", "score": 1},
+            {"text": "B. By whom has this jug broken?", "score": 0},
+            {"text": "C. By whom this jug has been broken?", "score": 0},
+            {"text": "D. Whom has this jug been broken?", "score": 0}
+        ],
+        "correct_answer": "A. By whom has this jug been broken?",
+        "hint": "Who যুক্ত Interrogative Sentence কে passive করার নিয়ম-By whom + auxiliary verb + Subject + v3 + ?"
+    },
+    {
+        "question": "6. Who is not a Victorian poet?",
+        "answers": [
+            {"text": "A. Alfred Tennyson", "score": 0},
+            {"text": "B. Robert Browning", "score": 0},
+            {"text": "C. William Wordsworth", "score": 1},
+            {"text": "D. Matthew Arnold", "score": 0}
+        ],
+        "correct_answer": "C. William Wordsworth",
+        "hint": "William Wordsworth রোমান্টিক যুগের কবি।"
+    },
+    {
+        "question": "7. Which of the following novels was written by George Orwell?",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. ", "score": 0}
+        ],
+        "correct_answer": "১৯৮৪",
+        "hint": "George Orwell এর বিখ্যাত উপন্যাস ‘1984’."
+    },
+    {
+        "question": "8. Identify the correct sentence:",
+        "answers": [
+            {"text": "A. She speaks English like English", "score": 0},
+            {"text": "B. She speaks the English like English", "score": 0},
+            {"text": "C. She speaks the English like the English", "score": 0},
+            {"text": "D. She speaks English like the English", "score": 1}
+        ],
+        "correct_answer": "D. She speaks English like the English",
+        "hint": "ভাষার পূর্বে article বসে না, কিন্তু জাতির পূর্বে article 'the' বসে।"
+    },
+    {
+        "question": "9. When one makes a promise, one must not go ––– on it.",
+        "answers": [
+            {"text": "A. forward", "score": 0},
+            {"text": "B. back", "score": 1},
+            {"text": "C. by", "score": 0},
+            {"text": "D. around", "score": 0}
+        ],
+        "correct_answer": "B. back",
+        "hint": "Go back on একটি group verb।"
+    },
+    {
+        "question": "10. ",
+        "answers": [
+            {"text": "A. To protect", "score": 0},
+            {"text": "B. To terminate", "score": 0},
+            {"text": "C. To tolerate", "score": 1},
+            {"text": "D. To prevent", "score": 0}
+        ],
+        "correct_answer": "C. To tolerate",
+        "hint": "Put up with- tolerate or endure something."
+    },
+    {
+        "question": "11. The poem “To his Coy Mistress” Was written by:",
+        "answers": [
+            {"text": "A. Andrew Marvell", "score": 1},
+            {"text": "B. John Donne", "score": 0},
+            {"text": "C. George Herbert", "score": 0},
+            {"text": "D. Henry Vaughan", "score": 0}
+        ],
+        "correct_answer": "A. Andrew Marvell",
+        "hint": "'To his coy Mistress' Andrew Marvell এর লেখা।"
+    },
+    {
+        "question": "12. The synonyms of ‘altitude’ is–––",
+        "answers": [
+            {"text": "A. height", "score": 1},
+            {"text": "B. width", "score": 0},
+            {"text": "C. length", "score": 0},
+            {"text": "D. depth", "score": 0}
+        ],
+        "correct_answer": "A. height",
+        "hint": "Altitude- এর অর্থ উচ্চতা।"
+    },
+    {
+        "question": "13. The character, Elizabeth Bennett, appears in the novel––",
+        "answers": [
+            {"text": "A. ", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. ", "score": 0},
+            {"text": "D. ", "score": 0}
+        ],
+        "correct_answer": "Pride and Prejudice",
+        "hint": "Elizabeth Bennett উপন্যাসের কেন্দ্রীয় চরিত্র।"
+    },
+    {
+        "question": "14. This could have worked if I ____ been more far-sighted.",
+        "answers": [
+            {"text": "A. have", "score": 0},
+            {"text": "B. had", "score": 1},
+            {"text": "C. might", "score": 0},
+            {"text": "D. would", "score": 0}
+        ],
+        "correct_answer": "B. had",
+        "hint": "Could have ব্যবহৃত হয় If + sub + had + past participle।"
+    },
+    {
+        "question": "15. ",
+        "answers": [
+            {"text": "A. rude", "score": 1},
+            {"text": "B. gracious", "score": 0},
+            {"text": "C. coarse", "score": 0},
+            {"text": "D. pretentious", "score": 0}
+        ],
+        "correct_answer": "A. rude",
+        "hint": "Arrogant অর্থ অহংকারী- এর Synonym হলো rude।"
+    },
+    {
+        "question": "16. ",
+        "answers": [
+            {"text": "A. W B Yeats", "score": 0},
+            {"text": "B. E.B. Browning", "score": 0},
+            {"text": "C. George Gordon Byron", "score": 1},
+            {"text": "D. Alexander Pope", "score": 0}
+        ],
+        "correct_answer": "C. George Gordon Byron",
+        "hint": "Lord Byron এর বিখ্যাত কবিতা 'Don Juan' এডভেঞ্জার ও ফ্যান্টাসি।"
+    },
+    {
+        "question": "17. Identify the imperative sentence:",
+        "answers": [
+            {"text": "A. Shut up!", "score": 1},
+            {"text": "B. Shahin is playing football.", "score": 0},
+            {"text": "C. I shall cook dinner now.", "score": 0},
+            {"text": "D. What is your name?", "score": 0}
+        ],
+        "correct_answer": "A. Shut up!",
+        "hint": "Imperative Sentence আদেশ কিংবা নিষেধ প্রকাশ করে।"
+    },
+    {
+        "question": "18. “Black Death” is the name of a ––",
+        "answers": [
+            {"text": "A. fever", "score": 0},
+            {"text": "B. black fever", "score": 0},
+            {"text": "C. plague pandemic", "score": 1},
+            {"text": "D. death of black people", "score": 0}
+        ],
+        "correct_answer": "C. plague pandemic",
+        "hint": "Black Death Bubonic Plague বোঝায়।"
+    },
+    {
+        "question": "19. ‘Ulysses’ is a poem written by––",
+        "answers": [
+            {"text": "A. Robert Browning", "score": 0},
+            {"text": "B. Wordsworth", "score": 0},
+            {"text": "C. S.T. Coleridge", "score": 0},
+            {"text": "D. Alfred Tennyson", "score": 1}
+        ],
+        "correct_answer": "D. Alfred Tennyson",
+        "hint": "'Ulysses' কবিতাটি লিখেছেন Alfred Tennyson।"
+    },
+    {
+        "question": "20. Who wrote the poem ‘Ozymandias’?",
+        "answers": [
+            {"text": "A. Thomas Hardy", "score": 0},
+            {"text": "B. Robert Frost", "score": 0},
+            {"text": "C. P.B Shelley", "score": 1},
+            {"text": "D. Edmund Spenser", "score": 0}
+        ],
+        "correct_answer": "C. P.B Shelley",
+        "hint": "Ozymandias কবিতাটি লিখেছেন P.B Shelley।"
+    },
+    {
+        "question": "21. Clym Yeobright is the protagonist of the novel––",
+        "answers": [
+            {"text": "A. David Copperfield", "score": 0},
+            {"text": "B. Adam Bede", "score": 0},
+            {"text": "C. A Passage of India", "score": 0},
+            {"text": "D. The Return of the Native", "score": 1}
+        ],
+        "correct_answer": "D. The Return of the Native",
+        "hint": "Clym Yeobright চরিত্রটি Thomas Hardy’ র Return of the Native উপন্যাসে এসেছে।"
+    },
+    {
+        "question": "22. The train is running ––– forty miles an hour.",
+        "answers": [
+            {"text": "A. on", "score": 0},
+            {"text": "B. to", "score": 0},
+            {"text": "C. at", "score": 1},
+            {"text": "D. for", "score": 0}
+        ],
+        "correct_answer": "C. at",
+        "hint": "Speed বুঝাতে run এর পর 'at' হয়।"
+    },
+    {
+        "question": "23. He divided the money ––– the two children.",
+        "answers": [
+            {"text": "A. between", "score": 1},
+            {"text": "B. over", "score": 0},
+            {"text": "C. among", "score": 0},
+            {"text": "D. in between", "score": 0}
+        ],
+        "correct_answer": "A. between",
+        "hint": "দুই জনের মধ্যে ভাগ করা বুঝাতে 'between' ব্যবহৃত হয়।"
+    },
+    {
+        "question": "24. No one can ––– that he is clever.",
+        "answers": [
+            {"text": "A. defy", "score": 0},
+            {"text": "B. deny", "score": 1},
+            {"text": "C. admire", "score": 0},
+            {"text": "D. denounce", "score": 0}
+        ],
+        "correct_answer": "B. deny",
+        "hint": "deny অর্থ অস্বীকার করা।"
+    },
+    {
+        "question": "25. Choose the right form of verb: The boy (to lie) on the floor yesterday.",
+        "answers": [
+            {"text": "A. lies", "score": 0},
+            {"text": "B. lied", "score": 0},
+            {"text": "C. lay", "score": 1},
+            {"text": "D. layed", "score": 0}
+        ],
+        "correct_answer": "C. lay",
+        "hint": "lie – শুয়ে থাকা। এর past form lay।"
+    },
+    {
+        "question": "26. She played on the flute. Passive form is –––",
+        "answers": [
+            {"text": "A. The flute was played by her.", "score": 1},
+            {"text": "B. The flute was played on by her.", "score": 0},
+            {"text": "C. The flute was played to her.", "score": 0},
+            {"text": "D. The flute was being played by her.", "score": 0}
+        ],
+        "correct_answer": "A. The flute was played by her.",
+        "hint": "Passive voice সহ object, subject হবে।"
+    },
+    {
+        "question": "27. Antonym for Adieu–––",
+        "answers": [
+            {"text": "A. Farewell", "score": 0},
+            {"text": "B. Good bye", "score": 0},
+            {"text": "C. Hello", "score": 1},
+            {"text": "D. Valediction", "score": 0}
+        ],
+        "correct_answer": "C. Hello",
+        "hint": "Adieu অর্থ বিদায়। Antonym হবে Hello।"
+    },
+    {
+        "question": "28. ‘Walk fast lest you should miss the train’. This is a––",
+        "answers": [
+            {"text": "A. Simple sentence", "score": 0},
+            {"text": "B. Compound sentence", "score": 0},
+            {"text": "C. Complex sentence", "score": 1},
+            {"text": "D. Interrogative sentence", "score": 0}
+        ],
+        "correct_answer": "C. Complex sentence",
+        "hint": "Complex Sentence এ subordinate clause থাকে।"
+    },
+    {
+        "question": "29. A number of singers in a church is called––",
+        "answers": [
+            {"text": "A. Choir", "score": 1},
+            {"text": "B. Cast", "score": 0},
+            {"text": "C. Claque", "score": 0},
+            {"text": "D. Clump", "score": 0}
+        ],
+        "correct_answer": "A. Choir",
+        "hint": "A group of singers who perform together is called a choir."
+    },
+    {
+        "question": "30. Put the right word in the blank. “He reached the ––– of his literary career.”",
+        "answers": [
+            {"text": "A. abattoir", "score": 0},
+            {"text": "B. acme", "score": 1},
+            {"text": "C. admonish", "score": 0},
+            {"text": "D. abdicate", "score": 0}
+        ],
+        "correct_answer": "B. acme",
+        "hint": "acme অর্থ শীর্ষ, চূড়া।"
+    },
+    {
+        "question": "31. Anger may be compared ––– fire.",
+        "answers": [
+            {"text": "A. to", "score": 1},
+            {"text": "B. within", "score": 0},
+            {"text": "C. against", "score": 0},
+            {"text": "D. into", "score": 0}
+        ],
+        "correct_answer": "A. to",
+        "hint": "Compare to – অসম বস্তুর মধ্যে তুলনা করা।"
+    },
+    {
+        "question": "32. Choose the correct sentence:",
+        "answers": [
+            {"text": "A. He discussed the matter.", "score": 1},
+            {"text": "B. He discussed about the matter.", "score": 0},
+            {"text": "C. He discussed on the matter.", "score": 0},
+            {"text": "D. None of the above.", "score": 0}
+        ],
+        "correct_answer": "A. He discussed the matter.",
+        "hint": "Discuss verb এর সাথে কখনই preposition বসে না।"
+    },
+    {
+        "question": "33. Identify the correct spelt word.",
+        "answers": [
+            {"text": "A. Horroscope", "score": 0},
+            {"text": "B. Pneumonia", "score": 1},
+            {"text": "C. Occasion", "score": 1},
+            {"text": "D. Embarass", "score": 0}
+        ],
+        "correct_answer": "B. Pneumonia",
+        "hint": "'Pneumonia' এবং 'Occasion' এর সঠিক বানান।"
+    },
+    {
+        "question": "34. Desdemona is a character in the following Shakespearean play:",
+        "answers": [
+            {"text": "A. Macbeth", "score": 0},
+            {"text": "B. Othello", "score": 1},
+            {"text": "C. Hamlet", "score": 0},
+            {"text": "D. King Lear", "score": 0}
+        ],
+        "correct_answer": "B. Othello",
+        "hint": "Desdemona Othello নাটকের চরিত্র।"
+    },
+    {
+        "question": "35. Meteorology is related to––",
+        "answers": [
+            {"text": "A. concrete slabs", "score": 0},
+            {"text": "B. motor vehicles", "score": 0},
+            {"text": "C. weather forecasting", "score": 1},
+            {"text": "D. motor neurone disease", "score": 0}
+        ],
+        "correct_answer": "C. weather forecasting",
+        "hint": "Meteorology deals with the study of weather."
+    },
+    {
+        "question": "36. ‘ধ্বনি’ সম্পর্কে নিচের কোন বাক্যটি সঠিক নয়?",
+        "answers": [
+            {"text": "A. ধ্বনি দৃশ্যমান", "score": 1},
+            {"text": "B. মানুষের ভাষার মূলে আছে কতগুলো ধ্বনি", "score": 0},
+            {"text": "C. ধ্বনি উচ্চারণীয় ও শ্রবণীয়", "score": 0},
+            {"text": "D. অর্থবোধক ধ্বনিগুলোই মানুষের বিভিন্ন ভাষার বাগ্‌ধ্বনি", "score": 0}
+        ],
+        "correct_answer": "A. ধ্বনি দৃশ্যমান",
+        "hint": "ধ্বনি দৃশ্যমান নয়, ধ্বনি অদৃশ্যমান।"
+    },
+    {
+        "question": "37. স্বরাস্ত অক্ষরকে কী বলে?",
+        "answers": [
+            {"text": "A. একাক্ষর", "score": 0},
+            {"text": "B. মুক্তাক্ষর", "score": 1},
+            {"text": "C. বদ্ধাক্ষর", "score": 0},
+            {"text": "D. যুক্ষাক্তর", "score": 0}
+        ],
+        "correct_answer": "B. মুক্তাক্ষর",
+        "hint": "স্বরধ্বনির শেষে স্বরধ্বনি থাকে, তাকে মুক্তাক্ষর বলে।"
+    },
+    {
+        "question": "38. শুদ্ধ বানানের গুচ্ছ কোনটি?",
+        "answers": [
+            {"text": "A. শিরশ্ছেদ, দরিদ্রতা, সমীচীন", "score": 0},
+            {"text": "B. শিরোশ্ছেদ, দারিদ্র, সমীচিন", "score": 1},
+            {"text": "C. শিরঃশ্ছেদ, দরিদ্রতা, সমিচীন", "score": 0},
+            {"text": "D. শিরচ্ছেদ, দরিদ্রতা, সমীচীন", "score": 0}
+        ],
+        "correct_answer": "B. শিরোশ্ছেদ, দারিদ্র, সমীচিন",
+        "hint": "শুদ্ধ বানানগুলো উপস্থাপন করার প্রয়োজন।"
+    },
+    {
+        "question": "39. আরবি ‘কলম’ শব্দটি ‘কলমোস’ শব্দ থেকে এসেছে। ‘কলমোস’ কোন ভাষার শব্দ?",
+        "answers": [
+            {"text": "A. পাঞ্জাবি", "score": 0},
+            {"text": "B. ফরাসি", "score": 0},
+            {"text": "C. গ্রিক", "score": 1},
+            {"text": "D. স্পেনিশ", "score": 0}
+        ],
+        "correct_answer": "C. গ্রিক",
+        "hint": "কলম শব্দটি গ্রিক শব্দকলোমাস থেকে এসেছে।"
+    },
+    {
+        "question": "40. ‘ভাষা চিন্তার শুধু বাহনই নয়, চিন্তার প্রসূতিও’। মন্তব্যটি কোন ভাষা-চিন্তকের?",
+        "answers": [
+            {"text": "A. সুনীতিকুমার চট্টোপাধ্যায়", "score": 0},
+            {"text": "B. মুহম্মদ শহীদুল্লাহ", "score": 1},
+            {"text": "C. মুহম্মদ এনামুল হক", "score": 0},
+            {"text": "D. সুকুমার সেন", "score": 0}
+        ],
+        "correct_answer": "B. মুহম্মদ শহীদুল্লাহ",
+        "hint": "ভাষার গুরুত্বের কথা উল্লেখ করেছেন।"
+    },
+    {
+        "question": "41. সর্বপ্রথম বাংলা ভাষার ব্যাকরণ রচনা করেন কে?",
+        "answers": [
+            {"text": "A. মানোএল দ্য আস্‌সুম্পসাঁও", "score": 1},
+            {"text": "B. রাজা রামমোহন রায়", "score": 0},
+            {"text": "C. রামেন্দ্র সুন্দর ত্রিবেদী", "score": 0},
+            {"text": "D. নাথানিয়েল ব্রাসি হ্যালহেড", "score": 0}
+        ],
+        "correct_answer": "A. মানোএল দ্য আস্‌সুম্পসাঁও",
+        "hint": "প্রথম বাংলা ব্যাকরণ ১৭৪৩ সালে প্রকাশ পেয়েছিল।"
+    },
+    {
+        "question": "42. উচ্চারণের রীতি অনুযায়ী নিচের কোনটি উচ্চমধ্য-সম্মুখ স্বরধ্বনি?",
+        "answers": [
+            {"text": "A. অ", "score": 0},
+            {"text": "B. আ", "score": 1},
+            {"text": "C. ও", "score": 0},
+            {"text": "D. এ", "score": 0}
+        ],
+        "correct_answer": "B. আ",
+        "hint": "উচ্চমধ্য-সম্মুখ স্বরধ্বনি আ।"
+    },
+    {
+        "question": "43. ‘তাম্বুলিক’ শব্দের সমার্থক নয় কোনটি?",
+        "answers": [
+            {"text": "A. পান-ব্যবসায়ী", "score": 0},
+            {"text": "B. পর্ণকার", "score": 0},
+            {"text": "C. তামসিক", "score": 1},
+            {"text": "D. বারুই", "score": 0}
+        ],
+        "correct_answer": "C. তামসিক",
+        "hint": "তাম্বুলিক অর্থ পান-ব্যবসায়ী।"
+    },
+    {
+        "question": "44. ‘তুমি তো ভারি সুন্দর ছবি আঁক।’– বাক্যটিতে কোন প্রকারের অব্যয় পদ ব্যবহৃত হয়েছে?",
+        "answers": [
+            {"text": "A. পদান্বয়ী অব্যয়", "score": 0},
+            {"text": "B. অনুসর্গ অব্যয়", "score": 1},
+            {"text": "C. অনন্বয়ী অব্যয়", "score": 0},
+            {"text": "D. অনুকার অব্যয়", "score": 0}
+        ],
+        "correct_answer": "B. অনুসর্গ অব্যয়",
+        "hint": "এখানেঃ 'ভারি' হচ্ছে অনন্বয়ী অব্যয়।"
+    },
+    {
+        "question": "45. নিচের কোনটি যৌগিক শব্দ?",
+        "answers": [
+            {"text": "A. প্রবীণ", "score": 0},
+            {"text": "B. জেঠামি", "score": 1},
+            {"text": "C. সরোজ", "score": 0},
+            {"text": "D. মিতালি", "score": 0}
+        ],
+        "correct_answer": "B. জেঠামি",
+        "hint": "যৌগিক শব্দ অর্থাৎ একই রকমের অর্থের শব্দ।"
+    },
+    {
+        "question": "46. ‘সুনামীর তান্ডবে অনেকেই সর্বশান্ত হয়েছে।’– বাক্যটিতে কয়টি ভুল আছে?",
+        "answers": [
+            {"text": "A. একটি", "score": 0},
+            {"text": "B. দুটি", "score": 0},
+            {"text": "C. তিনটি", "score": 1},
+            {"text": "D. ভুল নেই", "score": 0}
+        ],
+        "correct_answer": "C. তিনটি",
+        "hint": "এখানে তিনটি ভুল রয়েছে।"
+    },
+    {
+        "question": "47. কৃন্দন্ত পদের পূর্ববর্তী পদকে কী বলে?",
+        "answers": [
+            {"text": "A. উপপদ", "score": 1},
+            {"text": "B. প্রাতিপদিক", "score": 0},
+            {"text": "C. প্রপদ", "score": 0},
+            {"text": "D. পূর্বপদ", "score": 0}
+        ],
+        "correct_answer": "A. উপপদ",
+        "hint": "কৃন্দন্ত পদের পূর্ববর্তী পদ হলো উপপদ।"
+    },
+    {
+        "question": "48. ‘তোমার নাম কী?’– এখানে ‘কী’ কোন প্রকারের শব্দ?",
+        "answers": [
+            {"text": "A. প্রশ্নবাচক", "score": 1},
+            {"text": "B. অব্যয়", "score": 0},
+            {"text": "C. সর্বনাম", "score": 0},
+            {"text": "D. বিশেষণ", "score": 0}
+        ],
+        "correct_answer": "A. প্রশ্নবাচক",
+        "hint": "প্রশ্নবাচক শব্দ দ্বারা জানতে চাওয়া হয়।"
+    },
+    {
+        "question": "49. ‘সরল’ শব্দের বিপরীতার্থক নয় নিচের কোনটি?",
+        "answers": [
+            {"text": "A. কুটিল", "score": 1},
+            {"text": "B. জটিল", "score": 0},
+            {"text": "C. বক্র", "score": 0},
+            {"text": "D. গরল", "score": 0}
+        ],
+        "correct_answer": "A. কুটিল",
+        "hint": "সারল শব্দের বিপরীত শব্দ কুটিল।"
+    },
+    {
+        "question": "50. ‘Rank’ শব্দের বাংলা পরিভাষা কী?",
+        "answers": [
+            {"text": "A. পদ", "score": 1},
+            {"text": "B. পদমর্যাদা", "score": 0},
+            {"text": "C. মাত্রা", "score": 0},
+            {"text": "D. উচ্চতা", "score": 0}
+        ],
+        "correct_answer": "A. পদ",
+        "hint": "Rank-এর বাংলা পরিভাষা হলো পদ।"
+    },
+    {
+        "question": "51. চর্যাপদের তিব্বতি অনুবাদ প্রকাশ করেন কে?",
+        "answers": [
+            {"text": "A. প্রবোধচন্দ্র বাগচী", "score": 1},
+            {"text": "B. যতীন্দ্র মোহন বাগচী", "score": 0},
+            {"text": "C. প্রফুল্ল মোহন বাগচী", "score": 0},
+            {"text": "D. প্রণয়ভূষণ বাগচী", "score": 0}
+        ],
+        "correct_answer": "A. প্রবোধচন্দ্র বাগচী",
+        "hint": "১৯৩৮ সালে প্রবোধচন্দ্র বাগচী চর্যাপদের তিব্বতী অনুবাদ প্রকাশ করেন।"
+    },
+    {
+        "question": "52. ‘গীতগোবিন্দ’ কাব্যের রচয়িতা জয়দেব কার সভাকবি ছিলেন?",
+        "answers": [
+            {"text": "A. শশাঙ্কদেবের", "score": 0},
+            {"text": "B. লক্ষ্মণ সেনের", "score": 1},
+            {"text": "C. যশোবর্মনের", "score": 0},
+            {"text": "D. হর্ষবর্ধনের", "score": 0}
+        ],
+        "correct_answer": "B. লক্ষ্মণ সেনের",
+        "hint": "জয়দেব লক্ষ্মণ সেনের সভাকবি ছিলেন।"
+    },
+    {
+        "question": "53. কবি যশোরাজ খান বৈষ্ণবপদ রচনা করেন কোন ভাষায়?",
+        "answers": [
+            {"text": "A. ব্রজবুলি", "score": 1},
+            {"text": "B. বাংলা", "score": 0},
+            {"text": "C. সংস্কৃত", "score": 0},
+            {"text": "D. হিন্দি", "score": 0}
+        ],
+        "correct_answer": "A. ব্রজবুলি",
+        "hint": "যশোরাজ খান ব্রজবুলি ভাষায় বৈষ্ণবপদ রচনা করেন।"
+    },
+    {
+        "question": "54. নিচের কোন জন যুদ্ধকাব্যের রচয়িতা নন?",
+        "answers": [
+            {"text": "A. দৌলত উজির বাহরাম খাঁ", "score": 0},
+            {"text": "B. সাবিরিদ খাঁ", "score": 0},
+            {"text": "C. সৈয়দ সুলতান", "score": 0},
+            {"text": "D. সৈয়দ নূরুদ্দীন", "score": 1}
+        ],
+        "correct_answer": "D. সৈয়দ নূরুদ্দীন",
+        "hint": "সৈয়দ নূরুদ্দীন যুদ্ধকাব্যের রচয়িতা নন।"
+    },
+    {
+        "question": "55. কোনটি কবি জৈনুদ্দিনের কাব্যগ্রন্থ?",
+        "answers": [
+            {"text": "A. রসুল বিজয়", "score": 1},
+            {"text": "B. মক্কা বিজয়", "score": 0},
+            {"text": "C. রসুলচরিত", "score": 0},
+            {"text": "D. মক্কানামা", "score": 0}
+        ],
+        "correct_answer": "A. রসুল বিজয়",
+        "hint": "কবি জৈনুদ্দিনের যুদ্ধকাব্য রসুল বিজয়।"
+    },
+    {
+        "question": "56. “বিদ্যাসাগর ও বাঙালি সমাজ” গ্রন্হের রচয়িতা কে?",
+        "answers": [
+            {"text": "A. বিনয় ঘোষ", "score": 1},
+            {"text": "B. সুবিনয় ঘোষ", "score": 0},
+            {"text": "C. বিনয় ভট্টাচার্য", "score": 0},
+            {"text": "D. বিনয় বর্মণ", "score": 0}
+        ],
+        "correct_answer": "A. বিনয় ঘোষ",
+        "hint": "বিনয় ঘোষ 'বিদ্যাসাগর ও বাঙালি সমাজ' গ্রন্থের রচয়িতা।"
+    },
+    {
+        "question": "57. প্রথম সাহিত্যিক গদ্যের স্রষ্টা কে?",
+        "answers": [
+            {"text": "A. রাজা রামমোহন রায়", "score": 1},
+            {"text": "B. ঈশ্বরচন্দ্র বিদ্যাসাগর", "score": 0},
+            {"text": "C. মৃত্যুঞ্জয় বিদ্যালঙ্কার", "score": 0},
+            {"text": "D. বঙ্কিমচন্দ্র চট্টোপাধ্যায়", "score": 0}
+        ],
+        "correct_answer": "A. রাজা রামমোহন রায়",
+        "hint": "প্রথম সাহিত্যিক গদ্যের স্রষ্টা রাজা রামমোহন রায়।"
+    },
+    {
+        "question": "58. প্যারীচাঁদ মিত্রের ‘আলালের ঘরের দুলাল’ প্রথম গ্রন্থাকারে প্রকাশিত হয় কত সালে?",
+        "answers": [
+            {"text": "A. ১৮৫৮ সালে", "score": 1},
+            {"text": "B. ১৯৭৮ সালে", "score": 0},
+            {"text": "C. ১৮৪৮ সালে", "score": 0},
+            {"text": "D. ১৮৬৮ সালে", "score": 0}
+        ],
+        "correct_answer": "A. ১৮৫৮ সালে",
+        "hint": "'আলালের ঘরের দুলাল' 1858 সালে প্রকাশিত হয়।"
+    },
+    {
+        "question": "59. শচীন, দামিনী ও শ্রীবিলাস রবীন্দ্রনাথ ঠাকুরের কোন উপন্যাসের চরিত্র?",
+        "answers": [
+            {"text": "A. চতুরঙ্গ", "score": 1},
+            {"text": "B. চার অধ্যায়", "score": 0},
+            {"text": "C. নৌকাডুবি", "score": 0},
+            {"text": "D. ঘরে বাইরে", "score": 0}
+        ],
+        "correct_answer": "A. চতুরঙ্গ",
+        "hint": "শচীন, দামিনী ও শ্রীবিলাস চতুরঙ্গ উপন্যাসের চরিত্র।"
+    },
+    {
+        "question": "60. ‘তুমি মা কল্পতরু আমরা সব পোষাগরু’– এই কবিতাংশটির রচয়িতা কে?",
+        "answers": [
+            {"text": "A. রঙ্গলাল বন্দ্যোপাধ্যায়", "score": 0},
+            {"text": "B. ঈশ্বরচন্দ্র বিদ্যাসাগর", "score": 0},
+            {"text": "C. হেমচন্দ্র বন্দ্যোপাধ্যায়", "score": 0},
+            {"text": "D. ঈশ্বরচন্দ্র গুপ্ত", "score": 1}
+        ],
+        "correct_answer": "D. ঈশ্বরচন্দ্র গুপ্ত",
+        "hint": "ঈশ্বরচন্দ্র গুপ্ত প্রতিভা মাতৃর প্রতি সম্মান জানিয়ে লিখেছেন।"
+    },
+    {
+        "question": "61. মীর মশাররফ হোসেনের কোন গ্রন্হের উপজীব্য হিন্দু মুসলমানের বিরোধ?",
+        "answers": [
+            {"text": "A. গো-জীবন", "score": 1},
+            {"text": "B. ইসলামের জয়", "score": 0},
+            {"text": "C. এর উপায় কী", "score": 0},
+            {"text": "D. বসন্তকুমারী নাটক", "score": 0}
+        ],
+        "correct_answer": "A. গো-জীবন",
+        "hint": "মীর মশাররফ হোসেনের 'গো-জীবন' এ হিন্দু মুসলমানের বিরোধ তুলে ধরা হয়েছে।"
+    },
+    {
+        "question": "62. রবীন্দ্রনাথ ঠাকুর কত বয়সে ছোটগল্পকার হিসেবে আত্মপ্রকাশ করেন?",
+        "answers": [
+            {"text": "A. ১০ বছর", "score": 0},
+            {"text": "B. ১২ বছর", "score": 0},
+            {"text": "C. ১৪ বছর", "score": 0},
+            {"text": "D. ১৬ বছর", "score": 1}
+        ],
+        "correct_answer": "D. ১৬ বছর",
+        "hint": "রবীন্দ্রনাথের প্রথম গল্পের বয়স ছিল ১৬ বছর।"
+    },
+    {
+        "question": "63. নিচের কোনটি বিভূতিভূষণ বন্দ্যোপাধ্যায়ের গল্পগ্রন্থ নয়?",
+        "answers": [
+            {"text": "A. ইছামতি", "score": 0},
+            {"text": "B. মেঘমল্লার", "score": 0},
+            {"text": "C. মৌরিফুল", "score": 0},
+            {"text": "D. যাত্রাবদল", "score": 1}
+        ],
+        "correct_answer": "D. যাত্রাবদল",
+        "hint": "'ইছামতি' বিভূতিভূষণের উপন্যাস।"
+    },
+    {
+        "question": "64. ‘আমার পথ’ প্রবন্ধটি কাজী নজরুল ইসলামের কোন গ্রন্থ থেকে সংকলিত হয়েছে?",
+        "answers": [
+            {"text": "A. যুগ-বাণী", "score": 0},
+            {"text": "B. রুদ্র-মঙ্গল", "score": 1},
+            {"text": "C. দুর্দিনের যাত্রী", "score": 0},
+            {"text": "D. রাজবন্দির জবানবন্দি", "score": 0}
+        ],
+        "correct_answer": "B. রুদ্র-মঙ্গল",
+        "hint": "'আমার পথ' প্রবন্ধটি কাজী নজরুলের 'রুদ্র-মঙ্গল' গ্রন্থ থেকে এসেছে।"
+    },
+    {
+        "question": "65. ‘জীবন ও বৃক্ষ’ প্রবন্ধে মোতাহের হোসেন চৌধুরী কাকে তপোবন-প্রেমিক বলেছেন?",
+        "answers": [
+            {"text": "A. বিভূতিভূষণ বন্দ্যোপাধ্যায়কে", "score": 0},
+            {"text": "B. জসীম উদ্দীনকে", "score": 0},
+            {"text": "C. রবীন্দ্রনাথ ঠাকুরকে", "score": 1},
+            {"text": "D. শরৎচন্দ্র চট্টোপাধ্যায়কে", "score": 0}
+        ],
+        "correct_answer": "C. রবীন্দ্রনাথ ঠাকুরকে",
+        "hint": "শ্চিন্তক মোতাহের হোসেন রবীন্দ্রনাথকে তপোবন-প্রেমিক বলেছেন।"
+    },
+    {
+        "question": "66. ‘আমি যখন জেলে যাই তখন ওর বয়স মাত্র কয়েক মাস’– এখানে ‘ওর’ বলতে শেখ মুজিবুর রহমান কাকে বুঝিয়েছেন?",
+        "answers": [
+            {"text": "A. শেখ নাসেরকে", "score": 0},
+            {"text": "B. শেখ কামালকে", "score": 1},
+            {"text": "C. শেখ হাসিনাকে", "score": 0},
+            {"text": "D. শেখ রেহানাকে", "score": 0}
+        ],
+        "correct_answer": "B. শেখ কামালকে",
+        "hint": "'ওর' বলতে শেখ কামালকে বুঝিয়েছেন।"
+    },
+    {
+        "question": "67. আখতারুজ্জামান ইলিয়াস জন্মগ্রহণ করেন কোথায়?",
+        "answers": [
+            {"text": "A. গাইবান্ধায়", "score": 1},
+            {"text": "B. বগুড়ায়", "score": 0},
+            {"text": "C. ঢাকায়", "score": 0},
+            {"text": "D. সিরাজগঞ্জে", "score": 0}
+        ],
+        "correct_answer": "A. গাইবান্ধায়",
+        "hint": "আখতারুজ্জামান ইলিয়াস গাইবান্ধায় জন্মগ্রহণ করেন।"
+    },
+    {
+        "question": "68. মাইকেল মধুসূদন দত্ত প্রবর্তিত ‘অমিত্রাক্ষর ছন্দ’ প্রকৃত পক্ষে বাংলা কোন ছন্দের নব-রূপায়ন?",
+        "answers": [
+            {"text": "A. স্বরবৃত্ত ছন্দ", "score": 0},
+            {"text": "B. অক্ষরবৃত্ত ছন্দ", "score": 1},
+            {"text": "C. মাত্রাবৃত্ত ছন্দ", "score": 0},
+            {"text": "D. গৈরিশ ছন্দ", "score": 0}
+        ],
+        "correct_answer": "B. অক্ষরবৃত্ত ছন্দ",
+        "hint": "অমিত্রাক্ষর ছন্দ অক্ষরবৃত্ত ছন্দের নবরূপ।"
+    },
+    {
+        "question": "69. ‘বুক তার বাংলাদেশের হৃদয়’ কাব্যগ্রন্থের রচয়িতা কে?",
+        "answers": [
+            {"text": "A. সৈয়দ শামসুল হক", "score": 0},
+            {"text": "B. শামসুর রাহমান", "score": 1},
+            {"text": "C. হাসান হাফিজুর রহমান", "score": 0},
+            {"text": "D. আহসান হাবিব", "score": 0}
+        ],
+        "correct_answer": "B. শামসুর রাহমান",
+        "hint": "শামসুর রাহমানের 'বুক তার বাংলাদেশের হৃদয়'।"
+    },
+    {
+        "question": "70. “দুর্দিনের দিনলিপি” স্মৃতিগ্রন্থটি কার লেখা?",
+        "answers": [
+            {"text": "A. আবুল ফজল", "score": 1},
+            {"text": "B. আবদুল কাদির", "score": 0},
+            {"text": "C. জাহানারা ইমাম", "score": 0},
+            {"text": "D. মুশতারি শফী", "score": 0}
+        ],
+        "correct_answer": "A. আবুল ফজল",
+        "hint": "আবুল ফজলের ‘দুর্দিনের দিনলিপি’ বইটি।"
+    },
+    {
+        "question": "71. বাংলাদেশ সদস্য নয় :",
+        "answers": [
+            {"text": "A. ILO", "score": 0},
+            {"text": "B. SAARC", "score": 0},
+            {"text": "C. NATO", "score": 1},
+            {"text": "D. BIMSTEC", "score": 0}
+        ],
+        "correct_answer": "C. NATO",
+        "hint": "বাংলাদেশ NATO এর সদস্য নয়।"
+    },
+    {
+        "question": "72. ফিফা বিশ্বকাপ ফুটবল কখন প্রথম অনুষ্ঠিত হয়?",
+        "answers": [
+            {"text": "A. ১৯২৯", "score": 0},
+            {"text": "B. ১৯৩০", "score": 1},
+            {"text": "C. ১৯৩১", "score": 0},
+            {"text": "D. ১৯৩২", "score": 0}
+        ],
+        "correct_answer": "B. ১৯৩০",
+        "hint": "ফিফা বিশ্বকাপ ১৯৩০ সালে শুরু হয়।"
+    },
+    {
+        "question": "73. কোন দেশে সমুদ্র বন্দর নাই?",
+        "answers": [
+            {"text": "A. মালদ্বীপ", "score": 0},
+            {"text": "B. নেপাল", "score": 1},
+            {"text": "C. গ্রীস", "score": 0},
+            {"text": "D. ভেনেজুয়েলা", "score": 0}
+        ],
+        "correct_answer": "B. নেপাল",
+        "hint": "নেপাল একটি ল্যান্ডলক দেশ; এর সমুদ্র বন্দর নেই।"
+    },
+    {
+        "question": "74. কোথায় ঐতিহাসিক ট্রয় নগর অবস্থিত?",
+        "answers": [
+            {"text": "A. ইটালী", "score": 0},
+            {"text": "B. গ্রীস", "score": 0},
+            {"text": "C. তুরস্ক", "score": 1},
+            {"text": "D. ফ্রান্স", "score": 0}
+        ],
+        "correct_answer": "C. তুরস্ক",
+        "hint": "ট্রয় নগরীর অবস্থান তুরস্কে।"
+    },
+    {
+        "question": "75. ক্ষুদ্রতম মহাদেশ:",
+        "answers": [
+            {"text": "A. অস্ট্রেলিয়া", "score": 1},
+            {"text": "B. ইউরোপ", "score": 0},
+            {"text": "C. আফ্রিকা", "score": 0},
+            {"text": "D. দক্ষিণ আমেরিকা", "score": 0}
+        ],
+        "correct_answer": "A. অস্ট্রেলিয়া",
+        "hint": "ক্ষুদ্রতম মহাদেশ অস্ট্রেলিয়া।"
+    },
+    {
+        "question": "76. কোথায় আন্তর্জাতিক ধান গবেষণা ইনস্টিটিউট অবস্থিত?",
+        "answers": [
+            {"text": "A. টোকিও", "score": 0},
+            {"text": "B. ম্যানিলা", "score": 1},
+            {"text": "C. ভারত", "score": 0},
+            {"text": "D. নেপাল", "score": 0}
+        ],
+        "correct_answer": "B. ম্যানিলা",
+        "hint": "IRRI এর সদর দপ্তর ম্যানিলায়।"
+    },
+    {
+        "question": "77. কোথায় ইউরোপীয় কেন্দ্রীয় ব্যাংক অবস্থিত?",
+        "answers": [
+            {"text": "A. লন্ডন", "score": 0},
+            {"text": "B. প্যারিস", "score": 0},
+            {"text": "C. ব্রাসেলস", "score": 0},
+            {"text": "D. ফ্রাঙ্কফুর্ট", "score": 1}
+        ],
+        "correct_answer": "D. ফ্রাঙ্কফুর্ট",
+        "hint": "ইউরোপীয় কেন্দ্রীয় ব্যাংকের সদর দপ্তর ফ্রাঙ্কফুর্টে।"
+    },
+    {
+        "question": "78. যুক্তরাষ্ট্রের ৪৫তম প্রেসিডেন্ট কে ছিলেন?",
+        "answers": [
+            {"text": "A. রিচার্ড নিক্সন", "score": 0},
+            {"text": "B. বিল ক্লিনটন", "score": 0},
+            {"text": "C. কেনেডি", "score": 0},
+            {"text": "D. ডনাল্ড ট্রাম্প", "score": 1}
+        ],
+        "correct_answer": "D. ডনাল্ড ট্রাম্প",
+        "hint": "যুক্তরাষ্ট্রের ৪৫তম প্রেসিডেন্ট ডনাল্ড ট্রাম্প।"
+    },
+    {
+        "question": "79. TIFA এর পূর্ণরূপ কী?",
+        "answers": [
+            {"text": "A. Trade for International Finance Agreement.", "score": 0},
+            {"text": "B. Trade and Investment Framework Agreement", "score": 1},
+            {"text": "C. Treaty for International Free Area", "score": 0},
+            {"text": "D. Trade and Investment form America", "score": 0}
+        ],
+        "correct_answer": "B. Trade and Investment Framework Agreement",
+        "hint": "TIFA এর পূর্ণরূপ Trade and Investment Framework Agreement।"
+    },
+    {
+        "question": "80. ভারত কর্তৃক সিকিম সংযুক্ত হয়-",
+        "answers": [
+            {"text": "A. ১৯৭০", "score": 0},
+            {"text": "B. ১৯৭২", "score": 0},
+            {"text": "C. ১৯৭৫", "score": 1},
+            {"text": "D. ১৯৭৭", "score": 0}
+        ],
+        "correct_answer": "C. ১৯৭৫",
+        "hint": "ভারত ১৯৭৫ সালে সিকিমকে রাজ্য হিসেবে ঘোষণা করে।"
+    },
+    {
+        "question": "81. ২০২২ সালে G-20 শীর্ষ বৈঠক কোথায় অনুষ্ঠিত হয়?",
+        "answers": [
+            {"text": "A. সিংগাপুর", "score": 0},
+            {"text": "B. জাকার্তা", "score": 0},
+            {"text": "C. ম্যানিলা", "score": 0},
+            {"text": "D. বালী", "score": 1}
+        ],
+        "correct_answer": "D. বালী",
+        "hint": "১৫-১৬ নভেম্বর, ২০২২ বালীতে G-20 বৈঠক অনুষ্ঠিত হয়।"
+    },
+    {
+        "question": "82. চীন-ভারত যুদ্ধ কত বছর সংঘটিত হয়?",
+        "answers": [
+            {"text": "A. ১৯৫৯", "score": 0},
+            {"text": "B. ১৯৬০", "score": 0},
+            {"text": "C. ১৯৬২", "score": 1},
+            {"text": "D. ১৯৬৩", "score": 0}
+        ],
+        "correct_answer": "C. ১৯৬২",
+        "hint": "২০ অক্টোবর-২১ নভেম্বর, ১৯৬২ সালের মধ্যে চীন-ভারত যুদ্ধ সংঘটিত হয়।"
+    },
+    {
+        "question": "83. পৃথিবীর গভীরতম স্থান:",
+        "answers": [
+            {"text": "A. ম্যারিয়ানা ট্রেন্চ", "score": 1},
+            {"text": "B. ডেড সী", "score": 0},
+            {"text": "C. বৈকাল হ্রদ", "score": 0},
+            {"text": "D. লোহিত সাগর", "score": 0}
+        ],
+        "correct_answer": "A. ম্যারিয়ানা ট্রেন্চ",
+        "hint": "ম্যারিয়ানা ট্রেন্চ পৃথিবীর গভীরতম স্থান।"
+    },
+    {
+        "question": "84. ‘বেল্ট অ্যান্ড রোড’ কার্যক্রম শুরু হয়:",
+        "answers": [
+            {"text": "A. ২০০০ সাল", "score": 0},
+            {"text": "B. ২০০১ সাল", "score": 0},
+            {"text": "C. ২০১৩ সাল", "score": 1},
+            {"text": "D. ২০১৬ সাল", "score": 0}
+        ],
+        "correct_answer": "C. ২০১৩ সাল",
+        "hint": "২০১৩ সালে চীন সরকার One Belt One Road প্রকল্পটি গ্রহণ করে।"
+    },
+    {
+        "question": "85. বান্দা আচেহ কোথায় অবস্থিত?",
+        "answers": [
+            {"text": "A. ইন্দোনেশিয়া", "score": 1},
+            {"text": "B. থাইল্যান্ড", "score": 0},
+            {"text": "C. ফিলিপাইন", "score": 0},
+            {"text": "D. কম্বোডিয়া", "score": 0}
+        ],
+        "correct_answer": "A. ইন্দোনেশিয়া",
+        "hint": "বান্দা আচেহ ইন্দোনেশিয়া প্রদেশের রাজধানী।"
+    },
+    {
+        "question": "86. ফেসবুকের সদর দফতর:",
+        "answers": [
+            {"text": "A. সিয়াটল", "score": 0},
+            {"text": "B. ক্যালিফোর্নিয়া", "score": 1},
+            {"text": "C. ওয়াশিংটন", "score": 0},
+            {"text": "D. নিউইয়র্ক", "score": 0}
+        ],
+        "correct_answer": "B. ক্যালিফোর্নিয়া",
+        "hint": "ফেসবুকের সদর দফতর মেনলো পার্ক, ক্যালিফোর্নিয়াতে অবস্থিত।"
+    },
+    {
+        "question": "87. ‘ভিক্টোরিয়া ডিজার্ট’ কোথায় অবস্থিত?",
+        "answers": [
+            {"text": "A. কানাডা", "score": 0},
+            {"text": "B. পশ্চিম আফ্রিকা", "score": 0},
+            {"text": "C. নর্থ আমেরিকা", "score": 0},
+            {"text": "D. অস্ট্রেলিয়া", "score": 1}
+        ],
+        "correct_answer": "D. অস্ট্রেলিয়া",
+        "hint": "Great Victoria Desert দক্ষিণ অস্ট্রেলিয়াতে অবস্থিত।"
+    },
+    {
+        "question": "88. কোনটি প্রাচীন সভ্যতা?",
+        "answers": [
+            {"text": "A. গ্রিস", "score": 0},
+            {"text": "B. মেসোপটেমিয়া", "score": 1},
+            {"text": "C. রোম", "score": 0},
+            {"text": "D. সিন্ধু", "score": 0}
+        ],
+        "correct_answer": "B. মেসোপটেমিয়া",
+        "hint": "মেসোপটেমিয়া হলো প্রাচীনতম সভ্যতা।"
+    },
+    {
+        "question": "89. তিব্বত একটি-",
+        "answers": [
+            {"text": "A. উপত্যকা", "score": 1},
+            {"text": "B. উপদ্বীপ", "score": 0},
+            {"text": "C. দ্বীপ", "score": 0},
+            {"text": "D. মরুভুমি", "score": 0}
+        ],
+        "correct_answer": "A. উপত্যকা",
+        "hint": "তিব্বত দুই পাহাড়ের মধ্যে অবস্থিত একটি উপত্যকা।"
+    },
+    {
+        "question": "90. ‘Elephant Pass’ অবস্থিত?",
+        "answers": [
+            {"text": "A. থাইল্যান্ড", "score": 0},
+            {"text": "B. দক্ষিণ আফ্রিকা", "score": 0},
+            {"text": "C. শ্রীলঙ্কা", "score": 1},
+            {"text": "D. মালয়শিয়া", "score": 0}
+        ],
+        "correct_answer": "C. শ্রীলঙ্কা",
+        "hint": "Elephant Pass শ্রীলঙ্কার দক্ষিণ প্রদেশে অবস্থিত।"
+    },
+    {
+        "question": "91. কোন দেশটি ইউরোপীয় ইউনিয়নের সদস্য নয়?",
+        "answers": [
+            {"text": "A. সাইপ্রাস", "score": 0},
+            {"text": "B. আলজেরিয়া", "score": 1},
+            {"text": "C. ইস্টোনিয়া", "score": 0},
+            {"text": "D. মাল্টা", "score": 0}
+        ],
+        "correct_answer": "B. আলজেরিয়া",
+        "hint": "বাংলাদেশ ILO, SAARC, BIMSTEC এর সদস্য কিন্তু NATO এর সদস্য নয়।"
+    },
+    {
+        "question": "92. কোন নদীটির উৎপত্তিস্থান বাংলাদেশে?",
+        "answers": [
+            {"text": "A. কর্ণফুলি", "score": 0},
+            {"text": "B. নাফ", "score": 0},
+            {"text": "C. মেঘনা", "score": 0},
+            {"text": "D. হালদা", "score": 1}
+        ],
+        "correct_answer": "D. হালদা",
+        "hint": "হালদার উৎপত্তিস্থল পার্বত্য চট্টগ্রামে।"
+    },
+    {
+        "question": "93. পানিতে দ্রবীভূত অক্সিজেন কোথায় অবস্থান করে?",
+        "answers": [
+            {"text": "A. পানির উপরিভাগে", "score": 1},
+            {"text": "B. পানির মধ্যভাগে", "score": 0},
+            {"text": "C. পানির আন্তঃআণবিক স্থানে", "score": 0},
+            {"text": "D. পানির তলদেশে", "score": 0}
+        ],
+        "correct_answer": "A. পানির উপরিভাগে",
+        "hint": "পানির উপরিভাগে দ্রবীভূত অক্সিজেন থাকে।"
+    },
+    {
+        "question": "94. গ্রীন হাউস গ্যাসের কোন গ্যাস বর্তমানে বৃদ্ধি পাচ্ছে না?",
+        "answers": [
+            {"text": "A. কার্বন ডাইঅক্সাইড", "score": 0},
+            {"text": "B. মিথেন", "score": 0},
+            {"text": "C. সিএফসি", "score": 1},
+            {"text": "D. নাইট্রাস অক্সাইড", "score": 0}
+        ],
+        "correct_answer": "C. সিএফসি",
+        "hint": "CFC এর উৎপাদন হ্রাস পেয়েছে।"
+    },
+    {
+        "question": "95. বাংলাদেশের সিডর কখন আঘাত হানে?",
+        "answers": [
+            {"text": "A. ১৫ নভেম্বর ২০০৭", "score": 1},
+            {"text": "B. ১৬ নভেম্বর ২০০৭", "score": 0},
+            {"text": "C. ১৭ নভেম্বর ২০০৭", "score": 0},
+            {"text": "D. ১৮ নভেম্বর ২০০৭", "score": 0}
+        ],
+        "correct_answer": "A. ১৫ নভেম্বর ২০০৭",
+        "hint": "সাইক্লোন সিডর ১৫ নভেম্বর, ২০০৭ সালে আঘাত হানে।"
+    },
+    {
+        "question": "96. বাংলাদেশের অর্থনৈতিক সমুদ্রসীমা কত নটিক্যাল মাইল?",
+        "answers": [
+            {"text": "A. ১৫০ নটিক্যাল মাইল", "score": 0},
+            {"text": "B. ২০০ নটিক্যাল মাইল", "score": 1},
+            {"text": "C. ২৫০ নটিক্যাল মাইল", "score": 0},
+            {"text": "D. ৩০০ নটিক্যাল মাইল", "score": 0}
+        ],
+        "correct_answer": "B. ২০০ নটিক্যাল মাইল",
+        "hint": "বাংলাদেশের অর্থনৈতিক সমুদ্রসীমা ২০০ নটিক্যাল মাইল।"
+    },
+    {
+        "question": "97. নিচের কোনটি বাংলাদেশের সর্ববৃহৎ গ্যাস ক্ষেত্র?",
+        "answers": [
+            {"text": "A. বাখরাবাদ", "score": 0},
+            {"text": "B. হরিপুর", "score": 0},
+            {"text": "C. তিতাস", "score": 1},
+            {"text": "D. হবিগঞ্জ", "score": 0}
+        ],
+        "correct_answer": "C. তিতাস",
+        "hint": "তিতাস হচ্ছে বাংলাদেশের সবচেয়ে বড় প্রাকৃতিক গ্যাসক্ষেত্র।"
+    },
+    {
+        "question": "98. ভূমিকম্প সংঘটন বিন্দুর সরাসরি উপরে ভূপৃষ্ঠস্থ বিন্দুকে বলে –",
+        "answers": [
+            {"text": "A. ফোকাস", "score": 0},
+            {"text": "B. এপিসেন্টার", "score": 1},
+            {"text": "C. ফ্রাকচার", "score": 0},
+            {"text": "D. ফল্ট", "score": 0}
+        ],
+        "correct_answer": "B. এপিসেন্টার",
+        "hint": "এপিসেন্টার হচ্ছে ভূমিকম্পের উৎপত্তিস্থলের উপরে ভূপৃষ্ঠের বিন্দু।"
+    },
+    {
+        "question": "99. বিশ্বব্যাপী নিচের কোন অর্থনৈতিক খাত থেকে সবচাইতে বেশি গ্রিন হাউস গ্যাস নির্গত হয়?",
+        "answers": [
+            {"text": "A. পরিবহন", "score": 0},
+            {"text": "B. বিদ্যুৎ ও তাপ উৎপাদন", "score": 1},
+            {"text": "C. ভবন নির্মাণ", "score": 0},
+            {"text": "D. শিল্প", "score": 0}
+        ],
+        "correct_answer": "B. বিদ্যুৎ ও তাপ উৎপাদন",
+        "hint": "বিদ্যুৎ ও তাপ উৎপাদনে সবচেয়ে বেশি গ্রিন হাউস গ্যাস নির্গত হয়।"
+    },
+    {
+        "question": "100. উত্তর গোলার্ধে ক্রান্তীয় ঘূর্ণিঝড়ের বায়ু প্রবাহিত হয়-",
+        "answers": [
+            {"text": "A. ঘড়ির কাটার দিকে", "score": 0},
+            {"text": "B. ঘড়ির কাটার বিপরীতে", "score": 1},
+            {"text": "C. সোজা", "score": 0},
+            {"text": "D. কোনটাই সঠিক নয়", "score": 0}
+        ],
+        "correct_answer": "B. ঘড়ির কাটার বিপরীতে",
+        "hint": "উত্তর গোলার্ধে বায়ু ঘড়ির কাটার বিপরীত দিকে প্রবাহিত হয়।"
+    }
+,
+
+    {
+        "question": "101. এবং রাশিদ্বয়ের ল.সা.গু. এবং গ.সা.গু. এর গুণফল কত?",
+        "answers": [
+            {"text": "A.", "score": 0},
+            {"text": "B.", "score": 0},
+            {"text": "C.", "score": 0},
+            {"text": "D.", "score": 0}
+        ],
+        "correct_answer": "প্রশ্নটির উত্তর প্রয়োজন।",
+        "hint": "উত্তরের জন্য তথ্য সরবরাহ করুন।"
+    },
+    {
+        "question": "102. যদি ∶ ∶ এবং ∶ ∶ হয়, তবে ∶ ∶",
+        "answers": [
+            {"text": "A. 6 : 9 : 14", "score": 0},
+            {"text": "B. 10 : 15 : 21", "score": 1},
+            {"text": "C. 2 : 5 : 7", "score": 0},
+            {"text": "D. 3 : 5 : 7", "score": 0}
+        ],
+        "correct_answer": "B. 10 : 15 : 21",
+        "hint": "তথ্য ব্যবহার করুন সম্পর্ক খুঁজে বের করার জন্য।"
+    },
+    {
+        "question": "103. জাহিদ সাহেবের বেতন 10% কমানোর পর হ্রাসকৃত বেতন 10% বাড়ানো হলে তার কতটুকু ক্ষতি হল?",
+        "answers": [
+            {"text": "A. 0%", "score": 0},
+            {"text": "B. 1%", "score": 1},
+            {"text": "C. 5%", "score": 0},
+            {"text": "D. 10%", "score": 0}
+        ],
+        "correct_answer": "B. 1%",
+        "hint": "প্রাপ্ত নতুন বেতন এবং প্রাথমিক বেতনের পার্থক্য গণনা করুন।"
+    },
+    {
+        "question": "104. সমীকরণে ও এর মান কত হলে সমীকরণটি অভেদ হবে?",
+        "answers": [
+            {"text": "A. 3, 10", "score": 1},
+            {"text": "B. 10, 15", "score": 0},
+            {"text": "C. 15, 25", "score": 0},
+            {"text": "D. 10, 25", "score": 0}
+        ],
+        "correct_answer": "A. 3, 10",
+        "hint": "অভেদ সমীকরণের জন্য সমাংশ সন্ধান করুন।"
+    },
+    {
+        "question": "105. নিচের কোনটি সরলরেখার সমীকরণ?",
+        "answers": [
+            {"text": "A. =", "score": 0},
+            {"text": "B. ", "score": 0},
+            {"text": "C. =", "score": 0},
+            {"text": "D. =", "score": 0}
+        ],
+        "correct_answer": "উত্তর নির্ধারণ করার জন্য প্রতিবেদন দরকার।",
+        "hint": "সরলরেখার সমীকরণের সঠিক সূত্র খুঁজুন।"
+    },
+    {
+        "question": "106. এবং হলে এর মান কত?",
+        "answers": [
+            {"text": "A. 8", "score": 0},
+            {"text": "B. 17", "score": 1},
+            {"text": "C. 19", "score": 0},
+            {"text": "D. 34", "score": 0}
+        ],
+        "correct_answer": "B. 17",
+        "hint": "গণনার সঠিক কাজ করুন।"
+    },
+    {
+        "question": "107. যদি হয়, তবে-",
+        "answers": [
+            {"text": "A.", "score": 0},
+            {"text": "B.", "score": 0},
+            {"text": "C.", "score": 0},
+            {"text": "D.", "score": 0}
+        ],
+        "correct_answer": "এটি নির্ভর করে বিষয়বস্তুতে।",
+        "hint": "তথ্য প্রদানের জন্য অপেক্ষা করুন।"
+    },
+    {
+        "question": "108. হলে এর মান কত?",
+        "answers": [
+            {"text": "A. 2", "score": 0},
+            {"text": "B. 3", "score": 0},
+            {"text": "C. 4", "score": 1},
+            {"text": "D. 6", "score": 0}
+        ],
+        "correct_answer": "C. 4",
+        "hint": "নির্ধারিত মান বের করার জন্য।"
+    },
+    {
+        "question": "109. ,-….. ধারাটির পঞ্চম পদ কত?",
+        "answers": [
+            {"text": "A.", "score": 0},
+            {"text": "B. 9", "score": 1},
+            {"text": "C. ", "score": 0},
+            {"text": "D.", "score": 0}
+        ],
+        "correct_answer": "B. 9",
+        "hint": "ধারাকে বিশ্লেষণ করুন।"
+    },
+    {
+        "question": "110. যদি এবং হয়, ",
+        "answers": [
+            {"text": "A.", "score": 0},
+            {"text": "B.", "score": 0},
+            {"text": "C.", "score": 0},
+            {"text": "D.", "score": 0}
+        ],
+        "correct_answer": "অতিরিক্ত তথ্য প্রয়োজন।",
+        "hint": "তথ্য সরবরাহ করুন।"
+    },
+    {
+        "question": "111. একটি বৃত্তচাপ কেন্দ্রে কোণ উৎপন্ন করে। বৃত্তের ব্যাস হলে বৃত্তচাপের দৈর্ঘ্য কত?",
+        "answers": [
+            {"text": "A.", "score": 0},
+            {"text": "B.", "score": 0},
+            {"text": "C.", "score": 0},
+            {"text": "D.", "score": 0}
+        ],
+        "correct_answer": "তথ্য প্রয়োজন।",
+        "hint": "বৃত্তের ব্যাসের সূত্র প্রয়োগ করুন।"
+    },
+    {
+        "question": "112. একটি ত্রিভুজের বাহুগুলোর অনুপাত হলে এর বৃহত্তম কোণটির মান কত?",
+        "answers": [
+            {"text": "A.", "score": 0},
+            {"text": "B.", "score": 0},
+            {"text": "C.", "score": 0},
+            {"text": "D.", "score": 0}
+        ],
+        "correct_answer": "তথ্য লাগবে।",
+        "hint": "ত্রিভুজের কোণ নির্ধারণের প্রক্রিয়া করুন।"
+    },
+    {
+        "question": "113. 29 থেকে 38 পর্যন্ত সংখ্যা হতে যে কোনো একটিকে ইচ্ছামত বেছে নিলে সেটি মৌলিক হওয়ার সম্ভাবনা কত?",
+        "answers": [
+            {"text": "A.", "score": 0},
+            {"text": "B.", "score": 0},
+            {"text": "C.", "score": 1},
+            {"text": "D.", "score": 0}
+        ],
+        "correct_answer": "C.",
+        "hint": "মৌলিক সংখ্যা বের করার সীমা বিশ্লেষণ করুন।"
+    },
+    {
+        "question": "114. 0, 1, 2, 3, 4 অংকগুলি দ্বারা কতগুলি পাঁচ অংকের অর্থপূর্ণ সংখ্যা গঠন করা যাবে?",
+        "answers": [
+            {"text": "A. 96", "score": 0},
+            {"text": "B. 120", "score": 1},
+            {"text": "C. 24", "score": 0},
+            {"text": "D. 144", "score": 0}
+        ],
+        "correct_answer": "B. 120",
+        "hint": "ছবি তৈরি করার জন্য সংখ্যার উপাদান সম্পর্কে বিশ্লেষণ করুন।"
+    },
+    {
+        "question": "115. হলে, ",
+        "answers": [
+            {"text": "A.", "score": 0},
+            {"text": "B.", "score": 0},
+            {"text": "C.", "score": 0},
+            {"text": "D.", "score": 0}
+        ],
+        "correct_answer": "তথ্য চাই।",
+        "hint": "যেন তথ্য প্রবাহিত করা যায়।"
+    },
+    {
+        "question": "116. কোন সংখ্যাটি পরে আসবে? ৮ ৪ ২ ১ ১ ২ ১ ৪",
+        "answers": [
+            {"text": "A. ১ ৮", "score": 0},
+            {"text": "B. ১ ৪", "score": 0},
+            {"text": "C. ১ ৫", "score": 1},
+            {"text": "D. ১ ৬", "score": 0}
+        ],
+        "correct_answer": "C. ১ ৫",
+        "hint": "শ্রেণি অনুসারে সংখ্যার ভিত্তি বিশ্লেষণ করুন।"
+    },
+    {
+        "question": "117. কাগজের প্রতি পাতা বিক্রি হয় ২১ পয়সায়। চার পাতা কত পয়সায় বিক্রি হবে?",
+        "answers": [
+            {"text": "A. ৪ পয়সা", "score": 0},
+            {"text": "B. ৯৪ পয়সা", "score": 1},
+            {"text": "C. ৮ পয়সা", "score": 0},
+            {"text": "D. ৮৪ পয়সা", "score": 0}
+        ],
+        "correct_answer": "B. ৯৪ পয়সা",
+        "hint": "কাগজের পরিমাণ গুনুন।"
+    },
+    {
+        "question": "118. মনে কর প্রথম দুটি উক্তি সত্য। তবে শেষের উক্তিটি-",
+        "answers": [
+            {"text": "A. সত্য", "score": 0},
+            {"text": "B. মিথ্যা", "score": 1},
+            {"text": "C. অনিশ্চিত", "score": 0},
+            {"text": "D. আংশিক সত্য", "score": 0}
+        ],
+        "correct_answer": "B. মিথ্যা",
+        "hint": "তথ্য প্রমাণ করুন।"
+    },
+    {
+        "question": "119. কোন সংখ্যাটি নিম্নের শ্রেণিতে সবচাইতে স্বল্প পরিমাণ উপস্থাপন করে?",
+        "answers": [
+            {"text": "A. ৭", "score": 0},
+            {"text": "B. ৮", "score": 0},
+            {"text": "C. .৩৩", "score": 1},
+            {"text": "D. .৩১", "score": 0}
+        ],
+        "correct_answer": "C. .৩৩",
+        "hint": "পর্ণ বিশ্লেষণ করুন।"
+    },
+    {
+        "question": "120. যখন প্রতি ফুট দড়ি ১০ টাকায় বিক্রি হয়, তখন ৬০ টাকায় তুমি কত ফুট দড়ি ক্রয় করতে পারবে?",
+        "answers": [
+            {"text": "A. ৮ ফুট", "score": 0},
+            {"text": "B. ৭ ফুট", "score": 0},
+            {"text": "C. ৬ ফুট", "score": 0},
+            {"text": "D. ১০ ফুট", "score": 1}
+        ],
+        "correct_answer": "D. ১০ ফুট",
+        "hint": "মূল্যায়ন প্রয়োগ করুন।"
+    },
+    {
+        "question": "121. কোনটি ভারসাম্যপূর্ণ অবস্থা?",
+        "answers": [
+            {"text": "A.", "score": 0},
+            {"text": "B.", "score": 0},
+            {"text": "C.", "score": 0},
+            {"text": "D.", "score": 0}
+        ],
+        "correct_answer": "বৈশিষ্ট্য অনুসারে চিহ্নিত করুন।",
+        "hint": "ভারসাম্য নির্ধারণ করুন।"
+    },
+    {
+        "question": "122. নিম্নলিখিত সংখ্যা শ্রেণির সর্বশেষ সংখ্যার পরের সংখ্যাটি কত হবে? ১ ২ ৪ ৭ ১১ ?",
+        "answers": [
+            {"text": "A. ১৪", "score": 1},
+            {"text": "B. ১৫", "score": 0},
+            {"text": "C. ১৬", "score": 0},
+            {"text": "D. ১৮", "score": 0}
+        ],
+        "correct_answer": "A. ১৪",
+        "hint": "ধারাবাহিকতা চিহ্নিত করুন।"
+    },
+    {
+        "question": "123. ",
+        "answers": [
+            {"text": "A. ১", "score": 0},
+            {"text": "B. ৩", "score": 0},
+            {"text": "C. ২", "score": 0},
+            {"text": "D. ৪", "score": 1}
+        ],
+        "correct_answer": "D. ৪",
+        "hint": "সংযোগ পরীক্ষা করুন।"
+    },
+    {
+        "question": "124. নোবেল বিজয়ী নারী কয়জন?",
+        "answers": [
+            {"text": "A. ৫০ জন", "score": 0},
+            {"text": "B. ৫৭ জন", "score": 1},
+            {"text": "C. ০৩ জন", "score": 0},
+            {"text": "D. ০৭ জন", "score": 0}
+        ],
+        "correct_answer": "B. ৫৭ জন",
+        "hint": "২০১২ অবধি মোট নারী নোবেল বিজয়ীর সংখ্যা।"
+    },
+    {
+        "question": "125. যদি চ ৪ ২ হয় তবে ট = ?",
+        "answers": [
+            {"text": "A. ১২০", "score": 0},
+            {"text": "B. ৯২", "score": 0},
+            {"text": "C. ১১৫", "score": 1},
+            {"text": "D. ১১০", "score": 0}
+        ],
+        "correct_answer": "C. ১১৫",
+        "hint": "চাঙ্কস বিশ্লেষণে প্রক্রিয়া করুন।"
+    },
+    {
+        "question": "126. ROSE এর আয়নায় প্রতিবিম্ব কোনটি হবে?",
+        "answers": [
+            {"text": "A.", "score": 0},
+            {"text": "B.", "score": 0},
+            {"text": "C.", "score": 0},
+            {"text": "D. কোনোটিই নয়", "score": 1}
+        ],
+        "correct_answer": "D. কোনোটিই নয়",
+        "hint": "ছবির আকার বিশ্লেষণ করুন।"
+    },
+    {
+        "question": "127. ",
+        "answers": [
+            {"text": "A.", "score": 0},
+            {"text": "B.", "score": 0},
+            {"text": "C.", "score": 0},
+            {"text": "D.", "score": 0}
+        ],
+        "correct_answer": "তথ্য চাই।",
+        "hint": "তথ্য সরবরাহ করুন।"
+    },
+    {
+        "question": "128. একটি ট্রেন ১ ৫ সেকেন্ডে চলে ২ ০ ফুট। একই দ্রুততায় ট্রেনটি ৩ সেকেন্ডে কত ফুট চলবে?",
+        "answers": [
+            {"text": "A. ১০০ ফুট", "score": 0},
+            {"text": "B. ১১০ ফুট", "score": 1},
+            {"text": "C. ৩০০ ফুট", "score": 0},
+            {"text": "D. লোকসান হবে", "score": 0}
+        ],
+        "correct_answer": "B. ১১০ ফুট",
+        "hint": "গতি অনুযায়ী গণনা করুন।"
+    },
+    {
+        "question": "129. যাদের বুদ্ধ্যঙ্ক ১৪০ বা তার ঊর্ধ্বে তাদের বলা হয়-",
+        "answers": [
+            {"text": "A. অতিশয় প্রতিভাশালী", "score": 1},
+            {"text": "B. প্রতিভাশালী", "score": 0},
+            {"text": "C. সাধারণ", "score": 0},
+            {"text": "D. মানসিক প্রতিবন্ধী", "score": 0}
+        ],
+        "correct_answer": "A. অতিশয় প্রতিভাশালী",
+        "hint": "বুদ্ধিমত্তা অনুযায়ী গুণিতক নির্ধারণ করুন।"
+    },
+    {
+        "question": "130. RESENT, RESERVE- এই শব্দগুলো কী?",
+        "answers": [
+            {"text": "A. একই অর্থে", "score": 0},
+            {"text": "B. বিপরীতধর্মী অর্থ", "score": 0},
+            {"text": "C. না এক না ভিন্ন অর্থ", "score": 1},
+            {"text": "D. কোনোটিই নয়", "score": 0}
+        ],
+        "correct_answer": "C. না এক না ভিন্ন অর্থ",
+        "hint": "শব্দ বিশ্লেষণ করুন।"
+    },
+    {
+        "question": "131. ভালো-মন্দ কোন ধরনের মূল্যবোধ?",
+        "answers": [
+            {"text": "A. নৈতিক", "score": 1},
+            {"text": "B. অর্থনৈতিক", "score": 0},
+            {"text": "C. রাজনৈতিক", "score": 0},
+            {"text": "D. সামাজিক", "score": 0}
+        ],
+        "correct_answer": "A. নৈতিক",
+        "hint": "নৈতিক বোধের উদ্ভব বুঝুন।"
+    },
+    {
+        "question": "132. সুশাসনের পূর্বশর্ত কী?",
+        "answers": [
+            {"text": "A. নিরপেক্ষ আইন ব্যবস্থা", "score": 1},
+            {"text": "B. নিরপেক্ষ বিচার ব্যবস্থা", "score": 0},
+            {"text": "C. প্রশাসনের নিরপেক্ষতা", "score": 0},
+            {"text": "D. মত প্রকাশের স্বাধীনতা", "score": 0}
+        ],
+        "correct_answer": "A. নিরপেক্ষ আইন ব্যবস্থা",
+        "hint": "সুশাসন অর্জনের জন্য প্রয়োজনীয় শর্ত চিহ্নিত করুন।"
+    },
+    {
+        "question": "133. ‘Utilitarianism’ গ্রন্হের লেখক কে?",
+        "answers": [
+            {"text": "A. জন স্টুয়ার্ট মিল", "score": 1},
+            {"text": "B. ইমানুয়েল কান্ট", "score": 0},
+            {"text": "C. বার্ট্রান্ড রাসেল", "score": 0},
+            {"text": "D. জেরেমি বেন্হাম", "score": 0}
+        ],
+        "correct_answer": "A. জন স্টুয়ার্ট মিল",
+        "hint": "Utilitarianism গ্রন্থের লেখক জন স্টুয়ার্ট মিল।"
+    },
+    {
+        "question": "134. সুশাসন প্রত্যয়টির উদ্ভাবক কে?",
+        "answers": [
+            {"text": "A. ইউরোপীয় ইউনিয়ন", "score": 0},
+            {"text": "B. আই. এল. ও", "score": 0},
+            {"text": "C. বিশ্বব্যাংক", "score": 1},
+            {"text": "D. জাতিসংঘ", "score": 0}
+        ],
+        "correct_answer": "C. বিশ্বব্যাংক",
+        "hint": "বিশ্বব্যাংক সুশাসনের ধারণাটি উদ্ভাবন করে।"
+    },
+    {
+        "question": "135. কোন দিকে সুশাসনের জন্য গুরুত্ব দেওয়া হয়েছে?",
+        "answers": [
+            {"text": "A. সামাজিক দিক", "score": 0},
+            {"text": "B. অর্থনৈতিক দিক", "score": 1},
+            {"text": "C. মূল্যবোধের দিক", "score": 0},
+            {"text": "D. গণতান্ত্রিক দিক", "score": 0}
+        ],
+        "correct_answer": "B. অর্থনৈতিক দিক",
+        "hint": "মুল্যবোধে সুশাসনে গুরুত্ব দিন।"
+    },
+    {
+        "question": "136. ‘জ্ঞান হয়ে পুণ্য’- এই উক্তিটি কার?",
+        "answers": [
+            {"text": "A. থেলিস", "score": 0},
+            {"text": "B. সচেতনতা প্রদানকারী", "score": 0},
+            {"text": "C. এ্যারিস্টটল", "score": 0},
+            {"text": "D. প্লেটো", "score": 1}
+        ],
+        "correct_answer": "D. প্লেটো",
+        "hint": "প্লেটোর নীতি নির্দেশক উক্তি।"
+    },
+    {
+        "question": "137. নৈতিকতা ও সততা দ্বারা প্রভাবিত আচরণগত উৎকর্ষকে কী বলে?",
+        "answers": [
+            {"text": "A. শুদ্ধাচার", "score": 1},
+            {"text": "B. মূল্যবোধ", "score": 0},
+            {"text": "C. মানবিকতা", "score": 0},
+            {"text": "D. সফলতা", "score": 0}
+        ],
+        "correct_answer": "A. শুদ্ধাচার",
+        "hint": "শুদ্ধাচার মানে হল নৈতিকতা অর্জন করা।"
+    },
+    {
+        "question": "138. মূল্যবোধের উৎস কোনটি?",
+        "answers": [
+            {"text": "A. ধর্ম", "score": 0},
+            {"text": "B. সমাজ", "score": 0},
+            {"text": "C. নৈতিক চেতনা", "score": 1},
+            {"text": "D. রাষ্ট্র", "score": 0}
+        ],
+        "correct_answer": "C. নৈতিক চেতনা",
+        "hint": "সত্য ও ভিত্তির মূল উৎস নির্ধারণ করুন।"
+    },
+    {
+        "question": "139. ‘শর্তহীন আদেশ’ ধারণাটির প্রবর্তক কে?",
+        "answers": [
+            {"text": "A. অ্যারিস্টটল", "score": 0},
+            {"text": "B. বার্ট্রান্ড রাসেল", "score": 0},
+            {"text": "C. হার্বাট স্পেন্সার", "score": 0},
+            {"text": "D. ইমানুয়েল কান্ট", "score": 1}
+        ],
+        "correct_answer": "D. ইমানুয়েল কান্ট",
+        "hint": "কান্টের নৈতিক নিয়মের ভিত্তি জেনে নিন।"
+    },
+    {
+        "question": "140. সুশাসনের মূলভিত্তি-",
+        "answers": [
+            {"text": "A. গণতন্ত্র", "score": 1},
+            {"text": "B. আমলাতন্ত্র", "score": 0},
+            {"text": "C. আইনের শাসন", "score": 0},
+            {"text": "D. মূল্যবোধ", "score": 0}
+        ],
+        "correct_answer": "A. গণতন্ত্র",
+        "hint": "সুশাসনের প্রকৃতি স্পষ্ট করুন।"
+    },
+    {
+        "question": "141. নিচের কোনটি চার্লসের সূত্র?",
+        "answers": [
+            {"text": "A.", "score": 0},
+            {"text": "B.", "score": 0},
+            {"text": "C.", "score": 0},
+            {"text": "D.", "score": 0}
+        ],
+        "correct_answer": "তথ্য প্রয়োজন।",
+        "hint": "চার্লসের সূত্রটি নির্ধারণ করুন।"
+    },
+    {
+        "question": "142. সোডিয়াম ক্লোরাইড কেলাসের গঠন কীরূপ?",
+        "answers": [
+            {"text": "A. পৃষ্ঠতল কেন্দ্রিক ঘনকাকৃতির", "score": 1},
+            {"text": "B. দেহ-কেন্দ্রিক ঘনকাকার", "score": 0},
+            {"text": "C. সংঘবদ্ধ-ঘনকাকার", "score": 0},
+            {"text": "D. সংঘবদ্ধ ষড়কৌণিক আকার", "score": 0}
+        ],
+        "correct_answer": "A. পৃষ্ঠতল কেন্দ্রিক ঘনকাকৃতির",
+        "hint": "সোডিয়াম ক্লোরাইডের গঠন নির্ধারণ করুন।"
+    },
+    {
+        "question": "143. নিচের কোনটি প্রাইমারি দূষক?",
+        "answers": [
+            {"text": "A.", "score": 0},
+            {"text": "B.", "score": 0},
+            {"text": "C.", "score": 0},
+            {"text": "D.", "score": 0}
+        ],
+        "correct_answer": "তথ্য প্রয়োজন।",
+        "hint": "দূষকের শ্রেণিকে আড়াল করুন।"
+    },
+    {
+        "question": "144. HPLC এর পূর্ণরূপ কী?",
+        "answers": [
+            {"text": "A. High pressure liquid chromatography", "score": 0},
+            {"text": "B. High power liquid chromatography", "score": 0},
+            {"text": "C. High performance liquid chromatography", "score": 1},
+            {"text": "D. High plant liquid chromatography", "score": 0}
+        ],
+        "correct_answer": "C. High performance liquid chromatography",
+        "hint": "HPLC সংক্রান্ত তথ্যের ওপর নির্ভর করুন।"
+    },
+    {
+        "question": "145. নিচের কোনটি সিরামিক উপাদানের প্রধান কাঁচামাল?",
+        "answers": [
+            {"text": "A.", "score": 0},
+            {"text": "B.", "score": 0},
+            {"text": "C.", "score": 0},
+            {"text": "D.", "score": 0}
+        ],
+        "correct_answer": "তথ্য প্রয়োজন।",
+        "hint": "সিরামিকের কাঁচামাল চিহ্নিত করুন।"
+    },
+    {
+        "question": "146. সানস্ক্রিন লোশন তৈরিতে কোন ন্যানো পার্টিকেল ব্যবহৃত হয়?",
+        "answers": [
+            {"text": "A.", "score": 0},
+            {"text": "B.", "score": 0},
+            {"text": "C.", "score": 1},
+            {"text": "D.", "score": 0}
+        ],
+        "correct_answer": "C.",
+        "hint": "ন্যানো পার্টিকেল সংক্রান্ত তথ্য উদ্দীপিত করুন।"
+    },
+    {
+        "question": "147. মানুষের দেহকোষে ক্রোমোজমের সংখ্যা-",
+        "answers": [
+            {"text": "A. ৪৪টি", "score": 0},
+            {"text": "B. ৪২টি", "score": 0},
+            {"text": "C. ৪৬টি", "score": 1},
+            {"text": "D. ৪৮টি", "score": 0}
+        ],
+        "correct_answer": "C. ৪৬টি",
+        "hint": "মানবদেহ কোষের বরাবর গঠনশীল চিত্র নির্ধারণ করুন।"
+    },
+    {
+        "question": "148. সুষম খাদ্যে শর্করা, আমিষ ও চর্বিজাতীয় খাদ্যের অনুপাত?",
+        "answers": [
+            {"text": "A. ৪ : ১ : ১", "score": 1},
+            {"text": "B. ৪ : ২ : ২", "score": 0},
+            {"text": "C. ৪ : ২ : ৩", "score": 0},
+            {"text": "D. ৪ : ৩ : ২", "score": 0}
+        ],
+        "correct_answer": "A. ৪ : ১ : ১",
+        "hint": "সুষম খাদ্যের উপাদান গঠন বিশ্লেষণ করুন।"
+    },
+    {
+        "question": "149. মানুষের শরীরের রক্তের গ্রুপ কয়টি?",
+        "answers": [
+            {"text": "A. চারটি", "score": 1},
+            {"text": "B. পাঁচটি", "score": 0},
+            {"text": "C. তিনটি", "score": 0},
+            {"text": "D. দুইটি", "score": 0}
+        ],
+        "correct_answer": "A. চারটি",
+        "hint": "রক্তের গ্রুপ শনাক্ত করুন।"
+    },
+    {
+        "question": "150. আর্সেনিকের পারমাণবিক সংখ্যা কত?",
+        "answers": [
+            {"text": "A. ৩৩", "score": 1},
+            {"text": "B. ৩৮", "score": 0},
+            {"text": "C. ৩৬", "score": 0},
+            {"text": "D. ৪৪", "score": 0}
+        ],
+        "correct_answer": "A. ৩৩",
+        "hint": "পারমাণবিক সংখ্যা নির্ধারণ করুন।"
+    },
+    {
+        "question": "151. উড়োজাহাজের গতি নির্ণায়ক যন্ত্রের নাম কী?",
+        "answers": [
+            {"text": "A. ট্যাকোমিটার", "score": 1},
+            {"text": "B. অ্যালটিমিটার", "score": 0},
+            {"text": "C. ওডোমিটার", "score": 0},
+            {"text": "D. অডিওমিটার", "score": 0}
+        ],
+        "correct_answer": "A. ট্যাকোমিটার",
+        "hint": "উড়োজাহাজের গতি নির্ণয়ের সুবিধা খুঁজে নিন।"
+    },
+    {
+        "question": "152. টেলিভিশনে যে তরঙ্গ ব্যবহৃত হয় –",
+        "answers": [
+            {"text": "A. রেডিও ওয়েভ", "score": 1},
+            {"text": "B. অবলোহিত রশ্মি", "score": 0},
+            {"text": "C. আলট্রা ভায়োলেট", "score": 0},
+            {"text": "D. দৃশ্যমান রশ্মি", "score": 0}
+        ],
+        "correct_answer": "A. রেডিও ওয়েভ",
+        "hint": "টেলিভিশনে ব্যবহৃত তরঙ্গ নির্ধারণ করুন।"
+    },
+    {
+        "question": "153. অণুজীব বিজ্ঞানের জনক কে?",
+        "answers": [
+            {"text": "A. রবার্ট কক্‌", "score": 0},
+            {"text": "B. লুইস পাস্তুর", "score": 0},
+            {"text": "C. এডওয়ার্ড জেনার", "score": 0},
+            {"text": "D. এন্টনি ভন লিউয়েনহুক", "score": 1}
+        ],
+        "correct_answer": "D. এন্টনি ভন লিউয়েনহুক",
+        "hint": "এন্টনি ভন লিউয়েনহুককে অণুজীব বিজ্ঞানের জনক বলা হয়।"
+    },
+    {
+        "question": "154. বাতাস একটি -",
+        "answers": [
+            {"text": "A. ডায়াচুম্বকীয় পদার্থ", "score": 0},
+            {"text": "B. প্যারাচুম্বকীয় পদার্থ", "score": 1},
+            {"text": "C. ফেরোচুম্বকীয় পদার্থ", "score": 0},
+            {"text": "D. অ্যান্টিফেরোচুম্বকীয় পদার্থ", "score": 0}
+        ],
+        "correct_answer": "B. প্যারাচুম্বকীয় পদার্থ",
+        "hint": "বাতাস প্যারাচুম্বকীয় পদার্থের একটি উদাহরণ।"
+    },
+    {
+        "question": "155. বিশ্ব ব্রহ্মাণ্ডের সবচেয়ে বেশি গ্যাসটি হল-",
+        "answers": [
+            {"text": "A. অক্সিজেন", "score": 0},
+            {"text": "B. কার্বন-ডাইঅক্সাইড", "score": 0},
+            {"text": "C. নাইট্রোজেন", "score": 0},
+            {"text": "D. হাইড্রোজেন", "score": 1}
+        ],
+        "correct_answer": "D. হাইড্রোজেন",
+        "hint": "হাইড্রোজেন মহাবিশ্বের গ্যাস।"
+    },
+    {
+        "question": "156. GPU -এর পূর্ণরূপ কী?",
+        "answers": [
+            {"text": "A. Graph Processing Unit", "score": 0},
+            {"text": "B. Graphic Processing Unit", "score": 0},
+            {"text": "C. Graphics Processing Unit", "score": 1},
+            {"text": "D. Geographical Processing Unit", "score": 0}
+        ],
+        "correct_answer": "C. Graphics Processing Unit",
+        "hint": "GPU এর পূর্ণরূপ নিয়ে মনে রাখুন।"
+    },
+    {
+        "question": "157. নিচের কোনটি ALU -এর আউটপুট রাখার জন্য ব্যবহৃত হয়?",
+        "answers": [
+            {"text": "A. Register", "score": 1},
+            {"text": "B. ROM", "score": 0},
+            {"text": "C. Flags", "score": 0},
+            {"text": "D. Output Unit", "score": 0}
+        ],
+        "correct_answer": "A. Register",
+        "hint": "ALU এর আউটপুট সংরক্ষণ করুন।"
+    },
+    {
+        "question": "158. DBMS -এর পূর্ণরূপ কী?",
+        "answers": [
+            {"text": "A. Data Backup Management System", "score": 0},
+            {"text": "B. Database Management Service", "score": 0},
+            {"text": "C. Database Management System", "score": 1},
+            {"text": "D. Data of Binary Management System", "score": 0}
+        ],
+        "correct_answer": "C. Database Management System",
+        "hint": "DBMS এর উপর ফোকাস করুন।"
+    },
+    {
+        "question": "159. 2 কিলোবাইট মেমোরি address করার জন্য কতটি address লাইন দরকার?",
+        "answers": [
+            {"text": "A. 10", "score": 0},
+            {"text": "B. 11", "score": 1},
+            {"text": "C. 12", "score": 0},
+            {"text": "D. 14", "score": 0}
+        ],
+        "correct_answer": "B. 11",
+        "hint": "এড্রেসের সংখ্যা নির্ধারণ করুন।"
+    },
+    {
+        "question": "160. এই হেক্সাডেসিমেল সংখ্যাটিকে অক্টালে রূপান্তর করুন:",
+        "answers": [
+            {"text": "A.", "score": 0},
+            {"text": "B.", "score": 0},
+            {"text": "C.", "score": 0},
+            {"text": "D.", "score": 0}
+        ],
+        "correct_answer": "তথ্য প্রয়োজন।",
+        "hint": "হেক্সাডেসিমেল থেকে অক্টালে রূপান্তর করুন।"
+    },
+    {
+        "question": "161. এমবেডেড সিস্টেমে সাধারণত কোন ধরনের মেমোরি ব্যবহৃত হয়?",
+        "answers": [
+            {"text": "A. RAM", "score": 1},
+            {"text": "B. হার্ডডিস্ক ড্রাইভ", "score": 0},
+            {"text": "C. ফ্লাশ মেমোরি", "score": 0},
+            {"text": "D. অপটিক্যাল ডিস্ক ড্রাইভ", "score": 0}
+        ],
+        "correct_answer": "A. RAM",
+        "hint": "মেমোরি নির্বাচন করুন।"
+    },
+    {
+        "question": "162. নিচের কোনটি Spyware এর উদাহরণ?",
+        "answers": [
+            {"text": "A. Key loggers", "score": 1},
+            {"text": "B. Avast", "score": 0},
+            {"text": "C. Norton", "score": 0},
+            {"text": "D. Kasparasky", "score": 0}
+        ],
+        "correct_answer": "A. Key loggers",
+        "hint": "Spyware শনাক্ত করতে তথ্য বিশ্লেষণ করুন।"
+    },
+    {
+        "question": "163. IPv4 -এ নিচের কোনটি Google DNS Server এর IP Address?",
+        "answers": [
+            {"text": "A. 8.8.7.6", "score": 0},
+            {"text": "B. 8.7.8.6", "score": 0},
+            {"text": "C. 8.8.8.6", "score": 0},
+            {"text": "D. 8.8.8.8", "score": 1}
+        ],
+        "correct_answer": "D. 8.8.8.8",
+        "hint": "Google DNS এর আইপি ঠিকানা শনাক্ত করুন।"
+    },
+    {
+        "question": "164. ফায়ারওয়ালের প্রাথমিক কাজ কী?",
+        "answers": [
+            {"text": "A. সমস্ত আগত ট্রাফিক নেটওয়ার্কে ঢুকতে না দেওয়া।", "score": 0},
+            {"text": "B. সমস্ত আগত ট্রাফিক নেটওয়ার্কে ঢুকার অনুমতি দেওয়া।", "score": 0},
+            {"text": "C. আগত এবং বহির্গত নেটওয়ার্ক ট্রাফিক নিরীক্ষা এবং নিয়ন্ত্রণ করা।", "score": 1},
+            {"text": "D. সমস্ত নেটওয়ার্ক ট্রাফিক এনক্রিপ্ট করা।", "score": 0}
+        ],
+        "correct_answer": "C. আগত এবং বহির্গত নেটওয়ার্ক ট্রাফিক নিরীক্ষা এবং নিয়ন্ত্রণ করা।",
+        "hint": "ফায়ারওয়াল এর কার্য সম্পাদন চিহ্নিত করুন।"
+    },
+    {
+        "question": "165. ইন্টারনেটের মাধ্যমে তথ্য আদান-প্রদানের জন্য সর্বাধিক ব্যবহৃত প্রোটোকল কী?",
+        "answers": [
+            {"text": "A. HTTP", "score": 1},
+            {"text": "B. FTP", "score": 0},
+            {"text": "C. DNS", "score": 0},
+            {"text": "D. TCP/IP", "score": 0}
+        ],
+        "correct_answer": "A. HTTP",
+        "hint": "তথ্য আদান-প্রদানে ব্যবহৃত প্রোটোকল নির্ধারণ করুন।"
+    },
+    {
+        "question": "166. নিচের কোনটি ক্লাউড কম্পিউটিং এর বৈশিষ্ট্য নয়?",
+        "answers": [
+            {"text": "A. On-demand self service", "score": 0},
+            {"text": "B. Broad network access", "score": 0},
+            {"text": "C. Limited customization", "score": 1},
+            {"text": "D. Physical ownership of servers", "score": 0}
+        ],
+        "correct_answer": "C. Limited customization",
+        "hint": "ক্লাউড কম্পিউটিং এর বৈশিষ্ট্য বিশ্লেষণ করুন।"
+    },
+    {
+        "question": "167. একটি কম্পিউটার নেটওয়ার্কে একটি LAN -এর একাধিক ডিভাইসকে একটি WAN -এর সাথে সংযুক্ত করে এমন ডিভাইস কোনটি?",
+        "answers": [
+            {"text": "A. রাউটার", "score": 1},
+            {"text": "B. ওয়েব সার্ভার", "score": 0},
+            {"text": "C. ব্রীজ", "score": 0},
+            {"text": "D. হাব", "score": 0}
+        ],
+        "correct_answer": "A. রাউটার",
+        "hint": "নেটওয়ার্কের সংযোগকারীরূপে রাউটারের কার্য সম্পাদন চিহ্নিত করুন।"
+    },
+    {
+        "question": "168. প্রতারণামূলকভাবে সংবেদনশীল তথ্য যেমন পাসওয়ার্ড ও ক্রেডিট কার্ড নম্বর অর্জন করার জন্য ইন্টারনেট ব্যবহার করার অনুশীলনকে কী বলা হয়?",
+        "answers": [
+            {"text": "A. Phishing", "score": 1},
+            {"text": "B. Spamming", "score": 0},
+            {"text": "C. Ransomware", "score": 0},
+            {"text": "D. Sniffing", "score": 0}
+        ],
+        "correct_answer": "A. Phishing",
+        "hint": "Phishing এর কার্যপদ্ধতির বিশ্লেষণ করুন।"
+    },
+    {
+        "question": "169. চিকিৎসা ক্ষেত্রে কম্পিউটার এর কাজ কোনটি?",
+        "answers": [
+            {"text": "A. তথ্য সংরক্ষণ", "score": 0},
+            {"text": "B. ইমেজ বিশ্লেষণ", "score": 0},
+            {"text": "C. রোগী পর্যবেক্ষণ", "score": 0},
+            {"text": "D. উপরের সবগুলো", "score": 1}
+        ],
+        "correct_answer": "D. উপরের সবগুলো",
+        "hint": "চিকিৎসায় কম্পিউটারের ভূমিকা নির্ধারণ করুন।"
+    },
+    {
+        "question": "170. নিচের কোনটি সার্বজনীন ডিজিটাল লজিক গেইট?",
+        "answers": [
+            {"text": "A. XOR", "score": 0},
+            {"text": "B. AND", "score": 0},
+            {"text": "C. NOR", "score": 1},
+            {"text": "D. OR", "score": 0}
+        ],
+        "correct_answer": "C. NOR",
+        "hint": "SARVOJANIK Digital Logic Gate শনাক্ত করুন।"
+    },
+    {
+        "question": "171. ‘ভারত ছাড়’ আন্দোলন শুরু হয় -",
+        "answers": [
+            {"text": "A. ১৯১৭ সালে", "score": 0},
+            {"text": "B. ১৯২৭ সালে", "score": 0},
+            {"text": "C. ১৯৩৭ সালে", "score": 0},
+            {"text": "D. ১৯৪২ সালে", "score": 1}
+        ],
+        "correct_answer": "D. ১৯৪২ সালে",
+        "hint": "ভারত ছাড় আন্দোলনের সময় নির্ধারণ করুন।"
+    },
+    {
+        "question": "172. ‘সর্বদলীয় রাষ্ট্রভাষা সংগ্রাম কমিটি’ গঠিত হয় -",
+        "answers": [
+            {"text": "A. ১৯৪৮ সালে", "score": 0},
+            {"text": "B. ১৯৫০ সালে", "score": 0},
+            {"text": "C. ১৯৫২ সালে", "score": 1},
+            {"text": "D. ১৯৫৪ সালে", "score": 0}
+        ],
+        "correct_answer": "C. ১৯৫২ সালে",
+        "hint": "'রাষ্ট্রভাষা সংগ্রাম' এর প্রতিষ্ঠান চিহ্নিত করুন।"
+    },
+    {
+        "question": "173. বাংলাদেশের জাতীয় সংসদের অধিবেশন আহ্বান করেন কে?",
+        "answers": [
+            {"text": "A. রাষ্ট্রপতি", "score": 1},
+            {"text": "B. স্পীকার", "score": 0},
+            {"text": "C. চীফ হুইপ", "score": 0},
+            {"text": "D. প্রধানমন্ত্রী", "score": 0}
+        ],
+        "correct_answer": "A. রাষ্ট্রপতি",
+        "hint": "সংসদ আহ্বানকারী নির্ধারণ করুন।"
+    },
+    {
+        "question": "174. ঐতিহাসিক ‘ছয়-দফা’ বঙ্গবন্ধু শেখ মুজিবুর রহমান আনুষ্ঠানিকভাবে ঘোষণা করেন -",
+        "answers": [
+            {"text": "A. ৫ ফ্রেব্রুয়ারি ১৯৬৬", "score": 1},
+            {"text": "B. ২৩ মার্চ ১৯৬৬", "score": 0},
+            {"text": "C. ২৬ মার্চ ১৯৬৬", "score": 0},
+            {"text": "D. ৩১ মার্চ ১৯৬৬", "score": 0}
+        ],
+        "correct_answer": "A. ৫ ফ্রেব্রুয়ারি ১৯৬৬",
+        "hint": "বঙ্গবন্ধুর জ্ঞানের প্রতি সাক্ষর।"
+    },
+    {
+        "question": "175. ‘পূর্ব পাকিস্তান আওয়ামী মুসলিম লীগ’ প্রতিষ্ঠকালীন সাধারণ সম্পাদক -",
+        "answers": [
+            {"text": "A. শেখ মুজিবুর রহমান", "score": 0},
+            {"text": "B. শামছুল হক", "score": 1},
+            {"text": "C. আতাউর রহমান খান", "score": 0},
+            {"text": "D. আবুল হাশিম", "score": 0}
+        ],
+        "correct_answer": "B. শামছুল হক",
+        "hint": "প্রতিষ্ঠান ভিত্তিক তথ্য মনে রাখুন।"
+    },
+    {
+        "question": "176. ‘প্রজাতন্ত্রের রাষ্ট্রভাষা বাংলা’ কথাটি সংবিধানের কোন অনুচ্ছেদে বলা হয়েছে?",
+        "answers": [
+            {"text": "A. অনুচ্ছেদ : ২", "score": 0},
+            {"text": "B. অনুচ্ছেদ : ৩", "score": 1},
+            {"text": "C. অনুচ্ছেদ : ৪", "score": 0},
+            {"text": "D. অনুচ্ছেদ : ৫", "score": 0}
+        ],
+        "correct_answer": "B. অনুচ্ছেদ : ৩",
+        "hint": "সংবিধানের অনুচ্ছেদ শনাক্ত করুন।"
+    },
+    {
+        "question": "177. ঐতিহাসিক ৭ মার্চের ভাষণ সংবিধানের কোন তফসিলে আছে?",
+        "answers": [
+            {"text": "A. চতুর্থ তফসিল", "score": 1},
+            {"text": "B. পঞ্চম তফসিল", "score": 0},
+            {"text": "C. ষষ্ঠ তফসিল", "score": 0},
+            {"text": "D. সপ্তম তফসিল", "score": 0}
+        ],
+        "correct_answer": "A. চতুর্থ তফসিল",
+        "hint": "সংবিধানের তফসিল নির্ধারণ করুন।"
+    },
+    {
+        "question": "178. বাংলাদেশের সংবিধান অনুযায়ী “কোর্ট অব রেকর্ড” হিসাবে গণ্য -",
+        "answers": [
+            {"text": "A. লেবার কোর্ট", "score": 0},
+            {"text": "B. জজ কোর্ট", "score": 0},
+            {"text": "C. হাই কোর্ট", "score": 0},
+            {"text": "D. সুপ্রীম কোর্ট", "score": 1}
+        ],
+        "correct_answer": "D. সুপ্রীম কোর্ট",
+        "hint": "সংবিধানের বিবৃতিতে নির্ণয় করুন।"
+    },
+    {
+        "question": "179. বাংলাদেশের মোট কতটি পঞ্চবার্ষিকী পরিকল্পনা গ্রহণ করা হয়েছে?",
+        "answers": [
+            {"text": "A. ৬ (ছয়) টি", "score": 0},
+            {"text": "B. ৭ (সাত) টি", "score": 0},
+            {"text": "C. ৮ (আট) টি", "score": 1},
+            {"text": "D. ৯ (নয়) টি", "score": 0}
+        ],
+        "correct_answer": "C. ৮ (আট) টি",
+        "hint": "পঞ্চবার্ষিকী পরিকল্পনার সংখ্যা নির্ধারণ করুন।"
+    },
+    {
+        "question": "180. বাংলাদেশের কয়টি জেলার সাথে ‘সুন্দরবন’ সংযুক্ত আছে?",
+        "answers": [
+            {"text": "A. ৪ (চার) টি", "score": 0},
+            {"text": "B. ৫ (পাঁচ) টি", "score": 1},
+            {"text": "C. ৬ (ছয়) টি", "score": 0},
+            {"text": "D. ৭ (সাত) টি", "score": 0}
+        ],
+        "correct_answer": "B. ৫ (পাঁচ) টি",
+        "hint": "'সুন্দরবন' এর জেলা সংখ্যা নির্ধারণ করুন।"
+    },
+    {
+        "question": "181. মহান মুক্তিযুদ্ধের সময় ঢাকা শহর কোন সেক্টরের অন্তর্ভুক্ত ছিল?",
+        "answers": [
+            {"text": "A. ২ (দুই) নম্বর", "score": 1},
+            {"text": "B. ৩ (তিন) নম্বর", "score": 0},
+            {"text": "C. ৪ (চার) নম্বর", "score": 0},
+            {"text": "D. ৫ (পাঁচ) নম্বর", "score": 0}
+        ],
+        "correct_answer": "A. ২ (দুই) নম্বর",
+        "hint": "মুক্তিযুদ্ধ আন্দোলনের সেক্টর শনাক্ত করুন।"
+    },
+    {
+        "question": "182. ‘জয় বাংলা’ কে জাতীয় স্লোগান হিসাবে মন্ত্রিসভায় কত তারিখে অনুমোদন করা হয়?",
+        "answers": [
+            {"text": "A. ২ মার্চ, ২০২২", "score": 1},
+            {"text": "B. ৩ মার্চ, ২০২২", "score": 0},
+            {"text": "C. ৪ মার্চ, ২০২২", "score": 0},
+            {"text": "D. ৫ মার্চ, ২০২২", "score": 0}
+        ],
+        "correct_answer": "A. ২ মার্চ, ২০২২",
+        "hint": "'জয় বাংলা' স্লোগানের অনুমোদন তারিখ নির্ধারণ করুন।"
+    },
+    {
+        "question": "183. বাংলাদেশ সরকারী কর্ম কমিশন কবে গঠিত হয়?",
+        "answers": [
+            {"text": "A. ৬ এপ্রিল ১৯৭২", "score": 1},
+            {"text": "B. ৭ এপ্রিল ১৯৭২", "score": 0},
+            {"text": "C. ৮ এপ্রিল ১৯৭২", "score": 0},
+            {"text": "D. ৯ এপ্রিল ১৯৭২", "score": 0}
+        ],
+        "correct_answer": "A. ৬ এপ্রিল ১৯৭২",
+        "hint": "বাংলাদেশ সরকারি কর্ম কমিশনের প্রতিষ্ঠা সংখ্যা নির্ধারণ করুন।"
+    },
+    {
+        "question": "184. ‘e-TIN’ চালু করা হয় কত সালে?",
+        "answers": [
+            {"text": "A. ২০১৩ সালে", "score": 1},
+            {"text": "B. ২০১৪ সালে", "score": 0},
+            {"text": "C. ২০১৫ সালে", "score": 0},
+            {"text": "D. ২০১৬ সালে", "score": 0}
+        ],
+        "correct_answer": "A. ২০১৩ সালে",
+        "hint": "'e-TIN' এর প্রতিষ্ঠা বছর নির্ধারণ করুন।"
+    },
+    {
+        "question": "185. কত সালে মানি লন্ডারিং প্রতিরোধ আইনটি প্রবর্তন করা হয়?",
+        "answers": [
+            {"text": "A. ২০১১ সালে", "score": 0},
+            {"text": "B. ২০১২ সালে", "score": 1},
+            {"text": "C. ২০১৩ সালে", "score": 0},
+            {"text": "D. ২০১৪ সালে", "score": 0}
+        ],
+        "correct_answer": "B. ২০১২ সালে",
+        "hint": "মানি লন্ডারিং আইন প্রতিষ্ঠার বছর শনাক্ত করুন।"
+    },
+    {
+        "question": "186. দেশের কোন জেলায় সর্ববৃহৎ সৌরবিদ্যুৎ কেন্দ্র অবস্থিত?",
+        "answers": [
+            {"text": "A. চট্টগ্রাম", "score": 0},
+            {"text": "B. ফেনী", "score": 0},
+            {"text": "C. নরসিংদী", "score": 0},
+            {"text": "D. ময়মনসিংহ", "score": 1}
+        ],
+        "correct_answer": "D. ময়মনসিংহ",
+        "hint": "সর্ববৃহৎ সৌরবিদ্যুৎ কেন্দ্রের অবস্থান নির্ধারণ করুন।"
+    },
+    {
+        "question": "187. বাংলাদেশের বন গবেষণা কেন্দ্র কোথায় অবস্থিত?",
+        "answers": [
+            {"text": "A. রাজশাহী", "score": 0},
+            {"text": "B. কুমিল্লা", "score": 0},
+            {"text": "C. চট্টগ্রাম", "score": 1},
+            {"text": "D. গাজীপুর", "score": 0}
+        ],
+        "correct_answer": "C. চট্টগ্রাম",
+        "hint": "বন গবেষণা কেন্দ্রের অবস্থান সংক্রান্ত তথ্য চিহ্নিত করুন।"
+    },
+    {
+        "question": "188. বাংলাদেশের মৎস্য প্রজাতি গবেষণাগার কোথায় অবস্থিত?",
+        "answers": [
+            {"text": "A. চাঁদপুর", "score": 1},
+            {"text": "B. ফরিদপুর", "score": 0},
+            {"text": "C. ময়মনসিংহ", "score": 0},
+            {"text": "D. ভোলা", "score": 0}
+        ],
+        "correct_answer": "A. চাঁদপুর",
+        "hint": "মৎস্য গবেষণা কেন্দ্রের অবস্থান নির্ধারণ করুন।"
+    },
+    {
+        "question": "189. বাংলাদেশের প্রধান খনিজ সম্পদ কোনটি?",
+        "answers": [
+            {"text": "A. কয়লা", "score": 0},
+            {"text": "B. প্রাকৃতিক গ্যাস", "score": 1},
+            {"text": "C. চুনাপাথর", "score": 0},
+            {"text": "D. চীনামাটি", "score": 0}
+        ],
+        "correct_answer": "B. প্রাকৃতিক গ্যাস",
+        "hint": "প্রধান খনিজ সম্পদ শনাক্ত করুন।"
+    },
+    {
+        "question": "190. ইউরিয়া সারের কাঁচামাল কী?",
+        "answers": [
+            {"text": "A. প্রাকৃতিক গ্যাস", "score": 1},
+            {"text": "B. চুনাপাথর", "score": 0},
+            {"text": "C. মিথেন গ্যাস", "score": 0},
+            {"text": "D. ইলমেনাইট", "score": 0}
+        ],
+        "correct_answer": "A. প্রাকৃতিক গ্যাস",
+        "hint": "ইউরিয়া সারের কাঁচামাল নির্ধারণ করুন।"
+    },
+    {
+        "question": "191. কোনটি বিচার বিভাগের কাজ নয়?",
+        "answers": [
+            {"text": "A. আইনের প্রয়োগ", "score": 0},
+            {"text": "B. আইনের ব্যাখ্যা", "score": 0},
+            {"text": "C. সংবিধানের ব্যাখ্যা", "score": 0},
+            {"text": "D. সংবিধান প্রণয়ন", "score": 1}
+        ],
+        "correct_answer": "D. সংবিধান প্রণয়ন",
+        "hint": "বিচার বিভাগের ভূমিকা নির্ধারণ করুন।"
+    },
+    {
+        "question": "192. পারিবারিক আদালত অধ্যাদেশ কত সালে জারি হয়?",
+        "answers": [
+            {"text": "A. ১৯৮০ সালে", "score": 0},
+            {"text": "B. ১৯৮১ সালে", "score": 0},
+            {"text": "C. ১৯৮৫ সালে", "score": 1},
+            {"text": "D. ১৯৯১ সালে", "score": 0}
+        ],
+        "correct_answer": "C. ১৯৮৫ সালে",
+        "hint": "পারিবারিক আদালত অধ্যাদেশের বছর নির্ধারণ করুন।"
+    },
+    {
+        "question": "193. ‘গণহত্যা যাদুঘর’ কোথায় অবস্থিত?",
+        "answers": [
+            {"text": "A. ঢাকা", "score": 0},
+            {"text": "B. চট্টগ্রাম", "score": 0},
+            {"text": "C. কুমিল্লা", "score": 0},
+            {"text": "D. খুলনা", "score": 1}
+        ],
+        "correct_answer": "D. খুলনা",
+        "hint": "'গণহত্যা যাদুঘর' এর অবস্থান নির্ধারণ করুন।"
+    },
+    {
+        "question": "194. নভেরা আহমেদের পরিচয় কী হিসাবে?",
+        "answers": [
+            {"text": "A. কবি", "score": 0},
+            {"text": "B. নাট্যকার", "score": 0},
+            {"text": "C. কণ্ঠশিল্পী", "score": 0},
+            {"text": "D. ভাস্কর", "score": 1}
+        ],
+        "correct_answer": "D. ভাস্কর",
+        "hint": "নভেরা আহমেদ ভাস্কর হিসেবে পরিচিত।"
+    },
+    {
+        "question": "195. আয়তনে বাংলাদেশের সবচেয়ে বড় জেলা কোনটি?",
+        "answers": [
+            {"text": "A. রাঙ্গামাটি", "score": 1},
+            {"text": "B. বরিশাল", "score": 0},
+            {"text": "C. চট্টগ্রাম", "score": 0},
+            {"text": "D. ময়মনসিংহ", "score": 0}
+        ],
+        "correct_answer": "A. রাঙ্গামাটি",
+        "hint": "আয়তনে বৃহত্তম জেলার শনাক্তকরণ করুন।"
+    },
+    {
+        "question": "196. কোন এলাকায় ‘Marine Protected Area’ (MPA) ঘোষণা করা হয়েছে?",
+        "answers": [
+            {"text": "A. সেন্টমার্টিন", "score": 0},
+            {"text": "B. সেন্টমার্টিন এবং এর আশেপাশের এলাকা", "score": 1},
+            {"text": "C. পটুয়াখালী ও বরগুনা", "score": 0},
+            {"text": "D. হিরন পয়েন্ট", "score": 0}
+        ],
+        "correct_answer": "B. সেন্টমার্টিন এবং এর আশেপাশের এলাকা",
+        "hint": "'Marine Protected Area' এর জন্য অঞ্চল নির্ধারণ করুন।"
+    },
+    {
+        "question": "197. বাংলাদেশের ভৌগলিক নির্দেশক পণ্য কয়টি?",
+        "answers": [
+            {"text": "A. ৯ (নয়) টি", "score": 0},
+            {"text": "B. ১০ (দশ) টি", "score": 0},
+            {"text": "C. ১১ (এগার) টি", "score": 0},
+            {"text": "D. ১২ (বার) টি", "score": 1}
+        ],
+        "correct_answer": "D. ১২ (বার) টি",
+        "hint": "ভৌগলিক নির্দেশক পণ্যের সংখ্যা নির্ধারণ করুন।"
+    },
+    {
+        "question": "198. ক্ষুদ্র নৃ-গোষ্ঠী ‘মনিপুরী’ বাংলাদেশের কোন জেলায় বেশি বসবাস করে?",
+        "answers": [
+            {"text": "A. সিলেট", "score": 0},
+            {"text": "B. মৌলভীবাজার", "score": 1},
+            {"text": "C. হবিগঞ্জ", "score": 0},
+            {"text": "D. সুনামগঞ্জ", "score": 0}
+        ],
+        "correct_answer": "B. মৌলভীবাজার",
+        "hint": "'মনিপুরী' উপজাতির অবস্থান নির্ধারণ করুন।"
+    },
+    {
+        "question": "199. বাংলাদেশের ষষ্ঠ জাতীয় জনশুমারি ও গৃহ গণনা কোন সময়ে অনুষ্ঠিত হয়?",
+        "answers": [
+            {"text": "A. ১০ জুন থেকে ১৬ জুন, ২০২২", "score": 1},
+            {"text": "B. ১৫ জুন থেকে ২১ জুন, ২০২২", "score": 0},
+            {"text": "C. ১৫ জুলাই থেকে ২১ জুলাই, ২০২২", "score": 0},
+            {"text": "D. ২০ জুলাই থেকে ২৬ জুলাই, ২০২২", "score": 0}
+        ],
+        "correct_answer": "A. ১০ জুন থেকে ১৬ জুন, ২০২২",
+        "hint": "জনশুমারির তারিখ নির্ধারণ করুন।"
+    },
+    {
+        "question": "200. কূটনৈতিক ক্ষেত্রে অবদানের জন্য গত ২০২০ সালে প্রবর্তিত পুরস্কারের নাম কী?",
+        "answers": [
+            {"text": "A. বঙ্গবন্ধু ডিপ্লোমেটিক অ্যাওয়ার্ড ফর এক্সিলেন্স", "score": 1},
+            {"text": "B. বঙ্গবন্ধু ডিপ্লোমেটিক এক্সিলেন্স অ্যাওয়ার্ড", "score": 0},
+            {"text": "C. বাংলাদেশ ডিপ্লোমেটিক অ্যাওয়ার্ড ফর এক্সিলেন্স", "score": 0},
+            {"text": "D. বঙ্গবন্ধু ডিপ্লোমেটিক অ্যাওয়ার্ড", "score": 0}
+        ],
+        "correct_answer": "A. বঙ্গবন্ধু ডিপ্লোমেটিক অ্যাওয়ার্ড ফর এক্সিলেন্স",
+        "hint": "কূটনৈতিক ক্ষেত্রে পুরস্কারের নাম শনাক্ত করুন।"
+    }
+]

@@ -1,0 +1,1102 @@
+[
+    {
+        "question": "1. চর্যাপদ আবিষ্কৃত হয় কোথা থেকে?",
+        "answers": [
+            {"text": "A. বাঁকুড়ার এক গৃহস্থের গোয়াল ঘর থেকে", "score": 0},
+            {"text": "B. আরাকান রাজগ্রন্থাগার থেকে", "score": 1},
+            {"text": "C. নেপালের রাজগ্রন্থশালা থেকে", "score": 0},
+            {"text": "D. সুদূর চীন দেশ থেকে", "score": 0}
+        ],
+        "correct_answer": "B. আরাকান রাজগ্রন্থাগার থেকে",
+        "hint": "মহামহোপাধ্যায় হরপ্রসাদ শাস্ত্রী ১৯০৭ সালে নেপালের রাজগ্রন্থশালা থেকে চর্যাপদ আবিষ্কার করেন।"
+    },
+    {
+        "question": "2. মঙ্গলযুগের সর্বশেষ কবির নাম কি?",
+        "answers": [
+            {"text": "A. বিজয়গুপ্ত", "score": 0},
+            {"text": "B. ভারতচন্দ্র রায়গুণাকর", "score": 1},
+            {"text": "C. মুকুন্দরাম চক্রবর্তী", "score": 0},
+            {"text": "D. কানাহরি দত্ত", "score": 0}
+        ],
+        "correct_answer": "B. ভারতচন্দ্র রায়গুণাকর",
+        "hint": "তিনি আঠারো শতকের মঙ্গলকাব্য ধারার শ্রেষ্ঠ কবি।"
+    },
+    {
+        "question": "3. বিদ্যাপতি কোথাকার কবি ছিলেন?",
+        "answers": [
+            {"text": "A. নবদ্বীপের", "score": 0},
+            {"text": "B. মিথিলার", "score": 1},
+            {"text": "C. বৃন্দাবনের", "score": 0},
+            {"text": "D. বর্ধমানের", "score": 0}
+        ],
+        "correct_answer": "B. মিথিলার",
+        "hint": "বিদ্যাপতি মিথিলার কবি এবং বৈষ্ণব সহজিয়া সাধকের অন্যতম।"
+    },
+    {
+        "question": "4. শ্রীকৃষ্ণকীর্তন কাব্যের বড়াই কি ধরনের চরিত্র?",
+        "answers": [
+            {"text": "A. শ্রী রাধার ননদিনী", "score": 0},
+            {"text": "B. শ্রী রাধার শাশুড়ি", "score": 0},
+            {"text": "C. রাধাকৃষ্ণের প্রেমের দূতী", "score": 1},
+            {"text": "D. জনৈক গোপবালা", "score": 0}
+        ],
+        "correct_answer": "C. রাধাকৃষ্ণের প্রেমের দূতী",
+        "hint": "বড়াই চরিত্রটি রাধা-কৃষ্ণের প্রেমের সংবাদ আদান-প্রদানকারিণী হিসেবে প্রেমিকার চরিত্র।"
+    },
+    {
+        "question": "5. লোকসাহিত্য কাকে বলে?",
+        "answers": [
+            {"text": "A. গ্রামীণ নরনারীর প্রণয় সংবলিত উপাখ্যানকে", "score": 0},
+            {"text": "B. লোক সাধারণের কল্যাণে দেবতার স্তুতিমুলক রচনাকে", "score": 0},
+            {"text": "C. লোকের মুখে মুখে প্রচলিত কাহিনি, গান, ছড়া ইত্যাদিতে", "score": 1},
+            {"text": "D. গ্রামীণ অশিক্ষিত ও অখ্যাত লোকের সৃষ্ট রচনাকে", "score": 0}
+        ],
+        "correct_answer": "C. লোকের মুখে মুখে প্রচলিত কাহিনি, গান, ছড়া ইত্যাদিতে",
+        "hint": "আবহমান কাল ধরে মুখে মুখে প্রচলিত সাহিত্যের সৃষ্টি।"
+    },
+    {
+        "question": "6. বাংলা সাহিত্যে কখন গদ্যের সূচনা হয়?",
+        "answers": [
+            {"text": "A. নবম শতকে", "score": 0},
+            {"text": "B. ত্রয়োদশ শতকে", "score": 0},
+            {"text": "C. ষোড়শ শতকে", "score": 0},
+            {"text": "D. উনিশ শতকে", "score": 1}
+        ],
+        "correct_answer": "D. উনিশ শতকে",
+        "hint": "বাংলা সাহিত্যে গদ্যের সূচনা উনিশ শতকে হয়।"
+    },
+    {
+        "question": "7. বাংলা ভাষায় প্রথম সাময়িকপত্র কোনটি?",
+        "answers": [
+            {"text": "A. দিকদর্শন", "score": 1},
+            {"text": "B. সংবাদ প্রভাকর", "score": 0},
+            {"text": "C. তত্ত্ববোধিনী", "score": 0},
+            {"text": "D. বঙ্গদর্শন", "score": 0}
+        ],
+        "correct_answer": "A. দিকদর্শন",
+        "hint": "'দিকদর্শন' বাংলা ভাষায় প্রথম সাময়িকপত্র।"
+    },
+    {
+        "question": "8. ইয়ং বেঙ্গল কি?",
+        "answers": [
+            {"text": "A. বাংলাভাষা শিক্ষার্থী ইংরেজ", "score": 0},
+            {"text": "B. ইংরেজি ভাবধারাপুষ্ট বাঙালি যুবক", "score": 1},
+            {"text": "C. একটি সাহিত্যিক গোষ্ঠীর নাম", "score": 0},
+            {"text": "D. একটি সাময়িক পত্রের নাম", "score": 0}
+        ],
+        "correct_answer": "B. ইংরেজি ভাবধারাপুষ্ট বাঙালি যুবক",
+        "hint": "ইয়ং বেঙ্গল হলো উনিশ শতকের বাংলার নবজাগরণের বার্তাবাহী যুবসমাজ।"
+    },
+    {
+        "question": "9. দীনবন্ধু মিত্রের প্রহসন কোনটি?",
+        "answers": [
+            {"text": "A. বুড়ো শালিকের ঘাড়ে রোঁ", "score": 1},
+            {"text": "B. বিয়ে পাগলা বুড়ো", "score": 0},
+            {"text": "C. কিঞ্চিত জলযোগ", "score": 0},
+            {"text": "D. কল্কি অবতার", "score": 0}
+        ],
+        "correct_answer": "A. বুড়ো শালিকের ঘাড়ে রোঁ",
+        "hint": "দীনবন্ধু মিত্রের 'বুড়ো শালিকের ঘাড়ে রোঁ' প্রহসন।"
+    },
+    {
+        "question": "10. মীর মশাররফ হোসেনের নাটক কোনটি?",
+        "answers": [
+            {"text": "A. নটির পূজা", "score": 0},
+            {"text": "B. বেহুলা গীতাভিনয়", "score": 0},
+            {"text": "C. নবীন তপস্বিনী", "score": 0},
+            {"text": "D. কৃষ্ণকুমারী", "score": 1}
+        ],
+        "correct_answer": "D. কৃষ্ণকুমারী",
+        "hint": "মীর মশাররফ হোসেন রচিত নাটক 'কৃষ্ণকুমারী'।"
+    },
+    {
+        "question": "11. কলকাতায় প্রথম রঙ্গমঞ্চ তৈরি হয় কত সালে?",
+        "answers": [
+            {"text": "A. ১৮১৭ সালে", "score": 0},
+            {"text": "B. ১৮৩২ সালে", "score": 1},
+            {"text": "C. ১৮৫২ সালে", "score": 0},
+            {"text": "D. ১৭৫৩ সালে", "score": 0}
+        ],
+        "correct_answer": "B. ১৮৩২ সালে",
+        "hint": "কলকাতায় প্রথম রঙ্গমঞ্চ ১৮৩২ সালে প্রতিষ্ঠিত হয়।"
+    },
+    {
+        "question": "12. রবীন্দ্রনাথ ঠাকুরের অতিপ্রাকৃত গল্প কোনটি?",
+        "answers": [
+            {"text": "A. একরাত্রি", "score": 0},
+            {"text": "B. নষ্টনীড়", "score": 0},
+            {"text": "C. ক্ষুধিত পাষাণ", "score": 1},
+            {"text": "D. মধ্যবর্তিনী", "score": 0}
+        ],
+        "correct_answer": "C. ক্ষুধিত পাষাণ",
+        "hint": "'ক্ষুধিত পাষাণ' রবীন্দ্রনাথ ঠাকুরের অতিপ্রাকৃত গল্প।"
+    },
+    {
+        "question": "13. বাংলা সাহিত্যের প্রথম মুসলিম ঔপন্যাসিকের নাম কি?",
+        "answers": [
+            {"text": "A. মোতাহের হোসেন", "score": 1},
+            {"text": "B. ইসমাইল হোসেন সিরাজী", "score": 0},
+            {"text": "C. মীর মশাররফ হোসেন", "score": 0},
+            {"text": "D. ফররুখ আহমদ", "score": 0}
+        ],
+        "correct_answer": "A. মোতাহের হোসেন",
+        "hint": "মোতাহের হোসেন বাংলা সাহিত্যের প্রথম মুসলিম ঔপন্যাসিক।"
+    },
+    {
+        "question": "14. নজরুল ইসলামের সম্পাদিত পত্রিকা কোনটি?",
+        "answers": [
+            {"text": "A. মাহে নও", "score": 0},
+            {"text": "B. সওগাত", "score": 1},
+            {"text": "C. ধূমকেতু", "score": 0},
+            {"text": "D. কালিকলম", "score": 0}
+        ],
+        "correct_answer": "B. সওগাত",
+        "hint": "নজরুল ইসলামের সম্পাদিত পত্রিকা হলো সওগাত।"
+    },
+    {
+        "question": "15. জীবনানন্দ দাশের প্রবন্ধগ্রন্থ কোনটি?",
+        "answers": [
+            {"text": "A. ধূসর পাণ্ডুলিপি", "score": 0},
+            {"text": "B. কবিতার কথা", "score": 1},
+            {"text": "C. ঝরা পালকের কবি", "score": 0},
+            {"text": "D. দুর্দিনের যাত্রী", "score": 0}
+        ],
+        "correct_answer": "B. কবিতার কথা",
+        "hint": "'কবিতার কথা' জীবনানন্দ দাশের প্রবন্ধগ্রন্থ।"
+    },
+    {
+        "question": "16. ‘সাত সাগরের মাঝি’ কাব্যগ্রন্হের রচয়িতা কে?",
+        "answers": [
+            {"text": "A. কাজী নজরুল ইসলাম", "score": 0},
+            {"text": "B. ফররুখ আহমদ", "score": 1},
+            {"text": "C. আব্দুল কাদির", "score": 0},
+            {"text": "D. বন্দে আলী মিয়া", "score": 0}
+        ],
+        "correct_answer": "B. ফররুখ আহমদ",
+        "hint": "'সাত সাগরের মাঝি' কাব্যগ্রন্থ ফররুখ আহমদ রচনা করেন।"
+    },
+    {
+        "question": "17. বাংলাদেশের ভাষা আন্দোলনভিত্তিক উপন্যাস কোনটি?",
+        "answers": [
+            {"text": "A. অগ্নিসাক্ষী", "score": 0},
+            {"text": "B. চিলেকোঠার সেপাই", "score": 1},
+            {"text": "C. আরেক ফাল্গুন", "score": 0},
+            {"text": "D. অনেক সূর্যের আশা", "score": 0}
+        ],
+        "correct_answer": "B. চিলেকোঠার সেপাই",
+        "hint": "বাংলার ভাষা আন্দোলনভিত্তিক উপন্যাস হলো 'চিলেকোঠার সেপাই'।"
+    },
+    {
+        "question": "18. মুক্তিযুদ্ধভিত্তিক উপন্যাস কোনটি?",
+        "answers": [
+            {"text": "A. শঙ্খনীল কারাগার", "score": 1},
+            {"text": "B. কাঁটাতারে প্রজাপতি", "score": 0},
+            {"text": "C. জাহান্নম হইতে বিদায়", "score": 0},
+            {"text": "D. আর্তনাদ", "score": 0}
+        ],
+        "correct_answer": "A. শঙ্খনীল কারাগার",
+        "hint": "'শঙ্খনীল কারাগার' মুক্তিযুদ্ধভিত্তিক উপন্যাস।"
+    },
+    {
+        "question": "19. শওকত ওসমান কোন উপন্যাসের জন্য আদমজী পুরস্কার লাভ করেন?",
+        "answers": [
+            {"text": "A. বনী আদম", "score": 0},
+            {"text": "B. জননী", "score": 1},
+            {"text": "C. চৌরসন্ধি", "score": 0},
+            {"text": "D. ক্রীতদাসের হাসি", "score": 0}
+        ],
+        "correct_answer": "B. জননী",
+        "hint": "শওকত ওসমান 'জননী' উপন্যাসের জন্য আদমজী পুরস্কার পান।"
+    },
+    {
+        "question": "20. ‘উপরোধ’ শব্দের অর্থ কি?",
+        "answers": [
+            {"text": "A. প্রতিরোধ", "score": 0},
+            {"text": "B. উপস্থাপন", "score": 0},
+            {"text": "C. অনুরোধ", "score": 1},
+            {"text": "D. উপযোগী", "score": 0}
+        ],
+        "correct_answer": "C. অনুরোধ",
+        "hint": "'উপরোধ' শব্দের অর্থ বিশেষ অনুরোধ।"
+    },
+    {
+        "question": "21. Dhaka is becoming one of the ____ cities in Asia.",
+        "answers": [
+            {"text": "A. more busy", "score": 0},
+            {"text": "B. busy", "score": 0},
+            {"text": "C. busiest", "score": 1},
+            {"text": "D. most busiest", "score": 0}
+        ],
+        "correct_answer": "C. busiest",
+        "hint": "'busiest' superlative form বোঝাতে ব্যবহার করা হয়।"
+    },
+    {
+        "question": "22. He had written the book before he-",
+        "answers": [
+            {"text": "A. retired", "score": 1},
+            {"text": "B. had retired", "score": 0},
+            {"text": "C. has retired", "score": 0},
+            {"text": "D. will be retired", "score": 0}
+        ],
+        "correct_answer": "A. retired",
+        "hint": "Before-এর আগে Past Indefinite Tense ব্যবহার হবে।"
+    },
+    {
+        "question": "23. Rizvi requested Rini ____ telephone to attend the meeting.",
+        "answers": [
+            {"text": "A. over", "score": 1},
+            {"text": "B. through", "score": 0},
+            {"text": "C. with", "score": 0},
+            {"text": "D. by", "score": 0}
+        ],
+        "correct_answer": "A. over",
+        "hint": "'Over' preposition ব্যবহৃত হয় টেলিফোনের ক্ষেত্রে।"
+    },
+    {
+        "question": "24. The word 'precedence' means-",
+        "answers": [
+            {"text": "A. example", "score": 0},
+            {"text": "B. priority", "score": 1},
+            {"text": "C. elderly", "score": 0},
+            {"text": "D. case", "score": 0}
+        ],
+        "correct_answer": "B. priority",
+        "hint": "'Precedence' এর অর্থ অগ্রাধিকার।"
+    },
+    {
+        "question": "25. The prices of rice are -",
+        "answers": [
+            {"text": "A. raising", "score": 0},
+            {"text": "B. risen", "score": 0},
+            {"text": "C. rising", "score": 1},
+            {"text": "D. raised", "score": 0}
+        ],
+        "correct_answer": "C. rising",
+        "hint": "'Rising' ব্যবহার করা হয়েছে price বুঝাতে।"
+    },
+    {
+        "question": "26. 'To get along with' means-",
+        "answers": [
+            {"text": "A. to adjust", "score": 0},
+            {"text": "B. to accompany", "score": 0},
+            {"text": "C. to interest", "score": 0},
+            {"text": "D. to walk", "score": 1}
+        ],
+        "correct_answer": "A. to adjust",
+        "hint": "'Get along with' মানে সহযোগিতা বা খাপ খাওয়ানো।"
+    },
+    {
+        "question": "27. 'If winter comes, can spring be far behind?' These lines were written by-",
+        "answers": [
+            {"text": "A. Keats", "score": 0},
+            {"text": "B. Frost", "score": 0},
+            {"text": "C. Eliot", "score": 0},
+            {"text": "D. Shelley", "score": 1}
+        ],
+        "correct_answer": "D. Shelley",
+        "hint": "লাইনটি শেলীর ‘Ode to The West Wind’ কবিতা থেকে।"
+    },
+    {
+        "question": "28. The verb of the word 'short' is -",
+        "answers": [
+            {"text": "A. enshort", "score": 0},
+            {"text": "B. shorten", "score": 1},
+            {"text": "C. shorted", "score": 0},
+            {"text": "D. shorting", "score": 0}
+        ],
+        "correct_answer": "B. shorten",
+        "hint": "'Shorten' শব্দটি হলো 'short' এর verb form।"
+    },
+    {
+        "question": "29. 'Light' is to 'dark' as 'cold' is to-",
+        "answers": [
+            {"text": "A. hot", "score": 1},
+            {"text": "B. heat", "score": 0},
+            {"text": "C. cool", "score": 0},
+            {"text": "D. winter", "score": 0}
+        ],
+        "correct_answer": "A. hot",
+        "hint": "'Cold' এর বিপরীত শব্দ 'hot'।"
+    },
+    {
+        "question": "30. Many prefer donating money ___ distributing clothes.",
+        "answers": [
+            {"text": "A. than", "score": 0},
+            {"text": "B. but", "score": 0},
+            {"text": "C. to", "score": 1},
+            {"text": "D. without", "score": 0}
+        ],
+        "correct_answer": "C. to",
+        "hint": "'Prefer' verb-এর সাথে 'to' preposition ব্যবহার হয়।"
+    },
+    {
+        "question": "31. Julia has been ill ____ three months.",
+        "answers": [
+            {"text": "A. since", "score": 0},
+            {"text": "B. about", "score": 0},
+            {"text": "C. in", "score": 0},
+            {"text": "D. for", "score": 1}
+        ],
+        "correct_answer": "D. for",
+        "hint": "'For' preposition দিয়ে সময় নির্দেশ করে।"
+    },
+    {
+        "question": "32. The underlined part is-",
+        "answers": [
+            {"text": "A. a noun phrase", "score": 0},
+            {"text": "B. an infinitive phrase", "score": 0},
+            {"text": "C. a prepositional phrase", "score": 0},
+            {"text": "D. a verb phrase", "score": 1}
+        ],
+        "correct_answer": "D. a verb phrase",
+        "hint": "'Verb phrase' হলো verb এবং auxiliary verb-এর সমন্বয়ে গঠিত।"
+    },
+    {
+        "question": "33. The word 'disinterested' means-",
+        "answers": [
+            {"text": "A. lack of interest", "score": 0},
+            {"text": "B. indifferent", "score": 0},
+            {"text": "C. callous", "score": 0},
+            {"text": "D. neutral", "score": 1}
+        ],
+        "correct_answer": "D. neutral",
+        "hint": "'Disinterested' এর অর্থ নিরপেক্ষ।"
+    },
+    {
+        "question": "34. Who did write the first English dictionary?",
+        "answers": [
+            {"text": "A. Boswell", "score": 0},
+            {"text": "B. Ben Jonson", "score": 0},
+            {"text": "C. Samuel Johnson", "score": 1},
+            {"text": "D. Milton", "score": 0}
+        ],
+        "correct_answer": "C. Samuel Johnson",
+        "hint": "স্যামুয়েল জনসন ১৭৫৫ সালে প্রথম ইংরেজি অভিধান প্রকাশ করেন।"
+    },
+    {
+        "question": "35. New programs will be ____ next week in Bangladesh Television.",
+        "answers": [
+            {"text": "A. telecast", "score": 0},
+            {"text": "B. published", "score": 0},
+            {"text": "C. telecasted", "score": 0},
+            {"text": "D. broadcasted", "score": 1}
+        ],
+        "correct_answer": "D. broadcasted",
+        "hint": "'Telecast' passive sense-এ ব্যবহৃত হয়।"
+    },
+    {
+        "question": "36. The word 'electorate' means-",
+        "answers": [
+            {"text": "A. election office", "score": 0},
+            {"text": "B. a body of voters", "score": 1},
+            {"text": "C. many elections", "score": 0},
+            {"text": "D. candidates", "score": 0}
+        ],
+        "correct_answer": "B. a body of voters",
+        "hint": "'Electorate' শব্দের অর্থ নির্বাচকমণ্ডলী।"
+    },
+    {
+        "question": "37. 'Animal Farm' was written by-",
+        "answers": [
+            {"text": "A. Geogre Orwell", "score": 1},
+            {"text": "B. Stevenson", "score": 0},
+            {"text": "C. Swift", "score": 0},
+            {"text": "D. Mark Twain", "score": 0}
+        ],
+        "correct_answer": "A. Geogre Orwell",
+        "hint": "'Animal Farm' হলো জর্জ অরওয়েলের রচিত একটি উপন্যাস।"
+    },
+    {
+        "question": "38. There is no alternative ____ training.",
+        "answers": [
+            {"text": "A. to", "score": 1},
+            {"text": "B. for", "score": 0},
+            {"text": "C. than", "score": 0},
+            {"text": "D. of", "score": 0}
+        ],
+        "correct_answer": "A. to",
+        "hint": "'Alternative' এর পরে 'to' preposition ব্যবহার হয়।"
+    },
+    {
+        "question": "39. Which sentence is correct?",
+        "answers": [
+            {"text": "A. This is an unique case", "score": 0},
+            {"text": "B. This is a unique case", "score": 1},
+            {"text": "C. This is a very unique case", "score": 0},
+            {"text": "D. This is the most unique case", "score": 0}
+        ],
+        "correct_answer": "B. This is a unique case",
+        "hint": "'Unique' শব্দের উচ্চারণ কিভাবে হবে সেটা ধ্যান রাখতে হবে।"
+    },
+    {
+        "question": "40. I cannot _____ to pay such high prices.",
+        "answers": [
+            {"text": "A. able", "score": 0},
+            {"text": "B. but", "score": 0},
+            {"text": "C. try", "score": 0},
+            {"text": "D. afford", "score": 1}
+        ],
+        "correct_answer": "D. afford",
+        "hint": "'Afford' অর্থ (সময়সীমা) ব্যয়ের সামর্থ্য থাক।"
+    },
+    {
+        "question": "41. কোন গোষ্ঠী থেকে বাঙালি জাতির প্রধান অংশ গড়ে উঠেছে?",
+        "answers": [
+            {"text": "A. নেগ্রিটো", "score": 0},
+            {"text": "B. ভোটচীন", "score": 0},
+            {"text": "C. দ্রাবিড়", "score": 0},
+            {"text": "D. অস্ট্রিক", "score": 1}
+        ],
+        "correct_answer": "D. অস্ট্রিক",
+        "hint": "বাঙালি জাতির প্রধান অংশ গড়ে উঠেছে অস্ট্রিক বা অনার্য গোষ্ঠী থেকে।"
+    },
+    {
+        "question": "42. ঢাকায় সর্বপ্রথম কবে বাংলার রাজধানী স্থাপিত হয়?",
+        "answers": [
+            {"text": "A. ১২০৬ খ্রিস্টাব্দে", "score": 0},
+            {"text": "B. ১৩১০ খ্রিস্টাব্দে", "score": 0},
+            {"text": "C. ১৬১০ খ্রিস্টাব্দে", "score": 1},
+            {"text": "D. ১৫২৬ খ্রিস্টাব্দে", "score": 0}
+        ],
+        "correct_answer": "C. ১৬১০ খ্রিস্টাব্দে",
+        "hint": "ঢাকায় প্রথম বাংলার রাজধানী ১৬১০ সালে স্থাপিত হয়।"
+    },
+    {
+        "question": "43. ঐতিহাসিক ২১-দফা দাবীর প্রথম দাবিটি কি ছিল?",
+        "answers": [
+            {"text": "A. বাংলাকে অন্যতম রাষ্ট্রভাষা", "score": 1},
+            {"text": "B. প্রাদেশিক স্বায়ত্তশাসন", "score": 0},
+            {"text": "C. পূর্ববাংলার অর্থনৈতিক বৈষম্য দূরীকরণ", "score": 0},
+            {"text": "D. বিনা ক্ষতিপূরণে জমিদারী উচ্ছেদ", "score": 0}
+        ],
+        "correct_answer": "A. বাংলাকে অন্যতম রাষ্ট্রভাষা",
+        "hint": "২১ দফার প্রথম দাবি বাংলাকে রাষ্ট্রভাষা হিসেবে স্বীকৃতি দিতে হবে।"
+    },
+    {
+        "question": "44. অপরাজেয় বাংলা কবে উদ্বোধন করা হয়?",
+        "answers": [
+            {"text": "A. ১৬ ডিসেম্বর, ১৯৭৯", "score": 1},
+            {"text": "B. ২৬ ডিসেম্বর, ১৯৭৯", "score": 0},
+            {"text": "C. ১ জানুয়ারি, ১৯৮০", "score": 0},
+            {"text": "D. ২১ ফেব্রুয়ারি, ১৯৮০", "score": 0}
+        ],
+        "correct_answer": "A. ১৬ ডিসেম্বর, ১৯৭৯",
+        "hint": "অপরাজেয় বাংলা ১৬ ডিসেম্বর, ১৯৭৯ উদ্বোধন করা হয়।"
+    },
+    {
+        "question": "45. জাতীয় স্মৃতিসৌধের উচ্চতা কত?",
+        "answers": [
+            {"text": "A. ৪৬.৫ মি", "score": 0},
+            {"text": "B. ৪৬ মি", "score": 0},
+            {"text": "C. ৪৫.৫ মি", "score": 0},
+            {"text": "D. ৪৫ মি", "score": 1}
+        ],
+        "correct_answer": "D. ৪৫ মি",
+        "hint": "জাতীয় স্মৃতিসৌধের উচ্চতা ৪৫ মিটার।"
+    },
+    {
+        "question": "46. হাজংদের অধিবাস কোথায়?",
+        "answers": [
+            {"text": "A. ময়মনসিংহ ও নেত্রকোণা", "score": 1},
+            {"text": "B. কক্সবাজার ও রামু", "score": 0},
+            {"text": "C. রংপুর ও দিনাজপুর", "score": 0},
+            {"text": "D. সিলেট ও মণিপুর", "score": 0}
+        ],
+        "correct_answer": "A. ময়মনসিংহ ও নেত্রকোণা",
+        "hint": "হাজংদের অধিবাস ময়মনসিংহ ও নেত্রকোণা অঞ্চলে অবস্থিত।"
+    },
+    {
+        "question": "47. নিঝুম দ্বীপের আয়তন কত?",
+        "answers": [
+            {"text": "A. ৮০ ব.মা.", "score": 0},
+            {"text": "B. ৮২ ব.মা.", "score": 0},
+            {"text": "C. ৮৫ ব.মা.", "score": 0},
+            {"text": "D. ৯০ ব.মা.", "score": 1}
+        ],
+        "correct_answer": "D. ৯০ ব.মা.",
+        "hint": "নিঝুম দ্বীপের আয়তন ৯১ বর্গকি.মি."
+    },
+    {
+        "question": "48. বাংলাদেশের গ্রামের সংখ্যা কত?",
+        "answers": [
+            {"text": "A. ৮৫৪৫০টি", "score": 0},
+            {"text": "B. ৮৪৫০০টি", "score": 1},
+            {"text": "C. ৮৫৫০০টি", "score": 0},
+            {"text": "D. ৮৩৯০০টি", "score": 0}
+        ],
+        "correct_answer": "B. ৮৪৫০০টি",
+        "hint": "২০২২ সালের জনশুমারি অনুযায়ী ৮৪,৫০০টি গ্রাম রয়েছে।"
+    },
+    {
+        "question": "49. বাংলাদেশের প্রথম জাতীয় সংসদ নির্বাচন কবে হয়?",
+        "answers": [
+            {"text": "A. ৭ মার্চ, ১৯৭৩", "score": 0},
+            {"text": "B. ৫ মার্চ, ১৯৭৩", "score": 0},
+            {"text": "C. ৬ এপ্রিল, ১৯৭৩", "score": 1},
+            {"text": "D. ১১ এপ্রিল, ১৯৭৩", "score": 0}
+        ],
+        "correct_answer": "C. ৬ এপ্রিল, ১৯৭৩",
+        "hint": "বাংলাদেশের প্রথম জাতীয় সংসদ নির্বাচন ৬ এপ্রিল, ১৯৭৩ অনুষ্ঠিত হয়।"
+    },
+    {
+        "question": "50. বাংলাদেশের সবচেয়ে ছোট ইউনিয়ন কোনটি?",
+        "answers": [
+            {"text": "A. সেন্টমার্টিন", "score": 0},
+            {"text": "B. লালপুর", "score": 0},
+            {"text": "C. হিলি", "score": 0},
+            {"text": "D. লালমোহন", "score": 1}
+        ],
+        "correct_answer": "D. লালমোহন",
+        "hint": "গ্রহণযোগ্য তথ্য অনুযায়ী বাংলাদেশের ক্ষুদ্রতম ইউনিয়ন হচ্ছে লালমোহন।"
+    },
+    {
+        "question": "51. যুক্তরাষ্ট্রের সিনেটের মোট আসন সংখ্যা কতটি?",
+        "answers": [
+            {"text": "A. ৯৯", "score": 0},
+            {"text": "B. ১০০", "score": 1},
+            {"text": "C. ১০১", "score": 0},
+            {"text": "D. ১০২", "score": 0}
+        ],
+        "correct_answer": "B. ১০০",
+        "hint": "যুক্তরাষ্ট্রের সিনেটের মোট আসন সংখ্যা ১০০।"
+    },
+    {
+        "question": "52. ফেয়ার ফ্যাক্স কি?",
+        "answers": [
+            {"text": "A. সংবাদ সংস্থা", "score": 0},
+            {"text": "B. পরিবেশ সংস্থা", "score": 0},
+            {"text": "C. গোয়েন্দা সংস্থা", "score": 1},
+            {"text": "D. মানবাধিকার সংস্থা", "score": 0}
+        ],
+        "correct_answer": "C. গোয়েন্দা সংস্থা",
+        "hint": "ফেয়ার ফ্যাক্স একটি গোয়েন্দা সংস্থা।"
+    },
+    {
+        "question": "53. NASA-এর সদর দফতর কোথায়?",
+        "answers": [
+            {"text": "A. ফ্লোরিডা", "score": 0},
+            {"text": "B. হিউস্টন", "score": 1},
+            {"text": "C. কেপ কেনেডি", "score": 0},
+            {"text": "D. টেকসাস", "score": 0}
+        ],
+        "correct_answer": "B. হিউস্টন",
+        "hint": "NASA-এর সদর দফতর হিউস্টনে অবস্থিত।"
+    },
+    {
+        "question": "54. দক্ষিণ আফ্রিকা কত বছর শ্বেতাঙ্গ শাসনে ছিল?",
+        "answers": [
+            {"text": "A. ৩০০ বছর", "score": 0},
+            {"text": "B. ৩৩৫ বছর", "score": 1},
+            {"text": "C. ৩৪২ বছর", "score": 0},
+            {"text": "D. ৫০০ বছর", "score": 0}
+        ],
+        "correct_answer": "B. ৩৩৫ বছর",
+        "hint": "দক্ষিণ আফ্রিকা ৩৩৫ বছর শ্বেতাঙ্গ শাসনে ছিল।"
+    },
+    {
+        "question": "55. বসনিয়ার যুদ্ধবিরতি স্বাক্ষরের মধ্যস্থতাকারী কে?",
+        "answers": [
+            {"text": "A. বিল ক্লিনটন", "score": 0},
+            {"text": "B. জিমি কার্টার", "score": 0},
+            {"text": "C. নিক্সন", "score": 0},
+            {"text": "D. রিগান", "score": 1}
+        ],
+        "correct_answer": "D. রিগান",
+        "hint": "বসনিয়ার যুদ্ধবিরতি স্বাক্ষরে জিমি কার্টার মধ্যস্থতা করেন।"
+    },
+    {
+        "question": "56. ফ্রান্সের বর্তমান প্রেসিডেন্টের নাম কি?",
+        "answers": [
+            {"text": "A. নিকোলাস সার্কোজি", "score": 0},
+            {"text": "B. জ্যাক শিরাক", "score": 0},
+            {"text": "C. ফ্রঁসিয়ে মিতেরাঁ", "score": 0},
+            {"text": "D. জেনারেল দ্য গল", "score": 1}
+        ],
+        "correct_answer": "D. জেনারেল দ্য গল",
+        "hint": "ফ্রান্সের বর্তমান প্রেসিডেন্ট জেনারেল দ্য গল।"
+    },
+    {
+        "question": "57. হোয়াংহো নদীর উৎপত্তিস্থল কোথায়?",
+        "answers": [
+            {"text": "A. হিমালয়", "score": 0},
+            {"text": "B. কুয়েনলুন পর্বত", "score": 1},
+            {"text": "C. ব্ল্যাক ফরেস্ট", "score": 0},
+            {"text": "D. আল্‌পস", "score": 0}
+        ],
+        "correct_answer": "B. কুয়েনলুন পর্বত",
+        "hint": "হোয়াংহো নদীর উৎপত্তিস্থল কুয়েনলুন পর্বত।"
+    },
+    {
+        "question": "58. মেক্সিকো ও যুক্তরাষ্ট্র বিভক্তকারী সীমারেখা কোনটি?",
+        "answers": [
+            {"text": "A. সনোরা লাইন", "score": 0},
+            {"text": "B. ম্যাকনামারা লাইন", "score": 0},
+            {"text": "C. ডুরান্ড লাইন", "score": 1},
+            {"text": "D. হিন্ডারবার্গ লাইন", "score": 0}
+        ],
+        "correct_answer": "C. ডুরান্ড লাইন",
+        "hint": "মেক্সিকো ও যুক্তরাষ্ট্র বিভক্তকারী সীমারেখা ডুরান্ড লাইন।"
+    },
+    {
+        "question": "59. ইউরোপের ককপিট বলা হয় কোন দেশকে?",
+        "answers": [
+            {"text": "A. বেলজিয়াম", "score": 1},
+            {"text": "B. ফ্রান্স", "score": 0},
+            {"text": "C. জার্মানী", "score": 0},
+            {"text": "D. ফিনল্যান্ড", "score": 0}
+        ],
+        "correct_answer": "A. বেলজিয়াম",
+        "hint": "বেলজিয়ামকে ইউরোপের ককপিট বলা হয়।"
+    },
+    {
+        "question": "60. বিশ্বের কোন দেশের সাক্ষরতার হার ১০০%?",
+        "answers": [
+            {"text": "A. পোল্যান্ড", "score": 0},
+            {"text": "B. লিথুয়ানিয়া", "score": 0},
+            {"text": "C. কাজাকিস্তান", "score": 0},
+            {"text": "D. স্লোভাকিয়া", "score": 1}
+        ],
+        "correct_answer": "D. স্লোভাকিয়া",
+        "hint": "লিথুয়ানিয়া এবং স্লোভাকিয়ার সাক্ষরতার হার ১০০%।"
+    },
+    {
+        "question": "61. রেফ্রিজারেটরে কমপ্রেসরের কাজ কি?",
+        "answers": [
+            {"text": "A. ফ্রেয়নকে ঘনীভূত করা", "score": 1},
+            {"text": "B. ফ্রেয়নকে বাষ্পে পরিণত করা", "score": 0},
+            {"text": "C. ফ্রেয়নকে সংকুচিত করে এর তাপ ও তাপমাত্রা বাড়ানো", "score": 0},
+            {"text": "D. ফ্রেয়নকে ঠাণ্ডা করা", "score": 0}
+        ],
+        "correct_answer": "A. ফ্রেয়নকে ঘনীভূত করা",
+        "hint": "কম্প্রেসরের কাজ হলো ফ্রেয়নকে ঘনীভূত করা।"
+    },
+    {
+        "question": "62. এক গ্রাম পানির তাপমাত্রা ২০° হতে ৩০° সেলসিয়াসে বৃদ্ধির জন্যে কত তাপের প্রয়োজন?",
+        "answers": [
+            {"text": "A. ১ ক্যালরি", "score": 0},
+            {"text": "B. ২ ক্যালরি", "score": 0},
+            {"text": "C. ৩ ক্যালরি", "score": 1},
+            {"text": "D. ৪ ক্যালরি", "score": 0}
+        ],
+        "correct_answer": "C. ৩ ক্যালরি",
+        "hint": "প্রয়োজনীয় তাপের পরিমাণ বের করতে হবে।"
+    },
+    {
+        "question": "63. কোন শব্দ শোনার পরে কত সেকেন্ড পর্যন্ত এর রেশ আমাদের মস্তিষ্কে থাকে?",
+        "answers": [
+            {"text": "A. ১ সেকেন্ড", "score": 0},
+            {"text": "B. ০.১ সেকেন্ড", "score": 1},
+            {"text": "C. ০.০১ সেকেন্ড", "score": 0},
+            {"text": "D. ০.০০১ সেকেন্ড", "score": 0}
+        ],
+        "correct_answer": "B. ০.১ সেকেন্ড",
+        "hint": "কোনো শব্দ শোনার পর ০.১ সেকেন্ড পর্যন্ত এর রেশ থাকে।"
+    },
+    {
+        "question": "64. টেপ রেকর্ডার এবং কম্পিউটারের স্মৃতির ফিতায় কি ধরনের চুম্বক ব্যবহৃত হয়?",
+        "answers": [
+            {"text": "A. স্থায়ী চুম্বক", "score": 1},
+            {"text": "B. অস্থায়ী চুম্বক", "score": 0},
+            {"text": "C. সংকর চুম্বক", "score": 0},
+            {"text": "D. প্রাকৃতিক চুম্বক", "score": 0}
+        ],
+        "correct_answer": "A. স্থায়ী চুম্বক",
+        "hint": "টার়েকর্ডার ও কম্পিউটারের ফিতায় স্থায়ী চুম্বক ব্যবহৃত হয়।"
+    },
+    {
+        "question": "65. টেলিভিশনে রঙিন ছবি উৎপাদনের জন্য কয়টি মৌলিক রং-এর ছবি ব্যবহার করা হয়?",
+        "answers": [
+            {"text": "A. ১টি", "score": 0},
+            {"text": "B. ২টি", "score": 0},
+            {"text": "C. ৩টি", "score": 1},
+            {"text": "D. ৪টি", "score": 0}
+        ],
+        "correct_answer": "C. ৩টি",
+        "hint": "রঙিন ছবি উৎপাদনে লাল, সবুজ ও নীল মৌলিক রঙ ব্যবহৃত হয়।"
+    },
+    {
+        "question": "66. পৃথিবীতে কখন ল্যাপটপ কম্পিউটার প্রবর্তিত হয় এবং কোন কোম্পানি এটা তৈরি করে?",
+        "answers": [
+            {"text": "A. কমপ্যাক, ১৯৮৫", "score": 0},
+            {"text": "B. এপসন, ১৯৮১", "score": 1},
+            {"text": "C. আইবিএম, ১৯৮৩", "score": 0},
+            {"text": "D. অ্যাপল, ১৯৭৭", "score": 0}
+        ],
+        "correct_answer": "B. এপসন, ১৯৮১",
+        "hint": "'Epson HX-20' প্রথম ল্যাপটপ হিসেবে পরিহিত হয়।"
+    },
+    {
+        "question": "67. যে যন্ত্রের সাহায্যে পরবর্তী উচ্চ বিভবকে নিম্ন বিভবে এবং নিম্ন বিভবকে উচ্চ বিভবে রূপান্তরিত করা হয় তার নাম কি?",
+        "answers": [
+            {"text": "A. ট্রান্সফর্মার", "score": 1},
+            {"text": "B. মোটর", "score": 0},
+            {"text": "C. জেনারেটর", "score": 0},
+            {"text": "D. ডায়নামো", "score": 0}
+        ],
+        "correct_answer": "A. ট্রান্সফর্মার",
+        "hint": "যন্ত্রটিকে ট্রান্সফর্মার বলা হয় যেটি বিভব পরিবর্তে সঞ্চালিত করে।"
+    },
+    {
+        "question": "68. বিদ্যুৎ বিলের হিসাব কিভাবে করা হয়?",
+        "answers": [
+            {"text": "A. ওয়াট আওয়ারে", "score": 0},
+            {"text": "B. ওয়াটে", "score": 0},
+            {"text": "C. ভোল্টে", "score": 0},
+            {"text": "D. কিলোওয়াট ঘণ্টায়", "score": 1}
+        ],
+        "correct_answer": "D. কিলোওয়াট ঘণ্টায়",
+        "hint": "বিদ্যুৎ বিলের হিসাব কিলোওয়াট ঘণ্টায় নির্ধারণ করা হয়।"
+    },
+    {
+        "question": "69. কোনটি পানিতে দ্রবীভূত হয় না?",
+        "answers": [
+            {"text": "A. গ্লিসারিন", "score": 0},
+            {"text": "B. ফিটকিরি", "score": 0},
+            {"text": "C. সোডিয়াম ক্লোরাইড", "score": 0},
+            {"text": "D. ক্যালসিয়াম কার্বনেট", "score": 1}
+        ],
+        "correct_answer": "D. ক্যালসিয়াম কার্বনেট",
+        "hint": "ক্যালসিয়াম কার্বনেট পানিতে দ্রবীভূত হয় না।"
+    },
+    {
+        "question": "70. পারমাণবিক চুল্লিতে তাপ পরিবাহক হিসেবে কোন ধাতু ব্যবহৃত হয়?",
+        "answers": [
+            {"text": "A. সোডিয়াম", "score": 1},
+            {"text": "B. পটাসিয়াম", "score": 0},
+            {"text": "C. ম্যাগনেসিয়াম", "score": 0},
+            {"text": "D. কোনোটিই নয়", "score": 0}
+        ],
+        "correct_answer": "A. সোডিয়াম",
+        "hint": "পারমাণবিক চুল্লিতে সোডিয়াম ধাতু তাপ পরিবাহক হিসেবে ব্যবহৃত হয়।"
+    },
+    {
+        "question": "71. চা পাতায় কোন ভিটামিন থাকে?",
+        "answers": [
+            {"text": "A. ভিটামিন-ই", "score": 0},
+            {"text": "B. ভিটামিন-কে", "score": 0},
+            {"text": "C. ভিটামিন-বি কমপ্লেক্স", "score": 1},
+            {"text": "D. ভিটামিন-এ", "score": 0}
+        ],
+        "correct_answer": "C. ভিটামিন-বি কমপ্লেক্স",
+        "hint": "চা পাতায় ভিটামিন-বি কমপ্লেক্স থাকে।"
+    },
+    {
+        "question": "72. উদ্ভিদের পাতা হলদে হয়ে যায় কিসের অভাবে?",
+        "answers": [
+            {"text": "A. নাইট্রোজেনের", "score": 1},
+            {"text": "B. ফসফরাসের", "score": 0},
+            {"text": "C. ইউরিয়ার", "score": 0},
+            {"text": "D. পটাসিয়ামের", "score": 0}
+        ],
+        "correct_answer": "A. নাইট্রোজেনের",
+        "hint": "নাইট্রোজেনের অভাবে পাতা হলদে হয়ে যায়।"
+    },
+    {
+        "question": "73. মানুষের স্পাইনাল কর্ডের দৈর্ঘ্য কত?",
+        "answers": [
+            {"text": "A. ১৫ ইঞ্চি (প্রায়)", "score": 0},
+            {"text": "B. ১৭ ইঞ্চি (প্রায়)", "score": 0},
+            {"text": "C. ১৮ ইঞ্চি (প্রায়)", "score": 1},
+            {"text": "D. ২০ ইঞ্চি (প্রায়)", "score": 0}
+        ],
+        "correct_answer": "C. ১৮ ইঞ্চি (প্রায়)",
+        "hint": "মানুষের স্পাইনাল কর্ডের দৈর্ঘ্য প্রায় ১৮ ইঞ্চি।"
+    },
+    {
+        "question": "74. ক্যান্সার রোগের কারণ কি?",
+        "answers": [
+            {"text": "A. কোষের অস্বাভাবিক মৃত্যু", "score": 0},
+            {"text": "B. কোষের অস্বাভাবিক বৃদ্ধি", "score": 1},
+            {"text": "C. কোষের অস্বাভাবিক জমাট বাঁধা", "score": 0},
+            {"text": "D. উপরের সবগুলো", "score": 0}
+        ],
+        "correct_answer": "B. কোষের অস্বাভাবিক বৃদ্ধি",
+        "hint": "ক্যান্সারে কোষের অস্বাভাবিক বৃদ্ধি ঘটে।"
+    },
+    {
+        "question": "75. ইনসুলিন নিঃসৃত হয় কোথা থেকে?",
+        "answers": [
+            {"text": "A. অগ্ন্যাশয় হতে", "score": 1},
+            {"text": "B. প্যানক্রিয়াস হতে", "score": 0},
+            {"text": "C. লিভার হতে", "score": 0},
+            {"text": "D. পিটুইটারী গ্ল্যান্ড হতে", "score": 0}
+        ],
+        "correct_answer": "A. অগ্ন্যাশয় হতে",
+        "hint": "ইনসুলিন অগ্ন্যাশয় থেকে নিঃসৃত হয়।"
+    },
+    {
+        "question": "76. সুষম খাদ্যের উপাদান কয়টি?",
+        "answers": [
+            {"text": "A. ৪টি", "score": 0},
+            {"text": "B. ৫টি", "score": 0},
+            {"text": "C. ৬টি", "score": 1},
+            {"text": "D. ৮টি", "score": 0}
+        ],
+        "correct_answer": "C. ৬টি",
+        "hint": "সুষম খাদ্যের উপাদান ৬টি।"
+    },
+    {
+        "question": "77. প্রাণিজগতের জন্যে সবচেয়ে ক্ষতিকারক রশ্মি কোনটি?",
+        "answers": [
+            {"text": "A. আলট্রা-ভায়োলেট রশ্মি", "score": 0},
+            {"text": "B. বিটা রশ্মি", "score": 0},
+            {"text": "C. আলফা রশ্মি", "score": 0},
+            {"text": "D. গামা রশ্মি", "score": 1}
+        ],
+        "correct_answer": "D. গামা রশ্মি",
+        "hint": "গামা রশ্মি সবচেয়ে ক্ষতিকারক।"
+    },
+    {
+        "question": "78. জনসংখ্যা বৃদ্ধির ফলে ব্যাপকভাবে ক্ষতিগ্রস্ত হচ্ছে কি?",
+        "answers": [
+            {"text": "A. প্রাকৃতিক পরিবেশ", "score": 1},
+            {"text": "B. সামাজিক পরিবেশ", "score": 0},
+            {"text": "C. বায়বীয় পরিবেশ", "score": 0},
+            {"text": "D. সাংস্কৃতিক পরিবেশ", "score": 0}
+        ],
+        "correct_answer": "A. প্রাকৃতিক পরিবেশ",
+        "hint": "জনসংখ্যা বৃদ্ধির ফলে প্রাকৃতিক পরিবেশ ক্ষতিগ্রস্ত হচ্ছে।"
+    },
+    {
+        "question": "79. কোথায় দিন রাত্রি সর্বত্র সমান?",
+        "answers": [
+            {"text": "A. মেরু অঞ্চলে", "score": 0},
+            {"text": "B. নিরক্ষরেখায়", "score": 1},
+            {"text": "C. উত্তর গোলার্ধে", "score": 0},
+            {"text": "D. দক্ষিণ গোলার্ধে", "score": 0}
+        ],
+        "correct_answer": "B. নিরক্ষরেখায়",
+        "hint": "নিরক্ষরেখায় দিন রাত্রি সর্বদা সমান থাকে।"
+    },
+    {
+        "question": "80. ছায়াপথ তার নিজ অক্ষকে কেন্দ্র করে ঘুরে আসতে যে সময় লাগে তাকে কি বলে?",
+        "answers": [
+            {"text": "A. সৌর বছর", "score": 0},
+            {"text": "B. কসমিক ইয়ার", "score": 1},
+            {"text": "C. আলোক বর্ষ", "score": 0},
+            {"text": "D. পলিসার", "score": 0}
+        ],
+        "correct_answer": "B. কসমিক ইয়ার",
+        "hint": "ছায়াপথের ঘূর্ণন সময়কে কসমিক ইয়ার বলে।"
+    },
+    {
+        "question": "81. A rocket flying to the moon does not need wings because -",
+        "answers": [
+            {"text": "A. it has no engine", "score": 0},
+            {"text": "B. space has too much dust", "score": 0},
+            {"text": "C. it has no engine", "score": 0},
+            {"text": "D. space has too much dust", "score": 0}
+        ],
+        "correct_answer": "D. space has too much dust",
+        "hint": "রকেটের জন্য পাখার প্রয়োজন হয় না কারণ নিউটনের তৃতীয় সূত্র এখানে কাজ করছে।"
+    },
+    {
+        "question": "82. Rubber is notable for its-",
+        "answers": [
+            {"text": "A. lightness", "score": 0},
+            {"text": "B. heaviness", "score": 0},
+            {"text": "C. elasticity", "score": 1},
+            {"text": "D. viscosity", "score": 0}
+        ],
+        "correct_answer": "C. elasticity",
+        "hint": "রাবার মূলত এর স্থিতিস্থাপকতার জন্য পরিচিত।"
+    },
+    {
+        "question": "83. Julius Caesar was the ruler of Rome about-",
+        "answers": [
+            {"text": "A. 1000 years ago", "score": 0},
+            {"text": "B. 1500 years ago", "score": 0},
+            {"text": "C. 2000 years ago", "score": 1},
+            {"text": "D. 3000 years ago", "score": 0}
+        ],
+        "correct_answer": "C. 2000 years ago",
+        "hint": "জুলিয়াস সিজার খ্রিস্টপূর্ব ১০০ অব্দে জন্মগ্রহণ করেন।"
+    },
+    {
+        "question": "84. The South Pole is located in the-",
+        "answers": [
+            {"text": "A. Arctic", "score": 0},
+            {"text": "B. Antarctic", "score": 1},
+            {"text": "C. Antipodes", "score": 0},
+            {"text": "D. Occident", "score": 0}
+        ],
+        "correct_answer": "B. Antarctic",
+        "hint": "দক্ষিণ মেরু বা কুমেরু অঞ্চল হলো Antarctic।"
+    },
+    {
+        "question": "85. Tiger : Zoology : Mars :",
+        "answers": [
+            {"text": "A. Astrology", "score": 0},
+            {"text": "B. Cryptology", "score": 0},
+            {"text": "C. Astronomy", "score": 1},
+            {"text": "D. Telescopy", "score": 0}
+        ],
+        "correct_answer": "C. Astronomy",
+        "hint": "Tiger প্রাণী ‘Zoology’ তে এবং Mars গ্রহ ‘Astronomy’ তে।"
+    },
+    {
+        "question": "86. Frightened : Scream : : Angry : ?",
+        "answers": [
+            {"text": "A. Cry", "score": 0},
+            {"text": "B. Shiver", "score": 0},
+            {"text": "C. Shout", "score": 1},
+            {"text": "D. Sneer", "score": 0}
+        ],
+        "correct_answer": "C. Shout",
+        "hint": "রাগান্বিত হলে সাধারণত চিৎকার করা হয়।"
+    },
+    {
+        "question": "87. He ____ consciousness as a result of his head hitting the car's dashboard.",
+        "answers": [
+            {"text": "A. failed", "score": 0},
+            {"text": "B. broke", "score": 0},
+            {"text": "C. lost", "score": 1},
+            {"text": "D. passed", "score": 0}
+        ],
+        "correct_answer": "C. lost",
+        "hint": "তিনি জ্ঞান হারান।"
+    },
+    {
+        "question": "88. Only after I ____ home, did I remember my doctor's appointment.",
+        "answers": [
+            {"text": "A. going", "score": 0},
+            {"text": "B. go", "score": 0},
+            {"text": "C. went", "score": 1},
+            {"text": "D. gone", "score": 0}
+        ],
+        "correct_answer": "C. went",
+        "hint": "Simple past form ব্যবহার করতে হবে।"
+    },
+    {
+        "question": "89. When they had their first child, they put ____ a large sum for his education.",
+        "answers": [
+            {"text": "A. aside", "score": 1},
+            {"text": "B. beside", "score": 0},
+            {"text": "C. outside", "score": 0},
+            {"text": "D. under", "score": 0}
+        ],
+        "correct_answer": "A. aside",
+        "hint": "'Put aside' অর্থ হলো সরিয়ে রাখা বা সঞ্চয় করা।"
+    },
+    {
+        "question": "90. If you count 1 to 100, how many 5s will you pass on the way?",
+        "answers": [
+            {"text": "A. 10", "score": 0},
+            {"text": "B. 11", "score": 0},
+            {"text": "C. 18", "score": 0},
+            {"text": "D. 19", "score": 1}
+        ],
+        "correct_answer": "D. 19",
+        "hint": "১ থেকে ১০০ পর্যন্ত ২০ টি '৫' থাকবে।"
+    },
+    {
+        "question": "91. A farmer had 17 hens. All but 9 died. How many live hens were left?",
+        "answers": [
+            {"text": "A. 0", "score": 0},
+            {"text": "B. 9", "score": 1},
+            {"text": "C. 8", "score": 0},
+            {"text": "D. 16", "score": 0}
+        ],
+        "correct_answer": "B. 9",
+        "hint": "All but 9 died অর্থাৎ ৯টি বাচ্চা হাঁস বেঁচে আছে।"
+    },
+    {
+        "question": "92. If two typists can type two pages in two minutes, how many typists will it take to type 18 pages in six minutes?",
+        "answers": [
+            {"text": "A. 3", "score": 1},
+            {"text": "B. 6", "score": 0},
+            {"text": "C. 9", "score": 0},
+            {"text": "D. 18", "score": 0}
+        ],
+        "correct_answer": "A. 3",
+        "hint": "কাজের হিসাব অনুযায়ী প্রয়োজনীয় টাইপিস্ট বের করতে হবে।"
+    },
+    {
+        "question": "93. The fifth consonant from the beginning of this sentence is the letter -",
+        "answers": [
+            {"text": "A. i", "score": 0},
+            {"text": "B. e", "score": 0},
+            {"text": "C. a", "score": 0},
+            {"text": "D. t", "score": 1}
+        ],
+        "correct_answer": "D. t",
+        "hint": "বাক্যে প্রথম ৫টি ব্যঞ্জনবর্ণ বের করলে 't' হবে।"
+    },
+    {
+        "question": "94. If the second day of the month is a Monday, the eighteenth day of the month is a-",
+        "answers": [
+            {"text": "A. Sunday", "score": 0},
+            {"text": "B. Tuesday", "score": 0},
+            {"text": "C. Wednesday", "score": 1},
+            {"text": "D. Monday", "score": 0}
+        ],
+        "correct_answer": "C. Wednesday",
+        "hint": "২ মার্চ সোমবার হলে ১৮ মার্চ বুধবার হবে।"
+    },
+    {
+        "question": "95. Two men, starting at the same point, walk in opposite directions for 4 meters, turn left and walk another 3 meters. What is the distance between them?",
+        "answers": [
+            {"text": "A. 7 meters", "score": 0},
+            {"text": "B. 14 meters", "score": 0},
+            {"text": "C. 10 meters", "score": 1},
+            {"text": "D. 6 meters", "score": 0}
+        ],
+        "correct_answer": "C. 10 meters",
+        "hint": "পথে গিয়ে তাদের মধ্যে দূরত্ব বের করতে হবে।"
+    },
+    {
+        "question": "96. 30% of 10 is 10% of which?",
+        "answers": [
+            {"text": "A. 30", "score": 0},
+            {"text": "B. 60", "score": 1},
+            {"text": "C. 30", "score": 0},
+            {"text": "D. 600", "score": 0}
+        ],
+        "correct_answer": "B. 60",
+        "hint": "৩০% এর পর যে মানটির সঙ্গে ১০% সমান হবে সেটি বের করতে হবে।"
+    },
+    {
+        "question": "97. Rahim is 12 years old. He is three times older than Karim. What will be the age of Rahim when he is two times older than Karim?",
+        "answers": [
+            {"text": "A. 15 years", "score": 0},
+            {"text": "B. 16 years", "score": 0},
+            {"text": "C. 17 years", "score": 1},
+            {"text": "D. 18 years", "score": 0}
+        ],
+        "correct_answer": "C. 17 years",
+        "hint": "গণনা মাধ্যমে রাহি ও করিমের বয়স কিভাবে সম্পর্কিত তা বের করতে হবে।"
+    },
+    {
+        "question": "98. Divide 30 by half and add 10. What do you get?",
+        "answers": [
+            {"text": "A. 25", "score": 0},
+            {"text": "B. 45", "score": 0},
+            {"text": "C. 55", "score": 1},
+            {"text": "D. 70", "score": 0}
+        ],
+        "correct_answer": "C. 55",
+        "hint": "৩০ কে অর্ধেক দ্বারা ভাগ করে ১০ যোগ করতে হবে।"
+    },
+    {
+        "question": "99. If a man swims 4 meters upstream at 1 mph and back downstream to the same point at 4 mph, what is his average speed?",
+        "answers": [
+            {"text": "A. 0.8 mph", "score": 0},
+            {"text": "B. 1.6 mph", "score": 0},
+            {"text": "C. 2.4 mph", "score": 0},
+            {"text": "D. 3.2 mph", "score": 1}
+        ],
+        "correct_answer": "D. 3.2 mph",
+        "hint": "গতি বের করার জন্য উচিত উভয় দিকে একটি টাইম হিসাব করতে।"
+    },
+    {
+        "question": "100. If you count 1 to 100, how many 5s will you pass on the way?",
+        "answers": [
+            {"text": "A. 10", "score": 0},
+            {"text": "B. 11", "score": 0},
+            {"text": "C. 20", "score": 1},
+            {"text": "D. 19", "score": 0}
+        ],
+        "correct_answer": "C. 20",
+        "hint": "১ থেকে ১০০ পর্যন্ত মোট ২০টি ৫ থাকবে।"
+    }
+]
