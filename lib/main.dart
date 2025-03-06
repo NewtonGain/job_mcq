@@ -383,7 +383,7 @@ class _QuestionScreenState extends ConsumerState<QuestionScreen> {
                 );
               }).toList(),
               SizedBox(height: 20),
-              if (!submitted)
+              if (!submitted && !timeExpired)
                 Row(
                   mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                   children: [
@@ -393,7 +393,7 @@ class _QuestionScreenState extends ConsumerState<QuestionScreen> {
                         () => showHint(question['hint'])),
                   ],
                 ),
-              if (submitted)
+              if (timeExpired)
                 _buildActionButton('Next Question', Colors.green, handleNext),
               ConfettiWidget(
                 confettiController: _confettiController,
