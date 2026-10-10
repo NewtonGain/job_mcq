@@ -1,0 +1,1842 @@
+[
+  {
+    "question": "১. ভাষার ক্ষুদ্রতম একক কোনটি?",
+    "answers": [
+      {
+        "text": "(ক) বর্ণ",
+        "score": 0
+      },
+      {
+        "text": "(খ) শব্দ",
+        "score": 0
+      },
+      {
+        "text": "(গ) অক্ষর",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) ধ্বনি",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ধ্বনি",
+    "hint": "ভাষার মৌলিক ও ক্ষুদ্রতম একক হলো ধ্বনি."
+  },
+  {
+    "question": "২. কোনটি “ক্ষুধার্ত” শব্দের সন্ধি বিচ্ছেদ?",
+    "answers": [
+      {
+        "text": "(ক) ক্ষুধা + আর্ত",
+        "score": 0
+      },
+      {
+        "text": "(খ) ক্ষুৎ + ঋর্ত",
+        "score": 0
+      },
+      {
+        "text": "(গ) ক্ষুধ + আর্ত",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) ক্ষুধা + ঋত",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ক্ষুধা + ঋত",
+    "hint": "ক্ষুধা + ঋত মিলে ‘ক্ষুধার্ত’ গঠিত হয়."
+  },
+  {
+    "question": "৩. বঙ্গবন্ধু শেখ মুজিবুর রহমান এর আত্মজীবনীমূলক গ্রন্থের নাম-",
+    "answers": [
+      {
+        "text": "(ক) সংগ্রাম",
+        "score": 0
+      },
+      {
+        "text": "(খ) অসমাপ্ত আত্মজীবনী",
+        "score": 1
+      },
+      {
+        "text": "(গ) বাংলাদেশ ও আমি",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) আমার জীবনী",
+        "score": 0
+      }
+    ],
+    "correct_answer": "অসমাপ্ত আত্মজীবনী",
+    "hint": "জাতির পিতা বঙ্গবন্ধু শেখ মুজিবুর রহমানের আত্মজীবনীমূলক গ্রন্থটির নাম ‘অসমাপ্ত আত্মজীবনী’."
+  },
+  {
+    "question": "৪. নিচের কোন শব্দটি ভুল?",
+    "answers": [
+      {
+        "text": "(ক) স্বায়ত্তশাসন",
+        "score": 0
+      },
+      {
+        "text": "(খ) শ্রদ্ধাঞ্জলি",
+        "score": 0
+      },
+      {
+        "text": "(গ) অভ্যন্তরীণ",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) মুহর্মুহূ",
+        "score": 1
+      }
+    ],
+    "correct_answer": "মুহর্মুহূ",
+    "hint": "প্রদত্ত বিকল্পগুলোর মধ্যে 'মুহর্মুহূ' বানানটি ভুল."
+  },
+  {
+    "question": "৫. ‘শশাঙ্ক’ শব্দের সঠিক অর্থ কোনটি?",
+    "answers": [
+      {
+        "text": "(ক) চাঁদ",
+        "score": 1
+      },
+      {
+        "text": "(খ) খরগোশ",
+        "score": 0
+      },
+      {
+        "text": "(গ) সমুদ্র",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) সূর্য",
+        "score": 0
+      }
+    ],
+    "correct_answer": "চাঁদ",
+    "hint": "‘শশাঙ্ক’ শব্দের অর্থ হলো চাঁদ."
+  },
+  {
+    "question": "৬. ‘উত্তম পুরুষ’ উপন্যাসের রচয়িতা কে?",
+    "answers": [
+      {
+        "text": "(ক) রশীদ করীম",
+        "score": 1
+      },
+      {
+        "text": "(খ) শওকত ওসমান",
+        "score": 0
+      },
+      {
+        "text": "(গ) জহির রায়হান",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) শহীদুল্লা কায়সার",
+        "score": 0
+      }
+    ],
+    "correct_answer": "রশীদ করীম",
+    "hint": "সাহিত্যিক রশীদ করীম ‘উত্তম পুরুষ’ উপন্যাসের রচয়িতা."
+  },
+  {
+    "question": "৭. আদালত শব্দটি কোন ভাষার শব্দ?",
+    "answers": [
+      {
+        "text": "(ক) আরবি",
+        "score": 1
+      },
+      {
+        "text": "(খ) বাংলা",
+        "score": 0
+      },
+      {
+        "text": "(গ) পুর্তগিজ",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) ফারসি",
+        "score": 0
+      }
+    ],
+    "correct_answer": "আরবি",
+    "hint": "আদালত একটি আরবি ভাষা থেকে আগত শব্দ."
+  },
+  {
+    "question": "৮. ‘বজ্রে তোমার বাজে বাঁশী?’ কোন কারকে কোন বিভক্তি?",
+    "answers": [
+      {
+        "text": "(ক) কর্তায় শূন্য",
+        "score": 0
+      },
+      {
+        "text": "(খ) অপাদানে ৭মী",
+        "score": 1
+      },
+      {
+        "text": "(গ) অধিকরণে ৭মী",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) করণে ১মা",
+        "score": 0
+      }
+    ],
+    "correct_answer": "অপাদানে ৭মী",
+    "hint": "বজ্রে (বজ্র + এ) হলো অপাদান কারকে সপ্তমী বিভক্তি."
+  },
+  {
+    "question": "৯. মুক্তিযুদ্ধভিত্তিক উপন্যাস কোনটি?",
+    "answers": [
+      {
+        "text": "(ক) জাহান্নম হইতে বিদায়",
+        "score": 1
+      },
+      {
+        "text": "(খ) জননী",
+        "score": 0
+      },
+      {
+        "text": "(গ) কর্ণফুলী",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) সূর্য দীঘল বাড়ি",
+        "score": 0
+      }
+    ],
+    "correct_answer": "জাহান্নম হইতে বিদায়",
+    "hint": "শহীদুল জহির বা শাহেদ আলীর মুক্তিযুদ্ধভিত্তিক বিখ্যাত উপন্যাস ‘জাহান্নম হইতে বিদায়’."
+  },
+  {
+    "question": "১০. তালব্যবর্ণ কোনগুলো?",
+    "answers": [
+      {
+        "text": "(ক) এ, ঐ",
+        "score": 0
+      },
+      {
+        "text": "(খ) ই, ঈ",
+        "score": 1
+      },
+      {
+        "text": "(গ) উ, ঊ",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) ও, ঔ",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ই, ঈ",
+    "hint": "ই এবং ঈ হলো তালব্য বর্ণ."
+  },
+  {
+    "question": "১১. কোনটি খাঁটি বাংলা উপসর্গ?",
+    "answers": [
+      {
+        "text": "(ক) আভাস",
+        "score": 0
+      },
+      {
+        "text": "(খ) অজানা",
+        "score": 1
+      },
+      {
+        "text": "(গ) গরমিল",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) বেমালুম",
+        "score": 0
+      }
+    ],
+    "correct_answer": "অজানা",
+    "hint": "‘অজানা’ শব্দটিতে ‘অ’ উপসর্গটি খাঁটি বাংলা উপসর্গ."
+  },
+  {
+    "question": "১২. শেষ মুঘল সম্রাট বাহাদুর শাহের কবর কোথায়?",
+    "answers": [
+      {
+        "text": "(ক) দিল্লি",
+        "score": 0
+      },
+      {
+        "text": "(খ) আগ্রা",
+        "score": 0
+      },
+      {
+        "text": "(গ) ইয়াঙ্গুন",
+        "score": 1
+      },
+      {
+        "text": "(ঘ) লাহোর",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ইয়াঙ্গুন",
+    "hint": "শেষ মুঘল সম্রাট বাহাদুর শাহ জাফরের সমাধি মিয়ানমারের ইয়াঙ্গুনে অবস্থিত."
+  },
+  {
+    "question": "১৩. ‘নির্মল’ শব্দের বিপরীতার্থক শব্দ কোনটি?",
+    "answers": [
+      {
+        "text": "(ক) অনির্মল",
+        "score": 0
+      },
+      {
+        "text": "(খ) পঙ্কিল",
+        "score": 1
+      },
+      {
+        "text": "(গ) অপরিস্কার",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) নোংরা",
+        "score": 0
+      }
+    ],
+    "correct_answer": "পঙ্কিল",
+    "hint": "‘নির্মল’ শব্দের সঠিক বিপরীত শব্দ হলো পঙ্কিল."
+  },
+  {
+    "question": "১৪. নিচের কোন বানানটি শুদ্ধ?",
+    "answers": [
+      {
+        "text": "(ক) মূহর্ত",
+        "score": 0
+      },
+      {
+        "text": "(খ) মুহূর্ত",
+        "score": 1
+      },
+      {
+        "text": "(গ) মুহুর্ত",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) মুহর্ত",
+        "score": 0
+      }
+    ],
+    "correct_answer": "মুহূর্ত",
+    "hint": "সঠিক বানানটি হলো ‘মুহূর্ত’."
+  },
+  {
+    "question": "১৫. ‘কর্ম সম্পাদনে পরিশ্রমী’ বাক্যের সংক্ষিপ্ত রূপ কোনটি?",
+    "answers": [
+      {
+        "text": "(ক) কর্মনিষ্ঠ",
+        "score": 0
+      },
+      {
+        "text": "(খ) কর্মোদ্যমী",
+        "score": 0
+      },
+      {
+        "text": "(গ) কর্মঠ",
+        "score": 1
+      },
+      {
+        "text": "(ঘ) কর্মী",
+        "score": 0
+      }
+    ],
+    "correct_answer": "কর্মঠ",
+    "hint": "কর্ম সম্পাদনে পরিশ্রমী ব্যক্তিকে এককথায় ‘কর্মঠ’ বলে."
+  },
+  {
+    "question": "১৬. ‘আটকপালে’ এর অর্থ কোনটি?",
+    "answers": [
+      {
+        "text": "(ক) জ্ঞানী",
+        "score": 0
+      },
+      {
+        "text": "(খ) কারারুদ্ধ",
+        "score": 0
+      },
+      {
+        "text": "(গ) হতভাগ্য",
+        "score": 1
+      },
+      {
+        "text": "(ঘ) সৌভাগ্যবান",
+        "score": 0
+      }
+    ],
+    "correct_answer": "হতভাগ্য",
+    "hint": "‘আটকপালে’ বাগধারাটির অর্থ হতভাগ্য."
+  },
+  {
+    "question": "১৭. কোনটি বাংলা ধাতু?",
+    "answers": [
+      {
+        "text": "(ক) কৃ",
+        "score": 0
+      },
+      {
+        "text": "(খ) মাগ্‌",
+        "score": 0
+      },
+      {
+        "text": "(গ) গম্‌",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) কাট্‌",
+        "score": 1
+      }
+    ],
+    "correct_answer": "কাট্‌",
+    "hint": "‘কাট্‌’ হলো একটি খাঁটি বাংলা ধাতু."
+  },
+  {
+    "question": "১৮. জায়া ও পতি সমাস করলে কি হয়?",
+    "answers": [
+      {
+        "text": "(ক) পতি-পত্নী",
+        "score": 0
+      },
+      {
+        "text": "(খ) দম্পতি",
+        "score": 1
+      },
+      {
+        "text": "(গ) জায়া-পতি",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) স্বামী-স্ত্রী",
+        "score": 0
+      }
+    ],
+    "correct_answer": "দম্পতি",
+    "hint": "জায়া ও পতি মিলে ‘দম্পতি’ (দ্বন্দ্ব সমাস) হয়."
+  },
+  {
+    "question": "১৯. কোন বানানটি শুদ্ধ?",
+    "answers": [
+      {
+        "text": "(ক) সুশ্রুষা",
+        "score": 0
+      },
+      {
+        "text": "(খ) শুশ্রূষা",
+        "score": 1
+      },
+      {
+        "text": "(গ) সুশ্রুসা",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) শুশ্রুষা",
+        "score": 0
+      }
+    ],
+    "correct_answer": "শুশ্রূষা",
+    "hint": "রোগীর সেবা বা শুশ্রূষা বানানে প্রথমটিতে তালব্য শ, পরে উ-কার এবং ধন্য ষ-এ দীর্ঘ ঊ-কার থাকে."
+  },
+  {
+    "question": "২০. মৃতের মত অবস্থা যার-",
+    "answers": [
+      {
+        "text": "(ক) মৃতবৎ",
+        "score": 0
+      },
+      {
+        "text": "(খ) আনমনা",
+        "score": 0
+      },
+      {
+        "text": "(গ) জীবন্মৃত",
+        "score": 1
+      },
+      {
+        "text": "(ঘ) মুমূর্ষু",
+        "score": 0
+      }
+    ],
+    "correct_answer": "জীবন্মৃত",
+    "hint": "মৃতের মতো অবস্থা যার তাকে ‘জীবন্মৃত’ বলে."
+  },
+  {
+    "question": "২১. ‘গবেষণা’-এর সন্ধি-বিচ্ছেদ কি হবে?",
+    "answers": [
+      {
+        "text": "(ক) গবে + ষণা",
+        "score": 0
+      },
+      {
+        "text": "(খ) গো + এষণা",
+        "score": 1
+      },
+      {
+        "text": "(গ) গ + এষণা",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) গব + এষণা",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গো + এষণা",
+    "hint": "গবেষণা শব্দের সঠিক সন্ধি বিচ্ছেদ গো + এষণা."
+  },
+  {
+    "question": "২২. ‘উয়ারী-বটেশ্বর’ কোথায় অবস্থিত?",
+    "answers": [
+      {
+        "text": "(ক) নরসিংদী",
+        "score": 1
+      },
+      {
+        "text": "(খ) নারায়ণগঞ্জ",
+        "score": 0
+      },
+      {
+        "text": "(গ) মুন্সীগঞ্জ",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) দাউদকান্দি",
+        "score": 0
+      }
+    ],
+    "correct_answer": "নরসিংদী",
+    "hint": "প্রাচীন প্রত্নতাত্ত্বিক স্থান উয়ারী-বটেশ্বর নরসিংদী জেলায় অবস্থিত."
+  },
+  {
+    "question": "২৩. ‘জঙ্গম’-এর বিপরীতার্থক শব্দ কি?",
+    "answers": [
+      {
+        "text": "(ক) স্থাবর",
+        "score": 1
+      },
+      {
+        "text": "(খ) অরণ্য",
+        "score": 0
+      },
+      {
+        "text": "(গ) সমুদ্র",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) পর্বতই",
+        "score": 0
+      }
+    ],
+    "correct_answer": "স্থাবর",
+    "hint": "‘জঙ্গম’ (যা চলাচল করতে পারে) এর বিপরীত শব্দ স্থাবর."
+  },
+  {
+    "question": "২৪. Which one is Reflexive pronoun?",
+    "answers": [
+      {
+        "text": "(ক) each",
+        "score": 0
+      },
+      {
+        "text": "(খ) myself",
+        "score": 1
+      },
+      {
+        "text": "(গ) who",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) he",
+        "score": 0
+      }
+    ],
+    "correct_answer": "myself",
+    "hint": "‘myself’ একটি reflexive pronoun."
+  },
+  {
+    "question": "২৫. ‘To read between the lines’ means-",
+    "answers": [
+      {
+        "text": "(ক) to read carefully",
+        "score": 0
+      },
+      {
+        "text": "(খ) to grasp the hidden meaning",
+        "score": 1
+      },
+      {
+        "text": "(গ) to concentrate",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) to suspect",
+        "score": 0
+      }
+    ],
+    "correct_answer": "to grasp the hidden meaning",
+    "hint": "‘To read between the lines’ ফ্রেজটির অর্থ অন্তর্নিহিত বা গোপন অর্থ উদ্ধার করা."
+  },
+  {
+    "question": "২৬. ‘He was taken to task’- এর বাংলা হলো-",
+    "answers": [
+      {
+        "text": "(ক) সে কাজ নিয়েছিল।",
+        "score": 0
+      },
+      {
+        "text": "(খ) তাকে কাজের জন্য বলা হয়েছিল।",
+        "score": 0
+      },
+      {
+        "text": "(গ) তাকে তিরস্কার করা হয়েছিল।",
+        "score": 1
+      },
+      {
+        "text": "(ঘ) তাকে কাজ দেয়া হয়েছিল",
+        "score": 0
+      }
+    ],
+    "correct_answer": "তাকে তিরস্কার করা হয়েছিল।",
+    "hint": "‘Take to task’ অর্থ তিরস্কার করা বা ভর্ৎসনা করা."
+  },
+  {
+    "question": "২৭. Fill in the blank : You should ___ swimming.",
+    "answers": [
+      {
+        "text": "(ক) take up",
+        "score": 1
+      },
+      {
+        "text": "(খ) take off",
+        "score": 0
+      },
+      {
+        "text": "(গ) start up",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) get off",
+        "score": 0
+      }
+    ],
+    "correct_answer": "take up",
+    "hint": "কোনো শখ বা খেলাধুলা শুরু করা অর্থে ‘take up’ ফ্রেজাল ভার্বটি বসে."
+  },
+  {
+    "question": "২৮. Which one is the correct sentence?",
+    "answers": [
+      {
+        "text": "(ক) Neither roads are led to the railway station.",
+        "score": 0
+      },
+      {
+        "text": "(খ) Neither of the roads lead to the railway station.",
+        "score": 0
+      },
+      {
+        "text": "(গ) Neither of the roads leads to the railway station.",
+        "score": 1
+      },
+      {
+        "text": "(ঘ) Neither of the roads are leading to the railway station.",
+        "score": 0
+      }
+    ],
+    "correct_answer": "Neither of the roads leads to the railway station.",
+    "hint": "‘Neither of’-এর পর plural noun এবং singular verb (leads) বসে."
+  },
+  {
+    "question": "২৯. Which is adjective?",
+    "answers": [
+      {
+        "text": "(ক) special",
+        "score": 1
+      },
+      {
+        "text": "(খ) laugh",
+        "score": 0
+      },
+      {
+        "text": "(গ) crime",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) miser",
+        "score": 0
+      }
+    ],
+    "correct_answer": "special",
+    "hint": "‘special’ একটি adjective."
+  },
+  {
+    "question": "৩০. ‘Paradise Lost’ attempted to -",
+    "answers": [
+      {
+        "text": "(ক) Explain why good and evil are necessary",
+        "score": 0
+      },
+      {
+        "text": "(খ) Justify the ways of man to God",
+        "score": 0
+      },
+      {
+        "text": "(গ) Justify the ways of God to man",
+        "score": 1
+      },
+      {
+        "text": "(ঘ) Show that the Satan and God have equal power",
+        "score": 0
+      }
+    ],
+    "correct_answer": "Justify the ways of God to man",
+    "hint": "মিল্টনের ‘Paradise Lost’ মহাকাব্যের মূল উদ্দেশ্য ছিল ‘Justify the ways of God to man’."
+  },
+  {
+    "question": "৩১. ‘Duchess’ is feminine of -",
+    "answers": [
+      {
+        "text": "(ক) Earl",
+        "score": 0
+      },
+      {
+        "text": "(খ) Dramatist",
+        "score": 0
+      },
+      {
+        "text": "(গ) Dutchman",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) Duke",
+        "score": 1
+      }
+    ],
+    "correct_answer": "Duke",
+    "hint": "Duke শব্দের স্ত্রীবাচক শব্দ হলো Duchess."
+  },
+  {
+    "question": "৩২. Choose the correct sentence.",
+    "answers": [
+      {
+        "text": "(ক) He lives here for five months.",
+        "score": 0
+      },
+      {
+        "text": "(খ) He is living here for five months.",
+        "score": 0
+      },
+      {
+        "text": "(গ) He has been living here for five months.",
+        "score": 1
+      },
+      {
+        "text": "(ঘ) He live here for five months.",
+        "score": 0
+      }
+    ],
+    "correct_answer": "He has been living here for five months.",
+    "hint": "নির্দিষ্ট সময় ধরে কোনো কাজ চলছে বোঝালে present perfect continuous tense ব্যবহৃত হয়."
+  },
+  {
+    "question": "৩৩. ‘Salt of life’ stands for-",
+    "answers": [
+      {
+        "text": "(ক) sorrows of life",
+        "score": 0
+      },
+      {
+        "text": "(খ) saline water",
+        "score": 0
+      },
+      {
+        "text": "(গ) sodium chloride",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) valuable things",
+        "score": 1
+      }
+    ],
+    "correct_answer": "valuable things",
+    "hint": "‘Salt of life’ ইডিয়মটির অর্থ মূল্যবান কিছু বা valuable things."
+  },
+  {
+    "question": "৩৪. Which word is not a noun?",
+    "answers": [
+      {
+        "text": "(ক) Defame",
+        "score": 1
+      },
+      {
+        "text": "(খ) Indemnity",
+        "score": 0
+      },
+      {
+        "text": "(গ) Articulation",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) Simulation",
+        "score": 0
+      }
+    ],
+    "correct_answer": "Defame",
+    "hint": "‘Defame’ হলো একটি verb, বাকিগুলো noun."
+  },
+  {
+    "question": "৩৫. Which one is correct: He said to me ''May you be happy''",
+    "answers": [
+      {
+        "text": "(ক) He told that I might be happy.",
+        "score": 0
+      },
+      {
+        "text": "(খ) He reported that I might be happy.",
+        "score": 0
+      },
+      {
+        "text": "(গ) He said that I might be happy.",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) He wished that I might be happy.",
+        "score": 1
+      }
+    ],
+    "correct_answer": "He wished that I might be happy.",
+    "hint": "Optative sentence-এর indirect speech করতে wished/prayed ব্যবহার করতে হয়."
+  },
+  {
+    "question": "৩৬. Article is used based on-",
+    "answers": [
+      {
+        "text": "(ক) stress",
+        "score": 0
+      },
+      {
+        "text": "(খ) spelling",
+        "score": 0
+      },
+      {
+        "text": "(গ) sound",
+        "score": 1
+      },
+      {
+        "text": "(ঘ) pronunciation",
+        "score": 0
+      }
+    ],
+    "correct_answer": "sound",
+    "hint": "আর্টিকেল মূলত শব্দের উচ্চারণের ধ্বনি বা sound-এর ওপর ভিত্তি করে বসে."
+  },
+  {
+    "question": "৩৭. Fill in the blank: He had written the book before he ____.",
+    "answers": [
+      {
+        "text": "(ক) has retired",
+        "score": 0
+      },
+      {
+        "text": "(খ) will be retired",
+        "score": 0
+      },
+      {
+        "text": "(গ) retired",
+        "score": 1
+      },
+      {
+        "text": "(ঘ) had retired",
+        "score": 0
+      }
+    ],
+    "correct_answer": "retired",
+    "hint": "Past perfect tense-এর পরের অংশে past indefinite tense বসে."
+  },
+  {
+    "question": "৩৮. Correct passive form of - ‘I have to do it.’-",
+    "answers": [
+      {
+        "text": "(ক) It has to be done to me.",
+        "score": 0
+      },
+      {
+        "text": "(খ) It has to be done by me.",
+        "score": 1
+      },
+      {
+        "text": "(গ) It is to be done by me.",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) Let it be done by me.",
+        "score": 0
+      }
+    ],
+    "correct_answer": "It has to be done by me.",
+    "hint": "‘Have to’ যুক্ত বাক্যের passive form-এ ‘has/have to be + V3’ ব্যবহৃত হয়."
+  },
+  {
+    "question": "৩৯. ‘The baby is always smiling’ এর বাংলা অনুবাদ হলো-",
+    "answers": [
+      {
+        "text": "(ক) শিশুটি সবসময় হাসছে।",
+        "score": 0
+      },
+      {
+        "text": "(খ) শিশুটি সবসময় হাসে।",
+        "score": 0
+      },
+      {
+        "text": "(গ) শিশুটির মুখ হাসিতে ভরা।",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) শিশুটির মুখে হাসি লেগেই আছে।",
+        "score": 1
+      }
+    ],
+    "correct_answer": "শিশুটির মুখে হাসি লেগেই আছে।",
+    "hint": "‘is always smiling’-এর সুন্দর ও ভাবানুবাদ হলো শিশুটির মুখে হাসি লেগেই আছে."
+  },
+  {
+    "question": "৪০. Choose the correctly spelt word.",
+    "answers": [
+      {
+        "text": "(ক) Suname",
+        "score": 0
+      },
+      {
+        "text": "(খ) Sunamee",
+        "score": 0
+      },
+      {
+        "text": "(গ) Tsunami",
+        "score": 1
+      },
+      {
+        "text": "(ঘ) Sunami",
+        "score": 0
+      }
+    ],
+    "correct_answer": "Tsunami",
+    "hint": "সুনামি শব্দের সঠিক ইংরেজি বানান Tsunami."
+  },
+  {
+    "question": "৪১. What is the antonym of ‘hybrid’?",
+    "answers": [
+      {
+        "text": "(ক) simple",
+        "score": 0
+      },
+      {
+        "text": "(খ) productive",
+        "score": 0
+      },
+      {
+        "text": "(গ) purebred",
+        "score": 1
+      },
+      {
+        "text": "(ঘ) raised",
+        "score": 0
+      }
+    ],
+    "correct_answer": "purebred",
+    "hint": "Hybrid (সঙ্কর) এর বিপরীতার্থক শব্দ হলো purebred (বিশুদ্ধ জাতের)."
+  },
+  {
+    "question": "৪২. Fill in the blank: The climate is congenial ____ health.",
+    "answers": [
+      {
+        "text": "(ক) to",
+        "score": 1
+      },
+      {
+        "text": "(খ) for",
+        "score": 0
+      },
+      {
+        "text": "(গ) with",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) on",
+        "score": 0
+      }
+    ],
+    "correct_answer": "to",
+    "hint": "‘Congenial’ শব্দের পর উপযুক্ত preposition হিসেবে ‘to’ বসে."
+  },
+  {
+    "question": "৪৩. Choose the correct sentence.",
+    "answers": [
+      {
+        "text": "(ক) He speaks English like English.",
+        "score": 0
+      },
+      {
+        "text": "(খ) He is speaks the English like English.",
+        "score": 0
+      },
+      {
+        "text": "(গ) He speaks English like the English.",
+        "score": 1
+      },
+      {
+        "text": "(ঘ) He speaks the English like the English.",
+        "score": 0
+      }
+    ],
+    "correct_answer": "He speaks English like the English.",
+    "hint": "ইংরেজি জাতির পূর্বে ‘the’ বসে এবং ভাষার নামের পূর্বে ‘the’ বসে না, তাই এই বাক্যটি সঠিক."
+  },
+  {
+    "question": "৪৪. দুটি সংখ্যার গুণফল ১৫৩৬, সংখ্যা দুটির ল. সা. গু ৯৬ হলে গ. সা. গু কত?",
+    "answers": [
+      {
+        "text": "(ক) ৩২",
+        "score": 0
+      },
+      {
+        "text": "(খ) ১২",
+        "score": 0
+      },
+      {
+        "text": "(গ) ১৬",
+        "score": 1
+      },
+      {
+        "text": "(ঘ) ২৪",
+        "score": 0
+      }
+    ],
+    "correct_answer": "১৬",
+    "hint": "গসাগু = (সংখ্য়াদ্বয়ের গুণফল / লসাগু) = ১৫৩৬ / ৯৬ = ১৬."
+  },
+  {
+    "question": "৪৫. শতকরা বার্ষিক ১৫% সুদে ৮,০০০ টাকায় ৬ মাসের সুদ কত?",
+    "answers": [
+      {
+        "text": "(ক) ৬০০ টাকা",
+        "score": 1
+      },
+      {
+        "text": "(খ) ৭০০ টাকা",
+        "score": 0
+      },
+      {
+        "text": "(গ) ৮০০ টাকা",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) ৫০০ টাকা",
+        "score": 0
+      }
+    ],
+    "correct_answer": "৬০০ টাকা",
+    "hint": "সুদ I = (Pnr / 100) অনুযায়ী (৮০০০ × (১/২) × ১৫) / ১০০ = ৬০০ টাকা."
+  },
+  {
+    "question": "৪৬. ১০টি সংখ্যার যোগফল ৪৬২। প্রথম চারটির গড় ৫২, শেষ ৫টির গড় ৩৮। পঞ্চম সংখ্যা কত?",
+    "answers": [
+      {
+        "text": "(ক) ৫০",
+        "score": 0
+      },
+      {
+        "text": "(খ) ৬২",
+        "score": 0
+      },
+      {
+        "text": "(গ) ৬৪",
+        "score": 1
+      },
+      {
+        "text": "(ঘ) ৬০",
+        "score": 0
+      }
+    ],
+    "correct_answer": "৬৪",
+    "hint": "প্রথম চারটির যোগফল ২০৮ এবং শেষ পাঁচটির যোগফল ১৯০; পঞ্চম সংখ্যা = ৪৬২ - (২০৮ + ১৯০) = ৬৪."
+  },
+  {
+    "question": "৪৭. ৬০ জন লোক কোনো কাজ ১৮ দিনে করতে পারে। উক্ত কাজ ৩৬ জন লোক কতদিন সম্পন্ন করতে পারবে?",
+    "answers": [
+      {
+        "text": "(ক) ২৯ দিনে",
+        "score": 0
+      },
+      {
+        "text": "(খ) ৩০ দিনে",
+        "score": 1
+      },
+      {
+        "text": "(গ) ২৭ দিনে",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) ২৮ দিনে",
+        "score": 0
+      }
+    ],
+    "correct_answer": "৩০ দিনে",
+    "hint": "ঐকিক নিয়মে হিসাব করলে দিন সংখ্যা = (৬০ × ১৮) / ৩৬ = ৩০ দিন."
+  },
+  {
+    "question": "৪৮. ৩ সে.মি., ৪ সে.মি. ও ৫ সে.মি. বাহুবিশিষ্ট তিনটি ঘনক গলিয়ে নতুন একটি ঘনক তৈরি করা হল। নতুন ঘনক এর বাহুর দৈর্ঘ্য কত?",
+    "answers": [
+      {
+        "text": "(ক) ৬ সে.মি.",
+        "score": 1
+      },
+      {
+        "text": "(খ) ৭ সে.মি.",
+        "score": 0
+      },
+      {
+        "text": "(গ) ৭.৫ সে.মি.",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) ৬.৫ সে.মি.",
+        "score": 0
+      }
+    ],
+    "correct_answer": "৬ সে.মি.",
+    "hint": "আয়তনের সমষ্টি = ৩³ + ৪³ + ৫³ = ২৭ + ৬৪ + ১২৫ = ২১৬; নতুন বাহু = ∛২১৬ = ৬ সেমি."
+  },
+  {
+    "question": "৪৯. ১২০ জন ছাত্রের মধ্যে ৩০ জন ছাত্র ফেল করলে পাশের হার কত?",
+    "answers": [
+      {
+        "text": "(ক) ৪০%",
+        "score": 0
+      },
+      {
+        "text": "(খ) ২৫%",
+        "score": 0
+      },
+      {
+        "text": "(গ) ৮০%",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) ৭৫%",
+        "score": 1
+      }
+    ],
+    "correct_answer": "৭৫%",
+    "hint": "পাস করেছে ১২০ - ৩০ = ৯০ জন; পাশের হার = (৯০ / ১২০) × ১০০% = ৭৫%."
+  },
+  {
+    "question": "৫০. ৩, ৯ ও ৪ এর চতুর্থ সমানুপাতিক কত?",
+    "answers": [
+      {
+        "text": "(ক) ১২",
+        "score": 1
+      },
+      {
+        "text": "(খ) ৪",
+        "score": 0
+      },
+      {
+        "text": "(গ) ১৪",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) ১৬",
+        "score": 0
+      }
+    ],
+    "correct_answer": "১২",
+    "hint": "চতুর্থ সমানুপাতিক x হলে ৩ : ৯ = ৪ : x, অর্থাৎ x = (৯ × ৪) / ৩ = ১২."
+  },
+  {
+    "question": "৫১. a + b = 5 এর a – b = 3 হলে, ab এর মান কত?",
+    "answers": [
+      {
+        "text": "(ক) 4",
+        "score": 1
+      },
+      {
+        "text": "(খ) 5",
+        "score": 0
+      },
+      {
+        "text": "(গ) 2",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) 3",
+        "score": 0
+      }
+    ],
+    "correct_answer": "4",
+    "hint": "অনুসিদ্ধান্ত ab = {((a+b)/2)² - ((a-b)/2)²} প্রয়োগ করলে মান ৪ পাওয়া যায়."
+  },
+  {
+    "question": "৫২. টাকায় ১০টি দরে লেবু ক্রয় করে ৮টি দরে বিক্রয় করলে শতকরা কত লাভ হবে?",
+    "answers": [
+      {
+        "text": "(ক) ১৫%",
+        "score": 0
+      },
+      {
+        "text": "(খ) ২০%",
+        "score": 0
+      },
+      {
+        "text": "(গ) ২৫%",
+        "score": 1
+      },
+      {
+        "text": "(ঘ) ১০%",
+        "score": 0
+      }
+    ],
+    "correct_answer": "২৫%",
+    "hint": "লাভের হার = {(১০ - ৮) / ৮} × ১০০% = ২৫%."
+  },
+  {
+    "question": "৫৩. ১ হতে ১০০ পর্যন্ত সংখ্যাসমূহের যোগফল কত?",
+    "answers": [
+      {
+        "text": "(ক) ৫০৫০",
+        "score": 1
+      },
+      {
+        "text": "(খ) ৫০০১",
+        "score": 0
+      },
+      {
+        "text": "(গ) ৪৯৯৯",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) ৫৫০১",
+        "score": 0
+      }
+    ],
+    "correct_answer": "৫০৫০",
+    "hint": "সূত্র n(n+1)/2 অনুযায়ী (১০০ × ১০১) / ২ = ৫০৫০."
+  },
+  {
+    "question": "৫৪. কোন ত্রিভুজের শীর্ষবিন্দু হতে বিপরীত বাহুর মধ্যবিন্দুর উপর অঙ্কিত রেখাকে ঐ ত্রিভুজের কি বলা হয়?",
+    "answers": [
+      {
+        "text": "(ক) সমদ্বিখণ্ডক",
+        "score": 0
+      },
+      {
+        "text": "(খ) অভিভুজ",
+        "score": 0
+      },
+      {
+        "text": "(গ) লম্ব",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) মধ্যমা",
+        "score": 1
+      }
+    ],
+    "correct_answer": "মধ্যমা",
+    "hint": "ত্রিভুজের শীর্ষবিন্দু থেকে বিপরীত বাহুর মধ্যবিন্দুর সংযোগকারী সরলরেখাকে মধ্যমা বলে."
+  },
+  {
+    "question": "৫৫. যদি x + 2y = 4 এবং xy = 2 হয়, তবে x = কত?",
+    "answers": [
+      {
+        "text": "(ক) 2",
+        "score": 1
+      },
+      {
+        "text": "(খ) 0",
+        "score": 0
+      },
+      {
+        "text": "(গ) 12",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) 1",
+        "score": 0
+      }
+    ],
+    "correct_answer": "2",
+    "hint": "সমীকরণ সমাধান করলে x এর মান ২ পাওয়া যায়."
+  },
+  {
+    "question": "৫৬. একটি বর্গাকার বাগানের ক্ষেত্রফল ২০২৫ বর্গমিটার। এর চারদিকে বেড়া দেয়া আছে। বেড়ার মোট দৈর্ঘ্য কত?",
+    "answers": [
+      {
+        "text": "(ক) ১৮০ মিটার",
+        "score": 1
+      },
+      {
+        "text": "(খ) ২০০ মিটার",
+        "score": 0
+      },
+      {
+        "text": "(গ) ২২০ মিটার",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) ১৬০ মিটার",
+        "score": 0
+      }
+    ],
+    "correct_answer": "১৮০ মিটার",
+    "hint": "এক বাহু = √২০২৫ = ৪৫ মিটার; পরিসীমা বা বেড়ার দৈর্ঘ্য = ৪৫ × ৪ = ১৮০ মিটার."
+  },
+  {
+    "question": "৫৭. ০.১ এর বর্গমূল কত?",
+    "answers": [
+      {
+        "text": "(ক) ০.২৫",
+        "score": 0
+      },
+      {
+        "text": "(খ) ০.১",
+        "score": 0
+      },
+      {
+        "text": "(গ) ০.০১",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) কোনোটিই নয়",
+        "score": 1
+      }
+    ],
+    "correct_answer": "কোনোটিই নয়",
+    "hint": "০.১ এর বর্গমূল প্রায় ০.৩১৬, যা প্রদত্ত অপশনগুলোতে নেই."
+  },
+  {
+    "question": "৫৮. ৫০০ টাকার আম কত টাকায় বিক্রি করলে ৩.৫% লাভ হবে?",
+    "answers": [
+      {
+        "text": "(ক) ৫১২.৫০",
+        "score": 0
+      },
+      {
+        "text": "(খ) ৫১৭.৫০",
+        "score": 1
+      },
+      {
+        "text": "(গ) ৫১৫.৫০",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) ৫১০.০০",
+        "score": 0
+      }
+    ],
+    "correct_answer": "৫১৭.৫০",
+    "hint": "বিক্রয়মূল্য = ৫০০ টাকার ১০৩.৫% = ৫১৭.৫০ টাকা."
+  },
+  {
+    "question": "৫৯. কোন আসল ৩ বছরে সুদে-আসলে ৪৬০ টাকা এবং ৫ বছরে সুদে-আসলে ৫০০ টাকা হয়। শতকরা সুদের হার কত?",
+    "answers": [
+      {
+        "text": "(ক) ৭%",
+        "score": 0
+      },
+      {
+        "text": "(খ) ৬%",
+        "score": 0
+      },
+      {
+        "text": "(গ) ৪%",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) ৫%",
+        "score": 1
+      }
+    ],
+    "correct_answer": "৫%",
+    "hint": "২ বছরের সুদ ২০ টাকা; আসল ৪০০ টাকা হিসাব করে সুদের হার ৫% পাওয়া যায়."
+  },
+  {
+    "question": "৬০. ক-এর টাকা খ-এর দ্বিগুণ। তাদের দুইজনের মোট ৩০ টাকা আছে। খ-এর কত টাকা আছে?",
+    "answers": [
+      {
+        "text": "(ক) ২০ টাকা",
+        "score": 0
+      },
+      {
+        "text": "(খ) ১৫ টাকা",
+        "score": 0
+      },
+      {
+        "text": "(গ) ১০ টাকা",
+        "score": 1
+      },
+      {
+        "text": "(ঘ) ৩০ টাকা",
+        "score": 0
+      }
+    ],
+    "correct_answer": "১০ টাকা",
+    "hint": "খ-এর ১০ টাকা হলে ক-এর ২০ টাকা হয়, মোট ৩০ টাকা."
+  },
+  {
+    "question": "৬১. a : b = 4 : 7, b : c = 5 : 6 হলে a : b : c = কত?",
+    "answers": [
+      {
+        "text": "(ক) 4 : 7 : 5",
+        "score": 0
+      },
+      {
+        "text": "(খ) 4 : 7 : 6",
+        "score": 0
+      },
+      {
+        "text": "(গ) 20 : 35 : 42",
+        "score": 1
+      },
+      {
+        "text": "(ঘ) 20 : 44 : 35",
+        "score": 0
+      }
+    ],
+    "correct_answer": "20 : 35 : 42",
+    "hint": "অনুপাতগুলো সমান করে a : b : c = ২০ : ৩৫ : ৪২ নির্ণয় করা যায়."
+  },
+  {
+    "question": "৬২. ১ ঘণ্টা ২০ মিনিট ৪ ঘণ্টার কত অংশ?",
+    "answers": [
+      {
+        "text": "(ক) ১/৪ অংশ",
+        "score": 0
+      },
+      {
+        "text": "(খ) ৩/৪ অংশ",
+        "score": 0
+      },
+      {
+        "text": "(গ) ১/৩ অংশ",
+        "score": 1
+      },
+      {
+        "text": "(ঘ) ২/৩ অংশ",
+        "score": 0
+      }
+    ],
+    "correct_answer": "১/৩ অংশ",
+    "hint": "৮০ মিনিট / ২৪০ মিনিট = ১/৩ অংশ."
+  },
+  {
+    "question": "৬৩. ১ থেকে ১০০ পর্যন্ত উপাত্তকে ১০ টি শ্রেণিতে ভাগ করলে ৮ নম্বর শ্রেণিটি নিচের কোনটি হবে?",
+    "answers": [
+      {
+        "text": "(ক) ৭১–৮০",
+        "score": 1
+      },
+      {
+        "text": "(খ) ৮০–৯০",
+        "score": 0
+      },
+      {
+        "text": "(গ) ৮৯–৯৯",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) ৮০–৯১",
+        "score": 0
+      }
+    ],
+    "correct_answer": "৭১–৮০",
+    "hint": "শ্রেণিব্যাপ্তি ১০ ধরে অষ্টম শ্রেণিটি ৭১-৮০ হয়."
+  },
+  {
+    "question": "৬৪. কোন আরব দেশ সর্বপ্রথম বাংলাদেশকে স্বীকৃতি প্রদান করে?",
+    "answers": [
+      {
+        "text": "(ক) সৌদি আরব",
+        "score": 0
+      },
+      {
+        "text": "(খ) লেবানন",
+        "score": 0
+      },
+      {
+        "text": "(গ) ইরাক",
+        "score": 1
+      },
+      {
+        "text": "(ঘ) ইরান",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ইরাক",
+    "hint": "প্রথম আরব দেশ হিসেবে ইরাক বাংলাদেশকে স্বীকৃতি দেয়."
+  },
+  {
+    "question": "৬৫. ইতিহাসের জনক বা পিতা কে?",
+    "answers": [
+      {
+        "text": "(ক) হেরোডোটাস",
+        "score": 1
+      },
+      {
+        "text": "(খ) এরিস্টটল",
+        "score": 0
+      },
+      {
+        "text": "(গ) টয়েনবি",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) যুসিডাইজিস",
+        "score": 0
+      }
+    ],
+    "correct_answer": "হেরোডোটাস",
+    "hint": "গ্রিক ইতিহাসবিদ হেরোডোটাসকে ইতিহাসের জনক বলা হয়."
+  },
+  {
+    "question": "৬৬. সবুজ গ্রহ বলা হয় কাকে?",
+    "answers": [
+      {
+        "text": "(ক) মঙ্গল",
+        "score": 0
+      },
+      {
+        "text": "(খ) ইউরেনাস",
+        "score": 1
+      },
+      {
+        "text": "(গ) বুধ",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) পৃথিবী",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ইউরেনাস",
+    "hint": "বায়ুমণ্ডলে মিথেন গ্যাসের আধিক্যের কারণে ইউরেনাস গ্রহকে সবুজ গ্রহ বলা হয়."
+  },
+  {
+    "question": "৬৭. ইউরোপীয় ইউনিয়নের কোন দেশ এখনো “ইউরো” গ্রহণ করেনি?",
+    "answers": [
+      {
+        "text": "(ক) জার্মানি",
+        "score": 0
+      },
+      {
+        "text": "(খ) অস্ট্রিয়া",
+        "score": 0
+      },
+      {
+        "text": "(গ) ইংল্যান্ড",
+        "score": 1
+      },
+      {
+        "text": "(ঘ) ফ্রান্স",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ইংল্যান্ড",
+    "hint": "যুক্তরাজ্য (ইংল্যান্ড) ইউরোপীয় ইউনিয়নের সদস্য থাকাকালীনও তাদের নিজস্ব মুদ্রা পাউন্ড স্টার্লিং ব্যবহার করত."
+  },
+  {
+    "question": "৬৮. কোনটি কম্পিউটারের গ্রহণ মুখ নয়?",
+    "answers": [
+      {
+        "text": "(ক) কী বোর্ড",
+        "score": 0
+      },
+      {
+        "text": "(খ) মনিটর",
+        "score": 1
+      },
+      {
+        "text": "(গ) বারকোড",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) ওএমআর",
+        "score": 0
+      }
+    ],
+    "correct_answer": "মনিটর",
+    "hint": "মনিটর হলো একটি আউটপুট ডিভাইস, এটি গ্রহণমুখ বা ইনপুট ডিভাইস নয়."
+  },
+  {
+    "question": "৬৯. CNG-এর অর্থ-",
+    "answers": [
+      {
+        "text": "(ক) কার্বনযুক্ত নতুন পরিবেশ বান্ধব তেল",
+        "score": 0
+      },
+      {
+        "text": "(খ) সীসামুক্ত পেট্রোল",
+        "score": 0
+      },
+      {
+        "text": "(গ) কমপ্রেস করা প্রাকৃতিক গ্যাস",
+        "score": 1
+      },
+      {
+        "text": "(ঘ) নতুন ধরনের ট্যাক্সি ক্যাব",
+        "score": 0
+      }
+    ],
+    "correct_answer": "কমপ্রেস করা প্রাকৃতিক গ্যাস",
+    "hint": "CNG-এর পূর্ণরূপ Compressed Natural Gas বা সংকুচিত প্রাকৃতিক গ্যাস."
+  },
+  {
+    "question": "৭০. কোন মুসলিম মনীষী সর্বপ্রথম নোবেল পুরস্কার পান?",
+    "answers": [
+      {
+        "text": "(ক) প্রফেসর আব্দুস সালাম",
+        "score": 0
+      },
+      {
+        "text": "(খ) ইয়াসির আরাফাত",
+        "score": 0
+      },
+      {
+        "text": "(গ) নাগীব মাহফুজ",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) আনোয়ার সাদাত",
+        "score": 1
+      }
+    ],
+    "correct_answer": "আনোয়ার সাদাত",
+    "hint": "মিশরের রাষ্ট্রপতি আনোয়ার সাদাত প্রথম মুসলিম হিসেবে নোবেল শান্তি পুরস্কার লাভ করেন."
+  },
+  {
+    "question": "৭১. বাংলাদেশের মুক্তিযুদ্ধে অসাধারণ বীরত্ব প্রদর্শনের জন্য কতজনকে বীরত্বসূচক খেতাব প্রদান করা হয়?",
+    "answers": [
+      {
+        "text": "(ক) ৬৭৬ জন",
+        "score": 1
+      },
+      {
+        "text": "(খ) ৬৮ জন",
+        "score": 0
+      },
+      {
+        "text": "(গ) ১৭৫ জন",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) ৪২৬ জন",
+        "score": 0
+      }
+    ],
+    "correct_answer": "৬৭৬ জন",
+    "hint": "মুক্তিযুদ্ধে বীরত্বসূচক খেতাবপ্রাপ্ত মোট বীর মুক্তিযোদ্ধার সংখ্যা ৬৭৬ জন."
+  },
+  {
+    "question": "৭২. হ্যারি পটার কী?",
+    "answers": [
+      {
+        "text": "(ক) একটি শিশুতোষ বই",
+        "score": 1
+      },
+      {
+        "text": "(খ) একজাতীয় গুচ্ছবোমা",
+        "score": 0
+      },
+      {
+        "text": "(গ) এক ধরনের খেলনা",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) এক জাতীয় ধাতব পাত্র",
+        "score": 0
+      }
+    ],
+    "correct_answer": "একটি শিশুতোষ বই",
+    "hint": "হ্যারি পটার জে কে রোলিং রচিত একটি অত্যন্ত জনপ্রিয় শিশুতোষ ফ্যান্টাসি উপন্যাসমালা."
+  },
+  {
+    "question": "৭৩. সুইডেন এর মুদ্রার নাম কী?",
+    "answers": [
+      {
+        "text": "(ক) পাউন্ড",
+        "score": 0
+      },
+      {
+        "text": "(খ) ডলার",
+        "score": 0
+      },
+      {
+        "text": "(গ) ক্রোনা",
+        "score": 1
+      },
+      {
+        "text": "(ঘ) গিলো",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক্রোনা",
+    "hint": "সুইডেনের মুদ্রার নাম সুইডিশ ক্রোনা."
+  },
+  {
+    "question": "৭৪. SIM নিচের কোনটির সংক্ষিপ্ত রূপ?",
+    "answers": [
+      {
+        "text": "(ক) Simple Identity Module",
+        "score": 0
+      },
+      {
+        "text": "(খ) Subscriber Identity Module",
+        "score": 1
+      },
+      {
+        "text": "(গ) Simple Identification Module",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) Subscriber Identification Module",
+        "score": 0
+      }
+    ],
+    "correct_answer": "Subscriber Identity Module",
+    "hint": "SIM-এর পূর্ণরূপ হলো Subscriber Identity Module."
+  },
+  {
+    "question": "৭৫. ‘গ্রিনল্যান্ড’ এর মালিকানা কোন দেশের?",
+    "answers": [
+      {
+        "text": "(ক) ডেনমার্ক",
+        "score": 1
+      },
+      {
+        "text": "(খ) ইংল্যান্ড",
+        "score": 0
+      },
+      {
+        "text": "(গ) সুইডেন",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) নেদারল্যান্ড",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ডেনমার্ক",
+    "hint": "বিশ্বের বৃহত্তম দ্বীপ গ্রিনল্যান্ড ডেনমার্কের অধীন একটি স্বায়ত্তশাসিত অঞ্চল."
+  },
+  {
+    "question": "৭৬. আমেরিকাকে এশিয়া থেকে পৃথক করেছে কোন প্রণালি?",
+    "answers": [
+      {
+        "text": "(ক) ফ্লোরিডা",
+        "score": 0
+      },
+      {
+        "text": "(খ) পা",
+        "score": 0
+      },
+      {
+        "text": "(গ) জিব্রাল্টার",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) বেরিং",
+        "score": 1
+      }
+    ],
+    "correct_answer": "বেরিং",
+    "hint": "এশিয়ার রাশিয়া ও আমেরিকার আলাস্কাকে পৃথক করেছে বেরিং প্রণালি."
+  },
+  {
+    "question": "৭৭. নিচের কোনটি সিস্টেম সফটওয়্যার?",
+    "answers": [
+      {
+        "text": "(ক) এমএস একসেস",
+        "score": 0
+      },
+      {
+        "text": "(খ) এমএস ওয়ার্ড",
+        "score": 0
+      },
+      {
+        "text": "(গ) ওরাকল",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) এমএস উইন্ডোজ",
+        "score": 1
+      }
+    ],
+    "correct_answer": "এমএস উইন্ডোজ",
+    "hint": "এমএস উইন্ডোজ একটি বহুল ব্যবহৃত সিস্টেম সফটওয়্যার বা অপারেটিং সিস্টেম."
+  },
+  {
+    "question": "৭৮. বাংলাদেশ সংবিধানে প্রশাসনিক ট্রাইব্যুনাল বিষয়টি কোন অনুচ্ছেদে সন্নিবেশ হয়েছে?",
+    "answers": [
+      {
+        "text": "(ক) ১১৫",
+        "score": 0
+      },
+      {
+        "text": "(খ) ১২০",
+        "score": 0
+      },
+      {
+        "text": "(গ) ১১০",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) ১১৭",
+        "score": 1
+      }
+    ],
+    "correct_answer": "১১৭",
+    "hint": "বাংলাদেশের সংবিধানের ১১৭ অনুচ্ছেদে প্রশাসনিক ট্রাইব্যুনাল সংক্রান্ত বিধান রয়েছে."
+  },
+  {
+    "question": "৭৯. বাংলাদেশের স্বাধীনতার ঘোষণা পত্র কত তারিখে পঠিত হয়?",
+    "answers": [
+      {
+        "text": "(ক) ১০ এপ্রিল, ১৯৭১",
+        "score": 0
+      },
+      {
+        "text": "(খ) ১৭ এপ্রিল, ১৯৭১",
+        "score": 1
+      },
+      {
+        "text": "(গ) ৭ মার্চ, ১৯৭১",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) ২৬ মার্চ, ১৯৭১",
+        "score": 0
+      }
+    ],
+    "correct_answer": "১৭ এপ্রিল, ১৯৭১",
+    "hint": "মুজিবনগর সরকারের শপথ গ্রহণের দিন ১৭ এপ্রিল ১৯৭১ সালে স্বাধীনতার ঘোষণাপত্র পাঠ করা হয়."
+  },
+  {
+    "question": "৮০. নবায়নযোগ্য শক্তির উৎসের একটি উদাহরণ হলো-",
+    "answers": [
+      {
+        "text": "(ক) পারমাণবিক জ্বালানি",
+        "score": 0
+      },
+      {
+        "text": "(খ) পীট কয়লা",
+        "score": 0
+      },
+      {
+        "text": "(গ) ফুয়েল সেল",
+        "score": 0
+      },
+      {
+        "text": "(ঘ) সূর্য",
+        "score": 1
+      }
+    ],
+    "correct_answer": "সূর্য",
+    "hint": "সূর্য বা সৌরশক্তি হলো নবায়নযোগ্য শক্তির একটি প্রধান উৎস."
+  }
+]

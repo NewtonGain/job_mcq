@@ -1,0 +1,2072 @@
+[
+  {
+    "question": "১.বাংলা বর্ণমালায় অর্ধ মাত্রার বর্ণ কয়টি?",
+    "answers": [
+      {
+        "text": "ক. ০৮টি",
+        "score": 1
+      },
+      {
+        "text": "খ. ০৯টি",
+        "score": 0
+      },
+      {
+        "text": "গ. ১০টি",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ০৭টি",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. ০৮টি",
+    "hint": "বাংলা বর্ণমালায় অর্ধমাত্রার বর্ণের সংখ্যা ৮টি."
+  },
+  {
+    "question": "২.সাবান ও আনারস শব্দ দুটি কোন ভাষা থেকে আগত?",
+    "answers": [
+      {
+        "text": "ক. পর্তুগিজ",
+        "score": 1
+      },
+      {
+        "text": "খ. আরবি",
+        "score": 0
+      },
+      {
+        "text": "গ. ফরাসি",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ফার্সি",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. পর্তুগিজ",
+    "hint": "সাবান ও আনারস শব্দ দুটি পর্তুগিজ ভাষা থেকে বাংলায় এসেছে."
+  },
+  {
+    "question": "৩.‘কুল কাঠের আগুন’ এর প্রকৃত অর্থ কী?",
+    "answers": [
+      {
+        "text": "ক. তীব্রজ্বালা",
+        "score": 1
+      },
+      {
+        "text": "খ. অমিতব্যয়ী",
+        "score": 0
+      },
+      {
+        "text": "গ. উজ্জ্বল আলো",
+        "score": 0
+      },
+      {
+        "text": "ঘ. প্রতিভাবান",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. তীব্রজ্বালা",
+    "hint": "'কুল কাঠের আগুন' বাগধারার অর্থ তীব্র জ্বালা বা অন্তর্দাহ."
+  },
+  {
+    "question": "৪.বিশেষণের সাথে বিশেষ্যের যে সমাস হয় তার নাম কী?",
+    "answers": [
+      {
+        "text": "ক. বহুব্রীহি সমাস",
+        "score": 0
+      },
+      {
+        "text": "খ. দ্বন্দ্ব সমাস",
+        "score": 0
+      },
+      {
+        "text": "গ. কর্মধারয় সমাস",
+        "score": 1
+      },
+      {
+        "text": "ঘ. তৎপুরুষ সমাস",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. কর্মধারয় সমাস",
+    "hint": "বিশেষণ ও বিশেষ্যের মিলনে কর্মধারয় সমাস গঠিত হয়."
+  },
+  {
+    "question": "৫.সমার্থক শব্দগুচ্ছ সনাক্ত করুন-",
+    "answers": [
+      {
+        "text": "ক. দীঘি, নদী, প্রণালী",
+        "score": 0
+      },
+      {
+        "text": "খ. শৈবালিনী, তরঙ্গিনী, সরিৎ",
+        "score": 1
+      },
+      {
+        "text": "গ. গাঙ, তটিনী, অর্ণব",
+        "score": 0
+      },
+      {
+        "text": "ঘ. স্রোতস্বীনি, নির্ঝরিণী, সিন্ধু",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. শৈবালিনী, তরঙ্গিনী, সরিৎ",
+    "hint": "শৈবালিনী, তরঙ্গিনী ও সরিৎ সবগুলোই নদীর সমার্থক শব্দ."
+  },
+  {
+    "question": "৬.বাগ্ধারা যুগলের মধ্যে কোন জোড়া সর্বাধিক সমার্থক?",
+    "answers": [
+      {
+        "text": "ক. অমাবস্যার চাঁদ, আকাশ কুসুম",
+        "score": 0
+      },
+      {
+        "text": "খ. বক ধার্মিক, বিড়াল তপস্বী",
+        "score": 1
+      },
+      {
+        "text": "গ. রুই কাতলা, কেউকেটা",
+        "score": 0
+      },
+      {
+        "text": "ঘ. বক ধার্মিক, ভিজে বিড়াল",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. বক ধার্মিক, বিড়াল তপস্বী",
+    "hint": "'বক ধার্মিক' ও 'বিড়াল তপস্বী' উভয় বাগধারার অর্থ ভণ্ড সাধু."
+  },
+  {
+    "question": "৭.‘সবার উপরে মানুষ সত্য তাহার উপর নাই’ এই পঙ্ক্তিটির রচয়িতা কে?",
+    "answers": [
+      {
+        "text": "ক. বিবেকানন্দ",
+        "score": 0
+      },
+      {
+        "text": "খ. চন্ডীদাস",
+        "score": 1
+      },
+      {
+        "text": "গ. বিদ্যাপতি",
+        "score": 0
+      },
+      {
+        "text": "ঘ. রামকৃষ্ণ",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. চন্ডীদাস",
+    "hint": "এই বিখ্যাত পঙ্ক্তিটির রচয়িতা পদাবলীর চণ্ডীদাস."
+  },
+  {
+    "question": "৮.‘শিশুগণ দেয় মন নিজ নিজ পাঠে’ এখানে পাঠে কোন কারকে কোন বিভক্তি?",
+    "answers": [
+      {
+        "text": "ক. অধিকরণে সপ্তমী",
+        "score": 1
+      },
+      {
+        "text": "খ. অপাদানে পঞ্চমী",
+        "score": 0
+      },
+      {
+        "text": "গ. কর্মে পঞ্চমী",
+        "score": 0
+      },
+      {
+        "text": "ঘ. অধিকরণে পঞ্চমী",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. অধিকরণে সপ্তমী",
+    "hint": "কোথায় বা কিসে মন দেয় বোঝালে অধিকরণ কারকে সপ্তমী বিভক্তি হয়."
+  },
+  {
+    "question": "৯.কোন বানানটি শুদ্ধ?",
+    "answers": [
+      {
+        "text": "ক. নীরীক্ষন",
+        "score": 0
+      },
+      {
+        "text": "খ. নীরিক্ষণ",
+        "score": 0
+      },
+      {
+        "text": "গ. নিরিক্ষন",
+        "score": 0
+      },
+      {
+        "text": "ঘ. নিরীক্ষণ",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. নিরীক্ষণ",
+    "hint": "সঠিক বানানটি হলো 'নিরীক্ষণ'."
+  },
+  {
+    "question": "১০. রবীন্দ্রনাথ ঠাকুরের ‘তোতা কাহিনী’ গল্পে তোতা কীসের প্রতীক?",
+    "answers": [
+      {
+        "text": "ক. শিক্ষকের",
+        "score": 0
+      },
+      {
+        "text": "খ. গণকঠাকুরের",
+        "score": 0
+      },
+      {
+        "text": "গ. শিশুর",
+        "score": 1
+      },
+      {
+        "text": "ঘ. গবেষকের",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. শিশুর",
+    "hint": "তোতাকাহিনী গল্পে তোতা পাখিটি শিশুর প্রাণবন্ত সত্তার প্রতীক."
+  },
+  {
+    "question": "১১. উল্লাস এর সন্ধি বিচ্ছেদ কোনটি?",
+    "answers": [
+      {
+        "text": "ক. উল + লাস",
+        "score": 0
+      },
+      {
+        "text": "খ. ঊৎ + লাস",
+        "score": 0
+      },
+      {
+        "text": "গ. উ + লাস",
+        "score": 0
+      },
+      {
+        "text": "ঘ. উৎ + লাস",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. উৎ + লাস",
+    "hint": "উৎ + লাস = উল্লাস (ব্যঞ্জনসন্ধি)."
+  },
+  {
+    "question": "১২. বাক্যের ক্ষুদ্রতম একক কোনটি?",
+    "answers": [
+      {
+        "text": "ক. শব্দ",
+        "score": 1
+      },
+      {
+        "text": "খ. চিহ্ন",
+        "score": 0
+      },
+      {
+        "text": "গ. বর্ণ",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ধ্বনি",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. শব্দ",
+    "hint": "বাক্যের ক্ষুদ্রতম একক হলো শব্দ (অন্যমতে অর্থপূর্ণ একক হিসেবে শব্দ ধরা হয়)."
+  },
+  {
+    "question": "১৩. ‘হৃদয় মাঝে মেঘ উদয় করি, নয়নের মাঝে ঝড়িল বারি’ এখানে কী ধরনের অলংকারের প্রয়োগ হয়েছে?",
+    "answers": [
+      {
+        "text": "ক. বিষম",
+        "score": 0
+      },
+      {
+        "text": "খ. বিরোধাভ্যাস",
+        "score": 0
+      },
+      {
+        "text": "গ. অসংগতি",
+        "score": 1
+      },
+      {
+        "text": "ঘ. বিভাবনা",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. অসংগতি",
+    "hint": "কার্য এক জায়গায় অথচ কারণ অন্য জায়গায় এমন অসঙ্গতিপূর্ণ প্রকাশের ক্ষেত্রে অসংগতি অলংকার হয়."
+  },
+  {
+    "question": "১৪. ‘জোছনা’ কোন শ্রেণির শব্দ?",
+    "answers": [
+      {
+        "text": "ক. যৌগিক",
+        "score": 0
+      },
+      {
+        "text": "খ. তৎসম",
+        "score": 0
+      },
+      {
+        "text": "গ. দেশি",
+        "score": 0
+      },
+      {
+        "text": "ঘ. অর্ধতৎসম",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. অর্ধতৎসম",
+    "hint": "জ্যোৎস্না থেকে পরিবর্তিত হয়ে জোছনা শব্দটি অর্ধতৎসম শব্দে পরিণত হয়েছে."
+  },
+  {
+    "question": "১৫. কোনটি নঞ তৎপুরুষ নয়?",
+    "answers": [
+      {
+        "text": "ক. অনেক",
+        "score": 0
+      },
+      {
+        "text": "খ. অপরাহ্ন",
+        "score": 1
+      },
+      {
+        "text": "গ. অনিষ্ট",
+        "score": 0
+      },
+      {
+        "text": "ঘ. অনৈক্য",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. অপরাহ্ন",
+    "hint": "অপরাহ্ন শব্দটি প্রাদি বা অন্য সমাসের অন্তর্ভুক্ত, এটি নঞ তৎপুরুষ নয়."
+  },
+  {
+    "question": "১৬. ‘মরিতে চাহিনা আমি সুন্দর ভুবনে, মানবের মাঝে আমি বাঁচিবারে চাই’ পঙ্ক্তিটি কার রচনা?",
+    "answers": [
+      {
+        "text": "ক. সিকান্দার আবু জাফর",
+        "score": 0
+      },
+      {
+        "text": "খ. শরৎচন্দ্র চট্টোপাধ্যায়",
+        "score": 0
+      },
+      {
+        "text": "গ. রবীন্দ্রনাথ ঠাকুর",
+        "score": 1
+      },
+      {
+        "text": "ঘ. কাজী নজরুল ইসলাম",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. রবীন্দ্রনাথ ঠাকুর",
+    "hint": "এটি বিশ্বকবি রবীন্দ্রনাথ ঠাকুরের একটি বিখ্যাত কবিতার পঙ্ক্তি."
+  },
+  {
+    "question": "১৭. দীনবন্ধু মিত্রের প্রহসন কোনটি?",
+    "answers": [
+      {
+        "text": "ক. বুড়ো শালিকের ঘাড়ে রোঁ",
+        "score": 0
+      },
+      {
+        "text": "খ. বিয়ে পাগলা বুড়ো",
+        "score": 1
+      },
+      {
+        "text": "গ. কিঞ্চিৎ জলযোগ",
+        "score": 0
+      },
+      {
+        "text": "ঘ. লীলাবতী",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. বিয়ে পাগলা বুড়ো",
+    "hint": "দীনবন্ধু মিত্রের রচিত বিখ্যাত প্রহসন হলো 'বিয়ে পাগলা বুড়ো'."
+  },
+  {
+    "question": "১৮. প্রত্যেক ভাষার ০৩টি মৌলিক অংশ হলো-",
+    "answers": [
+      {
+        "text": "ক. ধ্বনি, শব্দ, বাক্য",
+        "score": 1
+      },
+      {
+        "text": "খ. বর্ণ, সমাস, সন্ধি",
+        "score": 0
+      },
+      {
+        "text": "গ. সমাস, কারক, ধ্বনি",
+        "score": 0
+      },
+      {
+        "text": "ঘ. পদ, বর্ণ, ধ্বনি",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. ধ্বনি, শব্দ, বাক্য",
+    "hint": "ভাষার তিনটি মৌলিক অংশ হলো ধ্বনি, শব্দ ও বাক্য."
+  },
+  {
+    "question": "১৯. কাজী নজরুল ইসলামের বিদ্রোহী কবিতাটি কোন ছন্দে লিখিত?",
+    "answers": [
+      {
+        "text": "ক. অক্ষরবৃত্ত ছন্দ",
+        "score": 0
+      },
+      {
+        "text": "খ. গদ্য ছন্দ",
+        "score": 0
+      },
+      {
+        "text": "গ. মাত্রাবৃত্ত ছন্দ",
+        "score": 1
+      },
+      {
+        "text": "ঘ. সরবৃত্ত ছন্দ",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. মাত্রাবৃত্ত ছন্দ",
+    "hint": "'বিদ্রোহী' কবিতাটি মাত্রাবৃত্ত ছন্দের এক অনন্য নিদর্শন."
+  },
+  {
+    "question": "২০. ‘অধ্যয়ন’ শব্দের বিশেষণ কী?",
+    "answers": [
+      {
+        "text": "ক. অধ্যায়নকৃত",
+        "score": 0
+      },
+      {
+        "text": "খ. অধীত",
+        "score": 1
+      },
+      {
+        "text": "গ. অধ্যয়নরত",
+        "score": 0
+      },
+      {
+        "text": "ঘ. পঠিত",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. অধীত",
+    "hint": "অধ্যয়ন শব্দের সঠিক বিশেষণ রূপ হলো 'অধীত'."
+  },
+  {
+    "question": "২১. কোন শব্দের ‘সম্যক’ অর্থে ‘পরা’ উপসর্গটি ব্যবহৃত হয়েছে?",
+    "answers": [
+      {
+        "text": "ক. পরাধীন",
+        "score": 0
+      },
+      {
+        "text": "খ. পরাগায়ন",
+        "score": 0
+      },
+      {
+        "text": "গ. পরামর্শ",
+        "score": 0
+      },
+      {
+        "text": "ঘ. পরাক্রান্ত",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. পরাক্রান্ত",
+    "hint": "'পরাক্রান্ত' শব্দে 'পরা' উপসর্গটি সম্যক বা পূর্ণ অর্থে ব্যবহৃত হয়েছে."
+  },
+  {
+    "question": "২২. লিঙ্গান্তর হয় না এমন শব্দ কোনটি?",
+    "answers": [
+      {
+        "text": "ক. সাহেব",
+        "score": 0
+      },
+      {
+        "text": "খ. বিয়াই",
+        "score": 0
+      },
+      {
+        "text": "গ. সঙ্গী",
+        "score": 0
+      },
+      {
+        "text": "ঘ. কবিরাজ",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. কবিরাজ",
+    "hint": "কবিরাজ একটি নিত্য পুরুষবাচক বা লিঙ্গান্তর হয় না এমন শব্দ."
+  },
+  {
+    "question": "২৩. বিজ্ঞান শব্দের যুক্ত বর্ণের সঠিক রূপ কোনটি?",
+    "answers": [
+      {
+        "text": "ক. জ্ + ঞ",
+        "score": 1
+      },
+      {
+        "text": "খ. ঞ + গ",
+        "score": 0
+      },
+      {
+        "text": "গ. ঞ্ + জ",
+        "score": 0
+      },
+      {
+        "text": "ঘ. গ্ + ঞ",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. জ্ + ঞ",
+    "hint": "বিজ্ঞানের 'জ্ঞ' যুক্তবর্ণটি জ্ ও ঞ এর সমন্বয়ে গঠিত."
+  },
+  {
+    "question": "২৪. Find out the correct sentence.",
+    "answers": [
+      {
+        "text": "ক. Knowing little algebra, the problem was difficult to solve.",
+        "score": 0
+      },
+      {
+        "text": "খ. Knowing little algebra, I found it difficult to solve the problem.",
+        "score": 1
+      },
+      {
+        "text": "গ. Knowing little algebra, solving the problem was difficult.",
+        "score": 0
+      },
+      {
+        "text": "ঘ. Knowling little algebra, it was difficult to solve the problem.",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. Knowing little algebra, I found it difficult to solve the problem.",
+    "hint": "Participle phrase-এর সঠিক ব্যবহারযুক্ত বাক্যটি হলো এটি."
+  },
+  {
+    "question": "২৫. Bank close at 4 pm –––? Make a tag question?",
+    "answers": [
+      {
+        "text": "ক. must they",
+        "score": 0
+      },
+      {
+        "text": "খ. don’t they",
+        "score": 1
+      },
+      {
+        "text": "গ. isn’t they",
+        "score": 0
+      },
+      {
+        "text": "ঘ. do they",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. don’t they",
+    "hint": "Present indefinite tense-এর affirmative বাক্যের tag question-এ 'don't they' বসে."
+  },
+  {
+    "question": "২৬. Fill in the blank with right option. ‘I am looking forward ––– you’.",
+    "answers": [
+      {
+        "text": "ক. to seeing",
+        "score": 1
+      },
+      {
+        "text": "খ. to have seen",
+        "score": 0
+      },
+      {
+        "text": "গ. seeing",
+        "score": 0
+      },
+      {
+        "text": "ঘ. to see",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. to seeing",
+    "hint": "'Look forward to'-এর পরে gerund বা verb + ing বসে."
+  },
+  {
+    "question": "২৭. ‘অরণ্যে রোদন’ বাগ্‌ধারার ইংরেজি অনুবাদ করুন-",
+    "answers": [
+      {
+        "text": "ক. Wild cries",
+        "score": 0
+      },
+      {
+        "text": "খ. Wild forest",
+        "score": 0
+      },
+      {
+        "text": "গ. Cry in the wilderness",
+        "score": 1
+      },
+      {
+        "text": "ঘ. Weep at forest",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. Cry in the wilderness",
+    "hint": "'অরণ্যে রোদন' (বৃথা আবেদন) এর ইংরেজি হলো 'Cry in the wilderness'."
+  },
+  {
+    "question": "২৮. ‘To beat about the bush’ means-",
+    "answers": [
+      {
+        "text": "ক. to hide the truth",
+        "score": 0
+      },
+      {
+        "text": "খ. to speak directly",
+        "score": 0
+      },
+      {
+        "text": "গ. to delay the matter",
+        "score": 0
+      },
+      {
+        "text": "ঘ. to talk irrelevantly",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. to talk irrelevantly",
+    "hint": "ঘুরেফিরে বা অপ্রাসঙ্গিক কথা বলা অর্থে 'to beat about the bush' ব্যবহৃত হয়."
+  },
+  {
+    "question": "২৯. Which period is known as the ‘golden age’ of English literature?",
+    "answers": [
+      {
+        "text": "ক. the Eighteen century",
+        "score": 0
+      },
+      {
+        "text": "খ. the Victorian age",
+        "score": 0
+      },
+      {
+        "text": "গ. the Elizabethan age",
+        "score": 1
+      },
+      {
+        "text": "ঘ. the Restoration age",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. the Elizabethan age",
+    "hint": "ইংরেজি সাহিত্যের সুবর্ণযুগ বলা হয় এলিজাবেথীয় যুগকে."
+  },
+  {
+    "question": "৩০. Which one is wrong spelling?",
+    "answers": [
+      {
+        "text": "ক. Happiness",
+        "score": 0
+      },
+      {
+        "text": "খ. Necessary",
+        "score": 0
+      },
+      {
+        "text": "গ. Prosparity",
+        "score": 1
+      },
+      {
+        "text": "ঘ. Influence",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. Prosparity",
+    "hint": "সঠিক বানানটি হলো 'Prosperity', তাই Prosparity ভুল বানান."
+  },
+  {
+    "question": "৩১. Who wrote the novel “the god of small things”.",
+    "answers": [
+      {
+        "text": "ক. Kiran Deshai",
+        "score": 0
+      },
+      {
+        "text": "খ. Anita Desai",
+        "score": 0
+      },
+      {
+        "text": "গ. Arundhuti Ray",
+        "score": 1
+      },
+      {
+        "text": "ঘ. Orhan Pamuk",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. Arundhuti Ray",
+    "hint": "বুকার পুরস্কারজয়ী 'The God of Small Things' উপন্যাসের রচয়িতা অরুন্ধতী রায়."
+  },
+  {
+    "question": "৩২. ‘Salt of life’ stands for-",
+    "answers": [
+      {
+        "text": "ক. Saline water",
+        "score": 0
+      },
+      {
+        "text": "খ. Sodium Chloride",
+        "score": 0
+      },
+      {
+        "text": "গ. Valuable things",
+        "score": 1
+      },
+      {
+        "text": "ঘ. Sorrows of life",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. Valuable things",
+    "hint": "'Salt of life' ফ্রেজটির অর্থ মূল্যবান কিছু বা জীবনের সারবস্তু."
+  },
+  {
+    "question": "৩৩. Ayesha is as good girl বাক্যে girl শব্দটি-",
+    "answers": [
+      {
+        "text": "ক. material noun",
+        "score": 0
+      },
+      {
+        "text": "খ. proper noun",
+        "score": 0
+      },
+      {
+        "text": "গ. common noun",
+        "score": 1
+      },
+      {
+        "text": "ঘ. collective noun",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. common noun",
+    "hint": "'Girl' একটি সাধারণ বিশেষ্য বা common noun."
+  },
+  {
+    "question": "৩৪. “To err is human, forgive divine”, is a line of a poem by.",
+    "answers": [
+      {
+        "text": "ক. Pope",
+        "score": 1
+      },
+      {
+        "text": "খ. Shelley",
+        "score": 0
+      },
+      {
+        "text": "গ. Milton",
+        "score": 0
+      },
+      {
+        "text": "ঘ. Shakespeare",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. Pope",
+    "hint": "এই বিখ্যাত প্রবাদতুল্য উক্তিটি কবি আলেকজান্ডার পোপের."
+  },
+  {
+    "question": "৩৫. বাংলা অনুবাদ করুন: I am sick of him",
+    "answers": [
+      {
+        "text": "ক. সে আমাকে অসুস্থ করে দিয়েছে",
+        "score": 0
+      },
+      {
+        "text": "খ. তাকে আমার অসহ্য লাগে",
+        "score": 1
+      },
+      {
+        "text": "গ. সে যে অসুস্থ আমি তা জানি",
+        "score": 0
+      },
+      {
+        "text": "ঘ. আমি তার কারণে অসুস্থ",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. তাকে আমার অসহ্য লাগে",
+    "hint": "'Sick of' অর্থ বিরক্ত বা অসহ্য বোধ করা."
+  },
+  {
+    "question": "৩৬. ‘Syntax’ means-",
+    "answers": [
+      {
+        "text": "ক. Sentence building",
+        "score": 1
+      },
+      {
+        "text": "খ. Supplementary tax",
+        "score": 0
+      },
+      {
+        "text": "গ. Synchronizing act",
+        "score": 0
+      },
+      {
+        "text": "ঘ. Manner of speech",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. Sentence building",
+    "hint": "ব্যাকরণে 'Syntax' হলো বাক্য গঠন বা sentence building সংক্রান্ত বিদ্যা."
+  },
+  {
+    "question": "৩৭. Amin said, “I shall go to school.” change the sentence to direct speech.",
+    "answers": [
+      {
+        "text": "ক. Amin said that he would go to school.",
+        "score": 1
+      },
+      {
+        "text": "খ. Amin said that I shall go to school.",
+        "score": 0
+      },
+      {
+        "text": "গ. Amin said that I would go to school.",
+        "score": 0
+      },
+      {
+        "text": "ঘ. Amin said that he will go to school.",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. Amin said that he would go to school.",
+    "hint": "Indirect speech করার সময় person ও tense পরিবর্তিত হয়ে এই রূপ নেয়."
+  },
+  {
+    "question": "৩৮. ‘Out and Out’ means-",
+    "answers": [
+      {
+        "text": "ক. Thoroughly",
+        "score": 1
+      },
+      {
+        "text": "খ. Whole heartedly",
+        "score": 0
+      },
+      {
+        "text": "গ. Not at all",
+        "score": 0
+      },
+      {
+        "text": "ঘ. Brave",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. Thoroughly",
+    "hint": "'Out and out' ফ্রেজটির অর্থ সম্পূর্ণরূপে বা thoroughly."
+  },
+  {
+    "question": "৩৯. Profession of teaching.",
+    "answers": [
+      {
+        "text": "ক. History",
+        "score": 0
+      },
+      {
+        "text": "খ. Linguistic",
+        "score": 0
+      },
+      {
+        "text": "গ. Teachership",
+        "score": 0
+      },
+      {
+        "text": "ঘ. Pedagogy",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. Pedagogy",
+    "hint": "শিক্ষাদান পদ্ধতি ও পেশাকে শিক্ষা বিজ্ঞান বা Pedagogy বলা হয়."
+  },
+  {
+    "question": "৪০. The correct passive form of “you must shut these doors” is-",
+    "answers": [
+      {
+        "text": "ক. These doors must be shut",
+        "score": 1
+      },
+      {
+        "text": "খ. These must be shut doors",
+        "score": 0
+      },
+      {
+        "text": "গ. Shut must be the doors",
+        "score": 0
+      },
+      {
+        "text": "ঘ. Shut the doors you must",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. These doors must be shut",
+    "hint": "Modal auxiliary যুক্ত active বাক্যকে passive করার নিয়ম অনুযায়ী এটি সঠিক."
+  },
+  {
+    "question": "৪১. Never tell a lie. What is the passive form?",
+    "answers": [
+      {
+        "text": "ক. A lie is never told",
+        "score": 0
+      },
+      {
+        "text": "খ. A lie is never be told",
+        "score": 0
+      },
+      {
+        "text": "গ. Let a lie never be told",
+        "score": 1
+      },
+      {
+        "text": "ঘ. Let not a lie be told ever",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. Let a lie never be told",
+    "hint": "Negative imperative sentence-কে passive করার নিয়ম হলো 'Let + object + never/not + be + V3'."
+  },
+  {
+    "question": "৪২. Which sentence is correct?",
+    "answers": [
+      {
+        "text": "ক. He is an MA",
+        "score": 0
+      },
+      {
+        "text": "খ. He is an LMAF",
+        "score": 0
+      },
+      {
+        "text": "গ. All of them",
+        "score": 1
+      },
+      {
+        "text": "ঘ. You are an MBBS",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. All of them",
+    "hint": "প্রদত্ত সংক্ষিপ্ত রূপগুলোর উচ্চারণ স্বরধ্বনির মতো হওয়ায় প্রতিটির পূর্বে 'an' বসা সঠিক."
+  },
+  {
+    "question": "৪৩. The most famous poet of English literature is-",
+    "answers": [
+      {
+        "text": "ক. William Wordsworth",
+        "score": 0
+      },
+      {
+        "text": "খ. T.S. Eliot",
+        "score": 0
+      },
+      {
+        "text": "গ. John Dryden",
+        "score": 0
+      },
+      {
+        "text": "ঘ. Alexander Pope",
+        "score": 0
+      }
+    ],
+    "correct_answer": "(মূল উৎস অনুযায়ী খ বা উপযুক্ত কবি)",
+    "hint": "ইংরেজি সাহিত্যের অন্যতম সেরা কবি হিসেবে উইলিয়াম ওয়ার্ডসওয়ার্থ বা টি এস এলিয়ট স্বীকৃত."
+  },
+  {
+    "question": "৪৪. Neither the moon nor the stars ––– visible last night. The verb to fill in the gap should be.",
+    "answers": [
+      {
+        "text": "ক. are",
+        "score": 0
+      },
+      {
+        "text": "খ. were",
+        "score": 1
+      },
+      {
+        "text": "গ. had been",
+        "score": 0
+      },
+      {
+        "text": "ঘ. was",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. were",
+    "hint": "'Neither... nor' যুক্ত বাক্যে শেষের subject (stars) plural হওয়ায় plural verb 'were' বসেছে."
+  },
+  {
+    "question": "৪৫. The writer was popular ––– young readers (fill in the blank)",
+    "answers": [
+      {
+        "text": "ক. at",
+        "score": 0
+      },
+      {
+        "text": "খ. of",
+        "score": 0
+      },
+      {
+        "text": "গ. with",
+        "score": 1
+      },
+      {
+        "text": "ঘ. for",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. with",
+    "hint": "কাউের কাছে জনপ্রিয় বোঝাতে 'popular with' ব্যবহৃত হয়."
+  },
+  {
+    "question": "৪৬. Who, Which, What are-",
+    "answers": [
+      {
+        "text": "ক. Reflexive pronoun",
+        "score": 0
+      },
+      {
+        "text": "খ. Indefinite pronoun",
+        "score": 0
+      },
+      {
+        "text": "গ. Demonstrative pronoun",
+        "score": 0
+      },
+      {
+        "text": "ঘ. Relative pronoun",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. Relative pronoun",
+    "hint": "Who, which, what ইত্যাদিRelative pronoun হিসেবে কাজ করে."
+  },
+  {
+    "question": "৪৭. Find the appropriate meaning (synonym) of truce-",
+    "answers": [
+      {
+        "text": "ক. strong",
+        "score": 0
+      },
+      {
+        "text": "খ. trifle",
+        "score": 0
+      },
+      {
+        "text": "গ. ceasefire",
+        "score": 1
+      },
+      {
+        "text": "ঘ. turbulent",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. ceasefire",
+    "hint": "'Truce' শব্দের অর্থ যুদ্ধবিরতি, যার সমার্থক শব্দ ceasefire."
+  },
+  {
+    "question": "৪৮. Identify the imperative sentence.",
+    "answers": [
+      {
+        "text": "ক. It has been raining since morning.",
+        "score": 0
+      },
+      {
+        "text": "খ. I shall go to college.",
+        "score": 0
+      },
+      {
+        "text": "গ. stand up.",
+        "score": 1
+      },
+      {
+        "text": "ঘ. Momin is singing a song.",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. stand up.",
+    "hint": "যে বাক্য দ্বারা আদেশ বা নির্দেশ বোঝায় তা imperative sentence ('Stand up')."
+  },
+  {
+    "question": "৪৯. নিচের কোন সংখ্যাটি সবচেয়ে বড়?",
+    "answers": [
+      {
+        "text": "ক. রুট ওভার ০.৩",
+        "score": 1
+      },
+      {
+        "text": "খ. ০.৩",
+        "score": 0
+      },
+      {
+        "text": "গ. ০.২",
+        "score": 0
+      },
+      {
+        "text": "ঘ. রুট ওভার ০.২",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. রুট ওভার ০.৩",
+    "hint": "দশমিক সংখ্যার বর্গমূল করলে মান বৃদ্ধি পায়, তাই √০.৩ সবচেয়ে বড়."
+  },
+  {
+    "question": "৫০. f(x) = x³ – 2x + 10 হলে, f(0) কত?",
+    "answers": [
+      {
+        "text": "ক. 1",
+        "score": 0
+      },
+      {
+        "text": "খ. 5",
+        "score": 0
+      },
+      {
+        "text": "গ. 8",
+        "score": 0
+      },
+      {
+        "text": "ঘ. 10",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. 10",
+    "hint": "x এর মান ০ বসালে সমীকরণের মান ১০ হয়."
+  },
+  {
+    "question": "৫১. ১ – ০.০৯৯৯ = ?",
+    "answers": [
+      {
+        "text": "ক. ০.৯০০১",
+        "score": 1
+      },
+      {
+        "text": "খ. ০.১",
+        "score": 0
+      },
+      {
+        "text": "গ. ০.০০১",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ০.০০০১",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. ০.৯০০১",
+    "hint": "বিয়োগ করলে ১ - ০.০৯৯৯ = ০.৯০০১ পাওয়া যায়."
+  },
+  {
+    "question": "৫২. বৃত্তের ব্যাস তিনগুণ বৃদ্ধি করলে ক্ষেত্রফল কতগুণ বৃদ্ধি পাবে?",
+    "answers": [
+      {
+        "text": "ক. ৯",
+        "score": 1
+      },
+      {
+        "text": "খ. ১২",
+        "score": 0
+      },
+      {
+        "text": "গ. ১৬",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ৪",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. ৯",
+    "hint": "ব্যাসার্ধ বা ব্যাস ৩ গুণ হলে ক্ষেত্রফল ৩² বা ৯ গুণ বৃদ্ধি পাবে."
+  },
+  {
+    "question": "৫৩. গ.সা.গু নির্ণয় করুন: 4a² – 1, 2a² + a – 1",
+    "answers": [
+      {
+        "text": "ক. a + 1",
+        "score": 0
+      },
+      {
+        "text": "খ. 2a + 1",
+        "score": 1
+      },
+      {
+        "text": "গ. a – 1",
+        "score": 0
+      },
+      {
+        "text": "ঘ. 2a – 1",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. 2a + 1",
+    "hint": "উৎপাদকের বিশ্লেשণ করলে সাধারণ উৎপাদক (2a + 1) পাওয়া যায়."
+  },
+  {
+    "question": "৫৪. ১৮ ফুট উঁচু একটি খুঁটি এমনভাবে ভেঙে গেল যে ভাঙা অংশটি বিচ্ছিন্ন না হয়ে ৩০° কোণে মাটি স্পর্শ করল। খুঁটিটি মাটি হতে কত উঁচুতে ভেঙেছিল?",
+    "answers": [
+      {
+        "text": "ক. ৩ ফুট",
+        "score": 0
+      },
+      {
+        "text": "খ. ১২ ফুট",
+        "score": 0
+      },
+      {
+        "text": "গ. ৯ ফুট",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ৬ ফুট",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. ৬ ফুট",
+    "hint": "ত্রিকোণমিতিক অনুপাত (sin 30°) ব্যবহার করে উচ্চতা ৬ ফুট নির্ণয় করা যায়."
+  },
+  {
+    "question": "৫৫. কোনো ত্রিভুজের তিনটি বাহুকে বর্ধিত করলে বহিঃস্থ কোণ তিনটির সমষ্টি কত?",
+    "answers": [
+      {
+        "text": "ক. ৩৬০°",
+        "score": 1
+      },
+      {
+        "text": "খ. ১৮০°",
+        "score": 0
+      },
+      {
+        "text": "গ. ১৬০°",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ২৭০°",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. ৩৬০°",
+    "hint": "যেকোনো বহুভুজ বা ত্রিভুজের বহিঃস্থ কোণসমূহের সমষ্টি সর্বদা ৩৬০° হয়."
+  },
+  {
+    "question": "৫৬. ARRANGE শব্দটির বর্ণগুলো কত প্রকারে সাজানো যায়, যাতে R -দুইটি পাশাপাশি থাকবে না।",
+    "answers": [
+      {
+        "text": "ক. ৩৬০",
+        "score": 0
+      },
+      {
+        "text": "খ. ৯৪০",
+        "score": 0
+      },
+      {
+        "text": "গ. ৯০০",
+        "score": 1
+      },
+      {
+        "text": "ঘ. ১২৬০",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. ৯০০",
+    "hint": "মোট বিন্যাস থেকে R একত্রে থাকার বিন্যাস বাদ দিলে ৯০০ পাওয়া যায়."
+  },
+  {
+    "question": "৫৭. a²b³/c²d কে a³b²/cd³ দ্বারা ভাগ করলে ভাগফল কত হবে?",
+    "answers": [
+      {
+        "text": "ক. ab²/ca",
+        "score": 0
+      },
+      {
+        "text": "খ. ab²/cd",
+        "score": 0
+      },
+      {
+        "text": "গ. b²c/ad",
+        "score": 0
+      },
+      {
+        "text": "ঘ. bd²/ac",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. bd²/ac",
+    "hint": "বীজগণিতীয় সূচকের নিয়ম অনুযায়ী ভাগ করলে সঠিক ফলাফল bd²/ac আসে."
+  },
+  {
+    "question": "৫৮. ৫/৬ এর ৬/৭ + ১/৩ এর সাথে কত যোগ করলে যোগফল ১ হবে?",
+    "answers": [
+      {
+        "text": "ক. ২/৩",
+        "score": 0
+      },
+      {
+        "text": "খ. ১/৪",
+        "score": 0
+      },
+      {
+        "text": "গ. ১/২",
+        "score": 1
+      },
+      {
+        "text": "ঘ. ১/৩",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. ১/২",
+    "hint": "হিসাব করলে প্রথম অংশের যোগফল ১ থেকে কম হয়, যা পূরণের জন্য ১/২ যোগ করতে হবে."
+  },
+  {
+    "question": "৫৯. ৩০ টাকা ৭৫ টাকার শতকরা কত?",
+    "answers": [
+      {
+        "text": "ক. ৪০%",
+        "score": 1
+      },
+      {
+        "text": "খ. ৩৫%",
+        "score": 0
+      },
+      {
+        "text": "গ. ২৫%",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ৩৭.৫%",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. ৪০%",
+    "hint": "(৩০/৭৫) × ১০০% = ৪০%."
+  },
+  {
+    "question": "৬০. একটি স্কুলের ৭০% ছাত্র ফুটবল, ৭৫% ছাত্র হকি এবং ৮০% ছাত্র ক্রিকেট পছন্দ করে। ঐ স্কুলের কত শতাংশ ছাত্র ৩টি খেলাই পছন্দ করে?",
+    "answers": [
+      {
+        "text": "ক. ৩৫%",
+        "score": 0
+      },
+      {
+        "text": "খ. ৫০%",
+        "score": 0
+      },
+      {
+        "text": "গ. ২৫%",
+        "score": 1
+      },
+      {
+        "text": "ঘ. ৩০%",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. ২৫%",
+    "hint": "সেট তত্ত্বের সূত্র প্রয়োগ করে ৩টি খেলাই পছন্দ করার হার ২৫% নির্ণয় করা যায়."
+  },
+  {
+    "question": "৬১. পিতা ও পুত্রের বয়সের সমষ্টি ৭০ বছর। ০৭ বছর আগে তাদের বয়সের অনুপাত ছিল ৬ : ১। ০৫ বছর পর তাদের বয়সের অনুপাত কত হবে?",
+    "answers": [
+      {
+        "text": "ক. ৩ : ১",
+        "score": 1
+      },
+      {
+        "text": "খ. ৫ : ১",
+        "score": 0
+      },
+      {
+        "text": "গ. ৭ : ২",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ৪ : ১",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. ৩ : ১",
+    "hint": "বর্তমান বয়স বের করে ৫ বছর পরের অনুপাত হিসাব করলে ৩ : ১ হয়."
+  },
+  {
+    "question": "৬২. টাকায় ১০টি ও টাকায় ১৫টি করে সমান সংখ্যক লিচু কিনে সব লিচু টাকায় ১২টি করে বিক্রয় করলে শতকরা কত লাভ বা ক্ষতি হবে?",
+    "answers": [
+      {
+        "text": "ক. ৩০% লাভ",
+        "score": 0
+      },
+      {
+        "text": "খ. লাভ বা ক্ষতি কিছ্ইু হবে না",
+        "score": 0
+      },
+      {
+        "text": "গ. ২৫% লাভ",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ২৫% ক্ষতি / বা অন্য মান",
+        "score": 1
+      }
+    ],
+    "correct_answer": "(খ বা গ এর কাছাকাছি, উত্তরপত্রে ঘ বা খ নির্দেশিত)",
+    "hint": "গাণিতিক গড় ক্রয়মূল্য ও বিক্রয়মূল্য তুলনা করে হিসাব করতে হয়."
+  },
+  {
+    "question": "৬৩. (০.০০৪)² = ?",
+    "answers": [
+      {
+        "text": "ক. ০.০০৮",
+        "score": 0
+      },
+      {
+        "text": "খ. ০.০০১৬",
+        "score": 0
+      },
+      {
+        "text": "গ. ০.০০০১৬",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ০.০০০০১৬",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. ০.০০০০১৬",
+    "hint": "৪ এর বর্গ ১৬ এবং দশমিকের পর মোট ৬ ঘর হবে, তাই ০.০০০০১৬."
+  },
+  {
+    "question": "৬৪. ০, ১, ২, ৩ ও ৪ দ্বারা গঠিত ০৫ অঙ্কের বৃহত্তম ও ক্ষুদ্রতম সংখ্যা যোগ করলে যোগফল কত হবে?",
+    "answers": [
+      {
+        "text": "ক. ৫৩৪৪৪",
+        "score": 1
+      },
+      {
+        "text": "খ. ৫৩২৪৪",
+        "score": 0
+      },
+      {
+        "text": "গ. ৫৩৪৪২",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ৫৩৪৪৬",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. ৫৩৪৪৪",
+    "hint": "বৃহত্তম সংখ্যা ৪৩২১০ এবং ক্ষুদ্রতম সংখ্যা ১০২৩৪ যোগ করলে ৫৩৪৪৪ হয়."
+  },
+  {
+    "question": "৬৫. একটি বর্গাকার জমির দৈর্ঘ্য ২০% বাড়ালে এবং প্রস্থ ১০% কমালে ক্ষেত্রফল কতটুকু বৃদ্ধি/হ্রাস পাবে?",
+    "answers": [
+      {
+        "text": "ক. ৫% বৃদ্ধি",
+        "score": 0
+      },
+      {
+        "text": "খ. ১০% বৃদ্ধি",
+        "score": 0
+      },
+      {
+        "text": "গ. ৮% বৃদ্ধি",
+        "score": 1
+      },
+      {
+        "text": "ঘ. ২% বৃদ্ধি",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. ৮% বৃদ্ধি",
+    "hint": "শতকরা পরিবর্তনের সূত্র (x + y + xy/100) প্রয়োগ করে ৮% বৃদ্ধি পাওয়া যায়."
+  },
+  {
+    "question": "৬৬. কোন ভগ্নাংশটি ক্ষুদ্রতম?",
+    "answers": [
+      {
+        "text": "ক. ১১/১৪",
+        "score": 1
+      },
+      {
+        "text": "খ. ১৭/২১",
+        "score": 0
+      },
+      {
+        "text": "গ. ৫/৬",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ১২/১৫",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. ১১/১৪",
+    "hint": "ভগ্নাংশগুলোর দশমিক রূপ তুলনা করলে ১১/১৪ ক্ষুদ্রতম হয়."
+  },
+  {
+    "question": "৬৭. দুইটি সংখ্যার ল.সা.গু. ৩৬ এবং গ.সা.গু. ০৬। একটি সংখ্যা ১২ হলে অপরটি কত?",
+    "answers": [
+      {
+        "text": "ক. ১৮",
+        "score": 1
+      },
+      {
+        "text": "খ. ৯",
+        "score": 0
+      },
+      {
+        "text": "গ. ১২",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ১৫",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. ১৮",
+    "hint": "অপর সংখ্যা = (লসাগু × গসাগু) / একটি সংখ্যা = (৩৬ × ৬) / ১২ = ১৮."
+  },
+  {
+    "question": "৬৮. a – b + b(a – b)/(a – b) = কত?",
+    "answers": [
+      {
+        "text": "ক. 1 + b (বা a)",
+        "score": 1
+      },
+      {
+        "text": "খ. ইত্যাদি",
+        "score": 0
+      },
+      {
+        "text": "গ.",
+        "score": 0
+      },
+      {
+        "text": "ঘ.",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. a (বা প্রশ্নানুসারে সঠিক রূপ)",
+    "hint": "কাটাকাটি করে সরলীকরণ করলে সঠিক মান পাওয়া যায়."
+  },
+  {
+    "question": "৬৯. বিশ্বের প্রাচীনতম বিশ্ববিদ্যালয় কোনটি?",
+    "answers": [
+      {
+        "text": "ক. অক্সফোর্ড",
+        "score": 0
+      },
+      {
+        "text": "খ. ক্যামব্রিজ",
+        "score": 0
+      },
+      {
+        "text": "গ. আল আজহার",
+        "score": 0
+      },
+      {
+        "text": "ঘ. নালন্দা",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. নালন্দা",
+    "hint": "প্রাচীন ইতিহাসের অন্যতম প্রাচীন বিশ্ববিদ্যালয় হলো ভারতের নালন্দা বিশ্ববিদ্যালয়."
+  },
+  {
+    "question": "৭০. সরকারি প্রাথমিক বিদ্যালয়ের সহকারী শিক্ষকদের নিয়োগকারী কর্তৃপক্ষ কে?",
+    "answers": [
+      {
+        "text": "ক. মহাপরিচালক, প্রাথমিক শিক্ষা অধিদপ্তর",
+        "score": 1
+      },
+      {
+        "text": "খ. সচিব, প্রাথমিক ও গণশিক্ষা মন্ত্রণালয়",
+        "score": 0
+      },
+      {
+        "text": "গ. উপজেলা প্রাথমিক শিক্ষা অফিসার",
+        "score": 0
+      },
+      {
+        "text": "ঘ. জেলা প্রাথমিক শিক্ষা অফিসার",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. মহাপরিচালক, প্রাথমিক শিক্ষা অধিদপ্তর",
+    "hint": "সরকারি প্রাথমিক বিদ্যালয়ের সহকারী শিক্ষক নিয়োগের নিয়োগকারী কর্তৃপক্ষ প্রাথমিক শিক্ষা অধিদপ্তরের মহাপরিচালক."
+  },
+  {
+    "question": "৭১. UNFCCC এর পূর্ণরূপ কী?",
+    "answers": [
+      {
+        "text": "ক. United Nations Fund for Climate Control Council",
+        "score": 0
+      },
+      {
+        "text": "খ. United Nations Framework Convention Council",
+        "score": 0
+      },
+      {
+        "text": "গ. United Nations Framework Convention on Climate Change",
+        "score": 1
+      },
+      {
+        "text": "ঘ. United Nations Forest Conservation Climate Council",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. United Nations Framework Convention on Climate Change",
+    "hint": "UNFCCC-এর পূর্ণরূপ হলো United Nations Framework Convention on Climate Change."
+  },
+  {
+    "question": "৭২. বাংলাদেশের প্রথম শিক্ষা কমিশন কোনটি?",
+    "answers": [
+      {
+        "text": "ক. কুদরত-ই-খুদা কমিশন",
+        "score": 1
+      },
+      {
+        "text": "খ. মফিজ উদ্দিন কমিশন",
+        "score": 0
+      },
+      {
+        "text": "গ. সামসুল হক কমিশন",
+        "score": 0
+      },
+      {
+        "text": "ঘ. মাজেদ খান কমিশন",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. কুদরত-ই-খুদা কমিশন",
+    "hint": "স্বাধীন বাংলাদেশের প্রথম শিক্ষা কমিশন ছিল কুদরত-ই-খুদা শিক্ষা কমিশন."
+  },
+  {
+    "question": "৭৩. সহপাঠির অনুভূতি বুঝতে পারা কোন ধরনের লক্ষণ?",
+    "answers": [
+      {
+        "text": "ক. ভাষাগত",
+        "score": 0
+      },
+      {
+        "text": "খ. জ্ঞানগত",
+        "score": 0
+      },
+      {
+        "text": "গ. আবেগগত",
+        "score": 1
+      },
+      {
+        "text": "ঘ. ইচ্ছাগত",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. আবেগগত",
+    "hint": "অন্যের অনুভূতি বা সহমর্মিতা উপলব্ধি করা আবেগিক বা আবেগগত বিকাশের অংশ."
+  },
+  {
+    "question": "৭৪. বিশ্ব মানবাধিকার দিবস কবে?",
+    "answers": [
+      {
+        "text": "ক. ২৬ জুন",
+        "score": 0
+      },
+      {
+        "text": "খ. ০১ আগস্ট",
+        "score": 0
+      },
+      {
+        "text": "গ. ১০ ডিসেম্বর",
+        "score": 1
+      },
+      {
+        "text": "ঘ. ০১ মে",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. ১০ ডিসেম্বর",
+    "hint": "প্রতিবছর ১০ ডিসেম্বর আন্তর্জাতিক মানবাধিকার দিবস পালিত হয়."
+  },
+  {
+    "question": "৭৫. ২০২৫ সালে নোবেল শান্তি পুরস্কার বিজয়ী হলেন-",
+    "answers": [
+      {
+        "text": "ক. ওমর এস ইয়াসি",
+        "score": 0
+      },
+      {
+        "text": "খ. জন এস মার্টিনিস",
+        "score": 0
+      },
+      {
+        "text": "গ. মারিয়া কোরিনা মাচাদো",
+        "score": 1
+      },
+      {
+        "text": "ঘ. রিচার্ড রবসন",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. মারিয়া কোরিনা মাচাদো",
+    "hint": "উৎস অনুযায়ী ২০২৫ সালের নোবেল শান্তি পুরস্কার বিজয়ী মারিয়া কোরিনা মাচাদো."
+  },
+  {
+    "question": "৭৬. আন্তর্জাতিক মাতৃভাষা দিবস কোন সালে স্বীকৃত হয়?",
+    "answers": [
+      {
+        "text": "ক. ১৯৯৮",
+        "score": 0
+      },
+      {
+        "text": "খ. ১৯৯৯",
+        "score": 1
+      },
+      {
+        "text": "গ. ২০০০",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ২০০১",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. ১৯৯৯",
+    "hint": "ইউনesco কতৃক ১৯৯৯ সালের ১৭ নভেম্বর ২১শে ফেব্রুয়ারিকে আন্তর্জাতিক মাতৃভাষা দিবস হিসেবে ঘোষণা করা হয়."
+  },
+  {
+    "question": "৭৭. বাতাসের কোন উপাদান মাটির উর্বরতা বৃদ্ধিতে সাহায্য করে?",
+    "answers": [
+      {
+        "text": "ক. নাইট্রোজেন",
+        "score": 1
+      },
+      {
+        "text": "খ. জলীয় বাষ্প",
+        "score": 0
+      },
+      {
+        "text": "গ. অক্সিজেন",
+        "score": 0
+      },
+      {
+        "text": "ঘ. কার্বন ডাই-অক্সাইড",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. নাইট্রোজেন",
+    "hint": "বায়ুমণ্ডলের নাইট্রোজেন মাটির উর্বরতা ও উদ্ভিদের আমিষ বৃদ্ধিতে সাহায্য করে."
+  },
+  {
+    "question": "৭৮. একজন বাংলাভাষী শিশুর প্রাথমিক শিক্ষায় প্রথম ধাপ কী?",
+    "answers": [
+      {
+        "text": "ক. বাংলা ও গণিতের স্বাক্ষরতা",
+        "score": 0
+      },
+      {
+        "text": "খ. বাংলা ও ইংরেজিতে দক্ষতা",
+        "score": 0
+      },
+      {
+        "text": "গ. বাংলা ও আরবিতে দক্ষতা",
+        "score": 0
+      },
+      {
+        "text": "ঘ. স্বাক্ষরতা",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. স্বাক্ষরতা",
+    "hint": "প্রাথমিক শিক্ষার প্রথম ও মূল ভিত্তি হলো স্বাক্ষরতা অর্জন."
+  },
+  {
+    "question": "৭৯. নিচের কোনটি সামঞ্জস্যপূর্ণ নয়?",
+    "answers": [
+      {
+        "text": "ক. ফেসবুক",
+        "score": 0
+      },
+      {
+        "text": "খ. টুইটার",
+        "score": 0
+      },
+      {
+        "text": "গ. লিংকড ইন",
+        "score": 0
+      },
+      {
+        "text": "ঘ. উইকিপিডিয়া",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. উইকিপিডিয়া",
+    "hint": "ফেসবুক, টুইটার ও লিংকডইন হলো সামাজিক যোগাযোগ মাধ্যম, আর উইকিপিডিয়া হলো বিশ্বকোষ."
+  },
+  {
+    "question": "৮০. নিচের কোন রেখাটি বাংলাদেশের মধ্য দিয়ে গিয়েছে?",
+    "answers": [
+      {
+        "text": "ক. কর্কট ক্রান্তি রেখা",
+        "score": 1
+      },
+      {
+        "text": "খ. মকর ক্রান্তি রেখা",
+        "score": 0
+      },
+      {
+        "text": "গ. সুমেরু বৃত্ত",
+        "score": 0
+      },
+      {
+        "text": "ঘ. বিষুব রেখা",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. কর্কট ক্রান্তি রেখা",
+    "hint": "বাংলাদেশের ওপর দিয়ে কর্কটক্রান্তি রেখা (Tropic of Cancer) অতিক্রম করেছে."
+  },
+  {
+    "question": "৮১. কেন্দ্রীয় শহিদ মিনারের স্থপতি কে?",
+    "answers": [
+      {
+        "text": "ক. হামিদুর রহমান",
+        "score": 1
+      },
+      {
+        "text": "খ. হামিদুজ্জামান",
+        "score": 0
+      },
+      {
+        "text": "গ. লুই আই কান",
+        "score": 0
+      },
+      {
+        "text": "ঘ. তানভীর কবির",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. হামিদুর রহমান",
+    "hint": "কেন্দ্রীয় শহীদ মিনারের মূল নকশাবিদ ও স্থপতি হামিদুর রহমান."
+  },
+  {
+    "question": "৮২. নবায়নযোগ্য জ্বালানী কোনটি?",
+    "answers": [
+      {
+        "text": "ক. কয়লা",
+        "score": 0
+      },
+      {
+        "text": "খ. পেট্রোল",
+        "score": 0
+      },
+      {
+        "text": "গ. পরমাণু শক্তি",
+        "score": 1
+      },
+      {
+        "text": "ঘ. প্রাকৃতিক গ্যাস",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. পরমাণু শক্তি (অথবা সৌর/বায়ু শক্তি)",
+    "hint": "বিকল্পগুলোর মধ্যে পরমাণু শক্তি নবায়নযোগ্য শক্তির উৎস হিসেবে বিবেচিত."
+  },
+  {
+    "question": "৮৩. শিক্ষাদানের প্রথম ধাপ কোনটি?",
+    "answers": [
+      {
+        "text": "ক. পাঠ পরিকল্পনা",
+        "score": 1
+      },
+      {
+        "text": "খ. প্রশ্নোত্তর",
+        "score": 0
+      },
+      {
+        "text": "গ. পর্যালোচনা",
+        "score": 0
+      },
+      {
+        "text": "ঘ. মূল্যায়ন",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. পাঠ পরিকল্পনা",
+    "hint": "কার্যকর পাঠদানের শুরুতে পাঠ পরিকল্পনা (Lesson plan) তৈরি করা প্রথম ধাপ."
+  },
+  {
+    "question": "৮৪. বাধ্যতামূলক প্রাথমিক শিক্ষা আইন পাস হয় কোন সালে?",
+    "answers": [
+      {
+        "text": "ক. ১৯৯০",
+        "score": 1
+      },
+      {
+        "text": "খ. ১৯৯১",
+        "score": 0
+      },
+      {
+        "text": "গ. ১৯৯২",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ১৯৯৩",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. ১৯৯০",
+    "hint": "বাংলাদেশে বাধ্যতামূলক প্রাথমিক শিক্ষা আইন পাস হয় ১৯৯০ সালে."
+  },
+  {
+    "question": "৮৫. কোন পদটি সাংবিধানিক পদ নয়?",
+    "answers": [
+      {
+        "text": "ক. প্রধান নির্বাচন কমিশনার",
+        "score": 0
+      },
+      {
+        "text": "খ. চেয়ারম্যান, জাতীয় সরকারী কর্ম কমিশন",
+        "score": 0
+      },
+      {
+        "text": "গ. চেয়ারম্যান, জাতীয় মানবাধিকার কমিশন",
+        "score": 1
+      },
+      {
+        "text": "ঘ. মহাহিসাব নিরীক্ষক ও নিয়ন্ত্রক",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. চেয়ারম্যান, জাতীয় মানবাধিকার কমিশন",
+    "hint": "জাতীয় মানবাধিকার কমিশন একটি স্বাধীন সংবিধিবদ্ধ প্রতিষ্ঠান হলেও এর চেয়ারপার্সন পদটি সরাসরি সাংবিধানিক পদ নয়."
+  },
+  {
+    "question": "৮৬. শিশুর কোন আচরণটি সামাজিক বিকাশের উদাহরণ?",
+    "answers": [
+      {
+        "text": "ক. পড়াশোনায় ভালো ফল করা",
+        "score": 0
+      },
+      {
+        "text": "খ. ছবি আঁকায় পারদর্শীতা",
+        "score": 0
+      },
+      {
+        "text": "গ. বন্ধুদের সাথে খেলাধুলা",
+        "score": 1
+      },
+      {
+        "text": "ঘ. শ্রেণিকক্ষে নির্দেশ মেনে চলা",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. বন্ধুদের সাথে খেলাধুলা",
+    "hint": "বন্ধুদের সাথে মেলামেশা ও খেলাধুলা করা শিশুর সামাজিক বিকাশের অন্যতম প্রধান লক্ষণ."
+  },
+  {
+    "question": "৮৭. বাংলাদেশ ক্রিকেট দল কোন সালে টেস্ট ক্রিকেটের মর্যাদা লাভ করে?",
+    "answers": [
+      {
+        "text": "ক. ১৯৯৯",
+        "score": 0
+      },
+      {
+        "text": "খ. ২০০০",
+        "score": 1
+      },
+      {
+        "text": "গ. ২০০১",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ১৯৯৮",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. ২০০০",
+    "hint": "বাংলাদেশ ২০০০ সালে আইসিসির টেস্ট স্ট্যাটাস বা পূর্ণ সদস্যপদ লাভ করে."
+  },
+  {
+    "question": "৮৮. বাংলাদেশের সংবিধানের কোন অনুচ্ছেদে “সকল শিশুর জন্য অবৈতনিক ও বাধ্যতামূলক প্রাথমিক শিক্ষা নিশ্চিত করা” উল্লেখ করা হয়েছে?",
+    "answers": [
+      {
+        "text": "ক. ১৮ অনুচ্ছেদ",
+        "score": 0
+      },
+      {
+        "text": "খ. ১৯ অনুচ্ছেদ",
+        "score": 0
+      },
+      {
+        "text": "গ. ১৫ অনুচ্ছেদ",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ১৭ অনুচ্ছেদ",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. ১৭ অনুচ্ছেদ",
+    "hint": "সংবিধানের ১৭ অনুচ্ছেদে অবৈতনিক ও বাধ্যতামূলক শিক্ষার কথা বলা হয়েছে."
+  },
+  {
+    "question": "৮৯. জন্ম থেকে মৃত্যু পর্যন্ত মানুষ বাস্তব অভিজ্ঞতার মধ্য দিয়ে যে অভিজ্ঞতা অর্জন করে তা হলো-",
+    "answers": [
+      {
+        "text": "ক. উপানুষ্ঠানিক শিক্ষা",
+        "score": 0
+      },
+      {
+        "text": "খ. পারিবারিক শিক্ষা",
+        "score": 0
+      },
+      {
+        "text": "গ. অনানুষ্ঠানিক শিক্ষা",
+        "score": 1
+      },
+      {
+        "text": "ঘ. আনুষ্ঠানিক শিক্ষা",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. অনানুষ্ঠানিক শিক্ষা",
+    "hint": "নির্দিষ্ট কোনো নিয়ম বা প্রাতিষ্ঠানিক পরিবেশ ছাড়া জীবনব্যাপী অর্জিত শিক্ষাকে অনানুষ্ঠানিক শিক্ষা বলা হয়."
+  },
+  {
+    "question": "৯০. ব্রেটন উডস ইনস্টিটিউট বলতে কোন সংস্থাকে বোঝায়?",
+    "answers": [
+      {
+        "text": "ক. ক ও খ উভয়ই",
+        "score": 1
+      },
+      {
+        "text": "খ. আইএমএফ",
+        "score": 0
+      },
+      {
+        "text": "গ. বিশ্ব ব্যাংক",
+        "score": 0
+      },
+      {
+        "text": "ঘ. এডিবি",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. ক ও খ উভয়ই (বিশ্বব্যাংক ও আইএমএফ)",
+    "hint": "ব্রেটন উডস সম্মেলনে বিশ্বব্যাংক (World Bank) ও আইএমএফ (IMF) প্রতিষ্ঠিত হয়."
+  }
+]

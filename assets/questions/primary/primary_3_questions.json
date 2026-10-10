@@ -1,0 +1,48 @@
+[
+    {
+        "question":  "What is the capital of Bangladesh?",
+        "answers":  [
+                        {
+                            "text":  "Dhaka",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Chittagong",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Khulna",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Rajshahi",
+                            "score":  0
+                        }
+                    ],
+        "correct_answer":  "Dhaka",
+        "hint":  "It\u0027s the largest city in Bangladesh. প্রশ্নের মূল ধারণা শনাক্ত করে প্রতিটি বিকল্পের সংজ্ঞা ও সম্পর্কের সঙ্গে মিলিয়ে সবচেয়ে নির্দিষ্ট উত্তরটি বেছে নিন।"
+    },
+    {
+        "question":  "Who is the current Prime Minister of Bangladesh?",
+        "answers":  [
+                        {
+                            "text":  "Sheikh Hasina",
+                            "score":  1
+                        },
+                        {
+                            "text":  "Khaleda Zia",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Hussain Muhammad Ershad",
+                            "score":  0
+                        },
+                        {
+                            "text":  "Ziaur Rahman",
+                            "score":  0
+                        }
+                    ],
+        "correct_answer":  "Sheikh Hasina",
+        "hint":  "She is the leader of the Awami League. প্রশ্নের মূল ধারণা শনাক্ত করে প্রতিটি বিকল্পের সংজ্ঞা ও সম্পর্কের সঙ্গে মিলিয়ে সবচেয়ে নির্দিষ্ট উত্তরটি বেছে নিন।"
+    }
+]

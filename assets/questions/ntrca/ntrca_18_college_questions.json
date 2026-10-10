@@ -1,0 +1,2118 @@
+[
+  {
+    "question": "১. ৯ জন শ্রমিক ৪ দিনে ১৮০০ টাকা আয় করেন। ৬ জন শ্রমিক কত দিনে সমপরিমাণ অর্থ আয় করবেন?",
+    "answers": [
+      {
+        "text": "ক. ৫(১/৩)",
+        "score": 0
+      },
+      {
+        "text": "খ. ৬",
+        "score": 1
+      },
+      {
+        "text": "গ. ৯",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ১৮",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. ৬",
+    "hint": "৯ জন শ্রমিক ৪ দিনে মোট আয় করলে মোট শ্রমদিবস ৩৬। ৬ জন শ্রমিক দিয়ে সমপরিমাণ আয় করতে ৩৬ ÷ ৬ = ৬ দিন লাগবে."
+  },
+  {
+    "question": "২. পুত্র ও পিতার বর্তমান বয়সের পার্থক্য ২০। ৮ বছর পর তাদের বয়সের সমষ্টি ৭২ বছর হলে পুত্রের বর্তমান বয়স-",
+    "answers": [
+      {
+        "text": "ক. ১৮ বছর",
+        "score": 1
+      },
+      {
+        "text": "খ. ১৬ বছর",
+        "score": 0
+      },
+      {
+        "text": "গ. ১২ বছর",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ৮ বছর",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. ১৮ বছর",
+    "hint": "বর্তমান বয়সের সমষ্টি ৭২ - (৮ × ২) = ৫৬। পিতা x, পুত্র y হলে x - y = ২০ এবং x + y = ৫৬; সমাধান করলে পুত্রের বয়স ১৮ বছর হয়."
+  },
+  {
+    "question": "৩. ৬৩০০ সংখ্যাটিকে কত দ্বারা গুণ করলে সংখ্যাটি পূর্ণবর্গ হবে?",
+    "answers": [
+      {
+        "text": "ক. ২",
+        "score": 0
+      },
+      {
+        "text": "খ. ৩",
+        "score": 0
+      },
+      {
+        "text": "গ. ৫",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ৭",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. ৭",
+    "hint": "৬৩০০ কে মৌলিক উৎপাদকে বিশ্লেষণ করলে জোড়বিহীন উৎপাদক ৭ থাকে, তাই ৭ দ্বারা গুণ করতে হবে."
+  },
+  {
+    "question": "৪. একটি সমিতিতে যতজন সদস্য আছে প্রত্যেকে তত ১৫.০০ টাকা করে চাঁদা দেওয়ায় মোট ৭৩৫ টাকা হলো। সদস্য সংখ্যা কত?",
+    "answers": [
+      {
+        "text": "ক. ৩ জন",
+        "score": 0
+      },
+      {
+        "text": "খ. ৫ জন",
+        "score": 0
+      },
+      {
+        "text": "গ. ৭ জন",
+        "score": 1
+      },
+      {
+        "text": "ঘ. ১৫ জন",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. ৭ জন",
+    "hint": "সদস্য সংখ্যা x হলে x × ১৫x = ৭৩৫ => ১৫x² = ৭৩৫ => x² = ৪৯ => x = ৭."
+  },
+  {
+    "question": "৫. সরল সুদে কোনো আসল ১২ বছরে সুদে-আসলে চারগুণ হলে সুদের হার কত?",
+    "answers": [
+      {
+        "text": "ক. ৫%",
+        "score": 0
+      },
+      {
+        "text": "খ. ১০%",
+        "score": 0
+      },
+      {
+        "text": "গ. ১২%",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ২৫%",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. ২৫%",
+    "hint": "সুদ ৩ গুণ বা ৩০০%। সুদের হার r = ৩০০ / ১২ = ২৫%."
+  },
+  {
+    "question": "৬. ২৪০ টাকায় ১২টি কমলা ক্রয় করে ২০০ টাকায় ৮টি কমলা বিক্রয় করলে শতকরা কত লাভ বা ক্ষতি হবে?",
+    "answers": [
+      {
+        "text": "ক. ২৫% লাভ",
+        "score": 1
+      },
+      {
+        "text": "খ. ২৫% ক্ষতি",
+        "score": 0
+      },
+      {
+        "text": "গ. ২০% লাভ",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ২০% ক্ষতি",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. ২৫% লাভ",
+    "hint": "১টি কমলার ক্রয়মূল্য ২০ টাকা এবং বিক্রয়মূল্য ২৫ টাকা; লাভ ৫ টাকা, অর্থাৎ লাভ ২৫%."
+  },
+  {
+    "question": "৭. দুইটি সংখ্যার অনুপাত ৪ : ৫ এবং তাদের ল.সা.গু. ১৬০ হলে ক্ষুদ্রতর সংখ্যাটি কত?",
+    "answers": [
+      {
+        "text": "ক. ৩২",
+        "score": 1
+      },
+      {
+        "text": "খ. ৪০",
+        "score": 0
+      },
+      {
+        "text": "গ. ৪২",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ৪৫",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. ৩২",
+    "hint": "সংখ্যাদ্বয় ৪x ও ৫x, ল.সা.গু ২০x = ১৬০ হলে x = ৮; ক্ষুদ্রতর সংখ্যা ৪ × ৮ = ৩২."
+  },
+  {
+    "question": "৮. কোনো একটি শ্রেণিতে ১১ জন শিক্ষার্থীর বয়সের গড় ১৩ বছর। ৩ শিক্ষার্থী নতুন ভর্তি হওয়ায় বয়সের গড় হলো ১২ বছর। নতুন ৩ জন শিক্ষার্থীর বয়সের সমষ্টি কত বছর?",
+    "answers": [
+      {
+        "text": "ক. ২৫",
+        "score": 1
+      },
+      {
+        "text": "খ. ৩৫",
+        "score": 0
+      },
+      {
+        "text": "গ. ৪৫",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ৫২",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. ২৫",
+    "hint": "১১ জনের বয়সের সমষ্টি ১৪৩, ১৪ জনের বয়সের সমষ্টি ১৬৮; নতুন ৩ জনের সমষ্টি ১৬৮ - ১৪৩ = ২৫ বছর."
+  },
+  {
+    "question": "৯. ৫০ ও ১০০ এর মধ্যবর্তী বৃহত্তম ও ক্ষুদ্রতম মৌলিক সংখ্যাদ্বয়ের গড় কত?",
+    "answers": [
+      {
+        "text": "ক. ৭৪",
+        "score": 0
+      },
+      {
+        "text": "খ. ৭৫",
+        "score": 1
+      },
+      {
+        "text": "গ. ৭৬",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ৭৭",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. ৭৫",
+    "hint": "ক্ষুদ্রতম মৌলিক ৫৩ ও বৃহত্তম ৯৭; গড় = (৫৩ + ৯৭) / ২ = ৭৫."
+  },
+  {
+    "question": "১০. x + y + z = 7 এবং xy + yz + zx = 10 হলে, x2 + y2 + z2 এর মান-",
+    "answers": [
+      {
+        "text": "ক. 29",
+        "score": 1
+      },
+      {
+        "text": "খ. 32",
+        "score": 0
+      },
+      {
+        "text": "গ. 35",
+        "score": 0
+      },
+      {
+        "text": "ঘ. 45",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. 29",
+    "hint": "সূত্র প্রয়োগ করে পাই: ৭² - ২(১০) = ৪৯ - ২০ = ২৯."
+  },
+  {
+    "question": "১১. 2 × 43x–5 = 512 হলে, x এর মান-",
+    "answers": [
+      {
+        "text": "ক. 2",
+        "score": 0
+      },
+      {
+        "text": "খ. 3",
+        "score": 1
+      },
+      {
+        "text": "গ. 4",
+        "score": 0
+      },
+      {
+        "text": "ঘ. 5",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. 3",
+    "hint": "৪^(৩x - ৫) = ২৫৬ = ৪⁴ হলে ৩x - ৫ = ৪, অর্থাৎ x = ৩."
+  },
+  {
+    "question": "১২. a + b = √7, a – b = √3 হলে, 5ab এর মান-",
+    "answers": [
+      {
+        "text": "ক. √3",
+        "score": 0
+      },
+      {
+        "text": "খ. √7",
+        "score": 0
+      },
+      {
+        "text": "গ. 5",
+        "score": 1
+      },
+      {
+        "text": "ঘ. 7",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. 5",
+    "hint": "ab = { (√৭)² - (√৩)² } / ৪ = ৪/৪ = ১; সুতরাং ৫ab = ৫."
+  },
+  {
+    "question": "১৩. log 2√2 x = 4 হলে, x এর মান-",
+    "answers": [
+      {
+        "text": "ক. 16",
+        "score": 0
+      },
+      {
+        "text": "খ. 32",
+        "score": 0
+      },
+      {
+        "text": "গ. 48",
+        "score": 0
+      },
+      {
+        "text": "ঘ. 64",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. 64",
+    "hint": "x = (২√২)⁴ = ১৬ × ৪ = ৬৪."
+  },
+  {
+    "question": "১৪. x – y = 3 হলে, x3 – y3 – 9xy এর মান-",
+    "answers": [
+      {
+        "text": "ক. 27",
+        "score": 1
+      },
+      {
+        "text": "খ. 18",
+        "score": 0
+      },
+      {
+        "text": "গ. 9",
+        "score": 0
+      },
+      {
+        "text": "ঘ. 6",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. 27",
+    "hint": "(x - y)³ - ৩xy(x - y) - ৯xy রূপান্তর করলে ৩³ = ২৭ হয়."
+  },
+  {
+    "question": "১৫. একটি খুঁটির ছায়ার দৈর্ঘ্য তার উচ্চতার √3 গুণ হলে, সূর্যের উন্নতি কোণ-",
+    "answers": [
+      {
+        "text": "ক. 30°",
+        "score": 1
+      },
+      {
+        "text": "খ. 45°",
+        "score": 0
+      },
+      {
+        "text": "গ. 60°",
+        "score": 0
+      },
+      {
+        "text": "ঘ. 90°",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. 30°",
+    "hint": "tanθ = লম্ব / ভূমি = ১ / √৩ হলে θ = ৩০°."
+  },
+  {
+    "question": "১৬. একটি বর্গক্ষেত্রের কর্ণের দৈর্ঘ্য 4√2 একক হলে, বর্গক্ষেত্রের পরিসীমা কত একক?",
+    "answers": [
+      {
+        "text": "ক. 4",
+        "score": 0
+      },
+      {
+        "text": "খ. 8",
+        "score": 0
+      },
+      {
+        "text": "গ. 16",
+        "score": 1
+      },
+      {
+        "text": "ঘ. 32",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. 16",
+    "hint": "বাহু ৪ একক হলে পরিসীমা ৪ × ৪ = ১৬ একক."
+  },
+  {
+    "question": "১৭. একটি আয়তক্ষেত্রের পরিসীমা 44 মিটার। এর দৈর্ঘ্য, প্রস্থ অপেক্ষা 4 মিটার বেশি। উহার দৈর্ঘ্য ও প্রস্থের অনুপাত কত?",
+    "answers": [
+      {
+        "text": "ক. 2 : 3",
+        "score": 0
+      },
+      {
+        "text": "খ. 5 : 6",
+        "score": 0
+      },
+      {
+        "text": "গ. 6 : 5",
+        "score": 0
+      },
+      {
+        "text": "ঘ. 13 : 9",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. 13 : 9",
+    "hint": "দৈর্ঘ্য ১৩ ও প্রস্থ ৯ হলে পরিসীমা ৪৪ হয়, অনুপাত ১৩ : ৯."
+  },
+  {
+    "question": "১৮. একটি ট্রাপিজিয়ামের সমান্তরাল বাহুদ্বয়ের দৈর্ঘ্য 10 সেমি. ও 8 সেমি.। উহার ক্ষেত্রফল 63 বর্গসেমি. হলে, সমান্তরাল বাহুদ্বয়ের মধ্যবর্তী দূরত্ব কত সেমি?",
+    "answers": [
+      {
+        "text": "ক. 7",
+        "score": 1
+      },
+      {
+        "text": "খ. 14",
+        "score": 0
+      },
+      {
+        "text": "গ. 21",
+        "score": 0
+      },
+      {
+        "text": "ঘ. 63",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. 7",
+    "hint": "ক্ষেত্রফল = ১/২ × (১০ + ৮) × h = ৬৩ হলে h = ৭ সেমি."
+  },
+  {
+    "question": "১৯. একটি বৃত্তে একই চাপের উপর অবস্থিত কেন্দ্রস্থ কোণ 140° হলে, উক্ত চাপের উপর অবস্থিত বৃত্তস্থ কোণের মান-",
+    "answers": [
+      {
+        "text": "ক. 10°",
+        "score": 0
+      },
+      {
+        "text": "খ. 60°",
+        "score": 0
+      },
+      {
+        "text": "গ. 70°",
+        "score": 1
+      },
+      {
+        "text": "ঘ. 280°",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. 70°",
+    "hint": "বৃত্তস্থ কোণ কেন্দ্রস্থ কোণের অর্ধেক, অর্থাৎ ১৪০° / ২ = ৭০°."
+  },
+  {
+    "question": "২০. ABCD রম্বসের ∠ABC = 120° এবং কর্ণদ্বয়ের ছেদবিন্দু O। OE ⊥ AB হলে, ∠BOE = কত?",
+    "answers": [
+      {
+        "text": "ক. 30°",
+        "score": 1
+      },
+      {
+        "text": "খ. 45°",
+        "score": 0
+      },
+      {
+        "text": "গ. 60°",
+        "score": 0
+      },
+      {
+        "text": "ঘ. 120°",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. 30°",
+    "hint": "জ্যামিতিক বিশ্লেষণে কোণটির মান ৩০° পাওয়া যায়."
+  },
+  {
+    "question": "২১. “To read between the lines” means–",
+    "answers": [
+      {
+        "text": "ক. to concentrate",
+        "score": 0
+      },
+      {
+        "text": "খ. to read leaving space",
+        "score": 0
+      },
+      {
+        "text": "গ. to grasp the hidden meaning",
+        "score": 1
+      },
+      {
+        "text": "ঘ. to read quickly",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. to grasp the hidden meaning",
+    "hint": "ফ্রেজটির অর্থ অন্তর্নিহিত বা লুকিয়ে থাকা অর্থ উদ্ধার করা."
+  },
+  {
+    "question": "২২. –––– mother rose in her.",
+    "answers": [
+      {
+        "text": "ক. the",
+        "score": 1
+      },
+      {
+        "text": "খ. a",
+        "score": 0
+      },
+      {
+        "text": "গ. an",
+        "score": 0
+      },
+      {
+        "text": "ঘ. no article",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. the",
+    "hint": "মায়ের গুণ বোঝাতে Abstract noun এর পূর্বে Definite article 'the' বসে."
+  },
+  {
+    "question": "২৩. ––––, I would have called her.",
+    "answers": [
+      {
+        "text": "ক. If I saw him",
+        "score": 0
+      },
+      {
+        "text": "খ. If Rina had seen me",
+        "score": 1
+      },
+      {
+        "text": "গ. If Rina sees me",
+        "score": 0
+      },
+      {
+        "text": "ঘ. If Rina would seen me",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. If Rina had seen me",
+    "hint": "Third conditional নিয়মে 'would have + V3' এর পূর্বে 'had + V3' বসে."
+  },
+  {
+    "question": "২৪. Do you enjoy teaching? The underlined word is–",
+    "answers": [
+      {
+        "text": "ক. noun",
+        "score": 0
+      },
+      {
+        "text": "খ. participle",
+        "score": 0
+      },
+      {
+        "text": "গ. gerund",
+        "score": 1
+      },
+      {
+        "text": "ঘ. pronoun",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. gerund",
+    "hint": "Verb-এর সাথে ing যুক্ত হয়ে noun-এর কাজ করায় এটি Gerund."
+  },
+  {
+    "question": "২৫. English ––– across the world.",
+    "answers": [
+      {
+        "text": "ক. speaks",
+        "score": 0
+      },
+      {
+        "text": "খ. is speaking",
+        "score": 0
+      },
+      {
+        "text": "গ. is spoken",
+        "score": 1
+      },
+      {
+        "text": "ঘ. has been spoken",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. is spoken",
+    "hint": "বাক্যটি Passive হওয়ায় সঠিক রূপ 'is spoken'."
+  },
+  {
+    "question": "২৬. Who will help you? The passive form is–",
+    "answers": [
+      {
+        "text": "ক. By whom will you be helped?",
+        "score": 1
+      },
+      {
+        "text": "খ. By whom you will be helped?",
+        "score": 0
+      },
+      {
+        "text": "গ. By whom will you helped?",
+        "score": 0
+      },
+      {
+        "text": "ঘ. By whom would be helped?",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. By whom will you be helped?",
+    "hint": "Who যুক্ত Interrogative বাক্যের Passive রূপ 'By whom + auxiliary + subject + be + V3'."
+  },
+  {
+    "question": "২৭. I am used ––– in crowded places.",
+    "answers": [
+      {
+        "text": "ক. to study",
+        "score": 0
+      },
+      {
+        "text": "খ. to studying",
+        "score": 1
+      },
+      {
+        "text": "গ. to studied",
+        "score": 0
+      },
+      {
+        "text": "ঘ. studing",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. to studying",
+    "hint": "'Be used to' এর পর verb-এর সাথে ing যুক্ত হয়."
+  },
+  {
+    "question": "২৮. A speech full of many words is–",
+    "answers": [
+      {
+        "text": "ক. a large speech",
+        "score": 0
+      },
+      {
+        "text": "খ. an ornamental speech",
+        "score": 0
+      },
+      {
+        "text": "গ. maiden speech",
+        "score": 0
+      },
+      {
+        "text": "ঘ. a verbose speech",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. a verbose speech",
+    "hint": "শব্দবহুল বা অতিরিক্ত বাকপূর্ণ ভাষণকে verbose speech বলে."
+  },
+  {
+    "question": "২৯. The enemy gave in at last. Here “gave in” means–",
+    "answers": [
+      {
+        "text": "ক. fled away",
+        "score": 0
+      },
+      {
+        "text": "খ. fainted",
+        "score": 0
+      },
+      {
+        "text": "গ. yielded",
+        "score": 1
+      },
+      {
+        "text": "ঘ. moved back",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. yielded",
+    "hint": "'Give in' ফ্রেজাল ভার্বের অর্থ হার মানা বা আত্মসমর্পণ করা (yield)."
+  },
+  {
+    "question": "৩০. The phrase “get the axe” means–",
+    "answers": [
+      {
+        "text": "ক. get a new job",
+        "score": 0
+      },
+      {
+        "text": "খ. lose the job",
+        "score": 1
+      },
+      {
+        "text": "গ. cut off relationship",
+        "score": 0
+      },
+      {
+        "text": "ঘ. get an opportunity",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. lose the job",
+    "hint": "'Get the axe' ফ্রেজটির অর্থ চাকরি হারানো বা বরখাস্ত হওয়া."
+  },
+  {
+    "question": "৩১. The spectator was a lady, –––?",
+    "answers": [
+      {
+        "text": "ক. isn’t she",
+        "score": 0
+      },
+      {
+        "text": "খ. was she",
+        "score": 0
+      },
+      {
+        "text": "গ. wasn’t she",
+        "score": 1
+      },
+      {
+        "text": "ঘ. was she not",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. wasn’t she",
+    "hint": "বাক্যটি Affirmative ও Past Tense হওয়ায় Tag question হবে 'wasn’t she'."
+  },
+  {
+    "question": "৩২. Now many women are working ––– home with men.",
+    "answers": [
+      {
+        "text": "ক. out",
+        "score": 0
+      },
+      {
+        "text": "খ. off",
+        "score": 0
+      },
+      {
+        "text": "গ. staying out",
+        "score": 0
+      },
+      {
+        "text": "ঘ. outside",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. outside",
+    "hint": "ঘরের বাইরে কাজ করা বোঝাতে 'outside home' ব্যবহৃত হয়."
+  },
+  {
+    "question": "৩৩. The verb form of ‘deceit’ is–",
+    "answers": [
+      {
+        "text": "ক. deceive",
+        "score": 1
+      },
+      {
+        "text": "খ. decisive",
+        "score": 0
+      },
+      {
+        "text": "গ. deceiving",
+        "score": 0
+      },
+      {
+        "text": "ঘ. deceitful",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. deceive",
+    "hint": "Deceit (Noun) এর Verb রূপ হলো Deceive (প্রতারণা করা)."
+  },
+  {
+    "question": "৩৪. The singular form of ‘criteria’ is–",
+    "answers": [
+      {
+        "text": "ক. criterium",
+        "score": 0
+      },
+      {
+        "text": "খ. criterion",
+        "score": 1
+      },
+      {
+        "text": "গ. criteri",
+        "score": 0
+      },
+      {
+        "text": "ঘ. criterius",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. criterion",
+    "hint": "Criteria হলো Plural form, যার Singular হলো Criterion."
+  },
+  {
+    "question": "৩৫. Move and die. ––– Make it simple:",
+    "answers": [
+      {
+        "text": "ক. If you move, you will die.",
+        "score": 0
+      },
+      {
+        "text": "খ. By moving you will die.",
+        "score": 1
+      },
+      {
+        "text": "গ. Without moving you will die.",
+        "score": 0
+      },
+      {
+        "text": "ঘ. If you do not move, you will die.",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. By moving you will die.",
+    "hint": "Imperative বাক্যকে 'By + gerund' ব্যবহার করে Simple করা হয়েছে."
+  },
+  {
+    "question": "৩৬. The synonym of ‘intimidate’ is–",
+    "answers": [
+      {
+        "text": "ক. weaken",
+        "score": 0
+      },
+      {
+        "text": "খ. depress",
+        "score": 0
+      },
+      {
+        "text": "গ. encourage",
+        "score": 0
+      },
+      {
+        "text": "ঘ. frighten",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. frighten",
+    "hint": "Intimidate (ভয় দেখানো) এর সমার্থক শব্দ Frighten."
+  },
+  {
+    "question": "৩৭. The antonym of the word ‘delete’ is–",
+    "answers": [
+      {
+        "text": "ক. start",
+        "score": 0
+      },
+      {
+        "text": "খ. delay",
+        "score": 0
+      },
+      {
+        "text": "গ. insert",
+        "score": 1
+      },
+      {
+        "text": "ঘ. hide",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. insert",
+    "hint": "Delete (মুছে ফেলা) এর বিপরীত শব্দ Insert (সংযোজন করা)."
+  },
+  {
+    "question": "৩৮. “A letter is going to be written by me” –Make it active:",
+    "answers": [
+      {
+        "text": "ক. I am going to write a letter.",
+        "score": 1
+      },
+      {
+        "text": "খ. I will write a letter.",
+        "score": 0
+      },
+      {
+        "text": "গ. I am writing a letter.",
+        "score": 0
+      },
+      {
+        "text": "ঘ. I will be going to write a letter.",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. I am going to write a letter.",
+    "hint": "'am/is/are going to' যুক্ত Passive বাক্যের Active রূপ হলো 'I am going to write a letter'."
+  },
+  {
+    "question": "৩৯.ূমপান স্বাস্থ্যের জন্য ক্ষতিকর- Correct translation in English:",
+    "answers": [
+      {
+        "text": "ক. Smoking is bad for health.",
+        "score": 0
+      },
+      {
+        "text": "খ. Smoking is telling upon health.",
+        "score": 0
+      },
+      {
+        "text": "গ. Smoking was a bad habit.",
+        "score": 0
+      },
+      {
+        "text": "ঘ. Smoking is dangerous for health.",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. Smoking is dangerous for health.",
+    "hint": "সঠিক অনুবাদ হলো 'Smoking is dangerous for health'."
+  },
+  {
+    "question": "৪০. He visits the school off and on. “Off and on” means–",
+    "answers": [
+      {
+        "text": "ক. regularly",
+        "score": 0
+      },
+      {
+        "text": "খ. frequently",
+        "score": 0
+      },
+      {
+        "text": "গ. never at all",
+        "score": 0
+      },
+      {
+        "text": "ঘ. occasionally",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. occasionally",
+    "hint": "'Off and on' ফ্রেজটির অর্থ মাঝে মাঝে বা intermittently (occasionally)."
+  },
+  {
+    "question": "৪১. I have left the room but he (enter) the room:",
+    "answers": [
+      {
+        "text": "ক. enters",
+        "score": 0
+      },
+      {
+        "text": "খ. entered",
+        "score": 0
+      },
+      {
+        "text": "গ. has entered",
+        "score": 1
+      },
+      {
+        "text": "ঘ. is entering",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. has entered",
+    "hint": "পূর্বের কাজের ফল বর্তমান বোঝাতে Present Perfect Tense (has entered) ব্যবহৃত হয়েছে."
+  },
+  {
+    "question": "৪২. What is the time ––– your watch?",
+    "answers": [
+      {
+        "text": "ক. in",
+        "score": 0
+      },
+      {
+        "text": "খ. at",
+        "score": 0
+      },
+      {
+        "text": "গ. by",
+        "score": 1
+      },
+      {
+        "text": "ঘ. to",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. by",
+    "hint": "ঘড়িতে সময় দেখা বোঝাতে উপযুক্ত Preposition হিসেবে 'by' বসে."
+  },
+  {
+    "question": "৪৩. বাংলা ভাষার আদি নিদর্শন কোনটি?",
+    "answers": [
+      {
+        "text": "ক. চর্যাপদ",
+        "score": 1
+      },
+      {
+        "text": "খ. শ্রীকৃষ্ণকীর্তন কাব্য",
+        "score": 0
+      },
+      {
+        "text": "গ. বঙ্গবাণী",
+        "score": 0
+      },
+      {
+        "text": "ঘ. অন্নদামঙ্গল কাব্য",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. চর্যাপদ",
+    "hint": "বাংলা ভাষার প্রাচীনতম নিদর্শন ও সাহিত্যিক দলিল হলো চর্যাপদ."
+  },
+  {
+    "question": "৪৪. মধ্যযুগের শেষ কবি কে?",
+    "answers": [
+      {
+        "text": "ক. আব্দুল হাকিম",
+        "score": 0
+      },
+      {
+        "text": "খ. বড়ু চণ্ডীদাস",
+        "score": 0
+      },
+      {
+        "text": "গ. আলাওল",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ভারতচন্দ্র রায় গুণাকর",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. ভারতচন্দ্র রায় গুণাকর",
+    "hint": "বাংলা মধ্যযুগের সর্বশেষ বিশিষ্ট কবি হিসেবে ভারতচন্দ্র রায় গুণাকরকে গণ্য করা হয়."
+  },
+  {
+    "question": "৪৫. যুগসন্ধিক্ষণের কবি হিসেবে পরিচিতি কে?",
+    "answers": [
+      {
+        "text": "ক. বিহারীলাল চক্রবর্তী",
+        "score": 0
+      },
+      {
+        "text": "খ. ঈশ্বরচন্দ্র গুপ্ত",
+        "score": 1
+      },
+      {
+        "text": "গ. ভারতচন্দ্র রায়গুণাকর",
+        "score": 0
+      },
+      {
+        "text": "ঘ. আলাওল",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. ঈশ্বরচন্দ্র গুপ্ত",
+    "hint": "মধ্যযুগ ও আধুনিক যুগের সংযোগস্থলের কবি বা যুগসন্ধিক্ষণের কবি ঈশ্বরচন্দ্র গুপ্ত."
+  },
+  {
+    "question": "৪৬. চতুর্দশপদী কবিতা বা সনেটের প্রবর্তক কে?",
+    "answers": [
+      {
+        "text": "ক. মাইকেল মধুসূদন দত্ত",
+        "score": 1
+      },
+      {
+        "text": "খ. রবীন্দ্রনাথ ঠাকুর",
+        "score": 0
+      },
+      {
+        "text": "গ. অমিয় চক্রবর্তী",
+        "score": 0
+      },
+      {
+        "text": "ঘ. বিষ্ণু দে",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. মাইকেল মধুসূদন দত্ত",
+    "hint": "বাংলা সাহিত্যে সনেট বা চতুর্দশপদী কবিতার প্রবর্তক মাইকেল মধুসূদন দত্ত."
+  },
+  {
+    "question": "৪৭. কোনটি সঠিক বানান?",
+    "answers": [
+      {
+        "text": "ক. নিশিথিনী",
+        "score": 0
+      },
+      {
+        "text": "খ. নীশিথিনী",
+        "score": 0
+      },
+      {
+        "text": "গ. নিশীথিনী",
+        "score": 1
+      },
+      {
+        "text": "ঘ. নিশিথিনি",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. নিশীথিনী",
+    "hint": "শুদ্ধ বানানটি হলো নিশীথিনী (দীর্ঘ ঈ-কার ও মূর্ধন্য-ন)."
+  },
+  {
+    "question": "৪৮. ‘রিক্সা’ কোন ভাষার শব্দ?",
+    "answers": [
+      {
+        "text": "ক. তুর্কি",
+        "score": 0
+      },
+      {
+        "text": "খ. কোরিয়ান",
+        "score": 0
+      },
+      {
+        "text": "গ. জাপানি",
+        "score": 1
+      },
+      {
+        "text": "ঘ. পর্তুগিজ",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. জাপানি",
+    "hint": "রিক্সা (Jinrikisha থেকে আগত) একটি জাপানি শব্দ."
+  },
+  {
+    "question": "৪৯. ‘ভানুসিংহ’ কার ছদ্মনাম?",
+    "answers": [
+      {
+        "text": "ক. রবীন্দ্রনাথ ঠাকুর",
+        "score": 1
+      },
+      {
+        "text": "খ. কাজী নজরুল ইসলাম",
+        "score": 0
+      },
+      {
+        "text": "গ. শরৎচন্দ্র চট্টোপাধ্যায়",
+        "score": 0
+      },
+      {
+        "text": "ঘ. বলাইচাঁদ মুখোপাধ্যায়",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. রবীন্দ্রনাথ ঠাকুর",
+    "hint": "রবীন্দ্রনাথ ঠাকুর 'ভানুসিংহ ঠাকুর' ছদ্মনামে পদাবলী রচনা করেছিলেন."
+  },
+  {
+    "question": "৫০. কত সালে জাতির পিতা বঙ্গবন্ধু শেখ মুজিবুর রহমানকে ‘জুলিও কুরি’ পদকে ভূষিত করা হয়?",
+    "answers": [
+      {
+        "text": "ক. ১৯৬৮",
+        "score": 0
+      },
+      {
+        "text": "খ. ১৯৭১",
+        "score": 0
+      },
+      {
+        "text": "গ. ১৯৭২",
+        "score": 1
+      },
+      {
+        "text": "ঘ. ১৯৭৩",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. ১৯৭২",
+    "hint": "শান্তি ও সংগ্রামের স্বীকৃতিস্বরূপ ১৯৭২ সালে বঙ্গবন্ধুকে জুলিও কুরি পদক দেওয়া হয়."
+  },
+  {
+    "question": "৫১. “সঞ্চয়িতা” কার রচনা?",
+    "answers": [
+      {
+        "text": "ক. রবীন্দ্রনাথ ঠাকুর",
+        "score": 1
+      },
+      {
+        "text": "খ. কাজী নজরুল ইসলাম",
+        "score": 0
+      },
+      {
+        "text": "গ. মাইকেল মধুসূদন দত্ত",
+        "score": 0
+      },
+      {
+        "text": "ঘ. জসীম উদদীন",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. রবীন্দ্রনাথ ঠাকুর",
+    "hint": "'সঞ্চয়িতা' রবীন্দ্রনাথ ঠাকুরের কবিতার সংকলন গ্রন্থ."
+  },
+  {
+    "question": "৫২. কাজী নজরুল ইসলামের ‘বিদ্রোহী’ কবিতাটি কোন পত্রিকায় প্রকাশিত হয়?",
+    "answers": [
+      {
+        "text": "ক. মাসিক মোহম্মদী",
+        "score": 0
+      },
+      {
+        "text": "খ. সাপ্তাহিক বিজলী",
+        "score": 1
+      },
+      {
+        "text": "গ. দৈনিক নবযুগ",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ধূমকেতু",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. সাপ্তাহিক বিজলী",
+    "hint": "বিদ্রোহী কবিতাটি ১৯২২ সালে 'সাপ্তাহিক বিজলী' পত্রিকায় প্রথম প্রকাশিত হয়."
+  },
+  {
+    "question": "৫৩. ‘পাবক’ এর সমার্থক শব্দ কোনটি?",
+    "answers": [
+      {
+        "text": "ক. অগ্নি",
+        "score": 1
+      },
+      {
+        "text": "খ. নয়ন",
+        "score": 0
+      },
+      {
+        "text": "গ. পুত্র",
+        "score": 0
+      },
+      {
+        "text": "ঘ. অধিপতি",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. অগ্নি",
+    "hint": "'পাবক' হলো আগুন বা অগ্নির একটি সমার্থক শব্দ."
+  },
+  {
+    "question": "৫৪. ‘অলীক’ এর বিপরীত শব্দ কোনটি?",
+    "answers": [
+      {
+        "text": "ক. মিথ্যা",
+        "score": 0
+      },
+      {
+        "text": "খ. সত্য",
+        "score": 1
+      },
+      {
+        "text": "গ. সচল",
+        "score": 0
+      },
+      {
+        "text": "ঘ. হিংসা",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. সত্য",
+    "hint": "'অলীক' (মিথ্যা বা কাল্পনিক) শব্দের বিপরীতার্থক শব্দ 'সত্য'."
+  },
+  {
+    "question": "৫৫. ‘সুলতানার স্বপ্ন’ বেগম রোকেয়া সাখাওয়াত হোসেন রচিত-",
+    "answers": [
+      {
+        "text": "ক. উপন্যাস",
+        "score": 1
+      },
+      {
+        "text": "খ. কাব্যগ্রন্থ",
+        "score": 0
+      },
+      {
+        "text": "গ. প্রবন্ধগ্রন্থ",
+        "score": 0
+      },
+      {
+        "text": "ঘ. নাটক",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. উপন্যাস (বা নারীবাদী কল্পবিজ্ঞান রচনা)",
+    "hint": "বেগম রোকেয়া সাখাওয়াত হোসেনের বিখ্যাত কল্পবিজ্ঞান মূলক রচনা 'সুলতানার স্বপ্ন' (Sultana's Dream)."
+  },
+  {
+    "question": "৫৬. ‘বন্দী শিবির থেকে’ গ্রন্থটি কার লেখা?",
+    "answers": [
+      {
+        "text": "ক. কাজী নজরুল ইসলাম",
+        "score": 0
+      },
+      {
+        "text": "খ. শামসুর রাহমান",
+        "score": 1
+      },
+      {
+        "text": "গ. আহসান হাবীব",
+        "score": 0
+      },
+      {
+        "text": "ঘ. আবুল হাসান",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. শামসুর রাহমান",
+    "hint": "মুক্তিযুদ্ধভিত্তিক বিখ্যাত কাব্যগ্রন্থ 'বন্দী শিবির থেকে' কবি শামসুর রাহমানের রচনা."
+  },
+  {
+    "question": "৫৭. ‘আকাশ কুসুম’ বাগ্‌ধারাটির অর্থ কী?",
+    "answers": [
+      {
+        "text": "ক. আকাঙ্ক্ষিত বস্তু",
+        "score": 0
+      },
+      {
+        "text": "খ. অপ্রত্যাশিত",
+        "score": 0
+      },
+      {
+        "text": "গ. প্রচুর ব্যবধান",
+        "score": 0
+      },
+      {
+        "text": "ঘ. অসম্ভব কল্পনা",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. অসম্ভব কল্পনা",
+    "hint": "'আকাশ কুসুম' বাগধারার অর্থ অসম্ভব কল্পনা বা অবাস্তব আশা."
+  },
+  {
+    "question": "৫৮. ‘Ratio’ শব্দটির পারিভাষিক রূপ কোনটি?",
+    "answers": [
+      {
+        "text": "ক. নিত্যক্রম",
+        "score": 0
+      },
+      {
+        "text": "খ. ভগ্নাংশ",
+        "score": 0
+      },
+      {
+        "text": "গ. অনুপাত",
+        "score": 1
+      },
+      {
+        "text": "ঘ. সারি",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. অনুপাত",
+    "hint": "ইংরেজি Ratio শব্দের বাংলা পরিভাষা হলো 'অনুপাত'."
+  },
+  {
+    "question": "৫৯. অর্থানুসারে শব্দ কত প্রকার?",
+    "answers": [
+      {
+        "text": "ক. ২ প্রকার",
+        "score": 0
+      },
+      {
+        "text": "খ. ৩ প্রকার",
+        "score": 1
+      },
+      {
+        "text": "গ. ৪ প্রকার",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ৫ প্রকার",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. ৩ প্রকার (যৌগিক, রুঢ় বা রূঢ়ি এবং যোগরূঢ় শব্দ)",
+    "hint": "অর্থের দিক থেকে বাংলা শব্দকে মূলত তিন ভাগে ভাগ করা হয়."
+  },
+  {
+    "question": "৬০. ‘বাবা বাড়ি নেই’- বাক্যটিতে বাড়ি কোন কারকে কোন বিভক্তি?",
+    "answers": [
+      {
+        "text": "ক. কর্তায় শূন্য",
+        "score": 0
+      },
+      {
+        "text": "খ. করণে শূন্য",
+        "score": 0
+      },
+      {
+        "text": "গ. অপাদানে শূন্য",
+        "score": 0
+      },
+      {
+        "text": "ঘ. অধিকরণে শূন্য",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. অধিকরণে শূন্য",
+    "hint": "কোথায় নেই? বাড়ি—স্থান বোঝানোর কারণে এটি অধিকরণ কারকে প্রথমা বা শূন্য বিভক্তি."
+  },
+  {
+    "question": "৬১. ‘তেপান্তর’ কোন সমাসের উদাহরণ?",
+    "answers": [
+      {
+        "text": "ক. দ্বন্দ্ব সমাস",
+        "score": 0
+      },
+      {
+        "text": "খ. অব্যয়ীভাব সমাস",
+        "score": 0
+      },
+      {
+        "text": "গ. দ্বিগু সমাস",
+        "score": 1
+      },
+      {
+        "text": "ঘ. কর্মধারয় সমাস",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. দ্বিগু সমাস",
+    "hint": "তিন প্রান্তের সমাহার = তেপান্তর, যা সংখ্যাবাচক শব্দে দ্বিগু সমাস."
+  },
+  {
+    "question": "৬২. ‘অন্যদিকে মন নেই যার’ বাক্যটির এক কথায় প্রকাশ কোনটি?",
+    "answers": [
+      {
+        "text": "ক. অনন্যমনা",
+        "score": 1
+      },
+      {
+        "text": "খ. অন্যপেক্ষ",
+        "score": 0
+      },
+      {
+        "text": "গ. অগত্যা",
+        "score": 0
+      },
+      {
+        "text": "ঘ. অনন্যোপায়",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. অনন্যমনা",
+    "hint": "যিনি বা যার অন্য দিকে মন নেই তাকে এক কথায় 'অনন্যমনা' বলে."
+  },
+  {
+    "question": "৬৩. ‘বনস্পতি’ শব্দটির সন্ধি বিচ্ছেদ কোনটি?",
+    "answers": [
+      {
+        "text": "ক. বনস + পতি",
+        "score": 0
+      },
+      {
+        "text": "খ. বনঃ + পতি",
+        "score": 1
+      },
+      {
+        "text": "গ. বন + পতি",
+        "score": 0
+      },
+      {
+        "text": "ঘ. বনো + পতি",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. বনঃ + পতি",
+    "hint": "আধুনিক ব্যাকরণ অনুযায়ী বনস্পতি শব্দের সঠিক সন্ধি-বিচ্ছেদ 'বনঃ + পতি'."
+  },
+  {
+    "question": "৬৪. ‘কর্তব্য’ শব্দের প্রকৃতি ও প্রত্যয় কোনটি?",
+    "answers": [
+      {
+        "text": "ক. কব + তব্য",
+        "score": 0
+      },
+      {
+        "text": "খ. কব্ + তব্য",
+        "score": 0
+      },
+      {
+        "text": "গ. কর্তা + অব্য",
+        "score": 0
+      },
+      {
+        "text": "ঘ. কৃ + তব্য",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. কৃ + তব্য",
+    "hint": "কৃ (ধাতু) + তব্য (প্রত্যয়) মিলে 'কর্তব্য' গঠিত হয়."
+  },
+  {
+    "question": "৬৫. উপসর্গ কোন জাতীয় শব্দাংশ?",
+    "answers": [
+      {
+        "text": "ক. বিশেষ্য",
+        "score": 0
+      },
+      {
+        "text": "খ. সর্বনাম",
+        "score": 0
+      },
+      {
+        "text": "গ. অব্যয়",
+        "score": 1
+      },
+      {
+        "text": "ঘ. বিশেষণ",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. অব্যয়",
+    "hint": "উপসর্গ হলো কিছু অব্যয়সূচক শব্দাংশ যা শব্দের পূর্বে বসে."
+  },
+  {
+    "question": "৬৬. কমা অপেক্ষা বেশি বিরতির প্রয়োজন হলে কোন বিরাম চিহ্ন বসে?",
+    "answers": [
+      {
+        "text": "ক. দাড়ি",
+        "score": 0
+      },
+      {
+        "text": "খ. কোলন",
+        "score": 0
+      },
+      {
+        "text": "গ. সেমিকোলন",
+        "score": 1
+      },
+      {
+        "text": "ঘ. ড্যাস",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. সেমিকোলন",
+    "hint": "কমা অপেক্ষা বেশি বিরতির প্রয়োজন হলে সেমিকোলন (;) ব্যবহার করা হয়."
+  },
+  {
+    "question": "৬৭. শরৎচন্দ্র চট্টোপাধ্যায়কে সম্মানসূচক ডিলিট ডিগ্রি প্রদান করে কোন বিশ্ববিদ্যালয়?",
+    "answers": [
+      {
+        "text": "ক. কলিকাতা বিশ্ববিদ্যালয়",
+        "score": 0
+      },
+      {
+        "text": "খ. ঢাকা বিশ্ববিদ্যালয়",
+        "score": 1
+      },
+      {
+        "text": "গ. বিশ্বভারতী",
+        "score": 0
+      },
+      {
+        "text": "ঘ. শান্তিনিকেতন",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. ঢাকা বিশ্ববিদ্যালয়",
+    "hint": "কথাশিল্পী শরৎচন্দ্র চট্টোপাধ্যায়কে ঢাকা বিশ্ববিদ্যালয় সম্মানসূচক ডি.লিট ডিগ্রি প্রদান করে."
+  },
+  {
+    "question": "৬৮. পুণ্ড্রনগর কোন জেলায় অবস্থিত?",
+    "answers": [
+      {
+        "text": "ক. কুমিল্লা",
+        "score": 0
+      },
+      {
+        "text": "খ. নওগাঁ",
+        "score": 0
+      },
+      {
+        "text": "গ. বগুড়া",
+        "score": 1
+      },
+      {
+        "text": "ঘ. দিনাজপুর",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. বগুড়া",
+    "hint": "প্রাচীন পুণ্ড্রবর্ধন বা পুণ্ড্রনগর বর্তমান বগুড়া জেলার মহাস্থানগড়ে অবস্থিত."
+  },
+  {
+    "question": "৬৯. বাংলাদেশের সর্ববৃহৎ বায়ু বিদ্যুৎ কেন্দ্র কোথায় অবস্থিত?",
+    "answers": [
+      {
+        "text": "ক. কক্সবাজার",
+        "score": 1
+      },
+      {
+        "text": "খ. নোয়াখালী",
+        "score": 0
+      },
+      {
+        "text": "গ. বরগুনা",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ভোলা",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. কক্সবাজার",
+    "hint": "বাংলাদেশের সর্ববৃহৎ বায়ু বিদ্যুৎ কেন্দ্র কক্সবাজারের খুরুশকুলে অবস্থিত."
+  },
+  {
+    "question": "৭০. পুলিশী সাহায্য পাওয়ার শর্টকোড কোনটি?",
+    "answers": [
+      {
+        "text": "ক. ১০৬",
+        "score": 0
+      },
+      {
+        "text": "খ. ৩৩৩",
+        "score": 0
+      },
+      {
+        "text": "গ. ৯৯৯",
+        "score": 1
+      },
+      {
+        "text": "ঘ. ১২১",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. ৯৯৯",
+    "hint": "জরুরি পুলিশি ও অন্যান্য সেবা পেতে ৯৯৯ নম্বরে কল করতে হয়."
+  },
+  {
+    "question": "৭১. দেশের প্রথম টানেলের দৈর্ঘ্য কত কিলোমিটার?",
+    "answers": [
+      {
+        "text": "ক. ২.৪৫",
+        "score": 0
+      },
+      {
+        "text": "খ. ৩.৩২",
+        "score": 1
+      },
+      {
+        "text": "গ. ৩.৪০",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ৩.৪৩",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. ৩.৩২",
+    "hint": "বঙ্গবন্ধু শেখ মুজিবুর রহমান টানেলের মূল অংশের দৈর্ঘ্য ৩.৩২ কিলোমিটার."
+  },
+  {
+    "question": "৭২. বাংলাদেশের সর্ববৃহৎ গণহত্যাটি কোথায় হয়?",
+    "answers": [
+      {
+        "text": "ক. আসামদিয়া",
+        "score": 0
+      },
+      {
+        "text": "খ. মোহাম্মদপুর বিধবা পল্লী",
+        "score": 0
+      },
+      {
+        "text": "গ. চুকনগর",
+        "score": 1
+      },
+      {
+        "text": "ঘ. রায়ের বাজার",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. চুকনগর",
+    "hint": "১৯৭১ সালের মুক্তিযুদ্ধে খুলনার চুকনগরে বাংলাদেশের সর্ববৃহৎ গণহত্যা সংঘটিত হয়."
+  },
+  {
+    "question": "৭৩. ভারত কর্তৃক সম্প্রতি চাঁদে প্রেরিত চন্দ্রযানের নাম কী?",
+    "answers": [
+      {
+        "text": "ক. চন্দ্রযান-৩",
+        "score": 1
+      },
+      {
+        "text": "খ. চন্দ্রযান-২",
+        "score": 0
+      },
+      {
+        "text": "গ. বিক্রম",
+        "score": 0
+      },
+      {
+        "text": "ঘ. অশোক",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. চন্দ্রযান-৩",
+    "hint": "ভারতের সফল চন্দ্রাভিযান মিশনের নাম চন্দ্রযান-৩."
+  },
+  {
+    "question": "৭৪. সার্বজনীন পেনশন ব্যবস্থাপনা বিল-২০২৩ পাস হয় কবে?",
+    "answers": [
+      {
+        "text": "ক. ১৪ জানুয়ারি, ২০২৩",
+        "score": 0
+      },
+      {
+        "text": "খ. ২৪ জানুয়ারি, ২০২৩",
+        "score": 1
+      },
+      {
+        "text": "গ. ১৫ অক্টোবর, ২০২৩",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ২৫ অক্টোবর, ২০২৩",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. ২৪ জানুয়ারি, ২০২৩",
+    "hint": "সার্বজনীন পেনশন ব্যবস্থাপনা বিল ২০২৩ সালের ২৪ জানুয়ারি মন্ত্রিসভায় পাস হয়."
+  },
+  {
+    "question": "৭৫. “আমার দেখা নয়াচীন” কে লিখেছেন?",
+    "answers": [
+      {
+        "text": "ক. মওলানা ভাসানী",
+        "score": 0
+      },
+      {
+        "text": "খ. আবুল ফজল",
+        "score": 0
+      },
+      {
+        "text": "গ. শহীদুল্লাহ কায়সার",
+        "score": 0
+      },
+      {
+        "text": "ঘ. শেখ মুজিবুর রহমান",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. শেখ মুজিবুর রহমান",
+    "hint": "'আমার দেখা নয়াচীন' বইটির লেখক জাতির পিতা বঙ্গবন্ধু শেখ মুজিবুর রহমান."
+  },
+  {
+    "question": "৭৬. ‘সিন্দুরী’ বাংলাদেশের কৃষিক্ষেত্রে কীসের নাম?",
+    "answers": [
+      {
+        "text": "ক. বেগুন",
+        "score": 0
+      },
+      {
+        "text": "খ. আম",
+        "score": 0
+      },
+      {
+        "text": "গ. আলু",
+        "score": 1
+      },
+      {
+        "text": "ঘ. টমেটো",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. আলু",
+    "hint": "কৃষিক্ষেত্রে 'সিন্দুরী' হলো একটি উচ্চফলনশীল আলু জাতের নাম."
+  },
+  {
+    "question": "৭৭. জাতীয় পতাকা ১৯৭১ সালের কোন তারিখে প্রথম উত্তোলিত হয়?",
+    "answers": [
+      {
+        "text": "ক. ২৬ মার্চ",
+        "score": 0
+      },
+      {
+        "text": "খ. ২৫ মার্চ",
+        "score": 0
+      },
+      {
+        "text": "গ. ৭ মার্চ",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ২ মার্চ",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. ২ মার্চ",
+    "hint": "ঢাকা বিশ্ববিদ্যালয়ে ১৯৭১ সালের ২ মার্চ স্বাধীন বাংলাদেশের পতাকা প্রথম উত্তোলিত হয়."
+  },
+  {
+    "question": "৭৮. ২০২৩ সালে শান্তিতে নোবেল পুরস্কার লাভ করেন কে?",
+    "answers": [
+      {
+        "text": "ক. নার্গিস মোহাম্মদী",
+        "score": 1
+      },
+      {
+        "text": "খ. শিরিন এবাদী",
+        "score": 0
+      },
+      {
+        "text": "গ. নাগিব মাহফুজ",
+        "score": 0
+      },
+      {
+        "text": "ঘ. প্রফেসর আবদুস সালাম",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. নার্গিস মোহাম্মদী",
+    "hint": "ইরানের মানবাধিকারকর্মী নার্গিস মোহাম্মদী ২০২৩ সালে শান্তিতে নোবেল পুরস্কার লাভ করেন."
+  },
+  {
+    "question": "৭৯. বান্দুং শহরটি কোন দেশে অবস্থিত?",
+    "answers": [
+      {
+        "text": "ক. চীন",
+        "score": 0
+      },
+      {
+        "text": "খ. ইন্দোনেশিয়া",
+        "score": 1
+      },
+      {
+        "text": "গ. মালয়েশিয়া",
+        "score": 0
+      },
+      {
+        "text": "ঘ. যুগোস্লাভিয়া",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. ইন্দোনেশিয়া",
+    "hint": "ঐতিহাসিক বান্দুং শহরটি ইন্দোনেশিয়ায় অবস্থিত."
+  },
+  {
+    "question": "৮০. গ্রিন পিস কী?",
+    "answers": [
+      {
+        "text": "ক. জাতীয়তাবাদী সংগঠন",
+        "score": 0
+      },
+      {
+        "text": "খ. রাজনৈতিক সংগঠন",
+        "score": 0
+      },
+      {
+        "text": "গ. মানবতাবাদী সংগঠন",
+        "score": 0
+      },
+      {
+        "text": "ঘ. পরিবেশবাদী সংগঠন",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. পরিবেশবাদী সংগঠন",
+    "hint": "গ্রিনপিস আন্তর্জাতিক একটি বিশ্বখ্যাত পরিবেশবাদী সংগঠন."
+  },
+  {
+    "question": "৮১. খাদ্যশক্তি কীসের মাধ্যমে পরিমাপ করা হয়?",
+    "answers": [
+      {
+        "text": "ক. জুল",
+        "score": 0
+      },
+      {
+        "text": "খ. কিলো জুল",
+        "score": 0
+      },
+      {
+        "text": "গ. ক্যালোরী",
+        "score": 0
+      },
+      {
+        "text": "ঘ. কিলো ক্যালোরী",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. কিলো ক্যালোরী",
+    "hint": "খাদ্যের শক্তি সাধারণত কিলোক্যালরি (kcal) এককে মাপা হয়."
+  },
+  {
+    "question": "৮২. অতিবেগুনি রশ্মি কোথা থেকে আসে?",
+    "answers": [
+      {
+        "text": "ক. চন্দ্র",
+        "score": 0
+      },
+      {
+        "text": "খ. তারকা",
+        "score": 0
+      },
+      {
+        "text": "গ. সূর্য",
+        "score": 1
+      },
+      {
+        "text": "ঘ. ব্লাক হোল",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. সূর্য",
+    "hint": "সূর্যের আলো থেকে ক্ষতিকর অতিবেগুনি (UV) রশ্মি পৃথিবীতে আসে."
+  },
+  {
+    "question": "৮৩. কম্পিউটার শব্দের অর্থ কী?",
+    "answers": [
+      {
+        "text": "ক. হিসাবকারী যন্ত্র",
+        "score": 0
+      },
+      {
+        "text": "খ. গণনাকারী যন্ত্র",
+        "score": 1
+      },
+      {
+        "text": "গ. পরীক্ষার যন্ত্র",
+        "score": 0
+      },
+      {
+        "text": "ঘ. বিমান চালানোর যন্ত্র",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. গণনাকারী যন্ত্র",
+    "hint": "'Computer' শব্দটির শাব্দিক অর্থ গণনাকারী যন্ত্র."
+  },
+  {
+    "question": "৮৪. বৌদ্ধ ধর্মের বিখ্যাত নিদর্শন তক্ষশীলা কোথায় অবস্থিত?",
+    "answers": [
+      {
+        "text": "ক. নেপাল",
+        "score": 0
+      },
+      {
+        "text": "খ. শ্রীলংকা",
+        "score": 0
+      },
+      {
+        "text": "গ. পাকিস্তান",
+        "score": 1
+      },
+      {
+        "text": "ঘ. থাইল্যান্ড",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. পাকিস্তান",
+    "hint": "প্রাচীন শিক্ষা ও বৌদ্ধ সংস্কৃতির কেন্দ্র তক্ষশীলা বর্তমানে পাকিস্তানের পাঞ্জাব প্রদেশে অবস্থিত."
+  },
+  {
+    "question": "৮৫. কোথায় বস্তুর ওজন সবচেয়ে কম?",
+    "answers": [
+      {
+        "text": "ক. ভূ-পৃষ্ঠে",
+        "score": 0
+      },
+      {
+        "text": "খ. মেরু অঞ্চলে",
+        "score": 0
+      },
+      {
+        "text": "গ. নিরক্ষীয় অঞ্চলে",
+        "score": 1
+      },
+      {
+        "text": "ঘ. পৃথিবীর কেন্দ্রে",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. নিরক্ষীয় অঞ্চলে",
+    "hint": "কেন্দ্রাতিগ বল ও ব্যাসার্ধের পার্থক্যের কারণে নিরক্ষীয় অঞ্চলে বস্তুর ওজন সবচেয়ে কম হয় (কেন্দ্র ছাড়া)."
+  },
+  {
+    "question": "৮৬. জাতীয় সংবিধান দিবস কত তারিখে পালিত হয়?",
+    "answers": [
+      {
+        "text": "ক. ৩ ডিসেম্বর",
+        "score": 0
+      },
+      {
+        "text": "খ. ৩ নভেম্বর",
+        "score": 0
+      },
+      {
+        "text": "গ. ৪ ডিসেম্বর",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ৪ নভেম্বর",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. ৪ নভেম্বর",
+    "hint": "প্রতি বছর ৪ নভেম্বর জাতীয় সংবিধান দিবস পালিত হয়."
+  },
+  {
+    "question": "৮৭. কোনটি উপদ্বীপ?",
+    "answers": [
+      {
+        "text": "ক. জার্মান",
+        "score": 0
+      },
+      {
+        "text": "খ. কোরিয়া",
+        "score": 1
+      },
+      {
+        "text": "গ. সৌদি আরব",
+        "score": 0
+      },
+      {
+        "text": "ঘ. মিয়ানমার",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. কোরিয়া",
+    "hint": "তিন দিক জল দ্বারা বেষ্টিত কোরিয়া একটি উপদ্বীপ."
+  },
+  {
+    "question": "৮৮. ব্যাকটেরিয়া কী?",
+    "answers": [
+      {
+        "text": "ক. জড়বস্তু",
+        "score": 0
+      },
+      {
+        "text": "খ. প্রাণী",
+        "score": 0
+      },
+      {
+        "text": "গ. উদ্ভিদ",
+        "score": 0
+      },
+      {
+        "text": "ঘ. অণুজীব",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. অণুজীব",
+    "hint": "ব্যাকটেরিয়া হলো এককোষী আণুবীক্ষণিক অণুজীব."
+  },
+  {
+    "question": "৮৯. গ্রিনিচ মান সময় অপেক্ষা বাংলাদেশের সময় কত ঘণ্টা আগে?",
+    "answers": [
+      {
+        "text": "ক. ৬ ঘণ্টা",
+        "score": 1
+      },
+      {
+        "text": "খ. ৫ ঘণ্টা",
+        "score": 0
+      },
+      {
+        "text": "গ. ৪ ঘণ্টা",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ৩ ঘণ্টা",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. ৬ ঘণ্টা",
+    "hint": "বাংলাদেশের প্রমাণ সময় গ্রিনিচ মান সময় (GMT) অপেক্ষা ৬ ঘণ্টা এগিয়ে বা আগে."
+  },
+  {
+    "question": "৯০. বিশ্ব অটিজম দিবস কবে পালিত হয়?",
+    "answers": [
+      {
+        "text": "ক. ২ এপ্রিল",
+        "score": 1
+      },
+      {
+        "text": "খ. ২ ফেব্রুয়ারি",
+        "score": 0
+      },
+      {
+        "text": "গ. ২ জুন",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ২ জুলাই",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. ২ এপ্রিল",
+    "hint": "প্রতি বছর ২ এপ্রিল বিশ্ব অটিজম সচেতনতা দিবস পালিত হয়."
+  },
+  {
+    "question": "৯১. বর্তমান বৃহত্তম ঢাকা জেলা প্রাচীনকালে কোন জনপদের অন্তর্ভুক্ত ছিল?",
+    "answers": [
+      {
+        "text": "ক. সমতট",
+        "score": 0
+      },
+      {
+        "text": "খ. পুন্ড্র",
+        "score": 0
+      },
+      {
+        "text": "গ. বঙ্গ",
+        "score": 1
+      },
+      {
+        "text": "ঘ. হরিকেল",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. বঙ্গ",
+    "hint": "প্রাচীনকালের জনপদগুলোর মধ্যে ঢাকা অঞ্চলটি 'বঙ্গ' জনপদের অন্তর্ভুক্ত ছিল."
+  },
+  {
+    "question": "৯২. লোহিত সাগর কোন দুটি মহাদেশকে আলাদা করেছে?",
+    "answers": [
+      {
+        "text": "ক. ইউরোপ ও আফ্রিকা",
+        "score": 0
+      },
+      {
+        "text": "খ. এশিয়া ও ইউরোপ",
+        "score": 0
+      },
+      {
+        "text": "গ. এশিয়া ও অস্ট্রেলিয়া",
+        "score": 0
+      },
+      {
+        "text": "ঘ. আফ্রিকা ও এশিয়া",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. আফ্রিকা ও এশিয়া",
+    "hint": "লোহিত সাগর এশিয়া ও আফ্রিকা মহাদেশকে পৃথক করেছে."
+  }
+]

@@ -1,0 +1,2233 @@
+[
+  {
+    "question": "১. ‘বাংলা ভাষার ইতিবৃত্ত’ গ্রন্থের রচয়িতা কে",
+    "answers": [
+      {
+        "text": "ক. ড. মুহম্মদ শহীদুল্লাহ",
+        "score": 1
+      },
+      {
+        "text": "খ. দীনেশচন্দ্র সেন",
+        "score": 0
+      },
+      {
+        "text": "গ. সুনীতিকুমার চট্রোপাধ্যায়",
+        "score": 0
+      },
+      {
+        "text": "ঘ. সুকুমার সেন",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. ড. মুহম্মদ শহীদুল্লাহ",
+    "hint": "ড. মুহম্মদ শহীদুল্লাহ 'বাংলা ভাষার ইতিবৃত্ত' গ্রন্থের রচয়িতা."
+  },
+  {
+    "question": "২. বাক্যে কোন যতি চিহ্নটি থাকলে থামার প্রয়োজন নেই?",
+    "answers": [
+      {
+        "text": "ক. কোলন",
+        "score": 0
+      },
+      {
+        "text": "খ. সেমিকোলন",
+        "score": 0
+      },
+      {
+        "text": "গ. হাইফেন",
+        "score": 1
+      },
+      {
+        "text": "ঘ. ড্যাস",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. হাইফেন",
+    "hint": "হাইফেন (সংযোজক চিহ্ন) থাকলে বাক্যে থামার কোনো প্রয়োজন হয় না."
+  },
+  {
+    "question": "৩. ‘সংবাদ প্রভাকর’ পত্রিকার প্রতিষ্ঠাতা সম্পাদক কে ছিলেন?",
+    "answers": [
+      {
+        "text": "ক. কাজী নজরুল ইসলাম",
+        "score": 0
+      },
+      {
+        "text": "খ. ঈশ্বরচন্দ্র গুপ্ত",
+        "score": 1
+      },
+      {
+        "text": "গ. বঙ্কিমচন্দ্র চট্টোপাধ্যায়",
+        "score": 0
+      },
+      {
+        "text": "ঘ. প্রমথ চৌধুরী",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. ঈশ্বরচন্দ্র গুপ্ত",
+    "hint": "সংবাদ প্রভাকর পত্রিকার প্রতিষ্ঠাতা ও প্রথম সম্পাদক ছিলেন কবি ঈশ্বরচন্দ্র গুপ্ত."
+  },
+  {
+    "question": "৪. ‘পানি’ শব্দের প্রতিশব্দ কোনটি?",
+    "answers": [
+      {
+        "text": "ক. বারিধি",
+        "score": 0
+      },
+      {
+        "text": "খ. নলিনী",
+        "score": 0
+      },
+      {
+        "text": "গ. অপ",
+        "score": 1
+      },
+      {
+        "text": "ঘ. পয়ঃ",
+        "score": 1
+      }
+    ],
+    "correct_answer": "গ. অপ ও ঘ. পয়ঃ দুটিই সঠিক উত্তর।",
+    "hint": "পানি শব্দের প্রতিশব্দ হিসেবে 'অপ' এবং 'পয়ঃ' উভয়ই ব্যবহৃত হয়."
+  },
+  {
+    "question": "৫. কোন বানানটি শুদ্ধ?",
+    "answers": [
+      {
+        "text": "ক. মুমুর্ষু",
+        "score": 0
+      },
+      {
+        "text": "খ. মুমূর্ষু",
+        "score": 1
+      },
+      {
+        "text": "গ. মূমুর্ষু",
+        "score": 0
+      },
+      {
+        "text": "ঘ. মূমূর্ষূ",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. মুমূর্ষু",
+    "hint": "শুদ্ধ বানানটি হলো মুমূর্ষু (প্রথমে হ্রস্ব উ, পরে দীর্ঘ ঊ, আবার হ্রস্ব উ)."
+  },
+  {
+    "question": "৬. ‘ধামাধরা’ বাগ্‌ধারাটির অর্থ কী?",
+    "answers": [
+      {
+        "text": "ক. যথেচ্ছাচারী",
+        "score": 0
+      },
+      {
+        "text": "খ. বক ধার্মিক",
+        "score": 0
+      },
+      {
+        "text": "গ. তোষামোদকারী",
+        "score": 1
+      },
+      {
+        "text": "ঘ. কদরহীন লোক",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. তোষামোদকারী",
+    "hint": "'ধামাধরা' বাগধারার অর্থ তোষামোদকারী বা চাটুকার ব্যক্তি."
+  },
+  {
+    "question": "৭. ‘দর্শনীয়’ শব্দটির প্রকৃতি ও প্রত্যয় -",
+    "answers": [
+      {
+        "text": "ক. √দর্শন + ইয়",
+        "score": 0
+      },
+      {
+        "text": "খ. √দৃশ্ + অনীয়",
+        "score": 1
+      },
+      {
+        "text": "গ. √দৃশ্য + নীয়",
+        "score": 0
+      },
+      {
+        "text": "ঘ. √দর্শন + ঈয়",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. √দৃশ্ + অনীয়",
+    "hint": "দর্শনীয় শব্দের সঠিক প্রকৃতি ও প্রত্যয় হলো √দৃশ্ + অনীয়."
+  },
+  {
+    "question": "৮. ‘সাথী’ শব্দটি কোন লিঙ্গ?",
+    "answers": [
+      {
+        "text": "ক. পুংলিঙ্গ",
+        "score": 0
+      },
+      {
+        "text": "খ. স্ত্রী লিঙ্গ",
+        "score": 0
+      },
+      {
+        "text": "গ. ক্লীব লিঙ্গ",
+        "score": 0
+      },
+      {
+        "text": "ঘ. উভয় লিঙ্গ",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. উভয় লিঙ্গ",
+    "hint": "সাথী শব্দটি নর ও নারী উভয়কে বোঝাতে পারায় এটি উভয় লিঙ্গ."
+  },
+  {
+    "question": "৯. ‘সাড়ে খোলস’ এক কথায় প্রকাশ - (প্রশ্নে সাপের খোলস)",
+    "answers": [
+      {
+        "text": "ক. কৃত্তি",
+        "score": 0
+      },
+      {
+        "text": "খ. নির্মোক",
+        "score": 1
+      },
+      {
+        "text": "গ. অজিন",
+        "score": 0
+      },
+      {
+        "text": "ঘ. করভ",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. নির্মোক",
+    "hint": "সাপের খোলসকে এক কথায় 'নির্মোক' বলা হয়."
+  },
+  {
+    "question": "১০. ‘রাজায় রাজায় লড়াই করছে’-এই বাক্যে ‘রাজায় রাজায়’ কী?",
+    "answers": [
+      {
+        "text": "ক. প্রযোজক কর্তা",
+        "score": 0
+      },
+      {
+        "text": "খ. মুখ্য কর্তা",
+        "score": 0
+      },
+      {
+        "text": "গ. ব্যতিহার কর্তা",
+        "score": 1
+      },
+      {
+        "text": "ঘ. ণিজন্ত কর্তা",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. ব্যতিহার কর্তা",
+    "hint": "দুটি কর্তার মধ্যে পারস্পরিক অর্থ প্রকাশ করলে তাকে ব্যতিহার কর্তা বলে."
+  },
+  {
+    "question": "১১. ‘উষ্ণ’ শব্দের যুক্তাক্ষরটি কোন কোন বর্ণের সমন্বয়ে গঠিত?",
+    "answers": [
+      {
+        "text": "ক. ষ্ + ন",
+        "score": 0
+      },
+      {
+        "text": "খ. ষ্ + ণ",
+        "score": 1
+      },
+      {
+        "text": "গ. ষ্ + ঞ",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ষ্ + ঙ",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. ষ্ + ণ",
+    "hint": "উষ্ণ শব্দের 'ষ্ণ' যুক্তবর্ণটি মূর্ধন্য ষ (ষ) এবং মূর্ধন্য ণ (ণ) এর সমন্বয়ে গঠিত."
+  },
+  {
+    "question": "১২. কোনটি সম্প্রদান কারকে চতুর্থী বিভক্তির উদাহরণ?",
+    "answers": [
+      {
+        "text": "ক. ভিক্ষা দাও দেখিলে ভিক্ষুক।",
+        "score": 0
+      },
+      {
+        "text": "খ. ভিক্ষা দাও দুয়ারে ভিক্ষুক।",
+        "score": 0
+      },
+      {
+        "text": "গ. ভিক্ষুককে ভিক্ষা দাও।",
+        "score": 1
+      },
+      {
+        "text": "ঘ. কোনোটিই নয়।",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. ভিক্ষুককে ভিক্ষা দাও।",
+    "hint": "স্বত্ব ত্যাগ করে কিছু দান করা বোঝাতে সম্প্রদান কারকে চতুর্থী (কে/রে) বিভক্তি হয় (ভিক্ষুককে ভিক্ষা দাও)."
+  },
+  {
+    "question": "১৩. ‘প্রসারণ’ এর বিপরীত শব্দ -",
+    "answers": [
+      {
+        "text": "ক. সম্প্রসারণ",
+        "score": 0
+      },
+      {
+        "text": "খ. বিবর্ধন",
+        "score": 0
+      },
+      {
+        "text": "গ. আকুঞ্চন",
+        "score": 1
+      },
+      {
+        "text": "ঘ. আকর্ণন",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. আকুঞ্চন",
+    "hint": "প্রসারণ (ছড়িয়ে যাওয়া) এর বিপরীত শব্দ আকুঞ্চন (সংকুচিত হওয়া)."
+  },
+  {
+    "question": "১৪. কোনটি ফারসি শব্দ?",
+    "answers": [
+      {
+        "text": "ক. চাবি",
+        "score": 0
+      },
+      {
+        "text": "খ. চাকর",
+        "score": 0
+      },
+      {
+        "text": "গ. চাহিদা",
+        "score": 0
+      },
+      {
+        "text": "ঘ. চশমা",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. চশমা",
+    "hint": "চশমা একটি ফারসি শব্দ."
+  },
+  {
+    "question": "১৫. কোনটি ধ্বনি বিপর্যয়ের উদাহরণ?",
+    "answers": [
+      {
+        "text": "ক. বড় দাদা ≥ বড়দা",
+        "score": 0
+      },
+      {
+        "text": "খ. কিছু ≥ কিচ্ছু",
+        "score": 0
+      },
+      {
+        "text": "গ. পিশাচ ≥ পিচাশ",
+        "score": 1
+      },
+      {
+        "text": "ঘ. মুক্তা ≥ মুকুতা",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. পিশাচ ≥ পিচাশ",
+    "hint": "শব্দের ভেতরের দুটি ধ্বনি নিজেদের স্থান পরিবর্তন করলে তাকে ধ্বনি বিপর্যয় বলে (পিশাচ থেকে পিচাশ)."
+  },
+  {
+    "question": "১৬. ‘কৃতবিদ্যা’ শব্দের ব্যাসবাক্য কোনটি?",
+    "answers": [
+      {
+        "text": "ক. কৃত যে বিদ্যা",
+        "score": 0
+      },
+      {
+        "text": "খ. কৃত যে বিদ্যা",
+        "score": 0
+      },
+      {
+        "text": "গ. কৃত বিদ্যা যার",
+        "score": 1
+      },
+      {
+        "text": "ঘ. কৃত হয়েছে যার বিদ্যা",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. কৃত বিদ্যা যার",
+    "hint": "কৃতবিদ্যা শব্দের ব্যাসবাক্য হলো 'কৃত বিদ্যা যার' (বহুব্রীহি সমাস)."
+  },
+  {
+    "question": "১৭. কোন সমাসে পরপদের অর্থ প্রধান থাকে?",
+    "answers": [
+      {
+        "text": "ক. অব্যয়ীভাব",
+        "score": 0
+      },
+      {
+        "text": "খ. বহুব্রীহি",
+        "score": 0
+      },
+      {
+        "text": "গ. দ্বন্দ্ব",
+        "score": 0
+      },
+      {
+        "text": "ঘ. কর্মধারয়",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. কর্মধারয়",
+    "hint": "কর্মধারয় সমাসে পরপদের অর্থ প্রধানরূপে প্রতীয়মান হয়."
+  },
+  {
+    "question": "১৮. ‘যারা বাইরে ঠাঁট বজায় রেখে চলে’। এর অর্থ প্রকাশক বাগ্‌ধারা কোনটি?",
+    "answers": [
+      {
+        "text": "ক. ব্যাঙের আধুলি",
+        "score": 0
+      },
+      {
+        "text": "খ. লেফাফা দুরস্ত",
+        "score": 1
+      },
+      {
+        "text": "গ. রাশভারি",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ভিজে বিড়াল",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. লেফাফা দুরস্ত",
+    "hint": "'লেফাফা দুরস্ত' বাগধারার অর্থ বাইরে ঠাঁট বা বন্টন বজায় রেখে চলা (বাহ্যিক ঠিকঠাক)."
+  },
+  {
+    "question": "১৯. যোগরূঢ় শব্দ কোনটি?",
+    "answers": [
+      {
+        "text": "ক. বাঁশি",
+        "score": 0
+      },
+      {
+        "text": "খ. তৈল",
+        "score": 0
+      },
+      {
+        "text": "গ. পঙ্কজ",
+        "score": 1
+      },
+      {
+        "text": "ঘ. চিকামারা",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. পঙ্কজ",
+    "hint": "সমাসবদ্ধ যে শব্দগুলো সংকেত বা বিশেষ অর্থ প্রকাশ করে তাকে যোগরূঢ় শব্দ বলে, যেমন—পঙ্কজ."
+  },
+  {
+    "question": "২০. কোনটি সমার্থক শব্দ নয়?",
+    "answers": [
+      {
+        "text": "ক. পাবক",
+        "score": 0
+      },
+      {
+        "text": "খ. পবন",
+        "score": 1
+      },
+      {
+        "text": "গ. বহ্নি",
+        "score": 0
+      },
+      {
+        "text": "ঘ. অনল",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. পবন",
+    "hint": "পাবক, বহ্নি ও অনল আগুনের সমার্থক হলেও 'পবন' হলো বাতাসের সমার্থক শব্দ."
+  },
+  {
+    "question": "২১. নিচের কোন বাক্যটি শুদ্ধ?",
+    "answers": [
+      {
+        "text": "ক. কারো ফাগুন মাস, কারো সর্বনাশ।",
+        "score": 0
+      },
+      {
+        "text": "খ. সে প্রাণিবিদ্যায় দুর্বল।",
+        "score": 1
+      },
+      {
+        "text": "গ. আগত শনিবার কলেজ বন্ধ থাকবে।",
+        "score": 0
+      },
+      {
+        "text": "ঘ. বিধি লঙ্ঘিত হয়েছে।",
+        "score": 1
+      }
+    ],
+    "correct_answer": "খ. সে প্রাণিবিদ্যায় দুর্বল। ও ঘ. বিধি লঙ্ঘিত হয়েছে; দুটিই সঠিক।",
+    "hint": "প্রদত্ত অপশনগুলোর মধ্যে 'সে প্রাণিবিদ্যায় দুর্বল' এবং 'বিধি লঙ্ঘিত হয়েছে' উভয় বাক্যই ব্যাকরণগতভাবে শুদ্ধ."
+  },
+  {
+    "question": "২২. সম্বন্ধ পদে কোন বিভক্তি যুক্ত হয়?",
+    "answers": [
+      {
+        "text": "ক. কে, রে",
+        "score": 0
+      },
+      {
+        "text": "খ. প্রথমা, শূন্য",
+        "score": 0
+      },
+      {
+        "text": "গ. র, এর",
+        "score": 1
+      },
+      {
+        "text": "ঘ. এ, তে",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. র, এর",
+    "hint": "ষষ্ঠী বিভক্তি বা সম্বন্ধ পদে সাধারণত 'র' বা 'এর' যুক্ত হয়."
+  },
+  {
+    "question": "২৩. কোনটি ব্যঞ্জন সন্ধির উদাহরণ?",
+    "answers": [
+      {
+        "text": "ক. শুভেচ্ছা",
+        "score": 0
+      },
+      {
+        "text": "খ. সংবাদ",
+        "score": 1
+      },
+      {
+        "text": "গ. প্রত্যেক",
+        "score": 0
+      },
+      {
+        "text": "ঘ. অতীত",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. সংবাদ",
+    "hint": "সম্ + বাদ = সংবাদ, যা একটি ব্যঞ্জনসন্ধি."
+  },
+  {
+    "question": "২৪. ‘ইউসুফ জোলেখা’ কী জাতীয় রচনা?",
+    "answers": [
+      {
+        "text": "ক. নাটক",
+        "score": 0
+      },
+      {
+        "text": "খ. উপন্যাস",
+        "score": 0
+      },
+      {
+        "text": "গ. রোমান্টিক প্রণয়কাব্য",
+        "score": 1
+      },
+      {
+        "text": "ঘ. রম্যরচনা",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. রোমান্টিক প্রণয়কাব্য",
+    "hint": "শাহ মোহাম্মদ গরিবুল্লাহ ও অন্যান্যদের রচিত 'ইউসুফ জোলেখা' একটি রোমান্টিক প্রণয়কাব্য."
+  },
+  {
+    "question": "২৫. কায়কোবাদের প্রকৃত নাম কী?",
+    "answers": [
+      {
+        "text": "ক. কাজেম আল কোরেশী",
+        "score": 1
+      },
+      {
+        "text": "খ. আবু নাসের কায়েকোবাদ",
+        "score": 0
+      },
+      {
+        "text": "গ. কায়েকোবাদ ইসলাম",
+        "score": 0
+      },
+      {
+        "text": "ঘ. আবুল হোসেন কায়কোবাদ",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. কাজেম আল কোরেশী",
+    "hint": "মহাকাব্যিক কবি কায়কোবাদের প্রকৃত নাম মহা কবি কাজেম আল কোরেশী."
+  },
+  {
+    "question": "২৬. Choose the correct sentence:",
+    "answers": [
+      {
+        "text": "ক. I know what does he want ?",
+        "score": 0
+      },
+      {
+        "text": "খ. I know what does he wants?",
+        "score": 0
+      },
+      {
+        "text": "গ. I know what does he want.",
+        "score": 0
+      },
+      {
+        "text": "ঘ. I know what he wants.",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. I know what he wants.",
+    "hint": "Complex sentence-এর subordinate clause-এ subject-এর পর সরাসরি verb বসে (I know what he wants)."
+  },
+  {
+    "question": "২৭. Which is the correct use of gerund?",
+    "answers": [
+      {
+        "text": "ক. I saw the girl dancing.",
+        "score": 0
+      },
+      {
+        "text": "খ. I am dancing on the floor.",
+        "score": 0
+      },
+      {
+        "text": "গ. Dancing is a good exercise.",
+        "score": 1
+      },
+      {
+        "text": "ঘ. The girl came here dancing.",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. Dancing is a good exercise.",
+    "hint": "যে verb-এর সাথে ing যুক্ত হয়ে একই সাথে noun ও verb-এর কাজ করে তা gerund ('Dancing is a good exercise')."
+  },
+  {
+    "question": "২৮. The correctly spelt word is -",
+    "answers": [
+      {
+        "text": "ক. Millennium",
+        "score": 1
+      },
+      {
+        "text": "খ. Milennium",
+        "score": 0
+      },
+      {
+        "text": "গ. Milenium",
+        "score": 0
+      },
+      {
+        "text": "ঘ. Millinium",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. Millennium",
+    "hint": "সঠিক বানানটি হলো Millennium (দুটি l এবং দুটি n থাকে)."
+  },
+  {
+    "question": "২৯. Which one in the correct sentence?",
+    "answers": [
+      {
+        "text": "ক. He is comparatively better today.",
+        "score": 0
+      },
+      {
+        "text": "খ. He is good today than before.",
+        "score": 0
+      },
+      {
+        "text": "গ. He is better today.",
+        "score": 1
+      },
+      {
+        "text": "ঘ. He is best today than yesterday",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. He is better today.",
+    "hint": "সঠিক বাক্যটি হলো 'He is better today' (comparatively এর পর better হয় না)."
+  },
+  {
+    "question": "৩০. The word “Homely” is-",
+    "answers": [
+      {
+        "text": "ক. Noun",
+        "score": 0
+      },
+      {
+        "text": "খ. Adverb",
+        "score": 0
+      },
+      {
+        "text": "গ. Verb",
+        "score": 0
+      },
+      {
+        "text": "ঘ. Adjective",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. Adjective",
+    "hint": "Homely শব্দের শেষে -ly থাকলেও এটি একটি Adjective."
+  },
+  {
+    "question": "৩১. What you (do) at this moment? The Correct form of verb is–",
+    "answers": [
+      {
+        "text": "ক. do you do",
+        "score": 0
+      },
+      {
+        "text": "খ. doing",
+        "score": 0
+      },
+      {
+        "text": "গ. are you doing",
+        "score": 1
+      },
+      {
+        "text": "ঘ. have done",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. are you doing",
+    "hint": "'at this moment' থাকায় বাক্যটি Present Continuous Tense হবে ('What are you doing at this moment?')."
+  },
+  {
+    "question": "৩২. Choose the correct answer :",
+    "answers": [
+      {
+        "text": "ক. He gave me good-bye.",
+        "score": 0
+      },
+      {
+        "text": "খ. He bade me good-bye.",
+        "score": 1
+      },
+      {
+        "text": "গ. He told me good-bye.",
+        "score": 0
+      },
+      {
+        "text": "ঘ. He wished me good-bye.",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. He bade me good-bye.",
+    "hint": "বিদায় জানানোর ক্ষেত্রে সঠিক ব্যবহার হলো 'He bade me good-bye'."
+  },
+  {
+    "question": "৩৩. The word ‘adulteration’ can be best explained as-",
+    "answers": [
+      {
+        "text": "ক. to mix something intensely",
+        "score": 0
+      },
+      {
+        "text": "খ. to use unusual methods",
+        "score": 0
+      },
+      {
+        "text": "গ. to make impure by adding inferior ingredients",
+        "score": 1
+      },
+      {
+        "text": "ঘ. to mix poison",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. to make impure by adding inferior ingredients",
+    "hint": "Adulteration (ভেজাল দেওয়া) অর্থ হলো খারাপ বা নিকৃষ্ট উপাদান মিশিয়ে অপবিত্র বা ভেজাল করা."
+  },
+  {
+    "question": "৩৪. It is high time we (change) our food habit.",
+    "answers": [
+      {
+        "text": "ক. changed",
+        "score": 1
+      },
+      {
+        "text": "খ. have changed",
+        "score": 0
+      },
+      {
+        "text": "গ. should have changed",
+        "score": 0
+      },
+      {
+        "text": "ঘ. should change",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. changed",
+    "hint": "'It is high time' এর পর subject থাকলে verb-এর past form হয় (changed)."
+  },
+  {
+    "question": "৩৫. Five liters of milk is contained ––– the pot.",
+    "answers": [
+      {
+        "text": "ক. by",
+        "score": 0
+      },
+      {
+        "text": "খ. to",
+        "score": 0
+      },
+      {
+        "text": "গ. in",
+        "score": 1
+      },
+      {
+        "text": "ঘ. at",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. in",
+    "hint": "কোন পাত্রের ভেতরে কিছু ধারণ করা বোঝালে 'contained in' ব্যবহৃত হয়."
+  },
+  {
+    "question": "৩৬. I could not go ––– for the examination due to rain.",
+    "answers": [
+      {
+        "text": "ক. in",
+        "score": 1
+      },
+      {
+        "text": "খ. by",
+        "score": 0
+      },
+      {
+        "text": "গ. to",
+        "score": 0
+      },
+      {
+        "text": "ঘ. on",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. in",
+    "hint": "উপযুক্ত preposition হিসেবে এখানে 'in' ব্যবহৃত হয়েছে."
+  },
+  {
+    "question": "৩৭. The phrase ‘at loggerheads’ means",
+    "answers": [
+      {
+        "text": "ক. very close",
+        "score": 0
+      },
+      {
+        "text": "খ. belligerent",
+        "score": 0
+      },
+      {
+        "text": "গ. quarrelling",
+        "score": 1
+      },
+      {
+        "text": "ঘ. distant relation",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. quarrelling",
+    "hint": "'At loggerheads' ফ্রেজটির অর্থ দ্বন্দ্বে লিপ্ত বা ঝগড়া করা (quarrelling)."
+  },
+  {
+    "question": "৩৮. Hurry spoils-",
+    "answers": [
+      {
+        "text": "ক. the work",
+        "score": 0
+      },
+      {
+        "text": "খ. the curry",
+        "score": 1
+      },
+      {
+        "text": "গ. to tarry",
+        "score": 0
+      },
+      {
+        "text": "ঘ. and scary",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. the curry",
+    "hint": "প্রবাদ বাক্য: 'Hurry spoils the curry' (তাড়াহুড়ো করলে ভালো জিনিসও নষ্ট হয়)."
+  },
+  {
+    "question": "৩৯. ––– water of this lake is pure.",
+    "answers": [
+      {
+        "text": "ক. a",
+        "score": 0
+      },
+      {
+        "text": "খ. an or the",
+        "score": 0
+      },
+      {
+        "text": "গ. the",
+        "score": 1
+      },
+      {
+        "text": "ঘ. no article",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. the",
+    "hint": "নির্দিষ্ট কোনো হ্রদের পানি বোঝাতে নির্দিষ্ট আর্টিকেল 'the' বসবে."
+  },
+  {
+    "question": "৪০. I wanted the poster to -",
+    "answers": [
+      {
+        "text": "ক. hang",
+        "score": 0
+      },
+      {
+        "text": "খ. be hanged",
+        "score": 0
+      },
+      {
+        "text": "গ. be hunged",
+        "score": 0
+      },
+      {
+        "text": "ঘ. be hung",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. be hung",
+    "hint": "পোস্টার বা ছবি টাঙানোর ক্ষেত্রে hang-এর past participle হলো hung এবং passive অর্থে 'to be hung' ব্যবহৃত হয়."
+  },
+  {
+    "question": "৪১. ‘Leave no stone unturned’ means-",
+    "answers": [
+      {
+        "text": "ক. heavy stone",
+        "score": 0
+      },
+      {
+        "text": "খ. impossible",
+        "score": 0
+      },
+      {
+        "text": "গ. rare stone",
+        "score": 0
+      },
+      {
+        "text": "ঘ. try every possible means",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. try every possible means",
+    "hint": "'Leave no stone unturned' ইডিয়মটির অর্থ সম্ভাব্য সব রকম চেষ্টা করা (try every possible means)."
+  },
+  {
+    "question": "৪২. Would you mind ––– me a cup of tea?",
+    "answers": [
+      {
+        "text": "ক. giving",
+        "score": 1
+      },
+      {
+        "text": "খ. make",
+        "score": 0
+      },
+      {
+        "text": "গ. bringing",
+        "score": 1
+      },
+      {
+        "text": "ঘ. bring",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. giving (অথবা গ. bringing)",
+    "hint": "'Would you mind' এর পর verb-এর সাথে -ing যুক্ত হয়."
+  },
+  {
+    "question": "৪৩. What is the antonym of ‘rear’?",
+    "answers": [
+      {
+        "text": "ক. Not available",
+        "score": 0
+      },
+      {
+        "text": "খ. Behind",
+        "score": 0
+      },
+      {
+        "text": "গ. Front",
+        "score": 1
+      },
+      {
+        "text": "ঘ. Available",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. Front",
+    "hint": "Rear (পেছনের অংশ) এর বিপরীত শব্দ Front (সামনের অংশ)."
+  },
+  {
+    "question": "৪৪. ছেলেটি কাঁদতে কাঁদতে আমার কাছে এল।",
+    "answers": [
+      {
+        "text": "ক. The boy came to me crying.",
+        "score": 1
+      },
+      {
+        "text": "খ. The boy came near me crying.",
+        "score": 0
+      },
+      {
+        "text": "গ. The boy came to me in crying.",
+        "score": 0
+      },
+      {
+        "text": "ঘ. The boy came to me by crying.",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. The boy came to me crying.",
+    "hint": "সঠিক অনুবাদ হলো 'The boy came to me crying'."
+  },
+  {
+    "question": "৪৫. Had I riches, I ––– ( help ) you.",
+    "answers": [
+      {
+        "text": "ক. would helped",
+        "score": 0
+      },
+      {
+        "text": "খ. would have helped",
+        "score": 1
+      },
+      {
+        "text": "গ. had helped",
+        "score": 0
+      },
+      {
+        "text": "ঘ. will help",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. would have helped (নোট: অপশনে ত্রুটি থাকলেও নিয়ম অনুযায়ী এটি প্রযোজ্য)",
+    "hint": "Second conditional বা subjunctive conditional বাক্যে Had যুক্ত clause-এর পরের অংশে would have + V3 বসে."
+  },
+  {
+    "question": "৪৬. What is the appropriate meaning of ‘Achilles heel’?",
+    "answers": [
+      {
+        "text": "ক. Important issue",
+        "score": 0
+      },
+      {
+        "text": "খ. Turning point",
+        "score": 0
+      },
+      {
+        "text": "গ. Vulnerable",
+        "score": 1
+      },
+      {
+        "text": "ঘ. Main point",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. Vulnerable",
+    "hint": "'Achilles heel' ফ্রেজটির অর্থ দুর্বল দিক বা vulnerable point."
+  },
+  {
+    "question": "৪৭. ‘লেবু কচলালে তেতো হয়’ The best translation is -",
+    "answers": [
+      {
+        "text": "ক. The lemon become bitter if is rubbed.",
+        "score": 0
+      },
+      {
+        "text": "খ. A jest driven hard, loses its points.",
+        "score": 1
+      },
+      {
+        "text": "গ. A hungry fox is an angry fox.",
+        "score": 0
+      },
+      {
+        "text": "ঘ. Don’t try to do anything again and again",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. A jest driven hard, loses its points.",
+    "hint": "'লেবু কচলালে তেতো হয়' প্রবাদের ইংরেজি ভাবানুবাদ হলো 'A jest driven hard, loses its points'."
+  },
+  {
+    "question": "৪৮. Which one below is a correct sentence?",
+    "answers": [
+      {
+        "text": "ক. They have seen me yesterday.",
+        "score": 0
+      },
+      {
+        "text": "খ. I like his childlike simplicity.",
+        "score": 1
+      },
+      {
+        "text": "গ. It is I Who is be blame.",
+        "score": 0
+      },
+      {
+        "text": "ঘ. The girl resmbles to her mother.",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. I like his childlike simplicity.",
+    "hint": "সঠিক বাক্যটি হলো 'I like his childlike simplicity'."
+  },
+  {
+    "question": "৪৯. At the scene, ––– mother arose in her.",
+    "answers": [
+      {
+        "text": "ক. a",
+        "score": 0
+      },
+      {
+        "text": "খ. the",
+        "score": 1
+      },
+      {
+        "text": "গ. a or the",
+        "score": 0
+      },
+      {
+        "text": "ঘ. no article",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. the",
+    "hint": "বিশেষ গুণ বা মাতৃসুলভ ভাব বোঝাতে abstract noun-এর পূর্বে 'the' বসে."
+  },
+  {
+    "question": "৫০. What is the verb form of the word ‘friend’?",
+    "answers": [
+      {
+        "text": "ক. friend",
+        "score": 0
+      },
+      {
+        "text": "খ. friended",
+        "score": 0
+      },
+      {
+        "text": "গ. friending",
+        "score": 0
+      },
+      {
+        "text": "ঘ. befriend",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. befriend",
+    "hint": "Friend (Noun) শব্দের Verb রূপ হলো befriend (বন্ধুত্ব করা)."
+  },
+  {
+    "question": "৫১. ৮৮, ৯১ এবং ৯৯ সংখ্যাগুলোর মধ্যে কোন সংখ্যাটির সর্বোচ্চ সংখ্যক উৎপাদক রয়েছে?",
+    "answers": [
+      {
+        "text": "ক. ৮৮",
+        "score": 1
+      },
+      {
+        "text": "খ. ৯১",
+        "score": 0
+      },
+      {
+        "text": "গ. ৯৫",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ৯৯",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. ৮৮",
+    "hint": "৮৮ এর উৎপাদকগুলো হলো ১, ২, ৪, ৮, ১১, ২২, ৪৪, ৮৮ (মোট ৮টি), যা অন্যগুলোর চেয়ে বেশি."
+  },
+  {
+    "question": "৫২. পানি ভর্তি একটি বালতির ওজন ১২ কেজি। বালতির অর্ধেক পানিভর্তি হলে তার ওজন দাঁড়ায় ৭ কেজি। খালি বালতির ওজন কত?",
+    "answers": [
+      {
+        "text": "ক. ৫ কেজি",
+        "score": 0
+      },
+      {
+        "text": "খ. ৭ কেজি",
+        "score": 0
+      },
+      {
+        "text": "গ. ২ কেজি",
+        "score": 1
+      },
+      {
+        "text": "ঘ. ১ কেজি",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. ২ কেজি",
+    "hint": "অর্ধেক পানির ওজন (১২ - ৭) = ৫ কেজি, সম্পূর্ণ পানির ওজন ১০ কেজি; সুতরাং খালি বালতির ওজন ১২ - ১০ = ২ কেজি."
+  },
+  {
+    "question": "৫৩. একটি সরলরেখার উপর অঙ্কিত বর্গের ক্ষেত্রফল ঐ সরলরেখার এক-তৃতীয়াংশের উপর অঙ্কিত বর্গের ক্ষেত্রফল এর কতগুণ?",
+    "answers": [
+      {
+        "text": "ক. ৩",
+        "score": 0
+      },
+      {
+        "text": "খ. ৯",
+        "score": 1
+      },
+      {
+        "text": "গ. ১৮",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ২৭",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. ৯",
+    "hint": "x² ÷ (x/3)² = x² ÷ (x²/9) = 9 গুণ."
+  },
+  {
+    "question": "৫৪. একটি আয়তাকার বাগানের ক্ষেত্রফল ৪০০ বর্গমিটার এবং প্রস্থ ১৬ মিটার। বাগানের পরিসীমা কত মিটার?",
+    "answers": [
+      {
+        "text": "ক. ১৬",
+        "score": 0
+      },
+      {
+        "text": "খ. ২৫",
+        "score": 0
+      },
+      {
+        "text": "গ. ৪১",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ৮২",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. ৮২",
+    "hint": "দৈর্ঘ্য = ৪০০ ÷ ১৬ = ২৫ মিটার; পরিসীমা = ২ × (২৫ + ১৬) = ৮২ মিটার."
+  },
+  {
+    "question": "৫৫. একজন ফল বিক্রেতা প্রতি হালি কলা ২৫ টাকা দরে ক্রয় করে প্রতি ২ হালি ৫৬ টাকা দরে বিক্রয় করলে শতকরাকত লাভ হবে?",
+    "answers": [
+      {
+        "text": "ক. ২৪%",
+        "score": 0
+      },
+      {
+        "text": "খ. ১২%",
+        "score": 1
+      },
+      {
+        "text": "গ. ১৮%",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ১৪%",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. ১২%",
+    "hint": "২ হালি কলার ক্রয়মূল্য ৫০ টাকা এবং বিক্রয়মূল্য ৫৬ টাকা; লাভ ৬ টাকা, অর্থাৎ শতকরা লাভ ১২%."
+  },
+  {
+    "question": "৫৬. ১০% সরল মুনাফায় ২০০০ টাকার ১ বছরের মুনাফা কত টাকা হবে?",
+    "answers": [
+      {
+        "text": "ক. ২০০ টাকা",
+        "score": 1
+      },
+      {
+        "text": "খ. ৩০০ টাকা",
+        "score": 0
+      },
+      {
+        "text": "গ. ৪০০ টাকা",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ১০০ টাকা",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. ২০০ টাকা",
+    "hint": "মুনাফা I = (২০০০ × ১০ × ১) ÷ ১০০ = ২০০ টাকা."
+  },
+  {
+    "question": "৫৭. 3 cot A = 4 হলে, SinA এর মান কত?",
+    "answers": [
+      {
+        "text": "ক. 4/5",
+        "score": 0
+      },
+      {
+        "text": "খ. 3/5",
+        "score": 1
+      },
+      {
+        "text": "গ. 3/4",
+        "score": 0
+      },
+      {
+        "text": "ঘ. 4/3",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. 3/5",
+    "hint": "cot A = 4/3 হলে ভূমি ৪, লম্ব ৩ এবং অতিভুজ ৫; সুতরাং sin A = লম্ব / অতিভুজ = ৩/৫."
+  },
+  {
+    "question": "৫৮. 9p2 + 14p এর সাথে কত যোগ করলে যোগফল একটি পূর্ণবর্গ সংখ্যা হবে?",
+    "answers": [
+      {
+        "text": "ক. 49/9",
+        "score": 1
+      },
+      {
+        "text": "খ. 14/9",
+        "score": 0
+      },
+      {
+        "text": "গ. 7/9",
+        "score": 0
+      },
+      {
+        "text": "ঘ. 7",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. 49/9",
+    "hint": "(3p)² + 2(3p)(7/3) এর সাথে (7/3)² বা 49/9 যোগ করলে পূর্ণবর্গ হবে."
+  },
+  {
+    "question": "৫৯. m – n = x এবং mn = 6x2 হলে, m3 – n3 = কত?",
+    "answers": [
+      {
+        "text": "ক. 19x2",
+        "score": 0
+      },
+      {
+        "text": "খ. 19x3",
+        "score": 1
+      },
+      {
+        "text": "গ. 18x2",
+        "score": 0
+      },
+      {
+        "text": "ঘ. 18x3",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. 19x3",
+    "hint": "মান বসিয়ে পাই: x³ + 3(6x²)(x) = x³ + 18x³ = 19x³."
+  },
+  {
+    "question": "৬০. একটি সমকোণী ত্রিভুজের সমকোণ সংলগ্ন বাহুদ্বয়ের দৈর্ঘ্য যথাক্রমে 6 সে.মি. এবং 8 সে.মি. হলে, ক্ষেত্রফল কত হবে?",
+    "answers": [
+      {
+        "text": "ক. 24 বর্গ সে.মি.",
+        "score": 1
+      },
+      {
+        "text": "খ. 42 বর্গ সে.মি.",
+        "score": 0
+      },
+      {
+        "text": "গ. 44 বর্গ সে.মি.",
+        "score": 0
+      },
+      {
+        "text": "ঘ. 45 বর্গ সে.মি.",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. 24 বর্গ সে.মি.",
+    "hint": "ক্ষেত্রফল = ১/২ × ভূমি × উচ্চতা = ১/২ × ৬ × ৮ = ২৪ বর্গ সেমি."
+  },
+  {
+    "question": "৬১. ΔABC একটি সমবাহু ত্রিভুজ। উহার AB এবং AC বাহুকে বর্ধিত করলে উৎপন্ন কোণদ্বয়ের সমষ্টি কত?",
+    "answers": [
+      {
+        "text": "ক. ৩২০°",
+        "score": 0
+      },
+      {
+        "text": "খ. ২৮০°",
+        "score": 0
+      },
+      {
+        "text": "গ. ২৪০°",
+        "score": 1
+      },
+      {
+        "text": "ঘ. ২৯০°",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. ২৪০°",
+    "hint": "সমবাহু ত্রিভুজের প্রতিটি কোণ ৬০°, ফলে বহিঃস্থ কোণদ্বয়ের প্রতিটি ১২০° এবং সমষ্টি ২৪০°."
+  },
+  {
+    "question": "৬২. x2 – 3x, x2 – 9 এবং x2 – 4x + 3 বীজগাণিতিক রাশির গ.সা.গু কত?",
+    "answers": [
+      {
+        "text": "ক. x – 4",
+        "score": 0
+      },
+      {
+        "text": "খ. x + 3",
+        "score": 0
+      },
+      {
+        "text": "গ. x – 3",
+        "score": 1
+      },
+      {
+        "text": "ঘ. x – 1",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. x – 3",
+    "hint": "উৎপাদক বিশ্লেষণ করলে কমন উৎপাদকটি পাওয়া যায় (x - 3)."
+  },
+  {
+    "question": "৬৩. যদি ax = b, by = c এবং cz = a হয়, তবে xyz এর মান কত হবে?",
+    "answers": [
+      {
+        "text": "ক. 2",
+        "score": 0
+      },
+      {
+        "text": "খ. 1",
+        "score": 1
+      },
+      {
+        "text": "গ. – 2",
+        "score": 0
+      },
+      {
+        "text": "ঘ. – 1",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. 1",
+    "hint": "সূচকের মান প্রতিস্থাপন করে সমাধান করলে xyz = 1 হয়."
+  },
+  {
+    "question": "৬৪. log10x = –2 হলে, x এর মান কত?",
+    "answers": [
+      {
+        "text": "ক. 0.01",
+        "score": 1
+      },
+      {
+        "text": "খ. 0.001",
+        "score": 0
+      },
+      {
+        "text": "গ. 0.02",
+        "score": 0
+      },
+      {
+        "text": "ঘ. 0.002",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. 0.01",
+    "hint": "x = 10⁻² = 1/100 = 0.01."
+  },
+  {
+    "question": "৬৫. একটি ত্রিভুজাকৃতি জমির ক্ষেত্রফল ২৬৪ বর্গমিটার এবং ভূমি ২২ মিটার হলে উচ্চতা কত হবে?",
+    "answers": [
+      {
+        "text": "ক. ১২ মিটার",
+        "score": 0
+      },
+      {
+        "text": "খ. ১৫ মিটার",
+        "score": 0
+      },
+      {
+        "text": "গ. ২৪ মিটার",
+        "score": 1
+      },
+      {
+        "text": "ঘ. ২৮ মিটার",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. ২৪ মিটার",
+    "hint": "উচ্চতা h = (২৬৪ × ২) ÷ ২২ = ২৪ মিটার."
+  },
+  {
+    "question": "৬৬. x2 – 4, x2 + 4x + 4, x3 – 8 বীজগাণিতিক রাশির ল.সা.গু কত?",
+    "answers": [
+      {
+        "text": "ক. (x + 2)2 (x3 – 8)",
+        "score": 1
+      },
+      {
+        "text": "খ. (x – 2)2 (x3 – 8)",
+        "score": 0
+      },
+      {
+        "text": "গ. (x2 – 2) (x3 – 8)",
+        "score": 0
+      },
+      {
+        "text": "ঘ. (x2 + 2) (x3 – 8)",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. (x + 2)2 (x3 – 8) [বা সমতুল্য উৎপাদক]",
+    "hint": "রাশিগুলোর লসাগু বিশ্লেষণ করলে (x + 2)²(x³ - 8) পাওয়া যায়."
+  },
+  {
+    "question": "৬৭. ক : খ = ৪ : ৭, খ : গ = ১০ : ৭ হলে, ক : খ : গ কত হবে?",
+    "answers": [
+      {
+        "text": "ক. ৪৯ : ৭০ : ৪০",
+        "score": 0
+      },
+      {
+        "text": "খ. ৪০ : ৭০ : ৪৯",
+        "score": 1
+      },
+      {
+        "text": "গ. ৭০ : ৪৯ : ৪০",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ৪৯ : ৪০ : ৭০",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. ৪০ : ৭০ : ৪৯",
+    "hint": "সহ-অনুপাত সমান করে পাই ক : খ : গ = ৪০ : ৭০ : ৪৯."
+  },
+  {
+    "question": "৬৮. একটি গাড়ির চাকার পরিধি ৫ মিটার। ১ কিলোমিটার ৫০০ মিটার পথ যেতে চাকাটি কতবার ঘুরবে?",
+    "answers": [
+      {
+        "text": "ক. ২০০",
+        "score": 0
+      },
+      {
+        "text": "খ. ২৫০",
+        "score": 0
+      },
+      {
+        "text": "গ. ৩০০",
+        "score": 1
+      },
+      {
+        "text": "ঘ. ৩৫০",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. ৩০০",
+    "hint": "মোট পথ ১৫০০ মিটার, ঘূর্ণন সংখ্যা = ১৫০০ ÷ ৫ = ৩০০ বার."
+  },
+  {
+    "question": "৬৯. একক ব্যাসার্ধবিশিষ্ট বৃত্তের ক্ষেত্রফল কত হবে?",
+    "answers": [
+      {
+        "text": "ক. ১ বর্গ একক",
+        "score": 0
+      },
+      {
+        "text": "খ. ২ বর্গ একক",
+        "score": 0
+      },
+      {
+        "text": "গ. π বর্গ একক",
+        "score": 1
+      },
+      {
+        "text": "ঘ. π2 বর্গ একক",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. π বর্গ একক",
+    "hint": "ক্ষেত্রফল = πr² = π(১)² = π বর্গ একক."
+  },
+  {
+    "question": "৭০. কোনো বৃত্তের অধিচাপে অন্তর্লিখিত কোণ-",
+    "answers": [
+      {
+        "text": "ক. সূক্ষ্মকোণ",
+        "score": 1
+      },
+      {
+        "text": "খ. স্থূলকোণ",
+        "score": 0
+      },
+      {
+        "text": "গ. সমকোণ",
+        "score": 0
+      },
+      {
+        "text": "ঘ. পূরককোণ",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. সূক্ষ্মকোণ",
+    "hint": "বৃত্তের অধিচাপে অন্তর্লিখিত কোণ সর্বদা সূক্ষ্মকোণ হয়."
+  },
+  {
+    "question": "৭১. x2 – x – 6 = 0 সমীকরণের মূলদ্বয় হবে-",
+    "answers": [
+      {
+        "text": "ক. 3, 2",
+        "score": 0
+      },
+      {
+        "text": "খ. 3, – 2",
+        "score": 1
+      },
+      {
+        "text": "গ. – 3, 2",
+        "score": 0
+      },
+      {
+        "text": "ঘ. – 3,  – 2",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. 3, – 2",
+    "hint": "(x - 3)(x + 2) = 0 হলে x এর মান ৩ ও -২ হয়."
+  },
+  {
+    "question": "৭২. রহিম ও করিমের বয়সের গড় ৩৫ বছর। রহিম ও হামজার বয়সের গড় ২০ বছর। হামজার বয়স ১১ বছর হলে, করিমের বয়স কত?",
+    "answers": [
+      {
+        "text": "ক. ৪০ বছর",
+        "score": 0
+      },
+      {
+        "text": "খ. ৪১ বছর",
+        "score": 1
+      },
+      {
+        "text": "গ. ৪২ বছর",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ৪৩ বছর",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. ৪১ বছর",
+    "hint": "রহিম + করিম = ৭০, রহিম + হামজা = ৪০; রহিম = ৫১, করিমের বয়স ৭০ - ৫১ = ৪১ বছর."
+  },
+  {
+    "question": "৭৩. স্বাধীনতাযুদ্ধে অবদানের জন্য ‘বীরপ্রতীক’ উপাধি লাভ করেন কত জন?",
+    "answers": [
+      {
+        "text": "ক. ৭ জন",
+        "score": 0
+      },
+      {
+        "text": "খ. ৬৮ জন",
+        "score": 0
+      },
+      {
+        "text": "গ. ১৭৫ জন",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ৪২৬ জন",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. ৪২৬ জন",
+    "hint": "মুক্তিযুদ্ধে বীরপ্রতীক খেতাবপ্রাপ্ত মোট মুক্তিযোদ্ধার সংখ্যা ৪২৬ জন."
+  },
+  {
+    "question": "৭৪. বাংলাদেশের সংবিধান রচনা কমিটির একমাত্র মহিলা সদস্য কে?",
+    "answers": [
+      {
+        "text": "ক. ক্যাপ্টেন সিতারা বেগম",
+        "score": 0
+      },
+      {
+        "text": "খ. বেগম রাজিয়া বানু",
+        "score": 1
+      },
+      {
+        "text": "গ. বেগম মতিয়া চৌধুরী",
+        "score": 0
+      },
+      {
+        "text": "ঘ. বেগম সুফিয়া কামাল",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. বেগম রাজিয়া বানু",
+    "hint": "সংবিধান রচনা কমিটির একমাত্র নারী সদস্য ছিলেন বেগম রাজিয়া বানু."
+  },
+  {
+    "question": "৭৫. বাংলাদেশের বৃহত্তম উপজেলা কোনটি?",
+    "answers": [
+      {
+        "text": "ক. শ্যামনগর",
+        "score": 1
+      },
+      {
+        "text": "খ. ঘাটাইল",
+        "score": 0
+      },
+      {
+        "text": "গ. সাভার",
+        "score": 0
+      },
+      {
+        "text": "ঘ. বরকল",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. শ্যামনগর",
+    "hint": "আয়তনের দিক থেকে বাংলাদেশের বৃহত্তম উপজেলা সাতক্ষীরা জেলার শ্যামনগর."
+  },
+  {
+    "question": "৭৬. ‘মনপুরা’ ৭০ কী?",
+    "answers": [
+      {
+        "text": "ক. একটি উপজেলা",
+        "score": 0
+      },
+      {
+        "text": "খ. একটি নদী বন্দর",
+        "score": 0
+      },
+      {
+        "text": "গ. একটি উপন্যাস",
+        "score": 0
+      },
+      {
+        "text": "ঘ. একটি চিত্রশিল্প",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. একটি চিত্রশিল্প",
+    "hint": "শিল্পী জৈনুল আবেদিনের বিখ্যাত চিত্রশিল্পের নাম 'মনপুরা ৭০'."
+  },
+  {
+    "question": "৭৭. বাংলাদেশের সংবিধান কতটি ভাষায় রচিত?",
+    "answers": [
+      {
+        "text": "ক. ১টি",
+        "score": 0
+      },
+      {
+        "text": "খ. ২টি",
+        "score": 1
+      },
+      {
+        "text": "গ. ৩টি",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ৪টি",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. ২টি",
+    "hint": "বাংলাদেশের সংবিধান বাংলা ও ইংরেজি—এই দুটি ভাষায় রচিত."
+  },
+  {
+    "question": "৭৮. বাংলাদেশের কোন জেলা দুই দেশের সীমানা দ্বারা বেষ্টিত?",
+    "answers": [
+      {
+        "text": "ক. খাগড়াছড়ি",
+        "score": 0
+      },
+      {
+        "text": "খ. বান্দারবান",
+        "score": 0
+      },
+      {
+        "text": "গ. রাঙ্গামাটি",
+        "score": 1
+      },
+      {
+        "text": "ঘ. কুমিল্লা",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. রাঙ্গামাটি",
+    "hint": "রাঙ্গামাটি জেলা ভারত ও মিয়ানমার—এই দুই দেশের সীমানা দ্বারা বেষ্টিত."
+  },
+  {
+    "question": "৭৯. বাংলার প্রাচীন স্থান মহাস্থানগড়ের অবস্থান কোথায় ছিল?",
+    "answers": [
+      {
+        "text": "ক. মুন্সিগঞ্জে",
+        "score": 0
+      },
+      {
+        "text": "খ. কুমিল্লায়",
+        "score": 0
+      },
+      {
+        "text": "গ. বগুড়ায়",
+        "score": 1
+      },
+      {
+        "text": "ঘ. ফরিদপুরে",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. বগুড়ায়",
+    "hint": "মহাস্থানগড় বর্তমান বগুড়া জেলায় অবস্থিত."
+  },
+  {
+    "question": "৮০. বাংলাদেশে কবে থেকে বয়স্কভাতা চালু হয়?",
+    "answers": [
+      {
+        "text": "ক. ১৯৯৬সাল",
+        "score": 0
+      },
+      {
+        "text": "খ. ১৯৯৭সাল",
+        "score": 1
+      },
+      {
+        "text": "গ. ১৯৯৮সাল",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ১৯৯৯সাল",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. ১৯৯৭সাল",
+    "hint": "বাংলাদেশে ১৯৯৭ সালে বয়স্ক ভাতা চালু করা হয়."
+  },
+  {
+    "question": "৮১. নদী ছাড়া ‘মহানন্দা’ কী?",
+    "answers": [
+      {
+        "text": "ক. তরমুজ",
+        "score": 0
+      },
+      {
+        "text": "খ. সরিষা",
+        "score": 0
+      },
+      {
+        "text": "গ. আম",
+        "score": 1
+      },
+      {
+        "text": "ঘ. কলা",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. আম",
+    "hint": "মহানন্দা নদীর নাম ছাড়াও একটি উন্নত জাতের আমের নাম."
+  },
+  {
+    "question": "৮২. বাংলাদেশের প্রথম ইপিজেড (EPZ) কোথায় স্থাপিত হয়?",
+    "answers": [
+      {
+        "text": "ক. সাভার",
+        "score": 0
+      },
+      {
+        "text": "খ. চট্রগ্রাম",
+        "score": 1
+      },
+      {
+        "text": "গ. মংলা",
+        "score": 0
+      },
+      {
+        "text": "ঘ. গাজীপুর",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. চট্রগ্রাম",
+    "hint": "বাংলাদেশের প্রথম ইপিজেড চট্টগ্রামে স্থাপিত হয়."
+  },
+  {
+    "question": "৮৩. বাংলাদেশ ওয়ানডে ক্রিকেটের শততম ম্যাচে কোন দেশকে পরাজিত করে?",
+    "answers": [
+      {
+        "text": "ক. পাকিস্তান",
+        "score": 0
+      },
+      {
+        "text": "খ. ভারত",
+        "score": 1
+      },
+      {
+        "text": "গ. জিম্বাবুয়ে",
+        "score": 0
+      },
+      {
+        "text": "ঘ. নিউজিল্যান্ড",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. ভারত",
+    "hint": "বাংলাদেশ তাদের ওয়ানডে ক্রিকেটের শততম ম্যাচে ভারতকে পরাজিত করেছিল."
+  },
+  {
+    "question": "৮৪. মূল্য সংযোজন কর একটি-",
+    "answers": [
+      {
+        "text": "ক. প্রত্যক্ষ কর",
+        "score": 0
+      },
+      {
+        "text": "খ. পরোক্ষ কর",
+        "score": 1
+      },
+      {
+        "text": "গ. পরিপূরক কর",
+        "score": 0
+      },
+      {
+        "text": "ঘ. সম্পূরক কর",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. পরোক্ষ কর",
+    "hint": "মূল্য সংযোজন কর (VAT) একটি পরোক্ষ কর."
+  },
+  {
+    "question": "৮৫. ‘কারাগারের রোজনামচা’ গ্রন্থটির লেখক কে?",
+    "answers": [
+      {
+        "text": "ক. বঙ্গবন্ধু শেখ মুজিবুর রহমান",
+        "score": 1
+      },
+      {
+        "text": "খ. মাওলানা ভাসানী",
+        "score": 0
+      },
+      {
+        "text": "গ. জাহানারা ইমাম",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ড. কামাল হোসেন",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. বঙ্গবন্ধু শেখ মুজিবুর রহমান",
+    "hint": "'কারাগারের রোজনামচা' গ্রন্থের লেখক জাতির পিতা বঙ্গবন্ধু শেখ মুজিবুর রহমান."
+  },
+  {
+    "question": "৮৬. বিশ্বব্যাংক থেকে সদস্যপদ প্রত্যাহারকারী দেশ কোনটি?",
+    "answers": [
+      {
+        "text": "ক. কিউবা",
+        "score": 1
+      },
+      {
+        "text": "খ. ফিলিস্তিন",
+        "score": 0
+      },
+      {
+        "text": "গ. ইরান",
+        "score": 0
+      },
+      {
+        "text": "ঘ. চীন",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. কিউবা",
+    "hint": "বিশ্বব্যাংক থেকে সদস্যপদ প্রত্যাহারকারী দেশ হলো কিউবা."
+  },
+  {
+    "question": "৮৭. তুরস্কের মুদ্রার নাম কী?",
+    "answers": [
+      {
+        "text": "ক. দিনার",
+        "score": 0
+      },
+      {
+        "text": "খ. দিরহাম",
+        "score": 0
+      },
+      {
+        "text": "গ. ডলার",
+        "score": 0
+      },
+      {
+        "text": "ঘ. লিরা",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. লিরা",
+    "hint": "তুরস্কের মুদ্রার নাম তুর্কি লিরা."
+  },
+  {
+    "question": "৮৮. বাংলাদেশকে স্বীকৃতিদানকারী প্রথম আরব দেশ হচ্ছে-",
+    "answers": [
+      {
+        "text": "ক. সৌদি আরব",
+        "score": 0
+      },
+      {
+        "text": "খ. কুয়েত",
+        "score": 0
+      },
+      {
+        "text": "গ. ইরাক",
+        "score": 1
+      },
+      {
+        "text": "ঘ. বাহরাইন",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. ইরাক",
+    "hint": "ইরাক হলো বাংলাদেশকে স্বীকৃতি প্রদানকারী প্রথম আরব দেশ."
+  },
+  {
+    "question": "৮৯. বাংলাদেশের প্রথম ইন্টারনেট সার্চ ইঞ্জিন কোনটি?",
+    "answers": [
+      {
+        "text": "ক. পিপীলিকা",
+        "score": 1
+      },
+      {
+        "text": "খ. দোয়েল",
+        "score": 0
+      },
+      {
+        "text": "গ. পদ্মা",
+        "score": 0
+      },
+      {
+        "text": "ঘ. অনুসন্ধান",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. পিপীলিকা",
+    "hint": "বাংলাদেশের প্রথম বাংলা সার্চ ইঞ্জিন হলো 'পিপীলিকা'."
+  },
+  {
+    "question": "৯০. নিউজিল্যান্ডের আদিবাসী কারা?",
+    "answers": [
+      {
+        "text": "ক. টোডা",
+        "score": 0
+      },
+      {
+        "text": "খ. আফ্রিদি",
+        "score": 0
+      },
+      {
+        "text": "গ. জুলু",
+        "score": 0
+      },
+      {
+        "text": "ঘ. মাউরি",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. মাউরি",
+    "hint": "নিউইয়র্কের বা নিউজিল্যান্ডের আদিবাসী জনগোষ্ঠী হলো মাউরি."
+  },
+  {
+    "question": "৯১. বিশ্ব পরিবেশ দিবস পালিত হয় কোন তারিখে?",
+    "answers": [
+      {
+        "text": "ক. ৫ জানুয়ারি",
+        "score": 0
+      },
+      {
+        "text": "খ. ৮ মার্চ",
+        "score": 0
+      },
+      {
+        "text": "গ. ৫ জুন",
+        "score": 1
+      },
+      {
+        "text": "ঘ. ১০ ডিসেম্বর",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. ৫ জুন",
+    "hint": "প্রতি বছর ৫ জুন বিশ্ব পরিবেশ দিবস পালিত হয়."
+  },
+  {
+    "question": "৯২. জাতিসংঘের কততম সাধারণ অধিবেশনে বঙ্গবন্ধু শেখ মুজিবুর রহমান বাংলায় ভাষণ দিয়েছিলেন?",
+    "answers": [
+      {
+        "text": "ক. ১৯তম",
+        "score": 0
+      },
+      {
+        "text": "খ. ২৯তম",
+        "score": 1
+      },
+      {
+        "text": "গ. ৩৬তম",
+        "score": 0
+      },
+      {
+        "text": "ঘ. ৩৯তম",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. ২৯তম",
+    "hint": "বঙ্গবন্ধু ১৯৭৪ সালে জাতিসংঘের ২৯তম সাধারণ অধিবেশনে বাংলায় প্রথম ভাষণ দেন."
+  },
+  {
+    "question": "৯৩. উরুগুয়ে রাউন্ড কোন সংস্থাটির সাথে সম্পর্কিত?",
+    "answers": [
+      {
+        "text": "ক. IMF",
+        "score": 0
+      },
+      {
+        "text": "খ. WTO",
+        "score": 1
+      },
+      {
+        "text": "গ. NATO",
+        "score": 0
+      },
+      {
+        "text": "ঘ. OIC",
+        "score": 0
+      }
+    ],
+    "correct_answer": "খ. WTO",
+    "hint": "উরুগুয়ে রাউন্ডের মাধ্যমেই বিশ্ব বাণিজ্য সংস্থা (WTO) প্রতিষ্ঠার পথ সুগম হয়."
+  },
+  {
+    "question": "৯৪. যুক্তরাষ্ট্রের সরকার ব্যবস্থা কীরূপ?",
+    "answers": [
+      {
+        "text": "ক. রাষ্ট্রপতি শাসিত",
+        "score": 1
+      },
+      {
+        "text": "খ. সাংবিধানিক রাজতন্ত্র",
+        "score": 0
+      },
+      {
+        "text": "গ. সংসদীয় সরকার",
+        "score": 0
+      },
+      {
+        "text": "ঘ. রাজতন্ত্র",
+        "score": 0
+      }
+    ],
+    "correct_answer": "ক. রাষ্ট্রপতি শাসিত",
+    "hint": "যুক্তরাষ্ট্রের সরকার ব্যবস্থা হলো রাষ্ট্রপতি শাসিত সরকার."
+  },
+  {
+    "question": "৯৫. SMOG হচ্ছে-",
+    "answers": [
+      {
+        "text": "ক. সিগারেটের ধোঁয়া",
+        "score": 0
+      },
+      {
+        "text": "খ. কুয়াশা",
+        "score": 0
+      },
+      {
+        "text": "গ. কালোধোঁয়া",
+        "score": 0
+      },
+      {
+        "text": "ঘ. দূষিত বাতাস",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. দূষিত বাতাস",
+    "hint": "স্মোগ (Smog) হলো ধোঁয়া ও কুয়াশার মিশ্রণে তৈরি দূষিত বাতাস."
+  },
+  {
+    "question": "৯৬. ভূকম্পের তীব্রতা মাপার যন্ত্রের নাম কী?",
+    "answers": [
+      {
+        "text": "ক. ব্যারোমিটার",
+        "score": 0
+      },
+      {
+        "text": "খ. ফ্যাদোমিটার",
+        "score": 0
+      },
+      {
+        "text": "গ. সিসমোগ্রাফ",
+        "score": 1
+      },
+      {
+        "text": "ঘ. কম্পাস",
+        "score": 0
+      }
+    ],
+    "correct_answer": "গ. সিসমোগ্রাফ",
+    "hint": "ভূমিকম্পের তীব্রতা পরিমাপক যন্ত্রের নাম সিসমোগ্রাফ."
+  },
+  {
+    "question": "৯৭. রক্তে হিমোগ্লোবিনের কাজ কী?",
+    "answers": [
+      {
+        "text": "ক. খাদ্য পরিবহন করো",
+        "score": 0
+      },
+      {
+        "text": "খ. হরমোন বহন করা",
+        "score": 0
+      },
+      {
+        "text": "গ. রক্ত জমাট বাঁধতে সাহায্য করা",
+        "score": 0
+      },
+      {
+        "text": "ঘ. অক্সিজেন পরিবহন করা",
+        "score": 1
+      }
+    ],
+    "correct_answer": "ঘ. অক্সিজেন পরিবহন করা",
+    "hint": "রক্তে হিমোগ্লোবিনের প্রধান কাজ হলো ফুসফুস থেকে শরীরের সব কোষে অক্সিজেন পরিবহন করা."
+  }
+]

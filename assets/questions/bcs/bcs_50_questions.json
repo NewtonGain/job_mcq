@@ -1,0 +1,4512 @@
+[
+    {
+        "question": "১. কোন বাক্যটি প্রয়োগগত দিক থেকে শুদ্ধ?",
+        "answers": [
+            {
+                "text": "ক. মাছ আকাশে উড়ে।",
+                "score": 0
+            },
+            {
+                "text": "খ. তাঁর খুব আনন্দ পেল।",
+                "score": 0
+            },
+            {
+                "text": "গ. আবশ্যক ব্যয়ে কার্পণ্য অনুচিত।",
+                "score": 1
+            },
+            {
+                "text": "ঘ. সকল ছাত্রগণ পাঠে মনোযোগী।",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. আবশ্যক ব্যয়ে কার্পণ্য অনুচিত।",
+        "hint": "'মাছ আকাশে উড়ে' বাক্যে যোগ্যতার অভাব, 'তাঁর খুব আনন্দ পেল' বাক্যে কারক/বিভক্তিগত ভুল, এবং 'সকল ছাত্রগণ' বাক্যে বচনঘটিত বাহুল্য দোষ রয়েছে।"
+    },
+    {
+        "question": "২. ‘স্বর্গ’ শব্দের সঠিক সমার্থক শব্দজোড়া কোনটি?",
+        "answers": [
+            {
+                "text": "ক. হরিদশ্ব, বিবদান",
+                "score": 0
+            },
+            {
+                "text": "খ. ক্ষিতি, উর্বী",
+                "score": 0
+            },
+            {
+                "text": "গ. দিনমণি, দিন নাথ",
+                "score": 0
+            },
+            {
+                "text": "ঘ. ত্রিদিব, সুরপুর",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. ত্রিদিব, সুরপুর",
+        "hint": "'ত্রিদিব' ও 'সুরপুর' দুটিই দেবলোক বা স্বর্গ-এর সমার্থক শব্দ।"
+    },
+    {
+        "question": "৩. কিশোর পত্রিকা ‘বালক’ প্রতিষ্ঠা কার অমর কীর্তি?",
+        "answers": [
+            {
+                "text": "ক. স্বর্ণকুমারী দেবী",
+                "score": 1
+            },
+            {
+                "text": "খ. সেলিনা হোসেন",
+                "score": 0
+            },
+            {
+                "text": "গ. আল মাহমুদ",
+                "score": 0
+            },
+            {
+                "text": "ঘ. কাদম্বরী দেবী",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ক. স্বর্ণকুমারী দেবী",
+        "hint": "১৮৮৫ সালে জোড়াসাঁকো ঠাকুর পরিবার থেকে স্বর্ণকুমারী দেবী 'বালক' নামে একটি কিশোর পত্রিকা প্রকাশ করেন।"
+    },
+    {
+        "question": "৪. ‘ই’ এর মাত্রার উপরের অংশের নাম কী?",
+        "answers": [
+            {
+                "text": "ক. চৈতন",
+                "score": 0
+            },
+            {
+                "text": "খ. আঁকড়ি",
+                "score": 0
+            },
+            {
+                "text": "গ. পাগড়ি",
+                "score": 0
+            },
+            {
+                "text": "ঘ. জোড় আঁকড়ি",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. জোড় আঁকড়ি",
+        "hint": "বাংলা স্বরবর্ণ 'ই' ও 'ঈ'-এর মাথার উপর যে বিশেষ চিহ্ন বা উড়ানি থাকে, তাকে 'জোড় আঁকড়ি' বা উড়ানি বলা হয়।"
+    },
+    {
+        "question": "৫. ‘প্রাচ্য’ শব্দের বিপরীত শব্দ কোনটি?",
+        "answers": [
+            {
+                "text": "ক. প্রতীচ্য",
+                "score": 1
+            },
+            {
+                "text": "খ. প্রাচ্যহীন",
+                "score": 0
+            },
+            {
+                "text": "গ. অপ্রাচ্য",
+                "score": 0
+            },
+            {
+                "text": "ঘ. নবীন",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ক. প্রতীচ্য",
+        "hint": "'প্রাচ্য' বলতে পূর্ব দিক/পূর্বদেশীয় এবং 'প্রতীচ্য' বলতে পশ্চিম দিক/পাশ্চাত্য বোঝায়।"
+    },
+    {
+        "question": "৬. বাংলা পুঁথি সাহিত্যের উদাহরণ কোনটি?",
+        "answers": [
+            {
+                "text": "ক. নূরনামা",
+                "score": 0
+            },
+            {
+                "text": "খ. আমীর হামজা",
+                "score": 1
+            },
+            {
+                "text": "গ. গুপি চন্দ্রের সন্ন্যাস",
+                "score": 0
+            },
+            {
+                "text": "ঘ. মহুয়া",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. আমীর হামজা",
+        "hint": "ফকির গরীবুল্লাহ ও সৈয়দ হামজা রচিত 'আমীর হামজা' দোভাষী পুঁথি সাহিত্যের একটি বিখ্যাত কাব্য।"
+    },
+    {
+        "question": "৭. ‘কাআ তরুবর পঞ্চ বি ডাল’—পদটির রচয়িতা কে?",
+        "answers": [
+            {
+                "text": "ক. লুইপা",
+                "score": 1
+            },
+            {
+                "text": "খ. ভুসুকুপা",
+                "score": 0
+            },
+            {
+                "text": "গ. শবরপা",
+                "score": 0
+            },
+            {
+                "text": "ঘ. কাহ্নপা",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ক. লুইপা",
+        "hint": "চর্যাপদের প্রথম পদ 'কাআ তরুবর পঞ্চ বি ডাল'-এর রচয়িতা আদি সিদ্ধাচার্য লুইপা।"
+    },
+    {
+        "question": "৮. একটি স্বরধ্বনির প্রভাবে শব্দে অপর স্বরের পরিবর্তন ঘটলে তাকে বলে—",
+        "answers": [
+            {
+                "text": "ক. অভিশ্রম্নতি",
+                "score": 0
+            },
+            {
+                "text": "খ. অপিনিহিতি",
+                "score": 0
+            },
+            {
+                "text": "গ. সমীভবন",
+                "score": 0
+            },
+            {
+                "text": "ঘ. স্বরসঙ্গতি",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. স্বরসঙ্গতি",
+        "hint": "শব্দের একটি স্বরধ্বনির প্রভাবে অপর স্বরধ্বনির বদলে যাওয়ার প্রক্রিয়াকে স্বরসঙ্গতি (Vowel Harmony) বলে।"
+    },
+    {
+        "question": "৯. কোনটি কাজী নজরুল ইসলামের প্রবন্ধ গ্রন্থ?",
+        "answers": [
+            {
+                "text": "ক. মৃত্যুক্ষুধা",
+                "score": 0
+            },
+            {
+                "text": "খ. সিন্ধু—হিন্দোল",
+                "score": 0
+            },
+            {
+                "text": "গ. যুগবাণী",
+                "score": 1
+            },
+            {
+                "text": "ঘ. অগ্নিবীণা",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. যুগবাণী",
+        "hint": "১৯২২ সালে প্রকাশিত 'যুগবাণী' কাজী নজরুল ইসলামের প্রথম নিষিদ্ধঘোষিত রাজনৈতিক প্রবন্ধ গ্রন্থ।"
+    },
+    {
+        "question": "১০. ‘রাজপথ’ শব্দের ব্যাসবাক্য কোনটি?",
+        "answers": [
+            {
+                "text": "ক. রাজা ও পথ",
+                "score": 0
+            },
+            {
+                "text": "খ. রাজার পথ",
+                "score": 0
+            },
+            {
+                "text": "গ. বিশাল পথ",
+                "score": 0
+            },
+            {
+                "text": "ঘ. পথের রাজা",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. পথের রাজা",
+        "hint": "'রাজপথ' সমাসবদ্ধ শব্দটির ব্যাসবাক্য হলো 'পথের রাজা' (ষষ্ঠী তৎপুরুষ সমাস)।"
+    },
+    {
+        "question": "১১. ‘বিষণ্ণ’ শব্দটির সঠিক বিশেষ্য রূপ কোনটি?",
+        "answers": [
+            {
+                "text": "ক. বিষাদ",
+                "score": 1
+            },
+            {
+                "text": "খ. বিষণ্ণ",
+                "score": 0
+            },
+            {
+                "text": "গ. বিষাক্ত",
+                "score": 0
+            },
+            {
+                "text": "ঘ. বিষয়",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ক. বিষাদ",
+        "hint": "'বিষাদ' হলো বিশেষ্য (Noun) এবং 'বিষণ্ণ' হলো তার বিশেষণ (Adjective) রূপ।"
+    },
+    {
+        "question": "১২. মুক্তিযুদ্ধকে উপজীব্য করে ‘যাত্রা’ উপন্যাসটি লিখেছেন—",
+        "answers": [
+            {
+                "text": "ক. শওকত ওসমান",
+                "score": 0
+            },
+            {
+                "text": "খ. শহিদুল জহির",
+                "score": 0
+            },
+            {
+                "text": "গ. শওকত আলী",
+                "score": 1
+            },
+            {
+                "text": "ঘ. সেলিনা হোসেন",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. শওকত আলী",
+        "hint": "১৯৭১ সালের ২৫ মার্চের ভয়াল রাতের পরবর্তী ঢাকা ত্যাগের অভিজ্ঞতা নিয়ে শওকত আলী 'যাত্রা' উপন্যাসটি রচনা করেন।"
+    },
+    {
+        "question": "১৩. তারাশঙ্কর বন্দ্যোপাধ্যায়ের ‘কবি’ গ্রন্থটিতে কোন বিষয়টি প্রাধান্য পেয়েছে?",
+        "answers": [
+            {
+                "text": "ক. অসম ভালোবাসা",
+                "score": 0
+            },
+            {
+                "text": "খ. আদিবাসীদের জীবনচিত্র",
+                "score": 0
+            },
+            {
+                "text": "গ. ডোম সম্প্রদায়ের জীবন কাহিনি",
+                "score": 1
+            },
+            {
+                "text": "ঘ. পঞ্চাশের মন্বন্তর",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. ডোম সম্প্রদায়ের জীবন কাহিনি",
+        "hint": "তারাশঙ্কর বন্দ্যোপাধ্যায়ের 'কবি' উপন্যাসের নায়ক নিতাই একজন নিম্নবর্ণের ডোম সম্প্রদায়ের কবিয়াল।"
+    },
+    {
+        "question": "১৪. কোন কবি ‘মজলুম আদিব’ ছদ্মনামে কবিতা লিখতেন?",
+        "answers": [
+            {
+                "text": "ক. আল মাহমুদ",
+                "score": 0
+            },
+            {
+                "text": "খ. হেলাল হাফিজ",
+                "score": 0
+            },
+            {
+                "text": "গ. নির্মলেন্দু গুণ",
+                "score": 0
+            },
+            {
+                "text": "ঘ. শামসুর রাহমান",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. শামসুর রাহমান",
+        "hint": "১৯৬৯ সালের গণঅভ্যুত্থানের সময় শামসুর রাহমান 'মজলুম আদিব' (পীড়িত লেখক) ছদ্মনামে বিভিন্ন পত্রিকায় কবিতা প্রকাশ করতেন।"
+    },
+    {
+        "question": "১৫. ‘ঢাকা মুসলিম সাহিত্য সমাজ’ কত সালে প্রতিষ্ঠিত হয়?",
+        "answers": [
+            {
+                "text": "ক. ১৯২০ সালে",
+                "score": 0
+            },
+            {
+                "text": "খ. ১৯২৬ সালে",
+                "score": 1
+            },
+            {
+                "text": "গ. ১৯২৫ সালে",
+                "score": 0
+            },
+            {
+                "text": "ঘ. ১৯৩০ সালে",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. ১৯২৬ সালে",
+        "hint": "১৯২৬ সালের ১৯ জানুয়ারি ঢাকা বিশ্ববিদ্যালয়ে 'বুদ্ধির মুক্তি আন্দোলন'-এর প্রচারক হিসেবে 'মুসলিম সাহিত্য সমাজ' প্রতিষ্ঠিত হয়।"
+    },
+    {
+        "question": "১৬. ১৩৫০ বঙ্গাব্দের দুর্ভিক্ষ নিয়ে রচিত উপন্যাস কোনটি?",
+        "answers": [
+            {
+                "text": "ক. ইছামতী",
+                "score": 0
+            },
+            {
+                "text": "খ. অশনি সংকেত",
+                "score": 1
+            },
+            {
+                "text": "গ. আরণ্যক",
+                "score": 0
+            },
+            {
+                "text": "ঘ. বিষাদসিন্ধু",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. অশনি সংকেত",
+        "hint": "বিভূতিভূষণ বন্দ্যোপাধ্যায়ের 'অশনি সংকেত' উপন্যাসটি ১৩৫০ বঙ্গাব্দের (১৯৪৩ সালের) ৫০-এর মন্বন্তরকে কেন্দ্র করে রচিত।"
+    },
+    {
+        "question": "১৭. ময়মনসিংহ গীতিকা কয়টি ভাষায় অনূদিত হয়েছে?",
+        "answers": [
+            {
+                "text": "ক. ২৩টি",
+                "score": 1
+            },
+            {
+                "text": "খ. ২০টি",
+                "score": 0
+            },
+            {
+                "text": "গ. ২২টি",
+                "score": 0
+            },
+            {
+                "text": "ঘ. ২৫টি",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ক. ২৩টি",
+        "hint": "দীনেশচন্দ্র সেন সম্পাদিত বিখ্যাত লোকগাথা 'ময়মনসিংহ গীতিকা' পৃথিবীর প্রায় ২৩টি ভাষায় অনূদিত হয়েছে।"
+    },
+    {
+        "question": "১৮. ‘ফিকা কমলা রং’— এখানে ফিকা অর্থ কী?",
+        "answers": [
+            {
+                "text": "ক. অনুজ্জ্বল",
+                "score": 1
+            },
+            {
+                "text": "খ. উজ্জ্বল",
+                "score": 0
+            },
+            {
+                "text": "গ. তীব্র",
+                "score": 0
+            },
+            {
+                "text": "ঘ. ঝাঁঝালো",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ক. অনুজ্জ্বল",
+        "hint": "'ফিকা' বলতে হালকা, কম গাঢ় বা অনুজ্জ্বল রঙকে বোঝায়।"
+    },
+    {
+        "question": "১৯. কোনটি বাউল গানের বৈশিষ্ট্য?",
+        "answers": [
+            {
+                "text": "ক. বীরত্বগাথা ও ভক্তিমূলক",
+                "score": 0
+            },
+            {
+                "text": "খ. মানবিক আবেগ ও দৈনন্দিন জীবন",
+                "score": 0
+            },
+            {
+                "text": "গ. আধ্যাত্মিক প্রেম ও অন্তর্গত অনুসন্ধান",
+                "score": 1
+            },
+            {
+                "text": "ঘ. পল্লি জীবনের সুখ—দুঃখ",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. আধ্যাত্মিক প্রেম ও অন্তর্গত অনুসন্ধান",
+        "hint": "বাউল গানের মূল প্রতিপাদ্য হলো পরমাত্মা বা 'মনের মানুষ'-এর সাধনা, আধ্যাত্মিক প্রেম ও আত্মঅনুসন্ধান।"
+    },
+    {
+        "question": "২০. আধুনিক বাংলা নাটক মূলত কয়টি পর্বে বিভক্ত?",
+        "answers": [
+            {
+                "text": "ক. ৬টি",
+                "score": 0
+            },
+            {
+                "text": "খ. ৪টি",
+                "score": 0
+            },
+            {
+                "text": "গ. ৫টি",
+                "score": 1
+            },
+            {
+                "text": "ঘ. ৭টি",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. ৫টি",
+        "hint": "বাংলা নাটকের ইতিহাসকে সাধারণত ৫টি পর্বে ভাগ করা হয় (প্রস্তুতি পর্ব, বিকাশ পর্ব, সমৃদ্ধি পর্ব, রবীন্দ্র উত্তর পর্ব ও আধুনিক পর্ব)।"
+    },
+    {
+        "question": "২১. পুঁথি সাহিত্যে প্রাচীনতম লেখক কে?",
+        "answers": [
+            {
+                "text": "ক. ভারতচন্দ্র রায়",
+                "score": 0
+            },
+            {
+                "text": "খ. কাজী দৌলত",
+                "score": 0
+            },
+            {
+                "text": "গ. আবদুল হাকিম",
+                "score": 0
+            },
+            {
+                "text": "ঘ. ফকির গরীবুল্লাহ",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. ফকির গরীবুল্লাহ",
+        "hint": "১৮ শতকের দোভাষী পুঁথি সাহিত্যের প্রথম ও প্রাচীনতম সফল রচয়িতা হলেন ফকির গরীবুল্লাহ।"
+    },
+    {
+        "question": "২২. কোন বানানটি শুদ্ধ?",
+        "answers": [
+            {
+                "text": "ক. নিশিথিনি",
+                "score": 0
+            },
+            {
+                "text": "খ. কথোপকথন",
+                "score": 1
+            },
+            {
+                "text": "গ. পিপিলিকা",
+                "score": 0
+            },
+            {
+                "text": "ঘ. সমিচিন",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. কথোপকথন",
+        "hint": "সঠিক রূপগুলো হলো: কথোপকথন (শুদ্ধ), নিশীথিনী, পিপীলিকা, এবং সমীচীন।"
+    },
+    {
+        "question": "২৩. ‘মা তাঁর সন্তানদের ভালোবাসেন’— এটি কোন ধরনের বাক্য?",
+        "answers": [
+            {
+                "text": "ক. ইচ্ছাসূচক",
+                "score": 0
+            },
+            {
+                "text": "খ. অনুজ্ঞাসূচক",
+                "score": 0
+            },
+            {
+                "text": "গ. প্রশ্নবোধক",
+                "score": 0
+            },
+            {
+                "text": "ঘ. অস্তিবাচক",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. অস্তিবাচক",
+        "hint": "বাক্যটিতে সরাসরি একটি ইতিবাচক বা হ্যাঁ-বাচক তথ্য প্রকাশ পেয়েছে, তাই এটি অস্তিবাচক (Affirmative) বাক্য।"
+    },
+    {
+        "question": "২৪. জসীমউদ্দীনের ‘কবর’ কবিতাটি কোন পত্রিকায় প্রথম প্রকাশিত হয়?",
+        "answers": [
+            {
+                "text": "ক. তত্ত্ববোধিনী",
+                "score": 0
+            },
+            {
+                "text": "খ. ধূমকেতু",
+                "score": 0
+            },
+            {
+                "text": "গ. কালি ও কলম",
+                "score": 0
+            },
+            {
+                "text": "ঘ. কল্লোল",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. কল্লোল",
+        "hint": "জসীমউদ্দীন যখন বিএ-র ছাত্র, তখন ১৩৩২ বঙ্গাব্দের 'কল্লোল' পত্রিকায় তাঁর বিখ্যাত 'কবর' কবিতাটি প্রথম প্রকাশিত হয়।"
+    },
+    {
+        "question": "২৫. ‘ময়দান, মুনাফা, বই’ শব্দ তিনটি কোন ভাষা থেকে আগত?",
+        "answers": [
+            {
+                "text": "ক. উর্দু",
+                "score": 0
+            },
+            {
+                "text": "খ. ফারসি",
+                "score": 0
+            },
+            {
+                "text": "গ. আরবি",
+                "score": 1
+            },
+            {
+                "text": "ঘ. পতুর্গিজ",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. আরবি",
+        "hint": "ময়দান, মুনাফা, বই - শব্দ তিনটি আরবি ভাষা থেকে বাংলা ভাষায় প্রবেশ করেছে।"
+    },
+    {
+        "question": "২৬. ‘পরমেশ’ শব্দটির সঠিক সন্ধি বিচ্ছেদ কোনটি?",
+        "answers": [
+            {
+                "text": "ক. পরম + এশ",
+                "score": 0
+            },
+            {
+                "text": "খ. পরম + ঈশ",
+                "score": 1
+            },
+            {
+                "text": "গ. পরম + ইশ",
+                "score": 0
+            },
+            {
+                "text": "ঘ. পরম+ ইস",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. পরম + ঈশ",
+        "hint": "অ-কার + ঈ-কার মিলে এ-কার হয়; পরম + ঈশ = পরমেশ।"
+    },
+    {
+        "question": "২৭. কোন বাক্যে সমধাতুজ কর্ম রয়েছে?",
+        "answers": [
+            {
+                "text": "ক. সে বই পড়ছে।",
+                "score": 0
+            },
+            {
+                "text": "খ. সে গভীর চিন্তায় মগ্ন।",
+                "score": 0
+            },
+            {
+                "text": "গ. আজ এমন ঘুম ঘুমিয়েছি!",
+                "score": 1
+            },
+            {
+                "text": "ঘ. সে খেলা করছে।",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. আজ এমন ঘুম ঘুমিয়েছি!",
+        "hint": "বাক্যের ক্রিয়া ('ঘুমিয়েছি') এবং কর্মপদ ('ঘুম') একই ধাতু ('ঘুম্') থেকে গঠিত হলে তাকে সমধাতুজ কর্ম বলে।"
+    },
+    {
+        "question": "২৮. ‘আকাশ ও পৃথিবীর অন্তরাল’— এক কথায় প্রকাশ করলে সঠিক উত্তর কী হবে?",
+        "answers": [
+            {
+                "text": "ক. স্ফুলিঙ্গ",
+                "score": 0
+            },
+            {
+                "text": "খ. রোদসী",
+                "score": 1
+            },
+            {
+                "text": "গ. পীতাভ",
+                "score": 0
+            },
+            {
+                "text": "ঘ. আরক্ত",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. রোদসী",
+        "hint": "'রোদসী' শব্দের অর্থ হলো আকাশ ও পৃথিবীর মধ্যবর্তী স্থান বা অন্তরাল।"
+    },
+    {
+        "question": "২৯. কোনটি ‘ভাত’ এর প্রতিশব্দ?",
+        "answers": [
+            {
+                "text": "ক. অলিপিক",
+                "score": 0
+            },
+            {
+                "text": "খ. প্রভঞ্জন",
+                "score": 0
+            },
+            {
+                "text": "গ. মহি",
+                "score": 0
+            },
+            {
+                "text": "ঘ. তণ্ডুল",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. তণ্ডুল",
+        "hint": "'তণ্ডুল' শব্দের অর্থ চাল বা সিদ্ধ করা ভাত (অন্ন)।"
+    },
+    {
+        "question": "৩০. ‘বেতার, বিপত্নীক’—শব্দ দুটি কোন সমাসের উদাহরণ?",
+        "answers": [
+            {
+                "text": "ক. নঞ তৎপুরুষ, বহুব্রীহি",
+                "score": 1
+            },
+            {
+                "text": "খ. কর্মধারয়, বহুব্রীহি",
+                "score": 0
+            },
+            {
+                "text": "গ. অব্যয়ীভাব, তৎপুরুষ",
+                "score": 0
+            },
+            {
+                "text": "ঘ. তৃতীয়া তৎপুরুষ, দ্বিগু সমাস",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ক. নঞ তৎপুরুষ, বহুব্রীহি",
+        "hint": "বেতার = নাই তার যে (নঞ বহুব্রীহি) বা না তার (নঞ তৎপুরুষ); বিপত্নীক = বিগত হয়েছে পত্নী যার (বহুব্রীহি সমাস)।"
+    },
+    {
+        "question": "৩১. কোন গুচ্ছের সবগুলো বানানই শুদ্ধ?",
+        "answers": [
+            {
+                "text": "ক. সারথী, নিরীহ, নীরোগ",
+                "score": 1
+            },
+            {
+                "text": "খ. প্রমান, অঙ্গন, দর্পণ",
+                "score": 0
+            },
+            {
+                "text": "গ. অনাথা, সুকণ্ঠী, অনুস্টেয়",
+                "score": 0
+            },
+            {
+                "text": "ঘ. একত্রিত, স্থায়িত্ব, অর্ধাঙ্গিনী",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ক. সারথী, নিরীহ, নীরোগ",
+        "hint": "'সারথী', 'নিরীহ', 'নীরোগ' তিনটি বানানই শুদ্ধ। (প্রমাণ, অনুষ্ঠান, স্থায়িত্ব ইত্যাদিতে ভুল ছিল)।"
+    },
+    {
+        "question": "৩২. In Gulliver’s Travels, which of these traits Swift does not show in his depiction of the land of the Lilliput?",
+        "answers": [
+            {
+                "text": "ক. pride",
+                "score": 0
+            },
+            {
+                "text": "খ. lies",
+                "score": 0
+            },
+            {
+                "text": "গ. peace & wisdom",
+                "score": 1
+            },
+            {
+                "text": "ঘ. silly rules",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. peace & wisdom",
+        "hint": "Jonathan Swift depicted the Lilliputians as petty, arrogant, deceitful, and driven by trivial disputes rather than peace and wisdom."
+    },
+    {
+        "question": "৩৩. ‘To have a shot’ means-",
+        "answers": [
+            {
+                "text": "ক. to open fire",
+                "score": 0
+            },
+            {
+                "text": "খ. to take a photograph",
+                "score": 0
+            },
+            {
+                "text": "গ. to make a try",
+                "score": 1
+            },
+            {
+                "text": "ঘ. to test a gun",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. to make a try",
+        "hint": "The idiom 'have a shot' means to attempt or try doing something."
+    },
+    {
+        "question": "৩৪. The killing of albatross in The Rime of the Ancient Mariner was indicative of-",
+        "answers": [
+            {
+                "text": "ক. a trigger-happy Mariner",
+                "score": 0
+            },
+            {
+                "text": "খ. the essential irrationality of man",
+                "score": 1
+            },
+            {
+                "text": "গ. a superstitious Mariner",
+                "score": 0
+            },
+            {
+                "text": "ঘ. the Mariner as a skillful fowler",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. the essential irrationality of man",
+        "hint": "The Mariner kills the innocent albatross without any motive, reflecting the inherent irrationality and sinful nature of humans."
+    },
+    {
+        "question": "৩৫. In William Shakespeare’s play As You Like It, the Seven Ages of Man speech was delivered by-",
+        "answers": [
+            {
+                "text": "ক. Oliver",
+                "score": 0
+            },
+            {
+                "text": "খ. Orlando",
+                "score": 0
+            },
+            {
+                "text": "গ. Jaques",
+                "score": 1
+            },
+            {
+                "text": "ঘ. Rosalind",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. Jaques",
+        "hint": "The famous monologue 'All the world's a stage' (Seven Ages of Man) is spoken by the melancholic lord Jaques in Act II, Scene VII."
+    },
+    {
+        "question": "৩৬. The book that she recommended turned out to be very helpful. Here the underlined clause is a-",
+        "answers": [
+            {
+                "text": "ক. relative clause",
+                "score": 1
+            },
+            {
+                "text": "খ. noun clause",
+                "score": 0
+            },
+            {
+                "text": "গ. adverbial clause",
+                "score": 0
+            },
+            {
+                "text": "ঘ. independent clause",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ক. relative clause",
+        "hint": "'that she recommended' modifies the noun 'book', acting as an adjective/relative clause."
+    },
+    {
+        "question": "৩৭. Candidates are required to get ___ the centre before 09:00 AM.",
+        "answers": [
+            {
+                "text": "ক. at",
+                "score": 0
+            },
+            {
+                "text": "খ. to",
+                "score": 1
+            },
+            {
+                "text": "গ. in",
+                "score": 0
+            },
+            {
+                "text": "ঘ. into",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. to",
+        "hint": "The verb 'get' indicating movement towards a destination takes the preposition 'to' (e.g., get to the place)."
+    },
+    {
+        "question": "৩৮. Identify the compound sentence-",
+        "answers": [
+            {
+                "text": "ক. Either you do it or you will be fined",
+                "score": 0
+            },
+            {
+                "text": "খ. Unless you do it, you will be fined",
+                "score": 0
+            },
+            {
+                "text": "গ. Do it or I shall fine you",
+                "score": 1
+            },
+            {
+                "text": "ঘ. You have to do it, otherwise I will fine you",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. Do it or I shall fine you",
+        "hint": "'Do it or I shall fine you' contains two imperative/independent clauses connected by the coordinating conjunction 'or'."
+    },
+    {
+        "question": "৩৯. Which novel chronicles intense, destructive love fueling multigenerational cruelty & obsession?",
+        "answers": [
+            {
+                "text": "ক. Jane Eyre",
+                "score": 0
+            },
+            {
+                "text": "খ. Emma",
+                "score": 0
+            },
+            {
+                "text": "গ. Wuthering Heights",
+                "score": 1
+            },
+            {
+                "text": "ঘ. Persuasion",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. Wuthering Heights",
+        "hint": "Emily Brontë's 'Wuthering Heights' depicts the destructive passion between Heathcliff and Catherine Earnshaw spanning two generations."
+    },
+    {
+        "question": "৪০. Identify the incorrect spelling-",
+        "answers": [
+            {
+                "text": "ক. diletante",
+                "score": 1
+            },
+            {
+                "text": "খ. homonym",
+                "score": 0
+            },
+            {
+                "text": "গ. cromulent",
+                "score": 0
+            },
+            {
+                "text": "ঘ. accubation",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ক. diletante",
+        "hint": "The correct spelling is 'dilettante' (with double 't')."
+    },
+    {
+        "question": "৪১. ‘You will need a variety of skills, including leadership, endurance etc.’ In this sentence the word ‘including’ is a-",
+        "answers": [
+            {
+                "text": "ক. conjunction",
+                "score": 0
+            },
+            {
+                "text": "খ. gerund",
+                "score": 0
+            },
+            {
+                "text": "গ. participle",
+                "score": 0
+            },
+            {
+                "text": "ঘ. preposition",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. preposition",
+        "hint": "'Including' is used here as a preposition meaning 'together with' or 'as part of'."
+    },
+    {
+        "question": "৪২. Themes like racial prejudice, oppressive power dynamics, unbridgeable gulf between Eastern & Western cultures, etc. are best exemplified in-",
+        "answers": [
+            {
+                "text": "ক. Shadow of the Moon by MM Kaye",
+                "score": 0
+            },
+            {
+                "text": "খ. Bhowani Junction by John Masters",
+                "score": 0
+            },
+            {
+                "text": "গ. Kim by Rudyard Kipling",
+                "score": 0
+            },
+            {
+                "text": "ঘ. A Passage to India by EM Forster",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. A Passage to India by EM Forster",
+        "hint": "E.M. Forster's 'A Passage to India' explores the racial tensions and cultural divides between British colonizers and Indians."
+    },
+    {
+        "question": "৪৩. ‘Helena said I took the laptop home with me.’ Its indirect form is-",
+        "answers": [
+            {
+                "text": "ক. Helena said that she took the laptop home with her",
+                "score": 0
+            },
+            {
+                "text": "খ. Helena said that she had taken the laptop home with her",
+                "score": 1
+            },
+            {
+                "text": "গ. Helena confirmed that she has taken the laptop home with her",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Helena told that she had the laptop taken home with her",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. Helena said that she had taken the laptop home with her",
+        "hint": "Simple past tense ('took') in direct speech changes to Past Perfect ('had taken') in indirect speech."
+    },
+    {
+        "question": "৪৪. Which of these works contains a defence of the right of freedom of speech and expression?",
+        "answers": [
+            {
+                "text": "ক. Holy Living and Holy Dying",
+                "score": 0
+            },
+            {
+                "text": "খ. Areopagitica",
+                "score": 1
+            },
+            {
+                "text": "গ. Religio Medici",
+                "score": 0
+            },
+            {
+                "text": "ঘ. A Free Man’s Worship",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. Areopagitica",
+        "hint": "John Milton's prose work 'Areopagitica' (1644) is a famous philosophical defence of freedom of speech and freedom of the press."
+    },
+    {
+        "question": "৪৫. Identify the sentence where ‘up’ functions as a noun-",
+        "answers": [
+            {
+                "text": "ক. He turned the volume up.",
+                "score": 0
+            },
+            {
+                "text": "খ. Business confidence is on the up.",
+                "score": 1
+            },
+            {
+                "text": "গ. We live just up the road.",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Our system should be up by afternoon.",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. Business confidence is on the up.",
+        "hint": "In 'on the up', 'up' is preceded by the article 'the' and functions as a noun meaning 'an upward trend/improvement'."
+    },
+    {
+        "question": "৪৬. Which of these is not characteristic of English Romantic Poetry?",
+        "answers": [
+            {
+                "text": "ক. Ordinary life",
+                "score": 0
+            },
+            {
+                "text": "খ. Everyday language",
+                "score": 0
+            },
+            {
+                "text": "গ. Expression of feelings rather than action or plot",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Inane and gaudy phraseology",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. Inane and gaudy phraseology",
+        "hint": "In 'Lyrical Ballads', Wordsworth explicitly rejected 'inane and gaudy phraseology' in favor of simple, natural language."
+    },
+    {
+        "question": "৪৭. A synonym of the word ‘crepuscular’ is-",
+        "answers": [
+            {
+                "text": "ক. nocturnal",
+                "score": 0
+            },
+            {
+                "text": "খ. diurnal",
+                "score": 0
+            },
+            {
+                "text": "গ. cathemeral",
+                "score": 0
+            },
+            {
+                "text": "ঘ. twilit",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. twilit",
+        "hint": "'Crepuscular' refers to twilight (dusk or dawn), so its synonym is 'twilit'."
+    },
+    {
+        "question": "৪৮. ‘Poetry is the spontaneous overflow of powerful feeling: it takes its origin from emotion recollected in tranquility’ is a statement ascribed to-",
+        "answers": [
+            {
+                "text": "ক. Coleridge",
+                "score": 0
+            },
+            {
+                "text": "খ. William Wordsworth",
+                "score": 1
+            },
+            {
+                "text": "গ. TS Eliot",
+                "score": 0
+            },
+            {
+                "text": "ঘ. IA Richards",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. William Wordsworth",
+        "hint": "This classic definition of poetry was stated by William Wordsworth in his Preface to 'Lyrical Ballads'."
+    },
+    {
+        "question": "৪৯. ‘It is no good falling in love at first sight’. Here the word “falling” is a/an-",
+        "answers": [
+            {
+                "text": "ক. participle",
+                "score": 0
+            },
+            {
+                "text": "খ. infinitive",
+                "score": 0
+            },
+            {
+                "text": "গ. gerund",
+                "score": 1
+            },
+            {
+                "text": "ঘ. verbal noun",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. gerund",
+        "hint": "After the idiom 'it is no good', a gerund (verb+ing acting as a noun) is used."
+    },
+    {
+        "question": "৫০. Which one is a coordinating conjunction?",
+        "answers": [
+            {
+                "text": "ক. since",
+                "score": 0
+            },
+            {
+                "text": "খ. lest",
+                "score": 0
+            },
+            {
+                "text": "গ. as",
+                "score": 0
+            },
+            {
+                "text": "ঘ. so",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. so",
+        "hint": "'So' is a coordinating conjunction (part of the FANBOYS acronym: For, And, Nor, But, Or, Yet, So)."
+    },
+    {
+        "question": "৫১. An element required in a paragraph for smooth flow of ideas is called a-",
+        "answers": [
+            {
+                "text": "ক. transition sentence",
+                "score": 1
+            },
+            {
+                "text": "খ. topic sentence",
+                "score": 0
+            },
+            {
+                "text": "গ. supporting sentence",
+                "score": 0
+            },
+            {
+                "text": "ঘ. concluding sentence",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ক. transition sentence",
+        "hint": "Transition sentences connect thoughts smoothly between paragraphs or within ideas."
+    },
+    {
+        "question": "৫২. What gender is the word ‘monarch’?",
+        "answers": [
+            {
+                "text": "ক. masculine",
+                "score": 0
+            },
+            {
+                "text": "খ. feminine",
+                "score": 0
+            },
+            {
+                "text": "গ. neuter",
+                "score": 0
+            },
+            {
+                "text": "ঘ. common",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. common",
+        "hint": "'Monarch' refers to a sovereign ruler (king or queen), which can be male or female, making it a common gender."
+    },
+    {
+        "question": "৫৩. In which of these poems did Matthew Arnold express a pessimistic worldview, reflecting on a world full of conflicts and lacking in joy, evincing an implicit criticism of Victorian era’s aggressive spirit?",
+        "answers": [
+            {
+                "text": "ক. Scholar Gipsy",
+                "score": 0
+            },
+            {
+                "text": "খ. Dover Beach",
+                "score": 1
+            },
+            {
+                "text": "গ. Rugby Chapel",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Immortality",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. Dover Beach",
+        "hint": "Matthew Arnold's 'Dover Beach' lamentation reflects the loss of faith and intense spiritual crisis of the Victorian era."
+    },
+    {
+        "question": "৫৪. A very large building in which aircraft are housed is called a/an-",
+        "answers": [
+            {
+                "text": "ক. terminal",
+                "score": 0
+            },
+            {
+                "text": "খ. aerodrome",
+                "score": 0
+            },
+            {
+                "text": "গ. hanger",
+                "score": 0
+            },
+            {
+                "text": "ঘ. hangar",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. hangar",
+        "hint": "An aircraft shelter is spelled 'hangar' (with an 'a'). 'Hanger' with an 'e' is used for clothes."
+    },
+    {
+        "question": "৫৫. The lines ‘A Book of Verses underneath the Bough,/A Jug of Wine, a Loaf of Bread-and Thou/Beside me singing in the Wilderness....’ are taken from a famous translation work by-",
+        "answers": [
+            {
+                "text": "ক. Scott Fitzgerald",
+                "score": 0
+            },
+            {
+                "text": "খ. Edward Fitzgerald",
+                "score": 1
+            },
+            {
+                "text": "গ. William Fitzgerald",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Gerald Fitzgerald",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. Edward Fitzgerald",
+        "hint": "These lines are from Edward FitzGerald's famous English translation of Omar Khayyam's 'Rubaiyat'."
+    },
+    {
+        "question": "৫৬. ‘The villagers believed that he was an honest leader.’ Passive form of this sentence is-",
+        "answers": [
+            {
+                "text": "ক. He was believed to be an honest leader",
+                "score": 1
+            },
+            {
+                "text": "খ. He was believed to have been an honest leader",
+                "score": 0
+            },
+            {
+                "text": "গ. He has been believed to be an honest leader",
+                "score": 0
+            },
+            {
+                "text": "ঘ. He was believed he was an honest leader",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ক. He was believed to be an honest leader",
+        "hint": "'They believed that S + V' converts to 'S + was believed + to be...' in standard passive form."
+    },
+    {
+        "question": "৫৭. The saying ‘Every cloud has its silver lining’ means-",
+        "answers": [
+            {
+                "text": "ক. bad weather is often replaced by good weather",
+                "score": 0
+            },
+            {
+                "text": "খ. clouds often have shining surroundings",
+                "score": 0
+            },
+            {
+                "text": "গ. every difficult situation has a more hopeful aspect though not apparent at the beginning",
+                "score": 1
+            },
+            {
+                "text": "ঘ. clouds and sunshine go hand in hand",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. every difficult situation has a more hopeful aspect though not apparent at the beginning",
+        "hint": "This proverb means that every bad or difficult situation holds a positive/hopeful side."
+    },
+    {
+        "question": "৫৮. What is the antonym of ‘percipience’?",
+        "answers": [
+            {
+                "text": "ক. shrewdness",
+                "score": 0
+            },
+            {
+                "text": "খ. dullness",
+                "score": 1
+            },
+            {
+                "text": "গ. discerning",
+                "score": 0
+            },
+            {
+                "text": "ঘ. astuteness",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. dullness",
+        "hint": "'Percipience' means keen perception or insight, so its antonym is 'dullness'."
+    },
+    {
+        "question": "৫৯. Which functions both as a transitive and an intransitive verb?",
+        "answers": [
+            {
+                "text": "ক. sleep",
+                "score": 0
+            },
+            {
+                "text": "খ. arrive",
+                "score": 0
+            },
+            {
+                "text": "গ. break",
+                "score": 1
+            },
+            {
+                "text": "ঘ. die",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. break",
+        "hint": "'Break' can be transitive (e.g., 'He broke the glass') or intransitive (e.g., 'The glass broke')."
+    },
+    {
+        "question": "৬০. ‘Let me not to the marriage of true minds/ Admit impediments; love is not love/Which alters when it alteration finds’. Lines taken from a sonnet by __.",
+        "answers": [
+            {
+                "text": "ক. Spencer",
+                "score": 0
+            },
+            {
+                "text": "খ. Petrarch",
+                "score": 0
+            },
+            {
+                "text": "গ. Shakespeare",
+                "score": 1
+            },
+            {
+                "text": "ঘ. Donne",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. Shakespeare",
+        "hint": "These opening lines are from William Shakespeare's famous Sonnet 116."
+    },
+    {
+        "question": "৬১. Which play is filled with nonsensical conversations, meaningless dialogues, and characters who often become forgetful?",
+        "answers": [
+            {
+                "text": "ক. Pygmalion",
+                "score": 0
+            },
+            {
+                "text": "খ. The Skin Game",
+                "score": 0
+            },
+            {
+                "text": "গ. Waiting for Godot",
+                "score": 1
+            },
+            {
+                "text": "ঘ. Candida",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. Waiting for Godot",
+        "hint": "Samuel Beckett's Absurdist play 'Waiting for Godot' features repetitive and nonsensical dialogues."
+    },
+    {
+        "question": "৬২. ২/৫, ৩/৫ ও ৬/১৫ ভগ্নাংশগুলোর লঘিষ্ঠ সাধারণ গুণিতক (ল.সা.গু) হবে:",
+        "answers": [
+            {
+                "text": "ক. ৭/৫",
+                "score": 0
+            },
+            {
+                "text": "খ. ৬/৫",
+                "score": 1
+            },
+            {
+                "text": "গ. ১/১৫",
+                "score": 0
+            },
+            {
+                "text": "ঘ. ৬/১৫",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. ৬/৫",
+        "hint": "ভগ্নাংশের ল.সা.গু = (লবগুলোর ল.সা.গু) / (হরগুলোর গ.সা.গু)। লব (২, ৩, ৬)-এর ল.সা.গু = ৬; হর (৫, ৫, ১৫)-এর গ.সা.গু = ৫। সুতরাং ৬/৫।"
+    },
+    {
+        "question": "৬৩. যদি a/b = b/c = 2/3 হয়, তবে a : c এর মান কত হবে?",
+        "answers": [
+            {
+                "text": "ক. 2:3",
+                "score": 0
+            },
+            {
+                "text": "খ. 3:4",
+                "score": 0
+            },
+            {
+                "text": "গ. 4:9",
+                "score": 1
+            },
+            {
+                "text": "ঘ. 9:4",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. 4:9",
+        "hint": "a/c = (a/b) × (b/c) = (2/3) × (2/3) = 4/9, অর্থাৎ a : c = 4 : 9।"
+    },
+    {
+        "question": "৬৪. একটি সমবাহু ত্রিভুজের বাহুর দৈর্ঘ্য 8 মিটার হলে, এর ক্ষেত্রফল হবে:",
+        "answers": [
+            {
+                "text": "ক. 8√3",
+                "score": 0
+            },
+            {
+                "text": "খ. 8√5",
+                "score": 0
+            },
+            {
+                "text": "গ. 16√3",
+                "score": 1
+            },
+            {
+                "text": "ঘ. 16",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. 16√3",
+        "hint": "সমবাহু ত্রিভুজের ক্ষেত্রফল = (√3/4) × a² = (√3/4) × 8² = (√3/4) × 64 = 16√3।"
+    },
+    {
+        "question": "৬৫. A = {x : x স্বাভাবিক সংখ্যা এবং x <= 5} হলে, P(A) এর উপাদান সংখ্যা হবে-",
+        "answers": [
+            {
+                "text": "ক. 64",
+                "score": 0
+            },
+            {
+                "text": "খ. 32",
+                "score": 1
+            },
+            {
+                "text": "গ. 16",
+                "score": 0
+            },
+            {
+                "text": "ঘ. 8",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. 32",
+        "hint": "সেট A-এর উপাদান সংখ্যা n = 5 (যেমন: {1, 2, 3, 4, 5})। পাওয়ার সেট P(A)-এর উপাদান সংখ্যা = 2ⁿ = 2⁵ = 32।"
+    },
+    {
+        "question": "৬৬. যদি 0 < x < 1 হয়, তবে নিচের কোনটি সবচেয়ে বড় হবে?",
+        "answers": [
+            {
+                "text": "ক. x",
+                "score": 0
+            },
+            {
+                "text": "খ. 2x",
+                "score": 0
+            },
+            {
+                "text": "গ. x2",
+                "score": 0
+            },
+            {
+                "text": "ঘ. x + 1",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. x + 1",
+        "hint": "ধরি x = 0.5। তাহলে x=0.5, 2x=1, x²=0.25, এবং x+1=1.5। তাই x + 1 বৃহত্তম।"
+    },
+    {
+        "question": "৬৭. x4 – 2x + 1 কে x – 3 দিয়ে ভাগ করলে ভাগশেষ কত হবে?",
+        "answers": [
+            {
+                "text": "ক. 2",
+                "score": 0
+            },
+            {
+                "text": "খ. 81",
+                "score": 0
+            },
+            {
+                "text": "গ. 0",
+                "score": 0
+            },
+            {
+                "text": "ঘ. 76",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. 76",
+        "hint": "ভাগশেষ উপপাদ্য অনুযায়ী, f(3) = 3⁴ – 2(3) + 1 = 81 – 6 + 1 = 76।"
+    },
+    {
+        "question": "৬৮. মুনাফার হার কত হলে কিছু পরিমাণ টাকা চক্রবৃদ্ধি হারে 10 বছরে দ্বিগুণ হবে-",
+        "answers": [
+            {
+                "text": "ক. 5.17%",
+                "score": 0
+            },
+            {
+                "text": "খ. 6.17%",
+                "score": 0
+            },
+            {
+                "text": "গ. 7.17%",
+                "score": 1
+            },
+            {
+                "text": "ঘ. 8.17%",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. 7.17%",
+        "hint": "চক্রবৃদ্ধি সমৃদ্ধিমূল (1 + r)¹⁰ = 2 => 1 + r = 2^(0.1) ≈ 1.0717, অর্থাৎ r ≈ 7.17%।"
+    },
+    {
+        "question": "৭১. যদি x + 1/x = 0 হয়, তবে √x + 1/√x এর মান কত?",
+        "answers": [
+            {
+                "text": "ক. 0",
+                "score": 0
+            },
+            {
+                "text": "খ. 1",
+                "score": 0
+            },
+            {
+                "text": "গ. 2",
+                "score": 0
+            },
+            {
+                "text": "ঘ. √2",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. √2",
+        "hint": "(√x + 1/√x)² = x + 1/x + 2 = 0 + 2 = 2। বর্গমূল করলে মান দাঁড়ায় √2।"
+    },
+    {
+        "question": "৭২. 40 থেকে 50 এর মধ্যে একটি সংখ্যা দৈবভাবে নেয়া হলে এটি মৌলিক (Prime) হওয়ার সম্ভাবনা কত?",
+        "answers": [
+            {
+                "text": "ক. 3/11",
+                "score": 1
+            },
+            {
+                "text": "খ. 1/2",
+                "score": 0
+            },
+            {
+                "text": "গ. 5/11",
+                "score": 0
+            },
+            {
+                "text": "ঘ. 4/11",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ক. 3/11",
+        "hint": "৪০ থেকে ৫০ পর্যন্ত মোট সংখ্যা ১১টি। এদের মধ্যে মৌলিক সংখ্যা ৩টি (৪১, ৪৩, ৪৭)। সম্ভাবনা = ৩/১১।"
+    },
+    {
+        "question": "৭৩. ABSCISSA শব্দটির বর্ণগুলিকে নিয়ে কত প্রকারে বিন্যাস করা যায়?",
+        "answers": [
+            {
+                "text": "ক. 10080",
+                "score": 0
+            },
+            {
+                "text": "খ. 6720",
+                "score": 0
+            },
+            {
+                "text": "গ. 3360",
+                "score": 1
+            },
+            {
+                "text": "ঘ. 3359",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. 3360",
+        "hint": "মোট বর্ণ ৮টি (A=2, S=2, C=2)। মোট বিন্যাস = 8! / (2! × 2! × 2!) = 40320 / 8 = 3360।"
+    },
+    {
+        "question": "৭৪. x2 – (p + q)x + pq = 0 এর সমাধান সেট হবে—",
+        "answers": [
+            {
+                "text": "ক. {p, q}",
+                "score": 1
+            },
+            {
+                "text": "খ. {p, – q}",
+                "score": 0
+            },
+            {
+                "text": "গ. {– p, q}",
+                "score": 0
+            },
+            {
+                "text": "ঘ. {– p, – q}",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ক. {p, q}",
+        "hint": "সমীকরণটি উৎপাদকে বিশ্লেষণ করলে পাওয়া যায় (x – p)(x – q) = 0 => x = p, q।"
+    },
+    {
+        "question": "৭৫. 3 + 3/2 + 3/4 + ……. + 3/64 ধারাটিতে মোট কতটি পদ আছে?",
+        "answers": [
+            {
+                "text": "ক. 5",
+                "score": 0
+            },
+            {
+                "text": "খ. 6",
+                "score": 0
+            },
+            {
+                "text": "গ. 7",
+                "score": 1
+            },
+            {
+                "text": "ঘ. 8",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. 7",
+        "hint": "এটি একটি গুণোত্তর ধারা যার a = 3, r = 1/2। n-তম পদ = 3 × (1/2)ⁿ⁻¹ = 3/64 => 2ⁿ⁻¹ = 64 = 2⁶ => n = 7।"
+    },
+    {
+        "question": "৭৮. 2x2 + 3x + 1 এর ক্ষুদ্রতম মান হবে:",
+        "answers": [
+            {
+                "text": "ক. –3/4",
+                "score": 0
+            },
+            {
+                "text": "খ. –1/8",
+                "score": 1
+            },
+            {
+                "text": "গ. 1/8",
+                "score": 0
+            },
+            {
+                "text": "ঘ. 3/4",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. –1/8",
+        "hint": "ax² + bx + c-এর ন্যূনতম মান = (4ac – b²) / 4a = (4×2×1 – 3²) / (4×2) = (8 – 9) / 8 = –1/8।"
+    },
+    {
+        "question": "৭৯. সেট {2,3,4} এর প্রকৃত উপসেট কয়টি—",
+        "answers": [
+            {
+                "text": "ক. 3",
+                "score": 0
+            },
+            {
+                "text": "খ. 7",
+                "score": 1
+            },
+            {
+                "text": "গ. 8",
+                "score": 0
+            },
+            {
+                "text": "ঘ. 9",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. 7",
+        "hint": "উপাদান সংখ্যা n = 3 হলে প্রকৃত উপসেটের সংখ্যা = 2ⁿ – 1 = 2³ – 1 = 7।"
+    },
+    {
+        "question": "৮০. K এর কোন মানের জন্য 5x + 4y – 1 = 0 এবং 2x + Ky – 7 = 0 সরলরেখা দুটি সমান্তরাল?",
+        "answers": [
+            {
+                "text": "ক. 5/8",
+                "score": 0
+            },
+            {
+                "text": "খ. 8/5",
+                "score": 1
+            },
+            {
+                "text": "গ. 5/2",
+                "score": 0
+            },
+            {
+                "text": "ঘ. –8/5",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. 8/5",
+        "hint": "সমান্তরাল হওয়ার শর্ত: a₁/a₂ = b₁/b₂ => 5/2 = 4/K => K = 8/5।"
+    },
+    {
+        "question": "৮১. 2, 3, 4 এবং 7 সংখ্যাগুলির গড় বিচ্যুতি কত?",
+        "answers": [
+            {
+                "text": "ক. 0",
+                "score": 0
+            },
+            {
+                "text": "খ. 2/3",
+                "score": 0
+            },
+            {
+                "text": "গ. 3/2",
+                "score": 1
+            },
+            {
+                "text": "ঘ. 4",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. 3/2",
+        "hint": "গড় = (২+৩+৪+৭)/৪ = ৪। বিচ্যুতিগুলোর পরমমান: |২-৪|=২, |৩-৪|=১, |৪-৪|=০, |৭-৪|=৩। গড় বিচ্যুতি = (২+১+০+৩)/৪ = ৬/৪ = ৩/২।"
+    },
+    {
+        "question": "৮২. যদি logx324 = 4 হয়, তবে x এর মান হবে—",
+        "answers": [
+            {
+                "text": "ক. 4",
+                "score": 0
+            },
+            {
+                "text": "খ. 2√3",
+                "score": 0
+            },
+            {
+                "text": "গ. 3√3",
+                "score": 0
+            },
+            {
+                "text": "ঘ. 3√2",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. 3√2",
+        "hint": "x⁴ = 324 = 81 × 4 = 3⁴ × (√2)⁴ = (3√2)⁴ => x = 3√2।"
+    },
+    {
+        "question": "৮৩. সমান দৈর্ঘ্যের দুইটি দড়ির একটি দিয়ে আয়তক্ষেত্রাকার বেষ্টনী তৈরী করা হয় এবং অপরটি দিয়ে বর্গক্ষেত্রাকার বেষ্টনী তৈরী করা হয়। কোন তথ্যটি সত্য?",
+        "answers": [
+            {
+                "text": "ক. আয়তক্ষেত্রের ক্ষেত্রফল বর্গক্ষেত্রের চেয়ে বেশী",
+                "score": 0
+            },
+            {
+                "text": "খ. বর্গক্ষেত্রের ক্ষেত্রফল আয়তক্ষেত্রের চেয়ে বেশী",
+                "score": 1
+            },
+            {
+                "text": "গ. উভয়ের ক্ষেত্রফল সমান",
+                "score": 0
+            },
+            {
+                "text": "ঘ. কোনটির ক্ষেত্রফল বেশী বা উভয়ের ক্ষেত্রফল সমান কিনা তা বর্ণিত তথ্য থেকে নির্ণয় করা সম্ভব নয়",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. বর্গক্ষেত্রের ক্ষেত্রফল আয়তক্ষেত্রের চেয়ে বেশী",
+        "hint": "পরিসীমা নির্দিষ্ট থাকলে সুষম জ্যামিতিক চিত্র অর্থাৎ বর্গক্ষেত্রের ক্ষেত্রফল সর্বদাই যেকোনো আয়তক্ষেত্রের ক্ষেত্রফল অপেক্ষা বেশি হয়।"
+    },
+    {
+        "question": "৮৪. ০.৫ × ০.০৫ × ০.০০৫ = ?",
+        "answers": [
+            {
+                "text": "ক. ০.১২৫",
+                "score": 0
+            },
+            {
+                "text": "খ. ০.০১২৫",
+                "score": 0
+            },
+            {
+                "text": "গ. ০.০০১২৫",
+                "score": 0
+            },
+            {
+                "text": "ঘ. ০.০০০১২৫",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. ০.০০০১২৫",
+        "hint": "৫ × ৫ × ৫ = ১২৫। মোট দশমিকের পর ঘরের সংখ্যা হবে (১ + ২ + ৩) = ৬টি। তাই ০.০০০১২৫।"
+    },
+    {
+        "question": "৮৫. এখন জানুয়ারি মাস হলে এখন থেকে ১০০ মাস পর কোন মাস হবে?",
+        "answers": [
+            {
+                "text": "ক. মে",
+                "score": 1
+            },
+            {
+                "text": "খ. মার্চ",
+                "score": 0
+            },
+            {
+                "text": "গ. এপ্রিল",
+                "score": 0
+            },
+            {
+                "text": "ঘ. ফেব্রুয়ারি",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ক. মে",
+        "hint": "১০০ কে ১২ দিয়ে ভাগ করলে ৮ বছর অবশিষ্ট থাকে ৪ মাস। জানুয়ারির পর থেকে ৪র্থ মাসটি হলো মে।"
+    },
+    {
+        "question": "৮৬. একটি বাক্সের মধ্যে একটি পেন্সিল আছে। বাক্সটি একটি তাকের উপরে অবস্থান করছে। তাকটি জানালার নিচে অবস্থান করছে। তাহলে নিচের কোন বাক্যটি উপরের বর্ণনার জন্য প্রযোজ্য হবে?",
+        "answers": [
+            {
+                "text": "ক. পেন্সিলটি জানালার নিচে আছে",
+                "score": 1
+            },
+            {
+                "text": "খ. পেন্সিলটি জানালার উপরে আছে",
+                "score": 0
+            },
+            {
+                "text": "গ. পেন্সিলটি জানালার মধ্যে অবস্থান করছে",
+                "score": 0
+            },
+            {
+                "text": "ঘ. বাক্সটি পেন্সিলের নিচে অবস্থান করছে",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ক. পেন্সিলটি জানালার নিচে আছে",
+        "hint": "পেন্সিল বাক্সে, বাক্স তাকের উপর, আর তাক জানালার নিচে; সুতরাং যৌক্তিকভাবে পেন্সিলটি জানালার নিচে অবস্থিত।"
+    },
+    {
+        "question": "৮৭. কোনটি সঠিক বানান?",
+        "answers": [
+            {
+                "text": "ক. Gazete",
+                "score": 0
+            },
+            {
+                "text": "খ. Gazzete",
+                "score": 0
+            },
+            {
+                "text": "গ. Gaggete",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Gazette",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. Gazette",
+        "hint": "সরকারি গেজেট বা পত্রিকার সঠিক ইংরেজি বানান হলো G-A-Z-E-T-T-E।"
+    },
+    {
+        "question": "৮৮. এহসান টেবিলের উপর চায়ের কাপের হ্যাণ্ডেলটি পূর্বদিকে করে রাখল। সে ঘড়ির কাঁটা যেদিকে ঘোরে সেদিকে চায়ের কাপটি ১৮০° ঘোরালো। এখন চায়ের কাপের হ্যাণ্ডেলটি থাকবে—",
+        "answers": [
+            {
+                "text": "ক. পশ্চিম দিকে",
+                "score": 1
+            },
+            {
+                "text": "খ. দক্ষিণ দিকে",
+                "score": 0
+            },
+            {
+                "text": "গ. উত্তর দিকে",
+                "score": 0
+            },
+            {
+                "text": "ঘ. পূর্ব দিকে",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ক. পশ্চিম দিকে",
+        "hint": "যে কোনো দিক থেকে ১৮০° ঘোরানো হলে বস্তুর মুখ সম্পূর্ণ বিপরীত দিকে (পূর্বের বিপরীত পশ্চিম) চলে যায়।"
+    },
+    {
+        "question": "৮৯. লামিয়া একটি শ্রেণীর সামনে থেকে নবম এবং পিছন থেকে ৩৬তম হলে শ্রেণীতে শিক্ষার্থী কতজন?",
+        "answers": [
+            {
+                "text": "ক. ৪৪",
+                "score": 1
+            },
+            {
+                "text": "খ. ৪৫",
+                "score": 0
+            },
+            {
+                "text": "গ. ৪৬",
+                "score": 0
+            },
+            {
+                "text": "ঘ. ৪৮",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ক. ৪৪",
+        "hint": "মোট শিক্ষার্থী = (সামনে থেকে অবস্থান + পিছন থেকে অবস্থান) – ১ = (৯ + ৩৬) – ১ = ৪৪ জন।"
+    },
+    {
+        "question": "৯০. ঘড়ির ঘণ্টার কাঁটা ও মিনিটের কাঁটা একদিনে কতবার মিলিত হয়?",
+        "answers": [
+            {
+                "text": "ক. ১২",
+                "score": 0
+            },
+            {
+                "text": "খ. ১৮",
+                "score": 0
+            },
+            {
+                "text": "গ. ২২",
+                "score": 1
+            },
+            {
+                "text": "ঘ. ২৪",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. ২২",
+        "hint": "১২ ঘণ্টায় ঘড়ির কাঁটা দুটি ১১ বার মিলিত হয়, ফলে ২৪ ঘণ্টা বা একদিনে মোট ২২ বার মিলিত হয়।"
+    },
+    {
+        "question": "৯১. একটি কঠিন ঘনক অর্ধেক পানির উপরে ও অর্ধেক পানির নিচে ভাসছে। আপনি যদি ঘনকটি পানির মধ্যে ২ সে.মি. গভীরে ঠেলে দেন এবং তারপর সেটিকে ছেড়ে দেন, তাহলে কি ঘটবে?",
+        "answers": [
+            {
+                "text": "ক. ঘনকটি পানির ২ সে.মি. গভীরে থাকবে",
+                "score": 0
+            },
+            {
+                "text": "খ. ঘনকটি সম্পূর্ণভাবে ডুবে যাবে",
+                "score": 0
+            },
+            {
+                "text": "গ. ঘনকটি আবার অর্ধেক ডুবে থাকা ও অর্ধেক ভেসে থাকা অবস্থায় ফিরে আসবে",
+                "score": 1
+            },
+            {
+                "text": "ঘ. ঘনকটি প্রথমে যতটুকু ভেসে ছিল তার চেয়ে উপরে উঠবে",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. ঘনকটি আবার অর্ধেক ডুবে থাকা ও অর্ধেক ভেসে থাকা অবস্থায় ফিরে আসবে",
+        "hint": "আর্কিমিডিসের প্লাবতা নীতি অনুসারে, ঘনকের ঘনত্ব ও অপসারিত পানির ওজন স্থির থাকার কারণে সাম্যাবস্থায় ফিরে আসবে।"
+    },
+    {
+        "question": "৯২. যদি একটি গাড়ির গতি দ্বিগুণ করা হয়, তবে গাড়িটির গতিশক্তি পূর্বের গতিশক্তির কতগুণ হবে?",
+        "answers": [
+            {
+                "text": "ক. ০.৫",
+                "score": 0
+            },
+            {
+                "text": "খ. ২",
+                "score": 0
+            },
+            {
+                "text": "গ. ০.২৫",
+                "score": 0
+            },
+            {
+                "text": "ঘ. ৪",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. ৪",
+        "hint": "গতিশক্তি Ek = 1/2 mv²। বেগ v দ্বিগুণ (2v) হলে গতিশক্তি (2)² = 4 গুণ হয়ে যাবে।"
+    },
+    {
+        "question": "৯৩. একটি আয়না থেকে একটি বস্তু আয়নার পৃষ্ঠ থেকে পৃষ্ঠের লম্ব বরাবর সেকেন্ডে ১০ সে.মি. বেগে চলতে শুরু করল। ৪ সেকেন্ড পর বস্তুটি ও তার প্রতিবিম্বের মধ্যে দূরত্ব কত হবে?",
+        "answers": [
+            {
+                "text": "ক. ৪০ সে.মি.",
+                "score": 0
+            },
+            {
+                "text": "খ. ১৬০ সে.মি.",
+                "score": 0
+            },
+            {
+                "text": "গ. ৮০ সে.মি.",
+                "score": 1
+            },
+            {
+                "text": "ঘ. ০ সে.মি.",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. ৮০ সে.মি.",
+        "hint": "৪ সেকেন্ডে বস্তু যাবে ১০ × ৪ = ৪০ সে.মি.। আয়নায় প্রতিবিম্বও ৪০ সে.মি. পেছনে গঠিত হবে। দূরত্ব = ৪০ + ৪০ = ৮০ সে.মি.।"
+    },
+    {
+        "question": "৯৪. জলবায়ু পরিবর্তন সংক্রান্ত জাতিসংঘ ফ্রেমওয়ার্ক কনভেনশনের (UNFCCC) প্রথম কনফারেন্স অফ দ্য পার্টিস (COP) কোন শহরে অনুষ্ঠিত হয়েছিল?",
+        "answers": [
+            {
+                "text": "ক. কোপেনহেগেন",
+                "score": 0
+            },
+            {
+                "text": "খ. প্যারিস",
+                "score": 0
+            },
+            {
+                "text": "গ. ওয়ারশ",
+                "score": 0
+            },
+            {
+                "text": "ঘ. বন",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. বন",
+        "hint": "COP-1 প্রথম অনুষ্ঠিত হয়েছিল বার্লিনে (১৯৯৫)। প্রশ্নপত্রের বিকল্প বিবেচনায় সঠিক বিকল্প বেছে নেয়া হয়েছে।"
+    },
+    {
+        "question": "৯৫. বাংলাদেশের উচ্চফলনশীল (উফশী) জাতের ধান ও গমের নাম যথাক্রমে—",
+        "answers": [
+            {
+                "text": "ক. হরিধান, রূপালী",
+                "score": 0
+            },
+            {
+                "text": "খ. ইরাটম, বর্ণালী",
+                "score": 0
+            },
+            {
+                "text": "গ. ব্রি—শাইল, বলাকা",
+                "score": 1
+            },
+            {
+                "text": "ঘ. হীরা, উত্তরণ",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. ব্রি—শাইল, বলাকা",
+        "hint": "'ব্রি-শাইল' একটি উফশী ধানের জাত এবং 'বলাকা' একটি উফশী গমের জাত।"
+    },
+    {
+        "question": "৯৬. ‘⎯ কনভেনশন’ বিপজ্জনক বর্জ্যের আন্তঃসীমান্ত পরিবহন নিয়ন্ত্রণ করে।",
+        "answers": [
+            {
+                "text": "ক. স্টকহোম",
+                "score": 0
+            },
+            {
+                "text": "খ. রোটারডাম",
+                "score": 0
+            },
+            {
+                "text": "গ. বাসেল",
+                "score": 1
+            },
+            {
+                "text": "ঘ. মিনামাটা",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. বাসেল",
+        "hint": "১৯৮৯ সালে গৃহীত বাসেল কনভেনশন (Basel Convention) ক্ষতিকর বা বিপজ্জনক বর্জ্যের আন্তঃসীমান্ত চলাচল নিয়ন্ত্রণ করে।"
+    },
+    {
+        "question": "৯৭. পারস্য উপসাগর থেকে জ্বালানি তেলের প্রবাহ রক্ষায় মার্কিন যুক্তরাষ্ট্র তাদের ‘থথথ ডকট্রিন’ অনুসরণ করে।",
+        "answers": [
+            {
+                "text": "ক. মনরো",
+                "score": 0
+            },
+            {
+                "text": "খ. ট্রুম্যান",
+                "score": 0
+            },
+            {
+                "text": "গ. বুশ",
+                "score": 0
+            },
+            {
+                "text": "ঘ. কার্টার",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. কার্টার",
+        "hint": "১৯৮০ সালে ঘোষিত কার্টার ডকট্রিন অনুযায়ী পারস্য উপসাগরে মার্কিন স্বার্থ রক্ষায় প্রয়োজনে সামরিক শক্তি ব্যবহারের কথা বলা হয়।"
+    },
+    {
+        "question": "৯৮. সংবাদপত্রের স্বাধীনতা কোন ধরনের অধিকার?",
+        "answers": [
+            {
+                "text": "ক. ব্যক্তিগত",
+                "score": 0
+            },
+            {
+                "text": "খ. সামাজিক",
+                "score": 0
+            },
+            {
+                "text": "গ. রাষ্ট্রীয়",
+                "score": 0
+            },
+            {
+                "text": "ঘ. নীতিগত",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. নীতিগত",
+        "hint": "সংবাদপত্রের স্বাধীনতা নাগরিকের বাক-স্বাধীনতা ও গণতান্ত্রিক নৈতিক কাঠামোর একটি নীতিগত ও মৌলিক গণতান্ত্রিক অধিকার।"
+    },
+    {
+        "question": "৯৯. আন্তর্জাতিক অর্থায়নের ভিত্তি স্থাপনে ব্রেটন উডস (Bretton Woods) সম্মেলন কোথায় অনুষ্ঠিত হয়েছিল?",
+        "answers": [
+            {
+                "text": "ক. নেদারল্যান্ডস",
+                "score": 0
+            },
+            {
+                "text": "খ. নিউইয়র্ক",
+                "score": 0
+            },
+            {
+                "text": "গ. নিউ হ্যাম্পশায়ার",
+                "score": 1
+            },
+            {
+                "text": "ঘ. নিউ জার্সি",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. নিউ হ্যাম্পশায়ার",
+        "hint": "১৯৪৪ সালে যুক্তরাষ্ট্রের নিউ হ্যাম্পশায়ার অঙ্গরাজ্যের ব্রেটন উডসে বিশ্বব্যাংক ও আইএমএফ প্রতিষ্ঠার জন্য এ সম্মেলন অনুষ্ঠিত হয়।"
+    },
+    {
+        "question": "১০০. কোনটি জাতিসংঘের প্রতিষ্ঠান নয়?",
+        "answers": [
+            {
+                "text": "ক. ইউনিসেফ",
+                "score": 0
+            },
+            {
+                "text": "খ. ইউনেস্কো",
+                "score": 0
+            },
+            {
+                "text": "গ. ডব্লিউটিও",
+                "score": 1
+            },
+            {
+                "text": "ঘ. আইএলও",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. ডব্লিউটিও",
+        "hint": "বিশ্ব বাণিজ্য সংস্থা (WTO) একটি স্বাধীন আন্তর্জাতিক সংস্থা, এটি জাতিসংঘের বিশেষায়িত সংস্থার অন্তর্ভুক্ত নয়।"
+    }
+,
+
+    {
+        "question": "১০১. মাল্টিল্যাটারাল ইনভেস্টমেন্ট গ্যারান্টি এজেন্সি (MIGA) কোন সংস্থার অংশ?",
+        "answers": [
+            {
+                "text": "ক. বিশ্বব্যাংক গ্রুপ",
+                "score": 1
+            },
+            {
+                "text": "খ. আন্তর্জাতিক মুদ্রা তহবিল",
+                "score": 0
+            },
+            {
+                "text": "গ. জাতিসংঘের উন্নয়ন কর্মসূচি",
+                "score": 0
+            },
+            {
+                "text": "ঘ. এশীয় অবকাঠামো বিনিয়োগ ব্যাংক (AIIB)",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ক. বিশ্বব্যাংক গ্রুপ",
+        "hint": "MIGA হলো বিশ্বব্যাংক গ্রুপের ৫টি প্রতিষ্ঠানের একটি, যা উন্নয়নশীল দেশে রাজনৈতিক ঝুঁকি বীমা ও গ্যারান্টি প্রদান করে।"
+    },
+    {
+        "question": "১০২. বাংলাদেশের উন্নয়ন ধারার সবচেয়ে বড় কাঠামোগত বৈপরীত্য কোনটি?",
+        "answers": [
+            {
+                "text": "ক. জনসংখ্যা বৃদ্ধির স্থবিরতা সত্ত্বেও জিডিপি’র দ্রুত প্রবৃদ্ধি",
+                "score": 0
+            },
+            {
+                "text": "খ. শক্তিশালী সামষ্টিক অর্থনৈতিক সূচকের পাশাপাশি দুর্বল প্রাতিষ্ঠানিক শাসনব্যবস্থা",
+                "score": 1
+            },
+            {
+                "text": "গ. রেমিট্যান্স বৃদ্ধি কিন্তু শ্রম অভিবাসন হ্রাস",
+                "score": 0
+            },
+            {
+                "text": "ঘ. রপ্তানি বৃদ্ধি কিন্তু শিল্পায়ন কমে যাওয়া",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. শক্তিশালী সামষ্টিক অর্থনৈতিক সূচকের পাশাপাশি দুর্বল প্রাতিষ্ঠানিক শাসনব্যবস্থা",
+        "hint": "জিডিপি প্রবৃদ্ধির মতো অর্থনৈতিক সূচকে অগ্রগতি সত্ত্বেও দুর্বল শাসনব্যবস্থা ও অনিয়মকে বাংলাদেশের উন্নয়নের প্রধান বৈপরীত্য মনে করা হয়।"
+    },
+    {
+        "question": "১০৩. ২০২৩ সালের এপ্রিল থেকে কোন বিদ্রোহী আধাসামরিক গোষ্ঠী সুদানের সশস্ত্র বাহিনীর বিরুদ্ধে গৃহযুদ্ধে লিপ্ত?",
+        "answers": [
+            {
+                "text": "ক. আল শাবাব",
+                "score": 0
+            },
+            {
+                "text": "খ. জান জাউইদ",
+                "score": 0
+            },
+            {
+                "text": "গ. ফ্রি সুদান মুভমেন্ট",
+                "score": 0
+            },
+            {
+                "text": "ঘ. র‌্যাপিড সাপোর্ট ফোর্স (RSF)",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. র‌্যাপিড সাপোর্ট ফোর্স (RSF)",
+        "hint": "জেনারেল হেমেদতির নেতৃত্বাধীন আধাসামরিক বাহিনী RSF ২০২৩ সালের এপ্রিল থেকে সুদানের সেনাবাহিনীর বিরুদ্ধে যুদ্ধ করছে।"
+    },
+    {
+        "question": "১০৪. বিশ্ব অর্থনীতিতে ‘পেপার গোল্ড’ (Paper Gold) বলতে কী বোঝায়?",
+        "answers": [
+            {
+                "text": "ক. বিশ্বব্যাংকের সুবিধালাভ",
+                "score": 0
+            },
+            {
+                "text": "খ. বিশেষ উত্তোলন অধিকার (SDR)",
+                "score": 1
+            },
+            {
+                "text": "গ. স্বর্ণের মানসম্পন্ন ভিত্তিতে মুদ্রা",
+                "score": 0
+            },
+            {
+                "text": "ঘ. ঘাটতি অর্থায়ন",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. বিশেষ উত্তোলন অধিকার (SDR)",
+        "hint": "আইএমএফ (IMF) কর্তৃক সৃষ্টি কৃত্রিম রিজার্ভ সম্পদ Special Drawing Rights (SDR)-কে সাধারণভাবে 'Paper Gold' বলা হয়।"
+    },
+    {
+        "question": "১০৫. প্রাচীন ‘হরিকেল জনপদটি’ কোন কোন বিভাগ সমন্বয়ে গঠিত?",
+        "answers": [
+            {
+                "text": "ক. রাজশাহী ও রংপুর",
+                "score": 0
+            },
+            {
+                "text": "খ. চট্টগ্রাম ও সিলেট",
+                "score": 1
+            },
+            {
+                "text": "গ. রাজশাহী ও খুলনা",
+                "score": 0
+            },
+            {
+                "text": "ঘ. খুলনা ও ঢাকা",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. চট্টগ্রাম ও সিলেট",
+        "hint": "প্রাচীন বাংলায় হরিকেল জনপদটি মূলত আধুনিক চট্টগ্রাম, পার্বত্য চট্টগ্রাম ও সিলেট অঞ্চল নিয়ে গঠিত ছিল।"
+    },
+    {
+        "question": "১০৬. বাংলাদেশের মধ্যম আয়ের ফাঁদে (Middle—Income Trap) পড়ার ঝুঁকি মূলত কোন কাঠামোগত প্রতিবন্ধকতার সঙ্গে যুক্ত?",
+        "answers": [
+            {
+                "text": "ক. কৃষি রপ্তানি হ্রাস",
+                "score": 0
+            },
+            {
+                "text": "খ. নগর জনসংখ্যার উচ্চ ঘনত্ব",
+                "score": 0
+            },
+            {
+                "text": "গ. প্রবাসী আয়ের ওপর নির্ভরতা বৃদ্ধি",
+                "score": 0
+            },
+            {
+                "text": "ঘ. পুঁজি বৃদ্ধি সত্ত্বেও মোট উৎপাদনশীলতার (Total Factor Productivity) বৃদ্ধি ধীর গতির হওয়া",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. পুঁজি বৃদ্ধি সত্ত্বেও মোট উৎপাদনশীলতার (Total Factor Productivity) বৃদ্ধি ধীর গতির হওয়া",
+        "hint": "উৎপাদনশীলতা ও উদ্ভাবনী দক্ষতার ঘাটতি মধ্যম আয়ের ফাঁদে পড়ার প্রধান কারণ।"
+    },
+    {
+        "question": "১০৭. বাংলাদেশের দীর্ঘতম নদী কোনটি?",
+        "answers": [
+            {
+                "text": "ক. পদ্মা",
+                "score": 1
+            },
+            {
+                "text": "খ. মেঘনা",
+                "score": 0
+            },
+            {
+                "text": "গ. যমুনা",
+                "score": 0
+            },
+            {
+                "text": "ঘ. ব্রহ্মপুত্র",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ক. পদ্মা",
+        "hint": "সাম্প্রতিক সরকারি পরিসংখ্যান ও নদী সমীক্ষায় দৈর্ঘ্য ও প্রবাহ অনুযায়ী পদ্মাকে দীর্ঘতম নদী হিসেবে বিবেচনা করা হয়।"
+    },
+    {
+        "question": "১০৮. বাংলাদেশে স্থানীয় সরকার ব্যবস্থা দুর্বল হওয়ার পেছনে সবচেয়ে বড় প্রাতিষ্ঠানিক দ্বন্দ্ব কোনটি?",
+        "answers": [
+            {
+                "text": "ক. উপজেলা ও ইউনিয়ন পরিষদের মধ্যে দ্বৈত প্রশাসনিক কতৃর্ত্ব",
+                "score": 0
+            },
+            {
+                "text": "খ. সংবিধানে আর্থিক ক্ষমতার বিকেন্দ্রীকরণের বিধান থাকা সত্ত্বেও বাস্তবে তা কেন্দ্রীয় সরকারের হাতে অতিকেন্দ্রীভূত",
+                "score": 1
+            },
+            {
+                "text": "গ. পৌরসভা পর্যায়ে সরকারি—বেসরকারি অংশীদারিত্বের অভাব",
+                "score": 0
+            },
+            {
+                "text": "ঘ. দাতা সংস্থাগুলোর মধ্যে সমন্বয়হীনতা",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. সংবিধানে আর্থিক ক্ষমতার বিকেন্দ্রীকরণের বিধান থাকা সত্ত্বেও বাস্তবে তা কেন্দ্রীয় সরকারের হাতে অতিকেন্দ্রীভূত",
+        "hint": "স্থানীয় পর্যায়ে নিজস্ব আর্থিক স্বায়ত্তশাসনের অভাব ও কেন্দ্রীয় অর্থায়নের ওপর নির্ভরশীলতাই বড় দুর্বলতা।"
+    },
+    {
+        "question": "১০৯. কোন প্রাক্তন রাষ্ট্রপ্রধান প্রথম ‘ইন্দো—প্যাসিফিক’ (Indo—pacific) শব্দটি জনপ্রিয় করেন?",
+        "answers": [
+            {
+                "text": "ক. ডোনাল্ড ট্রাম্প",
+                "score": 0
+            },
+            {
+                "text": "খ. শিনজো অ্যাবে",
+                "score": 1
+            },
+            {
+                "text": "গ. বারাক ওবামা",
+                "score": 0
+            },
+            {
+                "text": "ঘ. জর্জ ডব্লিউ বুশ",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. শিনজো অ্যাবে",
+        "hint": "জাপানের প্রয়াত প্রধানমন্ত্রী শিনজো অ্যাবে ২০০৭ সালে ভারতের সংসদে দেওয়া বক্তৃতায় এবং পরবর্তীতে ভূ-রাজনীতিতে ইন্দো-প্যাসিফিক ধারণাটি জনপ্রিয় করেন।"
+    },
+    {
+        "question": "১১০. Habeas Corpus Writ দায়ের করা হয় সংবিধানে ⎯ অনুচ্ছেদ লঙ্ঘনের কারণে।",
+        "answers": [
+            {
+                "text": "ক. ৩১",
+                "score": 0
+            },
+            {
+                "text": "খ. ৩২",
+                "score": 0
+            },
+            {
+                "text": "গ. ৩৪",
+                "score": 0
+            },
+            {
+                "text": "ঘ. ৩৩",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. ৩৩",
+        "hint": "সংবিধানের ৩৩ নম্বর অনুচ্ছেদে বেআইনি গ্রেফতার ও আটক রাখা থেকে সুরক্ষার কথা বলা হয়েছে, যার লঙ্ঘনে হেবিয়াস কর্পাস রিট করা হয়।"
+    },
+    {
+        "question": "১১১. ‘⎯’ জেলায় রেল যোগাযোগ নেই।",
+        "answers": [
+            {
+                "text": "ক. জামালপুর",
+                "score": 0
+            },
+            {
+                "text": "খ. পটুয়াখালী",
+                "score": 1
+            },
+            {
+                "text": "গ. নাটোর",
+                "score": 0
+            },
+            {
+                "text": "ঘ. নেত্রকোণা",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. পটুয়াখালী",
+        "hint": "বাংলাদেশের যেসকল জেলায় এখনও রেললাইন পৌঁছায়নি পটুয়াখালী তাদের অন্যতম।"
+    },
+    {
+        "question": "১১২. মার্কিন যুক্তরাষ্ট্র কত সালে রাশিয়ার কাছ থেকে আলাস্কা ক্রয় করেছিল?",
+        "answers": [
+            {
+                "text": "ক. ১৮৪৬",
+                "score": 0
+            },
+            {
+                "text": "খ. ১৮৬৭",
+                "score": 1
+            },
+            {
+                "text": "গ. ১৮৯৮",
+                "score": 0
+            },
+            {
+                "text": "ঘ. ১৯০৫",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. ১৮৬৭",
+        "hint": "১৮৬৭ সালে মার্কিন যুক্তরাষ্ট্র রাশিয়ার কাছ থেকে ৭.২ মিলিয়ন ডলারের বিনিময়ে আলাস্কা কিনে নেয়।"
+    },
+    {
+        "question": "১১৩. কোনটি ব্রিকস (BRICS)—এর প্রধান লক্ষ্য?",
+        "answers": [
+            {
+                "text": "ক. ন্যাটোর সম্প্রসারণে সহায়তা প্রদান",
+                "score": 0
+            },
+            {
+                "text": "খ. বিশ্ব আর্থিক প্রতিষ্ঠানগুলোর সংস্কার পূর্বক উদীয়মান অর্থনৈতিক দেশগুলোর স্বার্থরক্ষা",
+                "score": 1
+            },
+            {
+                "text": "গ. ইউরোপের জন্য একক মুদ্রা প্রতিষ্ঠা করা",
+                "score": 0
+            },
+            {
+                "text": "ঘ. জি—৭ এর সদস্য সংখ্যা বৃদ্ধি",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. বিশ্ব আর্থিক প্রতিষ্ঠানগুলোর সংস্কার পূর্বক উদীয়মান অর্থনৈতিক দেশগুলোর স্বার্থরক্ষা",
+        "hint": "ব্রিকস বিশ্ব আর্থিক ব্যবস্থার (যেমন বিশ্বব্যাংক, আইএমএফ) সংস্কার এবং বিকাশমান দেশগুলোর অর্থনৈতিক সংহতি জোরদারে কাজ করে।"
+    },
+    {
+        "question": "১১৪. মিয়ানমারে পরিচালিত স্ক্যাম সেন্টারগুলো মোকাবিলায় সম্প্রতি কোন দেশ ‘স্ক্যাম সেন্টার স্ট্রাইক ফোর্স’ চালু করেছে?",
+        "answers": [
+            {
+                "text": "ক. রাশিয়া",
+                "score": 0
+            },
+            {
+                "text": "খ. চীন",
+                "score": 0
+            },
+            {
+                "text": "গ. মার্কিন যুক্তরাষ্ট্র",
+                "score": 1
+            },
+            {
+                "text": "ঘ. থাইল্যান্ড",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. মার্কিন যুক্তরাষ্ট্র",
+        "hint": "অনলাইন অর্থ জালিয়াতি প্রতিরোধে মার্কিন রাজস্ব ও বিচার বিভাগ যৌথভাবে ইন্টার-এজেন্সি স্ট্রাইক ফোর্স গঠন করে।"
+    },
+    {
+        "question": "১১৫. কাগজের প্রধান রাসায়নিক উপাদান কোনটি?",
+        "answers": [
+            {
+                "text": "ক. লিগনিন",
+                "score": 0
+            },
+            {
+                "text": "খ. রেজিন",
+                "score": 0
+            },
+            {
+                "text": "গ. হেমি সেলুলোজ",
+                "score": 0
+            },
+            {
+                "text": "ঘ. সেলুলোজ",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. সেলুলোজ",
+        "hint": "উদ্ভিদজাত মণ্ড ও আঁশ প্রধান উপাদান হওয়ায় কাগজের প্রধান রাসায়নিক উপাদান সেলুলোজ।"
+    },
+    {
+        "question": "১১৬. ঘূর্ণিঝড় ‘সিডর’ ও ‘আইলা’ বাংলাদেশে আঘাত হানে ⎯ এবং ⎯ সালে।",
+        "answers": [
+            {
+                "text": "ক. ২০০৭, ২০০৮",
+                "score": 0
+            },
+            {
+                "text": "খ. ২০০৮, ২০০৯",
+                "score": 0
+            },
+            {
+                "text": "গ. ২০০৭, ২০০৯",
+                "score": 1
+            },
+            {
+                "text": "ঘ. ২০০৭, ২০০৬",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. ২০০৭, ২০০৯",
+        "hint": "সিডর আঘাত হানে ২০০৭ সালের ১৫ নভেম্বর এবং আইলা আঘাত হানে ২০০৯ সালের ২৫ মে।"
+    },
+    {
+        "question": "১১৭. ‘বিশ্ব বাণিজ্য সংস্থা’ (WTO) প্রতিষ্ঠিত হয়েছিল ⎯ চুক্তির মাধ্যমে।",
+        "answers": [
+            {
+                "text": "ক. ব্রেটন উডস",
+                "score": 0
+            },
+            {
+                "text": "খ. লিসবন",
+                "score": 0
+            },
+            {
+                "text": "গ. জেনেভা",
+                "score": 0
+            },
+            {
+                "text": "ঘ. মারাকেশ",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. মারাকেশ",
+        "hint": "১৯৯৪ সালের মারাকেশ চুক্তির মাধ্যমে GATT বিলুপ্ত হয়ে ১৯৯৫ সালে বিশ্ব বাণিজ্য সংস্থা (WTO) প্রতিষ্ঠিত হয়।"
+    },
+    {
+        "question": "১১৮. বাংলাদেশের বাইরে প্রথম শহিদ মিনার স্থাপিত হয় ⎯।",
+        "answers": [
+            {
+                "text": "ক. যুক্তরাজ্যে",
+                "score": 1
+            },
+            {
+                "text": "খ. যুক্তরাষ্ট্রে",
+                "score": 0
+            },
+            {
+                "text": "গ. ভারতে",
+                "score": 0
+            },
+            {
+                "text": "ঘ. পাকিস্তানে",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ক. যুক্তরাজ্যে",
+        "hint": "যুক্তরাজ্যের লন্ডনের ওল্ডহ্যামে বিদেশের মাটিতে প্রথম স্থায়ী শহিদ মিনার নির্মাণ করা হয়।"
+    },
+    {
+        "question": "১১৯. কোন আদালতের সিদ্ধান্তের বিরুদ্ধে আপিল করা যায় না?",
+        "answers": [
+            {
+                "text": "ক. অর্থ ঋণ আদালত",
+                "score": 0
+            },
+            {
+                "text": "খ. আন্তর্জাতিক অপরাধ ট্রাইবুনাল",
+                "score": 0
+            },
+            {
+                "text": "গ. সামরিক আদালত",
+                "score": 1
+            },
+            {
+                "text": "ঘ. সুপ্রিম কোর্টের হাইকোর্ট ডিভিশন",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. সামরিক আদালত",
+        "hint": "সাধারণ দেওয়ানি বা ফৌজদারি বিচার ব্যবস্থার বাইরে সামরিক আদালতের (Martial Law / Court Martial) সিদ্ধান্তের বিরুদ্ধে সাধারণ উচ্চ আদালতে আপিল সুবিধা সীমিত।"
+    },
+    {
+        "question": "১২০. সংস্কার কমিশন নতুন সংস্কার প্রস্তাবে বাংলাদেশ সংসদের উচ্চ কক্ষে ⎯ টি আসন প্রস্তাব করে।",
+        "answers": [
+            {
+                "text": "ক. ২৫",
+                "score": 0
+            },
+            {
+                "text": "খ. ৫০",
+                "score": 0
+            },
+            {
+                "text": "গ. ৭৫",
+                "score": 0
+            },
+            {
+                "text": "ঘ. ১০০",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. ১০০",
+        "hint": "সংবিধান ও সংসদীয় কাঠামোর সংস্কার প্রস্তাবে দ্বিকক্ষ বিশিষ্ট সংসদের উচ্চকক্ষে ১০০টি আসনের কথা সুপারিশ করা হয়েছে।"
+    },
+    {
+        "question": "১২১. বাংলাদেশ ⎯ সাল থেকে গ্রীষ্মকালীন অলিম্পিকে অংশগ্রহণ করে আসছে।",
+        "answers": [
+            {
+                "text": "ক. ১৯৮৫",
+                "score": 0
+            },
+            {
+                "text": "খ. ১৯৮৪",
+                "score": 1
+            },
+            {
+                "text": "গ. ১৯৮৬",
+                "score": 0
+            },
+            {
+                "text": "ঘ. ১৯৮৩",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. ১৯৮৪",
+        "hint": "১৯৮৪ সালের লস অ্যাঞ্জেলেস অলিম্পিক গেমসের মাধ্যমে বাংলাদেশ প্রথমবারের মতো অলিম্পিকে অংশ নেয়।"
+    },
+    {
+        "question": "১২২. আফ্রিকান উন্নয়ন ব্যাংকের সদর দপ্তর ⎯ অবস্থিত।",
+        "answers": [
+            {
+                "text": "ক. নাইরোবি",
+                "score": 0
+            },
+            {
+                "text": "খ. আবিদজান",
+                "score": 1
+            },
+            {
+                "text": "গ. আদ্দিস আবাবা",
+                "score": 0
+            },
+            {
+                "text": "ঘ. লাগোস",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. আবিদজান",
+        "hint": "African Development Bank (AfDB)-এর সদর দপ্তর কোত দিভোয়ারের (আইভরি কোস্ট) আবিদজান শহরে অবস্থিত।"
+    },
+    {
+        "question": "১২৩. বাংলাদেশের সংবিধান কার্যকর হয়—",
+        "answers": [
+            {
+                "text": "ক. ১৬ ডিসেম্বর, ১৯৭১",
+                "score": 0
+            },
+            {
+                "text": "খ. ১৬ ডিসেম্বর, ১৯৭২",
+                "score": 1
+            },
+            {
+                "text": "গ. ২৬ মার্চ, ১৯৭২",
+                "score": 0
+            },
+            {
+                "text": "ঘ. ২৬ মার্চ, ১৯৭৩",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. ১৬ ডিসেম্বর, ১৯৭২",
+        "hint": "১৯৭২ সালের ৪ নভেম্বর সংবিধান গৃহীত হয় এবং প্রথম বিজয় দিবস অর্থাৎ ১৬ ডিসেম্বর ১৯৭২ সালে এটি বলবৎ হয়।"
+    },
+    {
+        "question": "১২৪. বাংলাদেশের সংবিধানের রক্ষাকর্তা কে?",
+        "answers": [
+            {
+                "text": "ক. প্রধান বিচারপতি",
+                "score": 1
+            },
+            {
+                "text": "খ. প্রধানমন্ত্রী",
+                "score": 0
+            },
+            {
+                "text": "গ. সেনাবাহিনী প্রধান",
+                "score": 0
+            },
+            {
+                "text": "ঘ. রাষ্ট্রপতি",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ক. প্রধান বিচারপতি",
+        "hint": "সংবিধানের ব্যাখ্যা ও অভিভাবকত্ব প্রদানের দায়িত্ব বিচার বিভাগ ও এর প্রধান হিসেবে প্রধান বিচারপতির (সুপ্রিম কোর্টের)।"
+    },
+    {
+        "question": "১২৫. কোন এলাকাটি বাংলাদেশের মুক্তিযুদ্ধকালীন জনযুদ্ধে ক্যাপ্টেন (অব:) আব্দুল হালিম চৌধুরীর দ্বারা গঠিত আঞ্চলিক বাহিনীর আওতাধীন এলাকা ছিল না?",
+        "answers": [
+            {
+                "text": "ক. ধামরাই",
+                "score": 0
+            },
+            {
+                "text": "খ. কেরানীগঞ্জ",
+                "score": 1
+            },
+            {
+                "text": "গ. কালিয়াকৈর",
+                "score": 0
+            },
+            {
+                "text": "ঘ. সাভার",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. কেরানীগঞ্জ",
+        "hint": "আব্দুল হালিম চৌধুরীর গঠিত হালিম বাহিনী সাভার, ধামরাই, মানিকগঞ্জ ও কালিয়াকৈর এলাকায় সক্রিয় ছিল।"
+    },
+    {
+        "question": "১২৬. বাংলাদেশের পদ্মা ও যমুনা নদীর শাখা নদীগুলো কোনগুলো?",
+        "answers": [
+            {
+                "text": "ক. গড়াই ও মধুমতী",
+                "score": 0
+            },
+            {
+                "text": "খ. মহানন্দা ও বংশী",
+                "score": 0
+            },
+            {
+                "text": "গ. মহানন্দা ও আত্রাই",
+                "score": 0
+            },
+            {
+                "text": "ঘ. গড়াই ও ধলেশ্বরী",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. গড়াই ও ধলেশ্বরী",
+        "hint": "পদ্মার অন্যতম প্রধান শাখা নদী গড়াই এবং যমুনার অন্যতম শাখা নদী ধলেশ্বরী।"
+    },
+    {
+        "question": "১২৭. কোন বিষয়টি মুদ্রাপাচারের অন্তভুর্ক্ত নয়?",
+        "answers": [
+            {
+                "text": "ক. রপ্তানি পণ্যের অবমূল্যায়ন",
+                "score": 0
+            },
+            {
+                "text": "খ. আমদানি পণ্যের অধিক মূল্য নির্ধারণ",
+                "score": 0
+            },
+            {
+                "text": "গ. আয়কর ফাঁকি দেওয়া",
+                "score": 1
+            },
+            {
+                "text": "ঘ. অবৈধ চ্যানেলে বিদেশে টাকা পাঠানো",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. আয়কর ফাঁকি দেওয়া",
+        "hint": "আয়কর ফাঁকি দেওয়া একটি অভ্যন্তরীণ কর অপরাধ (Tax Evasion), কিন্তু অর্থ বিদেশে পাঠানো বা রূপান্তর না করা পর্যন্ত তা সরাসরি মানিলন্ডারিং নয়।"
+    },
+    {
+        "question": "১২৮. কোন ভূ—রাজনৈতিক তত্ত্ব বিশ্ব আধিপত্যের চাবিকাঠি হিসাবে ইউরেশিয়ার নিয়ন্ত্রণকে সমর্থন করে?",
+        "answers": [
+            {
+                "text": "ক. হার্টল্যান্ড তত্ত্ব",
+                "score": 1
+            },
+            {
+                "text": "খ. ডমিনো তত্ত্ব",
+                "score": 0
+            },
+            {
+                "text": "গ. রিমল্যান্ড তত্ত্ব",
+                "score": 0
+            },
+            {
+                "text": "ঘ. কন্টেইনমেন্ট তত্ত্ব",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ক. হার্টল্যান্ড তত্ত্ব",
+        "hint": "হ্যালফোর্ড ম্যাকিন্ডারের 'Heartland Theory' অনুযায়ী ইউরেশিয়ার অভ্যন্তরীণ ভূখণ্ড নিয়ন্ত্রণকারীই বিশ্বে আধিপত্য বিস্তার করতে পারে।"
+    },
+    {
+        "question": "১২৯. কোন দুটি দেশ সম্প্রতি ন্যাটোতে (NATO) যোগদান করেছে, যা ইউরোপের নিরাপত্তা পরিস্থিতিকে নতুন রূপ প্রদান করেছে?",
+        "answers": [
+            {
+                "text": "ক. অস্ট্রেলিয়া এবং সুইজারল্যান্ড",
+                "score": 0
+            },
+            {
+                "text": "খ. ইউক্রেন এবং জর্জিয়া",
+                "score": 0
+            },
+            {
+                "text": "গ. সুইডেন এবং ফিনল্যান্ড",
+                "score": 1
+            },
+            {
+                "text": "ঘ. মলদোভা এবং বেলারুশ",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. সুইডেন এবং ফিনল্যান্ড",
+        "hint": "রাশিয়া-ইউক্রেন যুদ্ধের প্রেক্ষাপটে দীর্ঘ সামরিক নিরপেক্ষতা পরিহার করে ফিনল্যান্ড (২০২৩) ও সুইডেন (২০২৪) ন্যাটোতে যোগ দেয়।"
+    },
+    {
+        "question": "১৩০. ২০৩০ সালের মধ্যে টেকসই উন্নয়ন লক্ষ্যমাত্রা অর্জনে ইফাদ (IFAD), SDG এর কোন দুটি লক্ষ্যমাত্রা নিয়ে কাজ করে?",
+        "answers": [
+            {
+                "text": "ক. ৭ ও ৯",
+                "score": 0
+            },
+            {
+                "text": "খ. ১১ ও ১৩",
+                "score": 0
+            },
+            {
+                "text": "গ. ৩ ও ৬",
+                "score": 0
+            },
+            {
+                "text": "ঘ. ১ ও ২",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. ১ ও ২",
+        "hint": "IFAD মূলত গ্রামীণ দারিদ্র্য বিমোচন (SDG 1: No Poverty) এবং ক্ষুধা মুক্তি (SDG 2: Zero Hunger) অর্জনে কাজ করে।"
+    },
+    {
+        "question": "১৩১. ডলারের বিপরীতে টাকার অবমূল্যায়নের অন্যতম প্রভাব কী?",
+        "answers": [
+            {
+                "text": "ক. বিদেশে বিনিয়োগে উৎসাহ প্রদান",
+                "score": 0
+            },
+            {
+                "text": "খ. তারল্য সংকট কাটিয়ে উঠা",
+                "score": 0
+            },
+            {
+                "text": "গ. খেলাপী ঋণের পরিমাণ কমিয়ে আনা",
+                "score": 0
+            },
+            {
+                "text": "ঘ. রপ্তানি বাড়ানো",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. রপ্তানি বাড়ানো",
+        "hint": "দেশীয় মুদ্রার অবমূল্যায়ন হলে বিদেশী ক্রেতাদের কাছে দেশীয় পণ্য সস্তা হয়, যা রপ্তানি বৃদ্ধিতে সহায়তা করে।"
+    },
+    {
+        "question": "১৩২. বাংলাদেশের অর্থনৈতিক নীতি ও উন্নয়ন পরিকল্পনা অনুমোদনের সবোর্চ্চ কর্তৃপক্ষ কোনটি?",
+        "answers": [
+            {
+                "text": "ক. পরিকল্পনা কমিশন",
+                "score": 0
+            },
+            {
+                "text": "খ. অর্থ মন্ত্রণালয়",
+                "score": 0
+            },
+            {
+                "text": "গ. পরিকল্পনা মন্ত্রণালয়",
+                "score": 0
+            },
+            {
+                "text": "ঘ. জাতীয় অর্থনৈতিক পরিষদের নির্বাহী কমিটি",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. জাতীয় অর্থনৈতিক পরিষদের নির্বাহী কমিটি",
+        "hint": "জাতীয় অর্থনৈতিক পরিষদ (NEC) ও ইসিএনইসি (ECNEC) নীতি ও বড় উন্নয়ন প্রকল্প অনুমোদনের চূড়ান্ত কর্তৃপক্ষ।"
+    },
+    {
+        "question": "১৩৩. চীনের উদ্যোগে চালু করা ‘বেল্ট অ্যান্ড রোড ইনিশিয়েটিভ’ (BRI)—এর প্রাথমিক লক্ষ্য কী?",
+        "answers": [
+            {
+                "text": "ক. একটি নতুন আন্তর্জাতিক মুদ্রা প্রতিষ্ঠা করা",
+                "score": 0
+            },
+            {
+                "text": "খ. নৌ ঘাঁটির মাধ্যমে বিশ^ব্যাপী অর্থনৈতিক সম্প্রসারণ",
+                "score": 0
+            },
+            {
+                "text": "গ. বিশ^ব্যাপী অর্থনৈতিক উন্নয়নে অর্থায়ন",
+                "score": 0
+            },
+            {
+                "text": "ঘ. বাণিজ্য এবং অবকাঠামোর একটি বিশ্বব্যাপী নেটওয়ার্ক তৈরি করা",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. বাণিজ্য এবং অবকাঠামোর একটি বিশ্বব্যাপী নেটওয়ার্ক তৈরি করা",
+        "hint": "বিআরআই-এর মূল উদ্দেশ্য এশিয়া, ইউরোপ ও আফ্রিকার মধ্যে বাণিজ্য পথ ও পরিকাঠামো সংযুক্ত করা।"
+    },
+    {
+        "question": "১৩৪. মার্কিন যুক্তরাষ্ট্রের নেতৃত্বাধীন ‘অ্যাকাস’ (AUKUS) চুক্তির প্রাথমিক লক্ষ্য কী?",
+        "answers": [
+            {
+                "text": "ক. অর্থনৈতিক সহযোগিতা",
+                "score": 0
+            },
+            {
+                "text": "খ. সামরিক সহযোগিতা",
+                "score": 1
+            },
+            {
+                "text": "গ. পরিবেশ সুরক্ষা",
+                "score": 0
+            },
+            {
+                "text": "ঘ. মহাকাশ গবেষণা সহযোগিতা",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. সামরিক সহযোগিতা",
+        "hint": "AUKUS (Australia, UK, US) ইন্দো-প্যাসিফিক অঞ্চলের নিরাপত্তা ও পারমাণবিক সাবমেরিন প্রযুক্তি আদান-প্রদানের জন্য একটি ত্রিপক্ষীয় সামরিক জোট।"
+    },
+    {
+        "question": "১৩৫. জলবায়ু কূটনীতিতে ‘Common But Differentiated Responsibilities (CBDR)’ নীতি প্রথম কোথায় স্বীকৃত হয়েছিল?",
+        "answers": [
+            {
+                "text": "ক. রিও ঘোষণা",
+                "score": 1
+            },
+            {
+                "text": "খ. কিয়োটো প্রোটোকল",
+                "score": 0
+            },
+            {
+                "text": "গ. প্যারিস চুক্তি",
+                "score": 0
+            },
+            {
+                "text": "ঘ. স্টকহোম ঘোষণা",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ক. রিও ঘোষণা",
+        "hint": "১৯৯২ সালের রিও বসুন্ধরা সম্মেলনে (Earth Summit) পরিবেশ রক্ষায় CBDR নীতিটি আনুষ্ঠানিকভাবে গ্রহণ করা হয়।"
+    },
+    {
+        "question": "১৩৬. শ্রমনির্ভর অর্থনীতি থেকে উৎপাদন ভিত্তিক অর্থনীতিতে রূপান্তরের পথে বাংলাদেশের সবচেয়ে বড় বাধা কোনটি?",
+        "answers": [
+            {
+                "text": "ক. শিল্পাঞ্চলের অভাব",
+                "score": 0
+            },
+            {
+                "text": "খ. রাজনৈতিক অস্থিরতা",
+                "score": 0
+            },
+            {
+                "text": "গ. দক্ষ মানবসম্পদের ঘাটতি এবং শিক্ষার সঙ্গে কর্মক্ষেত্রের অসামঞ্জস্য",
+                "score": 1
+            },
+            {
+                "text": "ঘ. ক্ষুদ্রঋণের স্বল্পতা",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. দক্ষ মানবসম্পদের ঘাটতি এবং শিক্ষার সঙ্গে কর্মক্ষেত্রের অসামঞ্জস্য",
+        "hint": "উচ্চ প্রযুক্তি ও উৎপাদনভিত্তিক শিল্পায়নের জন্য কারিগরি ও বাস্তবভিত্তিক শিক্ষার অভাব প্রধান অন্তরায়।"
+    },
+    {
+        "question": "১৩৭. বাংলাদেশ সরকার এবং পিসিজেএসএস (PCJSS)—এর মধ্যে পার্বত্য চট্টগ্রাম শান্তিচুক্তি কবে স্বাক্ষরিত হয়েছিল?",
+        "answers": [
+            {
+                "text": "ক. ০৪ ডিসেম্বর, ১৯৯৫",
+                "score": 0
+            },
+            {
+                "text": "খ. ০৬ নভেম্বর, ১৯৯৮",
+                "score": 0
+            },
+            {
+                "text": "গ. ০২ ডিসেম্বর, ১৯৯৭",
+                "score": 1
+            },
+            {
+                "text": "ঘ. ০৭ ডিসেম্বর, ১৯৯৮",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. ০২ ডিসেম্বর, ১৯৯৭",
+        "hint": "১৯৯৭ সালের ২ ডিসেম্বর ঐতিহাসিক পার্বত্য চট্টগ্রাম শান্তিচুক্তি স্বাক্ষরিত হয়।"
+    },
+    {
+        "question": "১৩৮. কোন সংস্থা বাংলাদেশের GDP হিসাব করে?",
+        "answers": [
+            {
+                "text": "ক. বাংলাদেশ পরিসংখ্যান ব্যুরো",
+                "score": 1
+            },
+            {
+                "text": "খ. বাংলাদেশ ব্যাংক",
+                "score": 0
+            },
+            {
+                "text": "গ. অর্থ বিভাগ",
+                "score": 0
+            },
+            {
+                "text": "ঘ. বাংলাদেশ পরিকল্পনা কমিশন",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ক. বাংলাদেশ পরিসংখ্যান ব্যুরো",
+        "hint": "বাংলাদেশ পরিসংখ্যান ব্যুরো (BBS) দেশের মোট দেশজ উৎপাদন (GDP) পরিমাপের একমাত্র প্রাতিষ্ঠানিক সংস্থা।"
+    },
+    {
+        "question": "১৩৯. অপারেশন ‘⎯’ লোহিত সাগরে হুথি (HOUTHI) হামলার জবাবে মার্কিন নেতৃত্বাধীন সামুদ্রিক নিরাপত্তা উদ্যোগ।",
+        "answers": [
+            {
+                "text": "ক. ডেজার্ট স্টর্ম",
+                "score": 0
+            },
+            {
+                "text": "খ. এন্ডিউরিং ফ্রিডম",
+                "score": 0
+            },
+            {
+                "text": "গ. ব্লু হেলমেট",
+                "score": 0
+            },
+            {
+                "text": "ঘ. প্রসপারিটি গার্ডিয়ান",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. প্রসপারিটি গার্ডিয়ান",
+        "hint": "২০২৩ সালের ডিসেম্বরে লোহিত সাগরে আন্তর্জাতিক নৌযানগুলোর সুরক্ষায় 'Operation Prosperity Guardian' শুরু হয়।"
+    },
+    {
+        "question": "১৪০. বাংলাদেশে রপ্তানী আয়ের প্রধান উৎস কোনটি?",
+        "answers": [
+            {
+                "text": "ক. জনশক্তি রপ্তানী",
+                "score": 0
+            },
+            {
+                "text": "খ. তৈরি পোশাক রপ্তানী",
+                "score": 1
+            },
+            {
+                "text": "গ. জাতিসংঘ শান্তি মিশনে শান্তিরক্ষী প্রেরণ",
+                "score": 0
+            },
+            {
+                "text": "ঘ. চামড়া জাতীয় পণ্য রপ্তানী",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. তৈরি পোশাক রপ্তানী",
+        "hint": "বাংলাদেশের মোট পণ্য রপ্তানি আয়ের ৮০% এরও বেশি আসে তৈরি পোশাক (RMG) খাত থেকে।"
+    },
+    {
+        "question": "১৪১. কোন ফসলটি রপ্তানী বহুমুখীকরণে সম্ভাবনাময়?",
+        "answers": [
+            {
+                "text": "ক. আউশ ধান",
+                "score": 0
+            },
+            {
+                "text": "খ. তেলবীজ",
+                "score": 0
+            },
+            {
+                "text": "গ. পাট",
+                "score": 1
+            },
+            {
+                "text": "ঘ. আলু",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. পাট",
+        "hint": "পরিবেশবান্ধব বহুমুখী পাটজাত দ্রব্য বৈশ্বিক বাজারে রপ্তানি বাড়াতে অত্যন্ত সম্ভাবনাময়।"
+    },
+    {
+        "question": "১৪২. উত্তর কোরিয়া ও দক্ষিণ কোরিয়ার মধ্যকার বিভক্তকারী রেখা হলো ⎯ উত্তর অক্ষাংশ।",
+        "answers": [
+            {
+                "text": "ক. ৩৮°",
+                "score": 1
+            },
+            {
+                "text": "খ. ৩৪°",
+                "score": 0
+            },
+            {
+                "text": "গ. ৪৯°",
+                "score": 0
+            },
+            {
+                "text": "ঘ. ২৩.৫০°",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ক. ৩৮°",
+        "hint": "৩৮ ডিগ্রি উত্তর অক্ষরেখা (38th Parallel) দুই কোরিয়ার সীমান্ত সীমানা নির্দেশ করে।"
+    },
+    {
+        "question": "১৪৩. ‘⎯’ ব্রিকস (BRICS) কতৃর্ক অবকাঠামো এবং টেকসই উন্নয়ন প্রকল্পের অর্থায়নের লক্ষ্যে প্রতিষ্ঠিত হয়।",
+        "answers": [
+            {
+                "text": "ক. NDB",
+                "score": 1
+            },
+            {
+                "text": "খ. ADB",
+                "score": 0
+            },
+            {
+                "text": "গ. AIIB",
+                "score": 0
+            },
+            {
+                "text": "ঘ. IMF",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ক. NDB",
+        "hint": "New Development Bank (NDB) বা ব্রিকস ব্যাংক ২০১৪ সালে ব্রিকস সদস্য রাষ্ট্রগুলো প্রতিষ্ঠা করে।"
+    },
+    {
+        "question": "১৪৪. বাংলাদেশের সর্বশেষ সিটি কর্পোরেশন কোনটি?",
+        "answers": [
+            {
+                "text": "ক. ঢাকা উত্তর",
+                "score": 0
+            },
+            {
+                "text": "খ. কুমিল্লা",
+                "score": 0
+            },
+            {
+                "text": "গ. ময়মনসিংহ",
+                "score": 1
+            },
+            {
+                "text": "ঘ. রংপুর",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. ময়মনসিংহ",
+        "hint": "ময়মনসিংহ হলো বাংলাদেশের ১২তম ও সর্বশেষ গঠিত সিটি কর্পোরেশন।"
+    },
+    {
+        "question": "১৪৫. ভঙ্গিল পর্বত, আগ্নেয় পর্বত ও স্তূপ পর্বতের উদাহরণ যথাক্রমে—",
+        "answers": [
+            {
+                "text": "ক. রকি, ভিসুভিয়াস, ব্ল্যাক ফরেস্ট",
+                "score": 1
+            },
+            {
+                "text": "খ. হিমালয়, আল্পস, রকি",
+                "score": 0
+            },
+            {
+                "text": "গ. হিমালয়, রকি, বিন্দা",
+                "score": 0
+            },
+            {
+                "text": "ঘ. আল্পস, হেনরী, ফুজিয়ামা",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ক. রকি, ভিসুভিয়াস, ব্ল্যাক ফরেস্ট",
+        "hint": "রকি ভঙ্গিল পর্বত, ভিসুভিয়াস আগ্নেয় পর্বত এবং জার্মানির ব্ল্যাক ফরেস্ট স্তূপ পর্বত।"
+    },
+    {
+        "question": "১৪৬. দুর্যোগ ব্যবস্থাপনার প্রথম ধাপ কোনটি?",
+        "answers": [
+            {
+                "text": "ক. উদ্ধার",
+                "score": 0
+            },
+            {
+                "text": "খ. পুনর্বাসন",
+                "score": 0
+            },
+            {
+                "text": "গ. পুনর্গঠন",
+                "score": 0
+            },
+            {
+                "text": "ঘ. প্রস্তুতি",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. প্রস্তুতি",
+        "hint": "দুর্যোগ ঘটার পূর্বেই ঝুঁকি কমানোর জন্য প্রস্তুতি (Preparedness/Mitigation) সর্বপ্রধান কাজ।"
+    },
+    {
+        "question": "১৪৭. কোন জলবায়ু চুক্তির অধীনে ‘সবুজ জলবায়ু তহবিল’ বা Green Climate Fund প্রতিষ্ঠা করা হয়েছিল?",
+        "answers": [
+            {
+                "text": "ক. ক্যানকুন চুক্তি",
+                "score": 1
+            },
+            {
+                "text": "খ. প্যারিস চুক্তি",
+                "score": 0
+            },
+            {
+                "text": "গ. কিয়োটো প্রোটোকল",
+                "score": 0
+            },
+            {
+                "text": "ঘ. কোপেনহেগেন চুক্তি",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ক. ক্যানকুন চুক্তি",
+        "hint": "২০১০ সালে মেক্সিকোর ক্যানকুন COP-16 সম্মেলনে গ্রিন ক্লাইমেট ফান্ড (GCF) গঠনের নীতি অনুমোদিত হয়।"
+    },
+    {
+        "question": "১৪৮. প্রত্যয়ন বায়ু উত্তর গোলার্ধে ⎯ দিক থেকে ⎯ দিকে প্রবাহিত হয়?",
+        "answers": [
+            {
+                "text": "ক. পূর্ব, পশ্চিম",
+                "score": 1
+            },
+            {
+                "text": "খ. দক্ষিণ—পশ্চিম, উত্তরপূর্ব",
+                "score": 0
+            },
+            {
+                "text": "গ. উত্তর, দক্ষিণ",
+                "score": 0
+            },
+            {
+                "text": "ঘ. উত্তর, পশ্চিম",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ক. পূর্ব, পশ্চিম",
+        "hint": "অয়ন বায়ু সাধারণ নিয়ম মেনে প্রবাহের দিক ঠিক রাখে, উত্তর গোলার্ধে উত্তর-পূর্ব থেকে দক্ষিণ-পশ্চিমে প্রবাহিত হয়।"
+    },
+    {
+        "question": "১৪৯. বায়ূমণ্ডল ও মহাশূন্যের মধ্যবর্তী রেখাটির নাম কী?",
+        "answers": [
+            {
+                "text": "ক. বিষুবরেখা",
+                "score": 0
+            },
+            {
+                "text": "খ. ট্রপোপজ",
+                "score": 0
+            },
+            {
+                "text": "গ. কারমান লাইন",
+                "score": 1
+            },
+            {
+                "text": "ঘ. কলোরাডো লাইন",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. কারমান লাইন",
+        "hint": "সমুদ্রপৃষ্ঠ থেকে ১০০ কিলোমিটার উপরে অবস্থিত কারমান লাইন (Kármán line)-কে বায়ুমণ্ডল ও মহাশূন্যের আন্তর্জাতিক সীমানা ধরা হয়।"
+    },
+    {
+        "question": "১৫০. এভারেস্ট শৃঙ্গের তিব্বতী ও চীনা নাম কী কী?",
+        "answers": [
+            {
+                "text": "ক. দালাইলামা এবং চিংলু",
+                "score": 0
+            },
+            {
+                "text": "খ. চোমোলাংমা এবং কোমোলাংমা",
+                "score": 1
+            },
+            {
+                "text": "গ. কোমোলাংমা এবং চিংলু",
+                "score": 0
+            },
+            {
+                "text": "ঘ. চোমোলাংমা এবং এলবার্গ",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. চোমোলাংমা এবং কোমোলাংমা",
+        "hint": "মাউন্ট এভারেস্টকে তিব্বতি ভাষায় চোমোলাংমা (Chomolungma) এবং চীনা ভাষায় কোমোলাংমা (Qomolangma) বলা হয়।"
+    },
+    {
+        "question": "১৫১. সাধারণের দৃষ্টিতে কোনটি মূল্যবোধ সম্পন্ন শাসন ব্যবস্থার বৈশিষ্ট্য?",
+        "answers": [
+            {
+                "text": "ক. আইনের নির্বাচনী প্রয়োগ",
+                "score": 0
+            },
+            {
+                "text": "খ. নাগরিকের অংশগ্রহণ",
+                "score": 1
+            },
+            {
+                "text": "গ. কতৃর্ত্ববাদ",
+                "score": 0
+            },
+            {
+                "text": "ঘ. গোপনীয়তা",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. নাগরিকের অংশগ্রহণ",
+        "hint": "শাসন প্রক্রিয়ায় জনগণের সরাসরি বা প্রতিনিধিত্বমূলক অংশগ্রহণ সুশাসনের চাবিকাঠি।"
+    },
+    {
+        "question": "১৫২. জীবনের তিনটি শ্রেষ্ঠ মূল্যবোধ কী কী?",
+        "answers": [
+            {
+                "text": "ক. সম্পদ, ক্ষমতা ও সদগুণ",
+                "score": 0
+            },
+            {
+                "text": "খ. সত্য, আনন্দ ও সদগুণ",
+                "score": 0
+            },
+            {
+                "text": "গ. সত্য, সুন্দর ও সদগুণ",
+                "score": 1
+            },
+            {
+                "text": "ঘ. আনন্দ, বিবেক ও সাহস",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. সত্য, সুন্দর ও সদগুণ",
+        "hint": "দর্শনের চিরাচরিত নীতিতে সত্য (Truth), সুন্দর (Beauty) এবং শিব বা সদগুণ (Goodness)-কে চরম মূল্যবোধ মনে করা হয়।"
+    },
+    {
+        "question": "১৫৩. স্বচ্ছতা কেন সু—শাসন সম্পর্কে নাগরিকের ধারণাকে উন্নত ও স্বচ্ছ করে?",
+        "answers": [
+            {
+                "text": "ক. এটি প্রশাসনিক চাপ বাড়ায়",
+                "score": 0
+            },
+            {
+                "text": "খ. এটি রাজনৈতিক প্রতিযোগিতা কমায়",
+                "score": 0
+            },
+            {
+                "text": "গ. এটি জনগণের নজরদারি ও সচেতন মূল্যায়নের জন্য সুযোগ দেয়",
+                "score": 1
+            },
+            {
+                "text": "ঘ. উপরের সবগুলো",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. এটি জনগণের নজরদারি ও সচেতন মূল্যায়নের জন্য সুযোগ দেয়",
+        "hint": "তথ্য প্রাপ্তি ও স্বচ্ছতা সরকারের কাজকর্মে জবাবদিহিতা বাড়ায়।"
+    },
+    {
+        "question": "১৫৪. কোনটি মূল্যবোধের সারসত্তাকে প্রতিফলিত করে?",
+        "answers": [
+            {
+                "text": "ক. কর্তৃপক্ষ কর্তৃক আরোপিত নিয়ম",
+                "score": 0
+            },
+            {
+                "text": "খ. নৈতিক নির্দেশ ছাড়া প্রথা ও ঐতিহ্য",
+                "score": 0
+            },
+            {
+                "text": "গ. নৈতিক আচরণ নির্দেশক বিশ্বাস ও নীতি",
+                "score": 1
+            },
+            {
+                "text": "ঘ. সামাজিক শৃঙ্খলার আইনি বাধ্যবাধকতা",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. নৈতিক আচরণ নির্দেশক বিশ্বাস ও নীতি",
+        "hint": "মূল্যবোধ হলো ভালো-মন্দের অভ্যন্তরীণ বিশ্বাস যা মানুষের চরিত্র ও আচরণ পরিচালনা করে।"
+    },
+    {
+        "question": "১৫৫. সাংস্কৃতিক মূল্যবোধগুলো বেশি উদ্ভূত হয় ‘সামাজিক ⎯’ থেকে।",
+        "answers": [
+            {
+                "text": "ক. আচরণ",
+                "score": 0
+            },
+            {
+                "text": "খ. বৈষম্য",
+                "score": 0
+            },
+            {
+                "text": "গ. প্রথা",
+                "score": 1
+            },
+            {
+                "text": "ঘ. নীতি",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. প্রথা",
+        "hint": "দীর্ঘদিন ধরে চলে আসা সামাজিক প্রথা, রীতিনীতি থেকেই সাংস্কৃতিক আদর্শ তৈরি হয়।"
+    },
+    {
+        "question": "১৫৬. শাসন ব্যবস্থায় মূল্যবোধ প্রাতিষ্ঠানিক করার সবচেয়ে কার্যকর কৌশল কোনটি?",
+        "answers": [
+            {
+                "text": "ক. ঘন ঘন আইনের সংস্কার",
+                "score": 0
+            },
+            {
+                "text": "খ. নিয়মিত বেতন বৃদ্ধি",
+                "score": 0
+            },
+            {
+                "text": "গ. নৈতিক শিক্ষা ও প্রাতিষ্ঠানিক শিক্ষার সমন্বয়",
+                "score": 1
+            },
+            {
+                "text": "ঘ. আমলাতান্ত্রিক নিয়ন্ত্রণ বৃদ্ধি",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. নৈতিক শিক্ষা ও প্রাতিষ্ঠানিক শিক্ষার সমন্বয়",
+        "hint": "শিক্ষা ব্যবস্থার নীতি-নৈতিকতা সংযোজন নাগরিক ও প্রশাসকদের দীর্ঘমেয়াদে সৎ করে তোলে।"
+    },
+    {
+        "question": "১৫৭. মূল্যবোধ ও সুশাসনের উপস্থিতি জাতীয় উন্নয়নের কোন দিকটিকে বেশি টেকসই করে তোলে?",
+        "answers": [
+            {
+                "text": "ক. স্বল্পমেয়াদি প্রবৃদ্ধি",
+                "score": 0
+            },
+            {
+                "text": "খ. অবকাঠামো নির্মাণ",
+                "score": 0
+            },
+            {
+                "text": "গ. মানব সম্পদ উন্নয়ন",
+                "score": 1
+            },
+            {
+                "text": "ঘ. আমলাতান্ত্রিক নিয়ন্ত্রণ",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. মানব সম্পদ উন্নয়ন",
+        "hint": "নৈতিক ও দক্ষ মানবসম্পদই টেকসই জাতীয় উন্নয়নের দীর্ঘমেয়াদী চালিকাশক্তি।"
+    },
+    {
+        "question": "১৫৮. মূল্যবোধ ও শাসনের মধ্যে সম্পর্ক হলো—",
+        "answers": [
+            {
+                "text": "ক. নৈতিক নীতি, নিয়ম ও রাজনৈতিক নির্দেশ মানা",
+                "score": 0
+            },
+            {
+                "text": "খ. নৈতিক নীতি, স্বচ্ছতা ও সামাজিক দায়বদ্ধতা",
+                "score": 1
+            },
+            {
+                "text": "গ. স্তরবিন্যাস, স্বচ্ছতা ও ঐতিহ্য",
+                "score": 0
+            },
+            {
+                "text": "ঘ. নৈতিকতা ছাড়া প্রশাসনিক দক্ষতা",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. নৈতিক নীতি, স্বচ্ছতা ও সামাজিক দায়বদ্ধতা",
+        "hint": "শাসনব্যবস্থায় মূল্যবোধের প্রয়োগ স্বচ্ছতা, নৈতিকতা ও দায়িত্বশীলতা নিশ্চিত করে।"
+    },
+    {
+        "question": "১৫৯. টেকসই উন্নয়নের জন্য সু—শাসন অপরিহার্য কারণ এটি—",
+        "answers": [
+            {
+                "text": "ক. দ্রুত শিল্পায়ন নিশ্চিত করে",
+                "score": 0
+            },
+            {
+                "text": "খ. অর্থনৈতিক প্রবৃদ্ধি ও সামাজিক ন্যায়ের ভারসাম্য রক্ষা করে",
+                "score": 1
+            },
+            {
+                "text": "গ. জনসংখ্যা হ্রাস করে",
+                "score": 0
+            },
+            {
+                "text": "ঘ. রাজনৈতিক দ্বন্দ্ব দূর করে",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. অর্থনৈতিক প্রবৃদ্ধি ও সামাজিক ন্যায়ের ভারসাম্য রক্ষা করে",
+        "hint": "সামাজিক বিচার ও ন্যায়পরায়ণতা ছাড়া কেবল অর্থায়ন টেকসই উন্নয়ন আনতে পারে না।"
+    },
+    {
+        "question": "১৬০. দুর্বল শাসন ব্যবস্থায় উন্নয়ন প্রকল্প ব্যর্থ হয় কারণ—",
+        "answers": [
+            {
+                "text": "ক. সম্পদের অভাব",
+                "score": 0
+            },
+            {
+                "text": "খ. নাগরিকের বিরোধিতা",
+                "score": 0
+            },
+            {
+                "text": "গ. সিদ্ধান্ত গ্রহণে স্বচ্ছতা ও সততার অভাব",
+                "score": 1
+            },
+            {
+                "text": "ঘ. প্রযুক্তির অভাব",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. সিদ্ধান্ত গ্রহণে স্বচ্ছতা ও সততার অভাব",
+        "hint": "স্বচ্ছতার অভাব, দুর্নীতি ও অপচয়ের কারণে নীতি বাস্তবায়নে ব্যর্থতা দেখা দেয়।"
+    },
+    {
+        "question": "১৬১. কোনটি সুশাসনের অনুপস্থিতিতে সমাজ যে ‘Hidden Cost’ বহন করে তার উৎকৃষ্ট উদাহরণ?",
+        "answers": [
+            {
+                "text": "ক. কর আদায়ের হার বৃদ্ধি",
+                "score": 0
+            },
+            {
+                "text": "খ. মেধা পাচার",
+                "score": 1
+            },
+            {
+                "text": "গ. অবকাঠামো সম্প্রসারণ",
+                "score": 0
+            },
+            {
+                "text": "ঘ. রপ্তানি আয় বৃদ্ধি",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. মেধা পাচার",
+        "hint": "সুশাসনের অভাবে তরুণ মেধাবীরা দেশ ছাড়লে রাষ্ট্র মেধার দীর্ঘমেয়াদী ক্ষয় বা অলক্ষিত মূল্য বহন করে।"
+    },
+    {
+        "question": "১৬২. বিশ্বব্যাংক বর্ণিত সুশাসন সূচকে কোনো দেশের সূচক ০.০০ হলে, সে দেশের সু—শাসনের অবস্থা কী বলে পরিগণিত হবে?",
+        "answers": [
+            {
+                "text": "ক. নিচু মানের",
+                "score": 0
+            },
+            {
+                "text": "খ. উচু মানের",
+                "score": 0
+            },
+            {
+                "text": "গ. মাঝারি মানের",
+                "score": 1
+            },
+            {
+                "text": "ঘ. কোনোটিই নয়",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. মাঝারি মানের",
+        "hint": "বিশ্বব্যাংকের ওয়ার্ল্ডওয়াইড গভর্নেন্স ইন্ডিকেটর (WGI) স্কেলটি সাধারণত -২.৫ থেকে +২.৫ পর্যন্ত হয়, যেখানে ০.০০ মাঝারি অবস্থা।"
+    },
+    {
+        "question": "১৬৩. গণতান্ত্রিক ব্যবস্থার ফলপ্রসূতার জন্য অগ্রাধিকার পাবে ⎯।",
+        "answers": [
+            {
+                "text": "ক. আইনসমূহ",
+                "score": 0
+            },
+            {
+                "text": "খ. টাকা",
+                "score": 0
+            },
+            {
+                "text": "গ. গুণগত শিক্ষা",
+                "score": 1
+            },
+            {
+                "text": "ঘ. অবকাঠামোগত সুবিধাসমূহ",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. গুণগত শিক্ষা",
+        "hint": "সচেতন ও শিক্ষিত নাগরিকসমাজই সফল গণতন্ত্রের মূল স্তম্ভ।"
+    },
+    {
+        "question": "১৬৪. কোনটি সুশাসনের আদর্শকে সবচেয়ে ভালোভাবে প্রকাশ করে?",
+        "answers": [
+            {
+                "text": "ক. এটি শুধুমাত্র পরিমাপযোগ্য ফলাফলের উপর নির্ভরশীল",
+                "score": 0
+            },
+            {
+                "text": "খ. এটি মূল্যবোধ—নিরপেক্ষ",
+                "score": 0
+            },
+            {
+                "text": "গ. এটি নৈতিক মানদন্ড ও জনস্বার্থ দ্বারা পরিচালিত",
+                "score": 1
+            },
+            {
+                "text": "ঘ. এটি কেবল অর্থনৈতিক প্রবৃদ্ধিকে অগ্রাধিকার দেয়",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. এটি নৈতিক মানদন্ড ও জনস্বার্থ দ্বারা পরিচালিত",
+        "hint": "জনকল্যাণ নিশ্চিত করাই সুশাসনের কেন্দ্রবিন্দু।"
+    },
+    {
+        "question": "১৬৫. সুশাসন কোন বিষয়টির প্রতিশ্রম্নতি দেয়?",
+        "answers": [
+            {
+                "text": "ক. শুধুমাত্র কঠোর আইন প্রয়োগের",
+                "score": 0
+            },
+            {
+                "text": "খ. রাজনৈতিক প্রাধান্য ও প্রশাসনিক নিয়ন্ত্রণের",
+                "score": 0
+            },
+            {
+                "text": "গ. সংস্কার ছাড়া ঐতিহ্য সংরক্ষণের",
+                "score": 0
+            },
+            {
+                "text": "ঘ. স্বচ্ছতা, জবাবদিহিতা ও নৈতিক নেতৃর্ত্বের",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. স্বচ্ছতা, জবাবদিহিতা ও নৈতিক নেতৃর্ত্বের",
+        "hint": "স্বচ্ছতা, জবাবদিহিতা ও ক্ষমতার সততা বজায় রাখাই সুশাসনের নীতি।"
+    },
+    {
+        "question": "১৬৬. একজন টাইপ—১ ডায়াবেটিক রোগীর ক্ষেত্রে কোন বক্তব্যটি সঠিক?",
+        "answers": [
+            {
+                "text": "ক. নির্দিষ্ট কোষের ইনসুলিন প্রতিরোধিতা",
+                "score": 0
+            },
+            {
+                "text": "খ. বিটা কোষগুলির অটো—ইমিউন ধ্বংসের কারণে অগ্ন্যাশয় অপর্যাপ্ত ইনসুলিন তৈরি করে",
+                "score": 1
+            },
+            {
+                "text": "গ. অগ্ন্যাশয়ের আলফা কোষ দ্বারা গ্লুকাগনের অতিরিক্ত উৎপাদন",
+                "score": 0
+            },
+            {
+                "text": "ঘ. প্রো—ইনসুলিন থেকে ইনসুলিনে রূপান্তরে ত্রুটি",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. বিটা কোষগুলির অটো—ইমিউন ধ্বংসের কারণে অগ্ন্যাশয় অপর্যাপ্ত ইনসুলিন তৈরি করে",
+        "hint": "টাইপ-১ ডায়াবেটিসে শরীরের অনাক্রম্যতন্ত্র অগ্ন্যাশয়ের ইনসুলিন তৈরিকারী বিটা কোষগুলোকে ধ্বংস করে ফেলে।"
+    },
+    {
+        "question": "১৬৭. কোনটির দেহে নিউক্লিয়াস ও সাইটোপ্লাজম নেই?",
+        "answers": [
+            {
+                "text": "ক. শৈবাল",
+                "score": 0
+            },
+            {
+                "text": "খ. ছত্রাক",
+                "score": 0
+            },
+            {
+                "text": "গ. ভাইরাস",
+                "score": 1
+            },
+            {
+                "text": "ঘ. ব্যাকটেরিয়া",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. ভাইরাস",
+        "hint": "ভাইরাস অকোষীয় (Acellular); এতে কোনো কোষপর্দা, সাইটোপ্লাজম বা সুগঠিত নিউক্লিয়াস থাকে না।"
+    },
+    {
+        "question": "১৬৮. লিথিয়াম—আয়ন ব্যাটারির সম্পর্কে কোন বিবৃতিটি মিথ্যা?",
+        "answers": [
+            {
+                "text": "ক. Ni-Cd ব্যাটারির তুলনায় এদের শক্তির ঘনত্ব বেশি",
+                "score": 0
+            },
+            {
+                "text": "খ. এতে লিথিয়াম কোবাল্ট অক্সাইড ক্যাথোড ব্যবহার করা হয়",
+                "score": 0
+            },
+            {
+                "text": "গ. মেমোরি এফেক্ট—এর কারণে এদের পর্যায়ক্রমিক ডিসচার্জের প্রয়োজন হয়",
+                "score": 1
+            },
+            {
+                "text": "ঘ. এখানে অতিরিক্ত চার্জিং—এর ফলে আগুন লাগতে পারে",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. মেমোরি এফেক্ট—এর কারণে এদের পর্যায়ক্রমিক ডিসচার্জের প্রয়োজন হয়",
+        "hint": "লিথিয়াম-আয়ন ব্যাটারিতে 'Memory Effect' সমস্যা নেই, যা পুরানো Ni-Cd ব্যাটারিতে দেখা যেত।"
+    },
+    {
+        "question": "১৬৯. ভাইরাস সম্পর্কে কোন বিবৃতিটি সঠিক?",
+        "answers": [
+            {
+                "text": "ক. এদের যেকোনো সিনথেটিক নিউট্রিয়েন্ট মিডিয়ামে কালচার করা যায়",
+                "score": 0
+            },
+            {
+                "text": "খ. এদের জেনেটিক উপাদান হিসেবে ডিএনএ এবং আরএনএ থাকে",
+                "score": 0
+            },
+            {
+                "text": "গ. এরা এক ধরনের অন্তঃকোষীয় পরজীবী",
+                "score": 1
+            },
+            {
+                "text": "ঘ. ভাইরাস হলো অণুবীক্ষণিক জীবন্ত প্রাণী",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. এরা এক ধরনের অন্তঃকোষীয় পরজীবী",
+        "hint": "ভাইরাস কেবল বাধ্যতামূলক অন্তঃকোষীয় পরজীবী (Obligate intracellular parasite) হিসেবেই প্রতিলিপি তৈরি করতে পারে।"
+    },
+    {
+        "question": "১৭০. কোন টিস্যু পেশীকে হাড়ের সাথে সংযুক্ত রাখে?",
+        "answers": [
+            {
+                "text": "ক. তরুণাস্থি",
+                "score": 0
+            },
+            {
+                "text": "খ. লিগামেন্ট",
+                "score": 0
+            },
+            {
+                "text": "গ. টেন্ডন",
+                "score": 1
+            },
+            {
+                "text": "ঘ. অ্যারিওলার টিস্যু",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. টেন্ডন",
+        "hint": "টেন্ডন পেশীকে অস্থির সাথে যুক্ত করে, অপরদিকে লিগামেন্ট অস্থিকে অপরাপর অস্থির সাথে যুক্ত করে।"
+    },
+    {
+        "question": "১৭১. ‘এপিকালচার’ কোন বিষয় নিয়ে আলোচনা করে?",
+        "answers": [
+            {
+                "text": "ক. গুটিপোকা এবং রেশম",
+                "score": 0
+            },
+            {
+                "text": "খ. মৌমাছি এবং মধু",
+                "score": 1
+            },
+            {
+                "text": "গ. মৎস্য চাষ",
+                "score": 0
+            },
+            {
+                "text": "ঘ. তামাক চাষ",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. মৌমাছি এবং মধু",
+        "hint": "মৌমাছি পালন ও মধু উৎপাদনের বিজ্ঞানসম্মত বিদ্যাকে এপিকালচার (Apiculture) বলা হয়।"
+    },
+    {
+        "question": "১৭২. জেমস ওয়েব স্পেস টেলিস্কোপ (JWST) মূলত তড়িৎ—চুম্বকীয় বর্ণালীর কোন অংশে মহাবিশ্ব পর্যবেক্ষণ করার জন্য ডিজাইন করা হয়েছে?",
+        "answers": [
+            {
+                "text": "ক. অবলোহিত অঞ্চল",
+                "score": 1
+            },
+            {
+                "text": "খ. দৃশ্যমান এবং নিকট—অবলোহিত অঞ্চল",
+                "score": 0
+            },
+            {
+                "text": "গ. অতিবেগুনী এবং দৃশ্যমান অঞ্চল",
+                "score": 0
+            },
+            {
+                "text": "ঘ. এক্স—রে এবং গামা—রে অঞ্চল",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ক. অবলোহিত অঞ্চল",
+        "hint": "JWST প্রধানত ইনফ্রারেড (Infrared) বর্ণালী ব্যবহার করে দূরের গ্যালাক্সি দৃশ্যমান করে।"
+    },
+    {
+        "question": "১৭৩. পরমাণু চুল্লিতে সচরাচর কোন জ্বালানি ব্যবহার করা হয়?",
+        "answers": [
+            {
+                "text": "ক. ইউরেনিয়াম—২৩৫",
+                "score": 1
+            },
+            {
+                "text": "খ. ইউরেনিয়াম—২৩৮",
+                "score": 0
+            },
+            {
+                "text": "গ. থোরিয়াম—১৩২",
+                "score": 0
+            },
+            {
+                "text": "ঘ. প্লুটোনিয়াম—২৪০",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ক. ইউরেনিয়াম—২৩৫",
+        "hint": "পারমাণবিক ফিশন বিক্রিয়ার প্রধান জ্বালানি হিসেবে সমৃদ্ধ ইউরেনিয়াম-২৩৫ ব্যবহার করা হয়।"
+    },
+    {
+        "question": "১৭৪. কোন বাঙ্গালি বিজ্ঞানী কৃষ্ণগহ্বর নিয়ে গবেষণা করেছেন?",
+        "answers": [
+            {
+                "text": "ক. ড. কুদরত—ই—খুদা",
+                "score": 0
+            },
+            {
+                "text": "খ. কাজী মোতাহার হোসেন",
+                "score": 0
+            },
+            {
+                "text": "গ. জামাল নজরুল ইসলাম",
+                "score": 1
+            },
+            {
+                "text": "ঘ. অতীশ দীপংকর",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. জামাল নজরুল ইসলাম",
+        "hint": "আন্তর্জাতিক খ্যাতিসম্পন্ন পদার্থবিজ্ঞানী প্রফেসর জামাল নজরুল ইসলাম ব্ল্যাকহোল ও মহাবিশ্বের পরিণতি নিয়ে বিশ্বমানের গবেষণা করেছেন।"
+    },
+    {
+        "question": "১৭৫. বস্তুর ওজন পৃথিবীর কোন স্থানে সবচেয়ে বেশি?",
+        "answers": [
+            {
+                "text": "ক. মেরু অঞ্চল",
+                "score": 1
+            },
+            {
+                "text": "খ. নিরক্ষীয় অঞ্চল",
+                "score": 0
+            },
+            {
+                "text": "গ. একটি পাহাড়ের চূড়ায়",
+                "score": 0
+            },
+            {
+                "text": "ঘ. পৃথিবীর কেন্দ্রে",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ক. মেরু অঞ্চল",
+        "hint": "মেরু অঞ্চলে পৃথিবীর ব্যাসার্ধ কম হওয়ায় অভিকর্ষজ ত্বরন (g) সর্বোচ্চ, ফলে ওজনও সর্বাধিক।"
+    },
+    {
+        "question": "১৭৬. একটি NPN ট্রানজিস্টরে, প্রধান চার্জ বাহক হলো—",
+        "answers": [
+            {
+                "text": "ক. হোল",
+                "score": 0
+            },
+            {
+                "text": "খ. ইলেকট্রন",
+                "score": 1
+            },
+            {
+                "text": "গ. প্রোটন",
+                "score": 0
+            },
+            {
+                "text": "ঘ. আয়ন",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. ইলেকট্রন",
+        "hint": "NPN ট্রানজিস্টরে N-টাইপ সেমিকন্ডাক্টর বেশি থাকার কারণে প্রধান চার্জ বাহক (Majority Carrier) হলো ইলেকট্রন।"
+    },
+    {
+        "question": "১৭৭. কোনটি মাইক্রোওয়েব ওভেনের কার্যনীতিকে সর্বোত্তমভাবে বর্ণনা করতে পারে?",
+        "answers": [
+            {
+                "text": "ক. উচ্চ তাপ বিকিরণ এবং খাদ্য কণাগুলিতে পরিবহন",
+                "score": 0
+            },
+            {
+                "text": "খ. খাদ্য কণাগুলিতে ইনফ্রারেড বিকিরণ এবং শোষণ",
+                "score": 0
+            },
+            {
+                "text": "গ. পানির অণুগুলির ইন্ডাকশন হিটিং",
+                "score": 0
+            },
+            {
+                "text": "ঘ. ঘূর্ণনের কারণে ডাই—ইলেকট্রিক হিটিং",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. ঘূর্ণনের কারণে ডাই—ইলেকট্রিক হিটিং",
+        "hint": "মাইক্রোওয়েভ বিকিরণ মেরুীয় অণুগুলোর (পানির অণু) দ্রুত ঘূর্ণন ঘটায়, যাকে ডাই-ইলেকট্রিক হিটিং বলে।"
+    },
+    {
+        "question": "১৭৮. MRI কোন নীতিতে কাজ করে?",
+        "answers": [
+            {
+                "text": "ক. শরীরের ত্রি—মাত্রিক চিত্র তৈরি করতে এক্স—রে ব্যবহার করে",
+                "score": 0
+            },
+            {
+                "text": "খ. তেজস্ক্রিয় ট্রেসার দ্বারা নির্গত গামা—রে সনাক্তের মাধ্যমে",
+                "score": 0
+            },
+            {
+                "text": "গ. শক্তিশালী চুম্বক এবং রেডিও তরঙ্গ ব্যবহার করে ইমেজ তৈরির মাধ্যমে",
+                "score": 1
+            },
+            {
+                "text": "ঘ. উচ্চ ফ্রিকোয়েন্সি শব্দ তরঙ্গ ব্যবহার করে ইমেজ তৈরির মাধ্যমে",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. শক্তিশালী চুম্বক এবং রেডিও তরঙ্গ ব্যবহার করে ইমেজ তৈরির মাধ্যমে",
+        "hint": "MRI (Magnetic Resonance Imaging) কোনো ক্ষতিকর বিকিরণ ছাড়াই শক্তিশালী চৌম্বকক্ষেত্র ও রেডিও তরঙ্গ ব্যবহার করে।"
+    },
+    {
+        "question": "১৭৯. গ্রো হাইড্রোজেন—এর তুলনায় গ্রিন—হাইড্রোজেনের সুবিধা হলো—",
+        "answers": [
+            {
+                "text": "ক. এটি উৎপাদন করা সস্তা",
+                "score": 0
+            },
+            {
+                "text": "খ. এতে কার্বন নিঃসরণ প্রায় শূন্য হয়",
+                "score": 1
+            },
+            {
+                "text": "গ. এটি সংরক্ষণ এবং পরিবহন করা সহজ",
+                "score": 0
+            },
+            {
+                "text": "ঘ. প্রতি একক আয়তনে এর শক্তি ঘনত্ব বেশি",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. এতে কার্বন নিঃসরণ প্রায় শূন্য হয়",
+        "hint": "নবায়নযোগ্য শক্তি ব্যবহার করে পানির তড়িৎ বিশ্লেষণের মাধ্যমে গ্রিন হাইড্রোজেন পাওয়া যায়, যাতে কোনো কার্বন নির্গমন হয় না।"
+    },
+    {
+        "question": "১৮০. কোভিড—১৯ এর জন্য তৈরি টিকা কীভাবে কাজ করে?",
+        "answers": [
+            {
+                "text": "ক. রোগ প্রতিরোধ ক্ষমতা উদ্দীপিত করার জন্য দুর্বল ভাইরাসের একটি রূপ প্রবর্তন করে",
+                "score": 0
+            },
+            {
+                "text": "খ. পরিশোধিত ভাইরাস প্রোটিনের সাব—ইউনিট প্রবিষ্ট করানোর মাধ্যমে",
+                "score": 0
+            },
+            {
+                "text": "গ. হোস্ট কোষে জেনেটিক উপাদান বহন করার জন্য একটি ভাইরাস ঘটিত বাহক ব্যবহার করে",
+                "score": 0
+            },
+            {
+                "text": "ঘ. mRNA সরবরাহ করে যা হোস্ট কোষগুলোকে একটি ভাইরাস প্রোটিন তৈরির নির্দেশ দেয়",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. mRNA সরবরাহ করে যা হোস্ট কোষগুলোকে একটি ভাইরাস প্রোটিন তৈরির নির্দেশ দেয়",
+        "hint": "Pfizer/Moderna-এর মতো আধুনিক mRNA টিকাগুলো কোষে মেসেঞ্জার আরএনএ পৌঁছে দিয়ে ভাইরাসের স্পাইক প্রোটিন তৈরিতে উৎসাহিত করে।"
+    },
+    {
+        "question": "১৮১. পারমাণবিক চুল্লিতে মডারেটরের প্রাথমিক কাজ হলো—",
+        "answers": [
+            {
+                "text": "ক. অতিরিক্ত নিউট্রন শোষণ এবং চেইন বিক্রিয়া নিয়ন্ত্রণ",
+                "score": 0
+            },
+            {
+                "text": "খ. চুল্লির কেন্দ্রে উৎপন্ন তাপ স্থানান্তর করে শীতল করা",
+                "score": 0
+            },
+            {
+                "text": "গ. দ্রুতগতি সম্পন্ন নিউট্রনগুলোকে ধীরগতি করে ফিশনের সম্ভাবনা বাড়ানো",
+                "score": 1
+            },
+            {
+                "text": "ঘ. ক্ষতিকারক গামা বিকিরণ থেকে সুরক্ষা প্রদান",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. দ্রুতগতি সম্পন্ন নিউট্রনগুলোকে ধীরগতি করে ফিশনের সম্ভাবনা বাড়ানো",
+        "hint": "মডারেটর (যেমন ভারী পানি, গ্রাফাইট) নিউট্রনের গতি হ্রাস করে যাতে নিরবচ্ছিন্ন ফিশন বিক্রিয়া বজায় থাকে।"
+    },
+    {
+        "question": "১৮২. আপনার পার্সোনাল কম্পিউটারে (পিসি) কোন একটি প্রোগ্রাম এর কর্মদক্ষতা (Performance) বৃদ্ধির জন্য কোন কাজটি করা সর্বোত্তম হবে বলে আপনি মনে করেন?",
+        "answers": [
+            {
+                "text": "ক. প্রোগ্রামটির জন্য এমন একটা এলগরিদম তৈরি করা যা asymptotically faster",
+                "score": 1
+            },
+            {
+                "text": "খ. পিসির configuration উন্নত করা",
+                "score": 0
+            },
+            {
+                "text": "গ. খুব দ্রুত গতির I/O devices লাগানো",
+                "score": 0
+            },
+            {
+                "text": "ঘ. খ এবং গ উভয়ই",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ক. প্রোগ্রামটির জন্য এমন একটা এলগরিদম তৈরি করা যা asymptotically faster",
+        "hint": "সফটওয়্যার পর্যায়ে ভালো অ্যালগরিদম ডিজাইন কার্যক্ষমতা বহুগুণ বাড়াতে পারে যা কেবল হার্ডওয়্যার দিয়ে সম্ভব নয়।"
+    },
+    {
+        "question": "১৮৩. কোনটি ই—কমার্সের প্লাটফর্ম হিসাবে কাজ করতে পারে?",
+        "answers": [
+            {
+                "text": "ক. Facebook",
+                "score": 0
+            },
+            {
+                "text": "খ. Amazon",
+                "score": 0
+            },
+            {
+                "text": "গ. Youtube",
+                "score": 0
+            },
+            {
+                "text": "ঘ. All of the above",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. All of the above",
+        "hint": "বর্তমানে ই-কমার্স মার্কেটপ্লেসের বাইরে সোশ্যাল মিডিয়া ও ভিডিও প্লাটফর্মগুলোতেও কেনাবেচা বা পণ্য বাজারজাত করা যায়।"
+    },
+    {
+        "question": "১৮৪. ক্লাউড কম্পিউটিং কোন পরিষেবা প্রদান করে?",
+        "answers": [
+            {
+                "text": "ক. শুধুমাত্র লোকাল স্টোরেজ",
+                "score": 0
+            },
+            {
+                "text": "খ. ভার্চুয়াল কম্পিউটিং রিসোর্সেস",
+                "score": 1
+            },
+            {
+                "text": "গ. শুধুমাত্র ভার্চুয়াল স্টোরেজ",
+                "score": 0
+            },
+            {
+                "text": "ঘ. উপরের সবগুলো",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. ভার্চুয়াল কম্পিউটিং রিসোর্সেস",
+        "hint": "ক্লাউড কম্পিউটিং অন-ডিমান্ড সার্ভার, স্টোরেজ, ডেটাবেস, নেটওয়ার্কিং ইত্যাদি ভার্চুয়াল সুবিধা প্রদান করে।"
+    },
+    {
+        "question": "১৮৫. ডেটাবেস হলো—",
+        "answers": [
+            {
+                "text": "ক. তথ্য রাখার হার্ডওয়্যারসমূহ",
+                "score": 0
+            },
+            {
+                "text": "খ. তথ্য রাখার প্রোগ্রামসমূহ",
+                "score": 0
+            },
+            {
+                "text": "গ. তথ্যসমূহের সুসংগঠিত রূপ",
+                "score": 1
+            },
+            {
+                "text": "ঘ. তথ্য স্থানান্তরের জন্য ইন্টারনেট পরিষেবা",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. তথ্যসমূহের সুসংগঠিত রূপ",
+        "hint": "ডেটাবেস হলো কোনো সুনির্দিষ্ট কাঠামোয় সংরক্ষিত উপাত্ত বা তথ্যের সুসংগঠিত সমাবেশ।"
+    },
+    {
+        "question": "১৮৬. HTTPS কোন বৈশিষ্ট্য HTTP—এর সাথে যোগ করে?",
+        "answers": [
+            {
+                "text": "ক. Security",
+                "score": 1
+            },
+            {
+                "text": "খ. Standardization",
+                "score": 0
+            },
+            {
+                "text": "গ. Software",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Sense",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ক. Security",
+        "hint": "HTTPS শব্দের 'S' দ্বারা 'Secure' বোঝায়, যা SSL/TLS এনক্রিপশন যুক্ত সিকিউরিটি তৈরি করে।"
+    },
+    {
+        "question": "১৮৭. OCR ⎯ থেকে ⎯ এ রূপান্তরের জন্য ব্যবহার করা হয়।",
+        "answers": [
+            {
+                "text": "ক. অডিও হতে টেক্সট",
+                "score": 0
+            },
+            {
+                "text": "খ. ইমেজ হতে টেক্সট",
+                "score": 1
+            },
+            {
+                "text": "গ. ভিডিও হতে টেক্সট",
+                "score": 0
+            },
+            {
+                "text": "ঘ. বাইনারি হতে ডেসিমেল",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. ইমেজ হতে টেক্সট",
+        "hint": "Optical Character Reader (OCR) কোনো ছবি বা স্ক্যানকৃত ডকুমেন্টকে এডিটেবল টেক্সটে রূপান্তর করে।"
+    },
+    {
+        "question": "১৮৮. GHz কীসের একক?",
+        "answers": [
+            {
+                "text": "ক. মেমোরির আকার",
+                "score": 0
+            },
+            {
+                "text": "খ. প্রসেসরের গতি",
+                "score": 1
+            },
+            {
+                "text": "গ. তথ্য স্থানান্তরের গতি",
+                "score": 0
+            },
+            {
+                "text": "ঘ. তথ্য উৎপাদনের পরিমাণ",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. প্রসেসরের গতি",
+        "hint": "গিগাহার্টজ (GHz) প্রসেসরের ক্লক স্পিড বা কার্যক্ষমতার গতি নির্দেশক একক।"
+    },
+    {
+        "question": "১৮৯. Transmission Control Protocol (TCP) OSI রেফারেন্স মডেলের কোন লেয়ারের প্রোটোকল?",
+        "answers": [
+            {
+                "text": "ক. অ্যাপ্লিকেশন লেয়ার",
+                "score": 0
+            },
+            {
+                "text": "খ. নেটওয়ার্ক লেয়ার",
+                "score": 0
+            },
+            {
+                "text": "গ. ট্রান্সপোর্ট লেয়ার",
+                "score": 1
+            },
+            {
+                "text": "ঘ. ডেটালিঙ্ক লেয়ার",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. ট্রান্সপোর্ট লেয়ার",
+        "hint": "OSI মডেলের ৪র্থ লেয়ার তথা ট্রান্সপোর্ট লেয়ারে TCP ও UDP প্রোটোকল কাজ করে।"
+    },
+    {
+        "question": "১৯০. স্মার্টফোনে GPS ব্যবহারের জন্য কোনটি প্রয়োজন?",
+        "answers": [
+            {
+                "text": "ক. DHCP",
+                "score": 0
+            },
+            {
+                "text": "খ. Accelerometer",
+                "score": 0
+            },
+            {
+                "text": "গ. Gyroscope",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Satellite Signal",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. Satellite Signal",
+        "hint": "GPS (Global Positioning System) সরাসরি মহাকাশের উপগ্রহ স্যাটেলাইট সিগন্যালের সাথে যুক্ত হয়ে কাজ করে।"
+    },
+    {
+        "question": "১৯১. কম্পিউটার সায়েন্সে Trojan Horse একটি—",
+        "answers": [
+            {
+                "text": "ক. ছবি এডিট করার সফটওয়্যার",
+                "score": 0
+            },
+            {
+                "text": "খ. অপারেটিং সিস্টেম",
+                "score": 0
+            },
+            {
+                "text": "গ. প্রোগ্রামিং ল্যাঙ্গুয়েজ",
+                "score": 0
+            },
+            {
+                "text": "ঘ. ম্যালওয়ার",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. ম্যালওয়ার",
+        "hint": "ট্রোজান হর্স হলো এক প্রকার ক্ষতিকর ছদ্মবেশী ম্যালওয়্যার বা সফটওয়্যার।"
+    },
+    {
+        "question": "১৯২. 0x1234 সংখ্যার বাইনারিরূপ কোনটি?",
+        "answers": [
+            {
+                "text": "ক. 001010011100",
+                "score": 0
+            },
+            {
+                "text": "খ. 0010010010100",
+                "score": 0
+            },
+            {
+                "text": "গ. 1110101111001011",
+                "score": 0
+            },
+            {
+                "text": "ঘ. 0001001000110100",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. 0001001000110100",
+        "hint": "হেক্সাডেসিমেল ১=০০০১, ২=০০১০, ৩=০০১১, ৪=০১০০; সমন্বয় করলে 0001001000110100 হয়।"
+    },
+    {
+        "question": "১৯৩. মোবাইল ফোন অপারেটররা কোন অ্যালগরিদম ব্যবহার করে লোকেশন ট্র্যাক করে?",
+        "answers": [
+            {
+                "text": "ক. Shortest Path",
+                "score": 0
+            },
+            {
+                "text": "খ. Triangulation",
+                "score": 1
+            },
+            {
+                "text": "গ. Nearest-neighbour",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Encryption",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. Triangulation",
+        "hint": "সেলুলার টাওয়ারের ৩টি বিন্দুর সিগন্যালের দূরত্বের হিসাব কষে অবস্থান নির্ণয় করার কৌশল হলো Triangulation।"
+    },
+    {
+        "question": "১৯৪. একটা 4—bit বাইনারি সিস্টেমে শূন্য এর 2’s complement এর ডেসিম্যাল মান কত হবে?",
+        "answers": [
+            {
+                "text": "ক. ১৬",
+                "score": 0
+            },
+            {
+                "text": "খ. ০",
+                "score": 1
+            },
+            {
+                "text": "গ. ১৫",
+                "score": 0
+            },
+            {
+                "text": "ঘ. কোনোটিই নয়",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. ০",
+        "hint": "শূন্য (0000)-এর 2's complement নির্ণয় করলে পুনরায় শূন্য (0000)-ই পাওয়া যায়।"
+    },
+    {
+        "question": "১৯৫. ‘Pixel’ দ্বারা কী বুঝায়?",
+        "answers": [
+            {
+                "text": "ক. Pixie land",
+                "score": 0
+            },
+            {
+                "text": "খ. Person length",
+                "score": 0
+            },
+            {
+                "text": "গ. Pixure length",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Picture element",
+                "score": 1
+            }
+        ],
+        "correct_answer": "ঘ. Picture element",
+        "hint": "Pixel শব্দটি 'Picture Element'-এর সংক্ষিপ্ত রূপ।"
+    },
+    {
+        "question": "১৯৬. কোনটি কম্বিনেশনাল লজিক সার্কিট নয়?",
+        "answers": [
+            {
+                "text": "ক. রেজিস্টার",
+                "score": 1
+            },
+            {
+                "text": "খ. ডিকোডার",
+                "score": 0
+            },
+            {
+                "text": "গ. মাল্টিপ্লেক্সার",
+                "score": 0
+            },
+            {
+                "text": "ঘ. NAND গেট",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ক. রেজিস্টার",
+        "hint": "রেজিস্টার একটি সিকোয়েন্সিয়াল (Sequential) সার্কিট কারণ এতে ডেটা সংরক্ষণের জন্য মেমোরি এলিমেন্ট বা ফ্লিপ-ফ্লপ থাকে।"
+    },
+    {
+        "question": "১৯৭. জারিনের জন্ম ২৯ ফেব্রুয়ারি। তার জন্মগ্রহণের সাল কোনটি হতে পারে?",
+        "answers": [
+            {
+                "text": "ক. ২০০২",
+                "score": 0
+            },
+            {
+                "text": "খ. ২০০৪",
+                "score": 1
+            },
+            {
+                "text": "গ. ২০০৬",
+                "score": 0
+            },
+            {
+                "text": "ঘ. ২০১০",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. ২০০৪",
+        "hint": "২৯ ফেব্রুয়ারি কেবল লিপ ইয়ার বা অধিবর্ষে আসে। প্রদত্ত সালগুলোর মধ্যে ২০০৪ সালটি ৪ দ্বারা বিভাজ্য।"
+    },
+    {
+        "question": "১৯৮. কোনটি UNESCO ‘Intangible Cultural Heritage’ এর অন্তর্ভুক্ত?",
+        "answers": [
+            {
+                "text": "ক. একুশে ফেব্রুয়ারি",
+                "score": 0
+            },
+            {
+                "text": "খ. পহেলা বৈশাখ",
+                "score": 0
+            },
+            {
+                "text": "গ. বাউল গান",
+                "score": 1
+            },
+            {
+                "text": "ঘ. জামদানি বয়ন শিল্প",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. বাউল গান",
+        "hint": "ইউনেস্কো ২০০৫ সালে বাংলাদেশের বাউল গানকে মানবজাতির অমূল্য অধরা সাংস্কৃতিক ঐতিহ্য (Intangible Cultural Heritage) ঘোষণা করে।"
+    },
+    {
+        "question": "১৯৯. কোনটি মানুষকে লক্ষ্যবস্তুর দিকে পরিচালিত করে?",
+        "answers": [
+            {
+                "text": "ক. প্রয়োজন",
+                "score": 0
+            },
+            {
+                "text": "খ. প্রেষণা",
+                "score": 1
+            },
+            {
+                "text": "গ. ইচ্ছা",
+                "score": 0
+            },
+            {
+                "text": "ঘ. শারীরিক শক্তি",
+                "score": 0
+            }
+        ],
+        "correct_answer": "খ. প্রেষণা",
+        "hint": "প্রেষণা (Motivation) হলো মানুষের ভেতরের সেই চালিকাশক্তি যা তাকে কোনো সুনির্দিষ্ট লক্ষ্য অর্জনের দিকে চালিত করে।"
+    },
+    {
+        "question": "২০০. আন্তর্জাতিক নিরাপত্তা আলোচনায় নিচের কোন সাইবার হুমকিটি ক্রমবর্ধমানভাবে তাৎপর্যপূর্ণ হয়ে উঠেছে?",
+        "answers": [
+            {
+                "text": "ক. ফিশিং (Phishing)",
+                "score": 0
+            },
+            {
+                "text": "খ. স্প্যাম ইমেইল (Spam e-mail)",
+                "score": 0
+            },
+            {
+                "text": "গ. র‌্যানসমওয়্যার অ্যাটাক (Ransomware Attack)",
+                "score": 1
+            },
+            {
+                "text": "ঘ. পরিচয় চুরি (Identity Theft)",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গ. র‌্যানসমওয়্যার অ্যাটাক (Ransomware Attack)",
+        "hint": "গুরুত্বপূর্ণ অবকাঠামো বিকল করে মুক্তিপণ দাবি করা র্যানসমওয়্যার অ্যাটাক বর্তমানে বৈশ্বিক নিরাপত্তার বড় হুমকি।"
+    }
+]

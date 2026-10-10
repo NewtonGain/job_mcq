@@ -1,0 +1,4580 @@
+[
+    {
+        "question": "1. 'ইউসুফ-জোলেখা'র কবি শাহ মুহম্মদ সগীরের জন্ম কোথায়?",
+        "answers": [
+            {
+                "text": "ক. বগুড়া",
+                "score": 0
+            },
+            {
+                "text": "খ. সিলেট",
+                "score": 0
+            },
+            {
+                "text": "গ. নদীয়া",
+                "score": 0
+            },
+            {
+                "text": "ঘ. চট্টগ্রাম",
+                "score": 1
+            }
+        ],
+        "correct_answer": "চট্টগ্রাম",
+        "hint": "বাংলা সাহিত্যের মধ্যযুগের প্রথম মুসলিম কবি শাহ মুহম্মদ সগীর চট্টগ্রাম জেলার ফটিকছড়িতে জন্মগ্রহণ করেন।"
+    },
+    {
+        "question": "2. 'তিনি কথা বললেন না।'- বাক্যটির অস্তিবাচক রূপ কী হবে?",
+        "answers": [
+            {
+                "text": "ক. তিনি কথা বলতে চাইলেন না।",
+                "score": 0
+            },
+            {
+                "text": "খ. তিনি কথা না বলে থাকতে পারলেন না।",
+                "score": 0
+            },
+            {
+                "text": "গ. তিনি নীরব থাকতে চেষ্টা করলেন।",
+                "score": 0
+            },
+            {
+                "text": "ঘ. তিনি চুপ করে থাকলেন।",
+                "score": 1
+            }
+        ],
+        "correct_answer": "তিনি চুপ করে থাকলেন।",
+        "hint": "অর্থের পরিবর্তন না করে 'কথা বললেন না' না-বাচক রূপটিকে হ্যাঁ-বাচক বা অস্তিবাচক করতে 'চুপ করে থাকলেন' বা 'নীরব থাকলেন' ব্যবহার করা হয়।"
+    },
+    {
+        "question": "3. ফররুখ আহমদের 'সাত সাগরের মাঝি' কত সালে প্রকাশিত হয়?",
+        "answers": [
+            {
+                "text": "ক. ১৯০৫",
+                "score": 0
+            },
+            {
+                "text": "খ. ১৯৪০",
+                "score": 0
+            },
+            {
+                "text": "গ. ১৯৪৪",
+                "score": 1
+            },
+            {
+                "text": "ঘ. ১৯৫৫",
+                "score": 0
+            }
+        ],
+        "correct_answer": "১৯৪৪",
+        "hint": "মুসলিম রেনেসাঁর কবি ফররুখ আহমদের প্রথম এবং সর্বশ্রেষ্ঠ কাব্যগ্রন্থ 'সাত সাগরের মাঝি' দ্বিতীয় বিশ্বযুদ্ধের সময় ১৯৪৪ সালে প্রকাশিত হয়।"
+    },
+    {
+        "question": "4. 'যে আলোতে কুমুদ ফোটে'- এককথায় কী হবে?",
+        "answers": [
+            {
+                "text": "ক. কুমুদিন",
+                "score": 0
+            },
+            {
+                "text": "খ. কৌমুদী",
+                "score": 1
+            },
+            {
+                "text": "গ. প্রভাবতী",
+                "score": 0
+            },
+            {
+                "text": "ঘ. বিভা",
+                "score": 0
+            }
+        ],
+        "correct_answer": "কৌমুদী",
+        "hint": "'কৌমুদী' শব্দের অর্থ জোছনা বা চাঁদের আলো, যে আলোতে শাপলা বা কুমুদ ফুল ফোটে।"
+    },
+    {
+        "question": "5. বাক্যের অন্তর্গত শব্দের পারস্পরিক সম্পর্ক ব্যাকরণের কোন অংশে আলোচিত হয়?",
+        "answers": [
+            {
+                "text": "ক. সন্ধি",
+                "score": 0
+            },
+            {
+                "text": "খ. পদ",
+                "score": 0
+            },
+            {
+                "text": "গ. কাল",
+                "score": 0
+            },
+            {
+                "text": "ঘ. কারক",
+                "score": 1
+            }
+        ],
+        "correct_answer": "কারক",
+        "hint": "বাক্যস্থিত ক্রিয়াপদের সাথে নামপদের বা অন্যান্য শব্দের পারস্পরিক সম্পর্ককে 'কারক' বলা হয়।"
+    },
+    {
+        "question": "6. ক্রিয়াপদের মূল অংশকে কী বলে?",
+        "answers": [
+            {
+                "text": "ক. কর্ম",
+                "score": 0
+            },
+            {
+                "text": "খ. ধাতু",
+                "score": 1
+            },
+            {
+                "text": "গ. প্রত্যয়",
+                "score": 0
+            },
+            {
+                "text": "ঘ. বিভক্তি",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ধাতু",
+        "hint": "ক্রিয়াপদকে বিশ্লেষণ করলে দুটি অংশ পাওয়া যায়—মূল অংশকে 'ধাতু' বা ক্রিয়া মূল এবং অন্যটি হলো ক্রিয়া-বিভক্তি।"
+    },
+    {
+        "question": "7. শুদ্ধ বাক্য কোনটি?",
+        "answers": [
+            {
+                "text": "ক. সারা দেশব্যাপী দিবসটি উদ্‌যাপন করা হবে।",
+                "score": 0
+            },
+            {
+                "text": "খ. সারা দেশে দিবসটি উদ্যাপন করা হবে।",
+                "score": 0
+            },
+            {
+                "text": "গ. দেশব্যাপী দিবসটি উদ্যাপন করা হবে।",
+                "score": 0
+            },
+            {
+                "text": "ঘ. সারা দেশে দিবসটি উদ্‌যাপন করা হবে।",
+                "score": 1
+            }
+        ],
+        "correct_answer": "সারা দেশে দিবসটি উদ্‌যাপন করা হবে।",
+        "hint": "'সারা' এবং 'ব্যাপী' একই বাক্যে বসালে বাহুল্য দোষ ঘটে, তাই 'সারা দেশে' শুদ্ধ। এবং প্রমিত বানান অনুযায়ী 'উদ্+যাপন' = 'উদ্‌যাপন' বহাল থাকে।"
+    },
+    {
+        "question": "8. 'শ্রীকৃষ্ণকীর্তন' কাব্যের প্রথম খণ্ডের নাম কী?",
+        "answers": [
+            {
+                "text": "ক. জন্মখন্ড",
+                "score": 1
+            },
+            {
+                "text": "খ. তাম্বুলখণ্ড",
+                "score": 0
+            },
+            {
+                "text": "গ. দানখণ্ড",
+                "score": 0
+            },
+            {
+                "text": "ঘ. রাধাবিরহ",
+                "score": 0
+            }
+        ],
+        "correct_answer": "জন্মখন্ড",
+        "hint": "বড়ূ চণ্ডীদাস রচিত 'শ্রীকৃষ্ণকীর্তন' কাব্যে মোট ১৩টি খণ্ড রয়েছে, যার প্রথম খণ্ডটি হলো 'জন্মখণ্ড' এবং শেষ খণ্ডটি 'রাধা বিরহ'।"
+    },
+    {
+        "question": "9. অনুভূতিজাত দ্বিরুক্ত শব্দ কোনটি?",
+        "answers": [
+            {
+                "text": "ক. ছমছম",
+                "score": 1
+            },
+            {
+                "text": "খ. ঝমঝম",
+                "score": 0
+            },
+            {
+                "text": "গ. টিকটিক",
+                "score": 0
+            },
+            {
+                "text": "ঘ. ঠিক ঠিক",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ছমছম",
+        "hint": "যেসব দ্বিরুক্ত শব্দ দ্বারা কোনো অনুভূতির প্রকাশ ঘটে (যেমন: ভয় বা গা ছমছম করা) তাকে অনুভূতিজাত বা অনুকার দ্বিরুক্ত বলে।"
+    },
+    {
+        "question": "10. ছড়ার ছন্দকে কী বলে?",
+        "answers": [
+            {
+                "text": "ক. স্বরবৃত্ত",
+                "score": 1
+            },
+            {
+                "text": "খ. মাত্রাবৃত্ত",
+                "score": 0
+            },
+            {
+                "text": "গ. অক্ষরবৃত্ত",
+                "score": 0
+            },
+            {
+                "text": "ঘ. গদ্যছন্দ",
+                "score": 0
+            }
+        ],
+        "correct_answer": "স্বরবৃত্ত",
+        "hint": "দ্রুত লয়ের এই ছন্দটিতে ছড়া ও লোকগাথা রচিত হয় বলে স্বরবৃত্ত ছন্দকে 'ছড়ার ছন্দ' বা 'লৌকিক ছন্দ' বলা হয়।"
+    },
+    {
+        "question": "11. 'আজ চারদিক হতে ধনিক বণিক শোষণকারীর জাত, ও ভাই জোঁকের মতন শুষছে রক্ত, কাড়ছে থালার ভাত।' - কার লেখা?",
+        "answers": [
+            {
+                "text": "ক. রবীন্দ্রনাথ ঠাকুর",
+                "score": 0
+            },
+            {
+                "text": "খ. কাজী নজরুল ইসলাম",
+                "score": 1
+            },
+            {
+                "text": "গ. গোলাম মোস্তফা",
+                "score": 0
+            },
+            {
+                "text": "ঘ. সত্যেন্দ্রনাথ দত্ত",
+                "score": 0
+            }
+        ],
+        "correct_answer": "কাজী নজরুল ইসলাম",
+        "hint": "সাম্যবাদী কবি কাজী নজরুল ইসলামের শোষিত ও শ্রমজীবী মানুষের অধিকার নিয়ে লেখা কবিতার বিখ্যাত পঙ্‌ক্তি এটি।"
+    },
+    {
+        "question": "12. বাংলা অব্যয়ীভাব সমাসের উদাহরণ ব্যাকরণের কোন অংশের অন্তর্ভুক্ত করা যায়?",
+        "answers": [
+            {
+                "text": "ক. সন্ধি",
+                "score": 0
+            },
+            {
+                "text": "খ. উপসর্গ",
+                "score": 1
+            },
+            {
+                "text": "গ. কারক",
+                "score": 0
+            },
+            {
+                "text": "ঘ. প্রত্যয়",
+                "score": 0
+            }
+        ],
+        "correct_answer": "উপসর্গ",
+        "hint": "অব্যয়ীভাব সমাসে পূর্বপদে অব্যয় বা উপসর্গ (যেমন: উপ, অনু, নি, প্রতি) যুক্ত হয়ে সমাস নিষ্পন্ন হয়।"
+    },
+    {
+        "question": "13. Transparency শব্দের বাংলা পরিভাষা কী?",
+        "answers": [
+            {
+                "text": "ক. যথার্থতা",
+                "score": 0
+            },
+            {
+                "text": "খ. নির্ভরযোগ্যতা",
+                "score": 0
+            },
+            {
+                "text": "গ. স্বচ্ছতা",
+                "score": 1
+            },
+            {
+                "text": "ঘ. দুর্নীতিদমন",
+                "score": 0
+            }
+        ],
+        "correct_answer": "স্বচ্ছতা",
+        "hint": "'Transparency' শব্দটির বাংলা প্রশাসনিক ও সাধারণ পরিভাষা হলো 'স্বচ্ছতা'।"
+    },
+    {
+        "question": "14. প্রত্যয়যোগে গঠিত শব্দ কোনটি?",
+        "answers": [
+            {
+                "text": "ক. ডাক্তারখানা",
+                "score": 1
+            },
+            {
+                "text": "খ. অনুগমন",
+                "score": 0
+            },
+            {
+                "text": "গ. দিলখোলা",
+                "score": 0
+            },
+            {
+                "text": "ঘ. সম্রাট",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ডাক্তারখানা",
+        "hint": "'ডাক্তার' মূল শব্দের সাথে ফারসি প্রত্যয় 'খানা' যুক্ত হয়ে 'ডাক্তারখানা' শব্দটি গঠিত হয়েছে।"
+    },
+    {
+        "question": "15. 'আফতাব' শব্দের সমার্থক শব্দ কোনটি?",
+        "answers": [
+            {
+                "text": "ক. অর্ণব",
+                "score": 0
+            },
+            {
+                "text": "খ. রাতুল",
+                "score": 0
+            },
+            {
+                "text": "গ. অর্ক",
+                "score": 1
+            },
+            {
+                "text": "ঘ. জলধি",
+                "score": 0
+            }
+        ],
+        "correct_answer": "অর্ক",
+        "hint": "'আফতাব' ও 'অর্ক' দুটোই 'সূর্য' শব্দের সমার্থক শব্দ। 'অর্ণব' ও 'জলধি' মানে সমুদ্র এবং 'রাতুল' মানে লাল।"
+    },
+    {
+        "question": "16. কোনটি বিশেষণ?",
+        "answers": [
+            {
+                "text": "ক. সৎ",
+                "score": 1
+            },
+            {
+                "text": "খ. একতা",
+                "score": 0
+            },
+            {
+                "text": "গ. দর্শন",
+                "score": 0
+            },
+            {
+                "text": "ঘ. জনতা",
+                "score": 0
+            }
+        ],
+        "correct_answer": "সৎ",
+        "hint": "'সৎ' শব্দটি কোনো ব্যক্তির গুণ নির্দেশ করে, তাই এটি বিশেষণ পদ। বাকিগুলো বিশেষ্য পদ।"
+    },
+    {
+        "question": "17. ইসমাইল হোসেন সিরাজীর কোন কাব্যটি বাজেয়াপ্ত হয়?",
+        "answers": [
+            {
+                "text": "ক. 'অনল প্রবাহ'",
+                "score": 1
+            },
+            {
+                "text": "খ. 'আকাঙ্ক্ষা'",
+                "score": 0
+            },
+            {
+                "text": "গ. 'উদ্বোধন'",
+                "score": 0
+            },
+            {
+                "text": "ঘ. 'নব উদ্দীপনা'",
+                "score": 0
+            }
+        ],
+        "correct_answer": "'অনল প্রবাহ'",
+        "hint": "১৯০০ সালে প্রকাশিত ইসমাইল হোসেন সিরাজীর উদ্দীপনামূলক কাব্যগ্রন্থ 'অনল-প্রবাহ' ব্রিটিশ সরকার কর্তৃক বাজেয়াপ্ত হয় এবং তাঁর কারাদণ্ড হয়।"
+    },
+    {
+        "question": "18. কোন বানানটি প্রমিত?",
+        "answers": [
+            {
+                "text": "ক. पश्चাদপদ",
+                "score": 0
+            },
+            {
+                "text": "খ. पश्चাৎগামী",
+                "score": 0
+            },
+            {
+                "text": "গ. पश्चাদ্‌ভূমি",
+                "score": 1
+            },
+            {
+                "text": "ঘ. पश्चাৎবর্তী",
+                "score": 0
+            }
+        ],
+        "correct_answer": "পশ্চাদ্‌ভূমি",
+        "hint": "সন্ধির নিয়ম অনুযায়ী 'পশ্চাৎ + ভূমি' যুক্ত হয়ে 'ৎ' স্থানে 'দ্' বা হসন্তযুক্ত 'দ্' রূপ নেয়; তাই প্রমিত বানান 'পশ্চাদ্‌ভূমি'।"
+    },
+    {
+        "question": "19. 'অন্তর্ভুক্তিমুলক' শব্দ উচ্চারণে কয়টি অক্ষর পাওয়া যায়?",
+        "answers": [
+            {
+                "text": "ক. ৫",
+                "score": 0
+            },
+            {
+                "text": "খ. ৬",
+                "score": 1
+            },
+            {
+                "text": "গ. ৭",
+                "score": 0
+            },
+            {
+                "text": "ঘ. ৮",
+                "score": 0
+            }
+        ],
+        "correct_answer": "৬",
+        "hint": "উচ্চারণ বিশ্লেষণ: অন-তর-ভুক-তি-মু-লক। এখানে মোট ৬টি অক্ষর বা সিলেবল (Syllable) বিদ্যমান।"
+    },
+    {
+        "question": "20. কোন শব্দে দ্বিস্বরধ্বনি রয়েছে?",
+        "answers": [
+            {
+                "text": "ক. তিসি",
+                "score": 0
+            },
+            {
+                "text": "খ. মালি",
+                "score": 0
+            },
+            {
+                "text": "গ. লাউ",
+                "score": 1
+            },
+            {
+                "text": "ঘ. মেয়ে",
+                "score": 0
+            }
+        ],
+        "correct_answer": "লাউ",
+        "hint": "'লাউ' শব্দে 'আ' এবং 'উ' দুটি স্বরধ্বনি মিলে একটি দ্বিস্বরধ্বনি বা যৌগিক স্বরধ্বনি (আউ) তৈরি করেছে।"
+    },
+    {
+        "question": "21. Lord of the Flies was written by ________",
+        "answers": [
+            {
+                "text": "ক. William Shakespeare",
+                "score": 0
+            },
+            {
+                "text": "খ. William Wordsworth",
+                "score": 0
+            },
+            {
+                "text": "গ. William Golding",
+                "score": 1
+            },
+            {
+                "text": "ঘ. T.S. Eliot",
+                "score": 0
+            }
+        ],
+        "correct_answer": "William Golding",
+        "hint": "নোবেলবিজয়ী ব্রিটিশ ঔপন্যাসিক উইলিয়াম গোল্ডিং (William Golding) ১৯৫৪ সালে এই বিখ্যাত অ্যালগরিক্যাল উপন্যাসটি রচনা করেন।"
+    },
+    {
+        "question": "22. What does the idiom \"take someone to task\" mean?",
+        "answers": [
+            {
+                "text": "ক. To give someone a task to do",
+                "score": 0
+            },
+            {
+                "text": "খ. To praise someone for his task",
+                "score": 0
+            },
+            {
+                "text": "গ. To rebuke someone",
+                "score": 1
+            },
+            {
+                "text": "ঘ. To appoint someone",
+                "score": 0
+            }
+        ],
+        "correct_answer": "To rebuke someone",
+        "hint": "ইংরেজি ইডিঅম 'take someone to task' বলতে কাউকে তিরস্কার বা ভর্ৎসনা করা (To rebuke/scold) বোঝায়।"
+    },
+    {
+        "question": "23. What is the meaning of 'French leave'?",
+        "answers": [
+            {
+                "text": "ক. Leave on holidays",
+                "score": 0
+            },
+            {
+                "text": "খ. Spending time in France",
+                "score": 0
+            },
+            {
+                "text": "গ. Leave without permission",
+                "score": 1
+            },
+            {
+                "text": "ঘ. Emergency leave",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Leave without permission",
+        "hint": "'French leave' বাগধারাটির অর্থ হলো অনুমতি ছাড়া কর্মস্থল বা কোনো স্থান থেকে প্রস্থান করা (Leave without permission)।"
+    },
+    {
+        "question": "24. The passive form of the sentence, \"Who did the work?\" is -",
+        "answers": [
+            {
+                "text": "ক. By whom the work was done?",
+                "score": 0
+            },
+            {
+                "text": "খ. Whom had the work done by?",
+                "score": 0
+            },
+            {
+                "text": "গ. By whom was the work done?",
+                "score": 1
+            },
+            {
+                "text": "ঘ. Who was the work done?",
+                "score": 0
+            }
+        ],
+        "correct_answer": "By whom was the work done?",
+        "hint": "Active বাক্যে 'Who' থাকলে Passive করার নিয়ম: By whom + auxiliary verb (was) + object (the work) + V3 (done)?"
+    },
+    {
+        "question": "25. Choose the correct sentence.",
+        "answers": [
+            {
+                "text": "ক. Where have you born?",
+                "score": 0
+            },
+            {
+                "text": "খ. Where are you born?",
+                "score": 0
+            },
+            {
+                "text": "গ. Where were you born?",
+                "score": 1
+            },
+            {
+                "text": "ঘ. Where did you born?",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Where were you born?",
+        "hint": "জন্মগ্রহণের ঘটনাটি অতীতের, তাই 'bear' verb-এর passive হিসেবে সর্বদা 'was/were born' ব্যবহৃত হয়।"
+    },
+    {
+        "question": "26. Doctor Faustus is _______",
+        "answers": [
+            {
+                "text": "ক. a comedy",
+                "score": 0
+            },
+            {
+                "text": "খ. a tragedy",
+                "score": 1
+            },
+            {
+                "text": "গ. a historical novel",
+                "score": 0
+            },
+            {
+                "text": "ঘ. an absurd play",
+                "score": 0
+            }
+        ],
+        "correct_answer": "a tragedy",
+        "hint": "এলিজাবেথীয় যুগের নাট্যকার ক্রিস্টোফার মার্লোর রচয়িতা বিশ্ববিখ্যাত ট্র্যাজেডি নাটক হলো 'Doctor Faustus'।"
+    },
+    {
+        "question": "27. She works hard. What part of speech is the underlined word?",
+        "answers": [
+            {
+                "text": "ক. Adjective",
+                "score": 0
+            },
+            {
+                "text": "খ. Adverb",
+                "score": 1
+            },
+            {
+                "text": "গ. Verb",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Noun",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Adverb",
+        "hint": "এখানে 'hard' শব্দটি 'works' (verb)-কে মডিফাই করে বোঝাচ্ছে সে কেমন কাজ করে। তাই এটি একটি Adverb।"
+    },
+    {
+        "question": "28. John Keats wrote _____",
+        "answers": [
+            {
+                "text": "ক. Ode to the West Wind",
+                "score": 0
+            },
+            {
+                "text": "খ. Ode on a Grecian Urn",
+                "score": 1
+            },
+            {
+                "text": "গ. Tintern Abbey",
+                "score": 0
+            },
+            {
+                "text": "ঘ. The Ancient Mariner",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Ode on a Grecian Urn",
+        "hint": "রোমান্টিক যুগের কবি অব বিউটি জন কিটস তাঁর বিখ্যাত কবিতা 'Ode on a Grecian Urn' রচনা করেন।"
+    },
+    {
+        "question": "29. __________ others is a great deed.",
+        "answers": [
+            {
+                "text": "ক. To help",
+                "score": 1
+            },
+            {
+                "text": "খ. Help",
+                "score": 0
+            },
+            {
+                "text": "গ. To helping",
+                "score": 0
+            },
+            {
+                "text": "ঘ. To have helped",
+                "score": 0
+            }
+        ],
+        "correct_answer": "To help",
+        "hint": "বাক্যের শুরুতে Subject হিসেবে Infinitive (To + verb) অথবা Gerund (Verb + ing) ব্যবহৃত হয়।"
+    },
+    {
+        "question": "30. She succeeded ___________ her good work",
+        "answers": [
+            {
+                "text": "ক. because",
+                "score": 0
+            },
+            {
+                "text": "খ. since",
+                "score": 0
+            },
+            {
+                "text": "গ. because of",
+                "score": 1
+            },
+            {
+                "text": "ঘ. as",
+                "score": 0
+            }
+        ],
+        "correct_answer": "because of",
+        "hint": "কোনো Noun phrase-এর পূর্বে কারণ বোঝাতে prepositional phrase হিসেবে 'because of' বসে; Clause-এর পূর্বে কেবল 'because' বসে।"
+    },
+    {
+        "question": "31. Choose the correct sentence.",
+        "answers": [
+            {
+                "text": "ক. He resembles like his father.",
+                "score": 0
+            },
+            {
+                "text": "খ. He resembles with his father.",
+                "score": 0
+            },
+            {
+                "text": "গ. He resembles his father.",
+                "score": 1
+            },
+            {
+                "text": "ঘ. He resembles similar to his father.",
+                "score": 0
+            }
+        ],
+        "correct_answer": "He resembles his father.",
+        "hint": "'Resemble' একটি Transitive verb, তাই এর পর কোনো Preposition (like/with/similar to) বসে না, সরাসরি object বসে।"
+    },
+    {
+        "question": "32. Do you know the solution _______ the problem?",
+        "answers": [
+            {
+                "text": "ক. of",
+                "score": 0
+            },
+            {
+                "text": "খ. for",
+                "score": 0
+            },
+            {
+                "text": "গ. about",
+                "score": 0
+            },
+            {
+                "text": "ঘ. to",
+                "score": 1
+            }
+        ],
+        "correct_answer": "to",
+        "hint": "'Solution' শব্দের পর কোনো সমস্যার সমাধান বোঝাতে Appropriate preposition হিসেবে 'to' ব্যবহৃত হয়।"
+    },
+    {
+        "question": "33. He as well as his parents _____________ spending vacation abroad.",
+        "answers": [
+            {
+                "text": "ক. are",
+                "score": 0
+            },
+            {
+                "text": "খ. is",
+                "score": 1
+            },
+            {
+                "text": "গ. will",
+                "score": 0
+            },
+            {
+                "text": "ঘ. can",
+                "score": 0
+            }
+        ],
+        "correct_answer": "is",
+        "hint": "দুটি Noun 'as well as' দিয়ে যুক্ত হলে প্রথম Subject ('He' - singular) অনুযায়ী Verb নির্ধারিত হয়, তাই 'is' বসবে।"
+    },
+    {
+        "question": "34. I love reading books and ________ football.",
+        "answers": [
+            {
+                "text": "ক. to play",
+                "score": 0
+            },
+            {
+                "text": "খ. play",
+                "score": 0
+            },
+            {
+                "text": "গ. playing",
+                "score": 1
+            },
+            {
+                "text": "ঘ. to have played",
+                "score": 0
+            }
+        ],
+        "correct_answer": "playing",
+        "hint": "Parallelism-এর নিয়ম অনুযায়ী 'and'-এর পূর্বের অংশটি Gerund (reading) হওয়ায় পরের অংশটিও Gerund (playing) হবে।"
+    },
+    {
+        "question": "35. Who composed 'Paradise Lost'?",
+        "answers": [
+            {
+                "text": "ক. John Donne",
+                "score": 0
+            },
+            {
+                "text": "খ. John Keats",
+                "score": 0
+            },
+            {
+                "text": "গ. John Dryden",
+                "score": 0
+            },
+            {
+                "text": "ঘ. John Milton",
+                "score": 1
+            }
+        ],
+        "correct_answer": "John Milton",
+        "hint": "ইংরেজি সাহিত্যের মহাকবি জন মিল্টন (John Milton) ১৬৬৭ সালে এই বিখ্যাত মহাকাব্যটি প্রকাশ করেন।"
+    },
+    {
+        "question": "36. Charles Dickens was an English _________",
+        "answers": [
+            {
+                "text": "ক. poet",
+                "score": 0
+            },
+            {
+                "text": "খ. playwright",
+                "score": 0
+            },
+            {
+                "text": "গ. politician",
+                "score": 0
+            },
+            {
+                "text": "ঘ. novelist",
+                "score": 1
+            }
+        ],
+        "correct_answer": "novelist",
+        "hint": "চার্লস ডিকেন্স ভিক্টোরিয়ান যুগের অন্যতম শ্রেষ্ঠ এবং বিখ্যাত ইংরেজি ঔপন্যাসিক (Novelist) ছিলেন।"
+    },
+    {
+        "question": "37. Choose the correct spelling.",
+        "answers": [
+            {
+                "text": "ক. Repeatition",
+                "score": 0
+            },
+            {
+                "text": "খ. Repeatation",
+                "score": 0
+            },
+            {
+                "text": "গ. Repetition",
+                "score": 1
+            },
+            {
+                "text": "ঘ. Ripitetion",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Repetition",
+        "hint": "পুনরাবৃত্তি অর্থে ইংরেজি সঠিক বানানটি হলো R-e-p-e-t-i-t-i-o-n (Repetition)।"
+    },
+    {
+        "question": "38. The synonym of the word 'spectacular' is -",
+        "answers": [
+            {
+                "text": "ক. ugly",
+                "score": 0
+            },
+            {
+                "text": "খ. spacious",
+                "score": 0
+            },
+            {
+                "text": "গ. spatial",
+                "score": 0
+            },
+            {
+                "text": "ঘ. breathtaking",
+                "score": 1
+            }
+        ],
+        "correct_answer": "breathtaking",
+        "hint": "'Spectacular' শব্দের অর্থ দৃষ্টিনন্দন বা চমকপ্রদ। এর সমার্থক শব্দ হলো 'breathtaking' বা 'striking'।"
+    },
+    {
+        "question": "39. What type of sentence is 'Do or die'?",
+        "answers": [
+            {
+                "text": "ক. Complex",
+                "score": 0
+            },
+            {
+                "text": "খ. Simple",
+                "score": 0
+            },
+            {
+                "text": "গ. Compound",
+                "score": 1
+            },
+            {
+                "text": "ঘ. Exclamatory",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Compound",
+        "hint": "দুটি স্বাধীন কো-অর্ডিনেট ক্লজ যখন 'or' নামক কঞ্জাংশন দিয়ে যুক্ত হয়, তখন তাকে Compound sentence বলা হয়।"
+    },
+    {
+        "question": "40. These books _______ me.",
+        "answers": [
+            {
+                "text": "ক. belongs to",
+                "score": 0
+            },
+            {
+                "text": "খ. belong to",
+                "score": 1
+            },
+            {
+                "text": "গ. are belonged by",
+                "score": 0
+            },
+            {
+                "text": "ঘ. belongs by",
+                "score": 0
+            }
+        ],
+        "correct_answer": "belong to",
+        "hint": "Subject 'These books' প্লুরাল হওয়ায় Verb 'belong' প্লুরাল হবে এবং অধিকারে থাকা বোঝাতে 'to' বসে।"
+    },
+    {
+        "question": "41. বাংলাদেশ ১৯৭৪ সালে জাতিসংঘের কততম সদস্য রাষ্ট্র হিসেবে অন্তর্ভুক্ত হয়?",
+        "answers": [
+            {
+                "text": "ক. ১২৬তম",
+                "score": 0
+            },
+            {
+                "text": "খ. ১৩০তম",
+                "score": 0
+            },
+            {
+                "text": "গ. ১৩৬তম",
+                "score": 1
+            },
+            {
+                "text": "ঘ. ১৩৯তম",
+                "score": 0
+            }
+        ],
+        "correct_answer": "১৩৬তম",
+        "hint": "১৯৭৪ সালের ১৭ সেপ্টেম্বর ২৯তম সাধারণ অধিবেশনে বাংলাদেশ জাতিসংঘের ১৩৬তম সদস্যপদ লাভ করে।"
+    },
+    {
+        "question": "42. বাংলাদেশে কখন প্রথম প্রেসিডেন্ট পদ্ধতির সরকার গঠিত হয়?",
+        "answers": [
+            {
+                "text": "ক. ১৯৭১",
+                "score": 1
+            },
+            {
+                "text": "খ. ১৯৭২",
+                "score": 0
+            },
+            {
+                "text": "গ. ১৯৭৫",
+                "score": 0
+            },
+            {
+                "text": "ঘ. ১৯৮০",
+                "score": 0
+            }
+        ],
+        "correct_answer": "১৯৭১",
+        "hint": "১৯৭১ সালের ১০ এপ্রিল গঠিত মুজিবনগর সরকারের মাধ্যমে বাংলাদেশে প্রথম রাষ্ট্রপতি শাসিত সরকারব্যবস্থা প্রতিষ্ঠিত হয়।"
+    },
+    {
+        "question": "43. বাংলাদেশের সিভিল সার্ভিস (বিসিএস) পরীক্ষা সর্বপ্রথম কত সালে শুরু হয়েছিল?",
+        "answers": [
+            {
+                "text": "ক. ১৯৭৩",
+                "score": 0
+            },
+            {
+                "text": "খ. ১৯৭৪",
+                "score": 0
+            },
+            {
+                "text": "গ. ১৯৭৫",
+                "score": 0
+            },
+            {
+                "text": "ঘ. ১৯৭৬",
+                "score": 1
+            }
+        ],
+        "correct_answer": "১৯৭৬",
+        "hint": "স্বাধীন বাংলাদেশে প্রথম বিসিএস (BCS) পরীক্ষা আয়োজিত হয়েছিল ১৯৭৬ সালে।"
+    },
+    {
+        "question": "44. মুক্তিযুদ্ধ চলাকালীন সময়ে প্রবাসী গণপ্রজাতন্ত্রী বাংলাদেশ সরকারের অস্থায়ী সচিবালয় (সদর দপ্তর) কোথায় ছিল?",
+        "answers": [
+            {
+                "text": "ক. মুজিবনগর",
+                "score": 0
+            },
+            {
+                "text": "খ. থিয়েটার রোড, কলকাতা",
+                "score": 1
+            },
+            {
+                "text": "গ. কমিরগঞ্জ",
+                "score": 0
+            },
+            {
+                "text": "ঘ. বেনাপোল",
+                "score": 0
+            }
+        ],
+        "correct_answer": "থিয়েটার রোড, কলকাতা",
+        "hint": "মুজিবনগর সরকারের প্রধানমন্ত্রী ও মন্ত্রিপরিষদের সদর দপ্তর বা অস্থায়ী সচিবালয় ছিল কলকাতার ৮ নম্বর থিয়েটার রোডে।"
+    },
+    {
+        "question": "45. বাংলামতি কি?",
+        "answers": [
+            {
+                "text": "ক. এক প্রকার ধান",
+                "score": 1
+            },
+            {
+                "text": "খ. এক প্রকার গম",
+                "score": 0
+            },
+            {
+                "text": "গ. এক প্রকার আম",
+                "score": 0
+            },
+            {
+                "text": "ঘ. একটি নদীর নাম",
+                "score": 0
+            }
+        ],
+        "correct_answer": "এক প্রকার ধান",
+        "hint": "বাংলাদেশ ধান গবেষণা ইনস্টিটিউট (BRRI) উদ্ভাবিত সুগন্ধি ব্রি ধান-৫০ কে আনুষ্ঠানিকভাবে 'বাংলামতি' বলা হয়।"
+    },
+    {
+        "question": "46. ১৯৭১ সালে সর্বপ্রথম কোন পত্রিকা পাকিস্তানী বাহিনীর গণহত্যার উপর ব্রিটিশ সাংবাদিক সাইমন ড্রিং এর প্রতিবেদন প্রকাশ করে?",
+        "answers": [
+            {
+                "text": "ক. নিউইয়র্ক টাইমস",
+                "score": 0
+            },
+            {
+                "text": "খ. ডেইলি মেইল",
+                "score": 0
+            },
+            {
+                "text": "গ. ডেইলি টেলিগ্রাফ",
+                "score": 1
+            },
+            {
+                "text": "ঘ. দ্য ইনডিপেনডেন্ট",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ডেইলি টেলিগ্রাফ",
+        "hint": "ব্রিটিশ পত্রিকা 'Daily Telegraph'-এ ১৯৭১ সালের ৩০ মার্চ 'Tanks Crush Revolt in Pakistan' শিরোনামে সাইমন ড্রিংয়ের প্রতিবেদন প্রকাশিত হয়।"
+    },
+    {
+        "question": "47. বর্তমান অন্তবর্তীকালীন সরকার কখন গঠিত হয়?",
+        "answers": [
+            {
+                "text": "ক. ০৮ আগস্ট ২০২৪",
+                "score": 1
+            },
+            {
+                "text": "খ. ১০ আগস্ট ২০২৪",
+                "score": 0
+            },
+            {
+                "text": "গ. ১২ আগস্ট ২০২৪",
+                "score": 0
+            },
+            {
+                "text": "ঘ. ০৫ আগস্ট ২০২৪",
+                "score": 0
+            }
+        ],
+        "correct_answer": "০৮ আগস্ট ২০২৪",
+        "hint": "২০২৪ সালের ৮ আগস্ট শান্তিতে নোবেলজয়ী ড. মুহাম্মদ ইউনূসের নেতৃত্বে বাংলাদেশের অন্তর্বর্তীকালীন সরকার গঠিত ও শপথ গ্রহণ করে।"
+    },
+    {
+        "question": "48. বাংলাদেশের সংসদীয় সরকার ব্যবস্থায় নিয়মতান্ত্রিক প্রধান কে?",
+        "answers": [
+            {
+                "text": "ক. প্রধানমন্ত্রী",
+                "score": 0
+            },
+            {
+                "text": "খ. রাষ্ট্রপতি",
+                "score": 1
+            },
+            {
+                "text": "গ. স্পিকার",
+                "score": 0
+            },
+            {
+                "text": "ঘ. সংসদ সচিব",
+                "score": 0
+            }
+        ],
+        "correct_answer": "রাষ্ট্রপতি",
+        "hint": "সংসদীয় শাসনব্যবস্থায় সরকারের নির্বাহী প্রধান হন প্রধানমন্ত্রী এবং রাষ্ট্রের নিয়মতান্ত্রিক প্রধান হন রাষ্ট্রপতি।"
+    },
+    {
+        "question": "49. বাংলাদেশের মোট দেশজ উৎপাদন (জিডিপি)-এর জন্য অর্থনীতিকে মোট কতটি প্রধান খাতে বিভক্ত করা হয়?",
+        "answers": [
+            {
+                "text": "ক. ০৫টি",
+                "score": 0
+            },
+            {
+                "text": "খ. ১০টি",
+                "score": 0
+            },
+            {
+                "text": "গ. ১৫টি",
+                "score": 0
+            },
+            {
+                "text": "ঘ. ১৯টি/২০টি",
+                "score": 1
+            }
+        ],
+        "correct_answer": "১৯টি/২০টি",
+        "hint": "বাংলাদেশ পরিসংখ্যান ব্যুরো (BBS) নতুন ভিত্তি বছরে (২০১৫-১৬) জিডিপি গণনার জন্য অর্থনীতিকে ১৯টি প্রধান খাতে বিভক্ত করেছে (পূর্বে ছিল ১৫টি)।"
+    },
+    {
+        "question": "50. বাংলাদেশের কর্ণফুলি নদীর উৎপত্তিস্থল কোথায়?",
+        "answers": [
+            {
+                "text": "ক. লুসাই পাহাড়",
+                "score": 1
+            },
+            {
+                "text": "খ. সিকিমের পাবর্ত্য অঞ্চল",
+                "score": 0
+            },
+            {
+                "text": "গ. তিব্বতের মানোস সরোবর",
+                "score": 0
+            },
+            {
+                "text": "ঘ. নাগা-মনিপুর অঞ্চলের বোরাক নদী",
+                "score": 0
+            }
+        ],
+        "correct_answer": "লুসাই পাহাড়",
+        "hint": "পার্বত্য চট্টগ্রামের প্রধান নদী কর্ণফুলী ভারতের মিজোরাম রাজ্যের লুসাই পাহাড় থেকে উৎপত্তি লাভ করেছে।"
+    },
+    {
+        "question": "51. 'টঙ্ক (Tonk) আন্দোলন' কি?",
+        "answers": [
+            {
+                "text": "ক. সাঁওতাল বিদ্রোহ",
+                "score": 0
+            },
+            {
+                "text": "খ. কৃষক আন্দোলন",
+                "score": 1
+            },
+            {
+                "text": "গ. প্রাকৃতিক সম্পদ রক্ষার আন্দোলন",
+                "score": 0
+            },
+            {
+                "text": "ঘ. কোনটিই নয়",
+                "score": 0
+            }
+        ],
+        "correct_answer": "কৃষক আন্দোলন",
+        "hint": "টঙ্ক প্রথা (ফসলের মাধ্যমে জমিদারি খাজনা পরিশোধের অন্যায় প্রথা) বিলোপের লক্ষ্যে ময়মনসিংহের সুসং দুর্গাপুর অঞ্চলে কমরেড মনি সিংহ-এর নেতৃত্বে কৃষক আন্দোলন গড়ে ওঠে।"
+    },
+    {
+        "question": "52. বাংলাদেশের প্রাচীনতম জনপদ কোনটি?",
+        "answers": [
+            {
+                "text": "ক. মহাস্থানগড়",
+                "score": 1
+            },
+            {
+                "text": "খ. পাহাড়পুর",
+                "score": 0
+            },
+            {
+                "text": "গ. ময়নামতি",
+                "score": 0
+            },
+            {
+                "text": "ঘ. উয়ারীবটেশ্বর",
+                "score": 0
+            }
+        ],
+        "correct_answer": "মহাস্থানগড়",
+        "hint": "বগুড়ায় অবস্থিত 'মহাস্থানগড়' (প্রাচীন পুণ্ড্রনগর) হলো বাংলাদেশের অন্যতম প্রাচীনতম প্রত্নতাত্ত্বিক নগর জনপদ।"
+    },
+    {
+        "question": "53. একটি দেশের মোট আয়তনের কত শতাংশ বনভূমি থাকা প্রয়োজন?",
+        "answers": [
+            {
+                "text": "ক. ১৫-২০%",
+                "score": 0
+            },
+            {
+                "text": "খ. ২০-২৫%",
+                "score": 1
+            },
+            {
+                "text": "গ. ৩০-৩৫%",
+                "score": 0
+            },
+            {
+                "text": "ঘ. ৩৫-৪০%",
+                "score": 0
+            }
+        ],
+        "correct_answer": "২০-২৫%",
+        "hint": "পরিবেশের পরিবেশগত ভারসাম্য রক্ষায় একটি দেশের মোট ভূখণ্ডের ন্যূনতম ২৫% বনাঞ্চল থাকা প্রয়োজন।"
+    },
+    {
+        "question": "54. বাংলাদেশ সরকারের আয়ের উৎস কোনটি?",
+        "answers": [
+            {
+                "text": "ক. আবগারি শুল্ক",
+                "score": 0
+            },
+            {
+                "text": "খ. মূল্য সংযোজন কর",
+                "score": 0
+            },
+            {
+                "text": "গ. জরিমানা ও শাস্তিমূলক ফি",
+                "score": 0
+            },
+            {
+                "text": "ঘ. উপরের সবগুলো",
+                "score": 1
+            }
+        ],
+        "correct_answer": "উপরের সবগুলো",
+        "hint": "কর রাজস্ব (যেমন: ভ্যাট, আবগারি শুল্ক) এবং কর-বহির্ভূত রাজস্ব (যেমন: ফি, জরিমানা)—উভয়ই সরকারের আয়ের অংশ।"
+    },
+    {
+        "question": "55. বাংলাদেশের সংবিধানের কত নং অনুচ্ছেদে চিন্তা, বিবেক ও বাকস্বাধীনতা নাগরিকের মৌলিক অধিকার হিসেবে স্বীকৃত?",
+        "answers": [
+            {
+                "text": "ক. ১৫",
+                "score": 0
+            },
+            {
+                "text": "খ. ২৭",
+                "score": 0
+            },
+            {
+                "text": "গ. ৩৭",
+                "score": 0
+            },
+            {
+                "text": "ঘ. ৩৯",
+                "score": 1
+            }
+        ],
+        "correct_answer": "৩৯",
+        "hint": "সংবিধানের ৩৯ নম্বর অনুচ্ছেদে 'চিন্তা ও বিবেকের স্বাধীনতা এবং বাক্‌স্বাধীনতা'র নিশ্চয়তা দেওয়া হয়েছে।"
+    },
+    {
+        "question": "56. বিশ্বস্বাস্থ্য সংস্থা কত সালে বাংলাদেশকে পোলিও মুক্ত ঘোষণা করে?",
+        "answers": [
+            {
+                "text": "ক. ১৯৯৮",
+                "score": 0
+            },
+            {
+                "text": "খ. ২০০৪",
+                "score": 0
+            },
+            {
+                "text": "গ. ২০১৪",
+                "score": 1
+            },
+            {
+                "text": "ঘ. ২০১৯",
+                "score": 0
+            }
+        ],
+        "correct_answer": "২০১৪",
+        "hint": "২০১৪ সালের ২৭ মার্চ বিশ্ব স্বাস্থ্য সংস্থা (WHO) বাংলাদেশসহ দক্ষিণ-পূর্ব এশিয়া অঞ্চলকে পোলিওমুক্ত হিসেবে ঘোষণা করে।"
+    },
+    {
+        "question": "57. বাংলাদেশের পোশাক সর্বাধিক কোন দেশে রপ্তানী করা হয়?",
+        "answers": [
+            {
+                "text": "ক. যুক্তরাষ্ট্র",
+                "score": 1
+            },
+            {
+                "text": "খ. যুক্তরাজ্য",
+                "score": 0
+            },
+            {
+                "text": "গ. ফ্রান্স",
+                "score": 0
+            },
+            {
+                "text": "ঘ. জার্মানি",
+                "score": 0
+            }
+        ],
+        "correct_answer": "যুক্তরাষ্ট্র",
+        "hint": "বাংলাদেশের তৈরি পোশাক একক দেশ হিসেবে সবচেয়ে বেশি রপ্তানি হয় মার্কিন যুক্তরাষ্ট্রে (USA)।"
+    },
+    {
+        "question": "58. বাংলাদেশের জাতীয় আয়ের (জিডিপি-র) কত শতাংশ কৃষি থেকে আসে?",
+        "answers": [
+            {
+                "text": "ক. ১২.৪০%",
+                "score": 0
+            },
+            {
+                "text": "খ. ১২.৮৯%",
+                "score": 0
+            },
+            {
+                "text": "গ. ১৩.০২%",
+                "score": 0
+            },
+            {
+                "text": "ঘ. ১১.৩৮%/১১.৫০%",
+                "score": 1
+            }
+        ],
+        "correct_answer": "১১.৩৮%/১১.৫০%",
+        "hint": "সাম্প্রতিক অর্থনৈতিক সমীক্ষা অনুযায়ী বাংলাদেশের জিডিপিতে কৃষি খাতের অবদান বর্তমানে ১১-১২ শতাংশের কাছাকাছি।"
+    },
+    {
+        "question": "59. বাংলাদেশের সংবিধানের নাম কি?",
+        "answers": [
+            {
+                "text": "ক. বাংলাদেশের সংবিধান",
+                "score": 0
+            },
+            {
+                "text": "খ. বাংলাদেশের সাংবিধানিক বিধিমালা",
+                "score": 0
+            },
+            {
+                "text": "গ. গণপ্রজাতন্ত্রী বাংলাদেশের সংবিধান",
+                "score": 1
+            },
+            {
+                "text": "ঘ. প্রজাতন্ত্র বাংলাদেশ সংবিধান",
+                "score": 0
+            }
+        ],
+        "correct_answer": "গণপ্রজাতন্ত্রী বাংলাদেশের সংবিধান",
+        "hint": "সংবিধানের ১ নং অনুচ্ছেদ অনুসারে রাষ্ট্রীয় নাম অনুযায়ী সংবিধানে নাম দেওয়া হয়েছে 'গণপ্রজাতন্ত্রী বাংলাদেশের সংবিধান'।"
+    },
+    {
+        "question": "60. নিচের কোনটি বাংলাদেশের শিল্প সংক্রান্ত অর্থনৈতিক কর্মকান্ড নয়?",
+        "answers": [
+            {
+                "text": "ক. মাছ চাষ",
+                "score": 1
+            },
+            {
+                "text": "খ. বস্ত্র",
+                "score": 0
+            },
+            {
+                "text": "গ. পাট",
+                "score": 0
+            },
+            {
+                "text": "ঘ. সিমেন্ট",
+                "score": 0
+            }
+        ],
+        "correct_answer": "মাছ চাষ",
+        "hint": "মাছ চাষ বা মৎস্য খাত মূলত অর্থনীতিতে 'কৃষি' খাতের অন্তর্ভুক্ত, শিল্প খাতের নয়।"
+    },
+    {
+        "question": "61. ইসরায়েল ও ইরানের মধ্যে চলমান সংঘাতের কারণ কোনটি?",
+        "answers": [
+            {
+                "text": "ক. বাণিজ্যিক",
+                "score": 0
+            },
+            {
+                "text": "খ. পারমানবিক শক্তি",
+                "score": 1
+            },
+            {
+                "text": "গ. অর্থনৈতিক",
+                "score": 0
+            },
+            {
+                "text": "ঘ. কোনটিই নয়",
+                "score": 0
+            }
+        ],
+        "correct_answer": "পারমানবিক শক্তি",
+        "hint": "ইরানের পারমাণবিক শক্তি অর্জন কর্মসূচি এবং আঞ্চলিক ভূ-রাজনীতি এই দুই দেশের দীর্ঘদিনের সংঘাতের মূল কেন্দ্রবিন্দু।"
+    },
+    {
+        "question": "62. কোন দেশের গৃহযুদ্ধের কারণে ইউরোপজুড়ে অভিবাসী সংকট সৃষ্টি হয়েছে?",
+        "answers": [
+            {
+                "text": "ক. সিরিয়া",
+                "score": 1
+            },
+            {
+                "text": "খ. লেবানন",
+                "score": 0
+            },
+            {
+                "text": "গ. আফগানিস্তান",
+                "score": 0
+            },
+            {
+                "text": "ঘ. ইরাক",
+                "score": 0
+            }
+        ],
+        "correct_answer": "সিরিয়া",
+        "hint": "২০১১ সালে শুরু হওয়া সিরিয়ার গৃহযুদ্ধের কারণে লাখ লাখ মানুষ ইউরোপের অভিমুখে পাড়ি দিলে ২০১৫ সালে সেখানে চরম ইউরোপীয় অভিবাসী সংকট তৈরি হয়।"
+    },
+    {
+        "question": "63. কোন ইউরোপীয় ভারতে আসার জলপথ আবিষ্কার করেন?",
+        "answers": [
+            {
+                "text": "ক. ফ্রান্সিস ড্রেক",
+                "score": 0
+            },
+            {
+                "text": "খ. ফার্ডিনান্ড ম্যাগেলান",
+                "score": 0
+            },
+            {
+                "text": "গ. ভাস্কো-ডা-গামা",
+                "score": 1
+            },
+            {
+                "text": "ঘ. ক্রিস্টোফার কলম্বাস",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ভাস্কো-ডা-গামা",
+        "hint": "পর্তুগিজ নাবিক ভাস্কো দা গামা ১৪৯৮ সালে উত্তমাশা অন্তরীপ হয়ে ইউরোপ থেকে ভারতের কালিকট বন্দরে পৌঁছানোর সমুদ্রপথ আবিষ্কার করেন।"
+    },
+    {
+        "question": "64. কে প্রথম 'গ্লোবাল ভিলেজ' ধারণাটির উপস্থাপন করেন?",
+        "answers": [
+            {
+                "text": "ক. হার্বার্ট মার্শাল ম্যাকলুহান",
+                "score": 1
+            },
+            {
+                "text": "খ. রবার্ট কিংসলে",
+                "score": 0
+            },
+            {
+                "text": "গ. হেনরি জি. ম্যাকমিলান",
+                "score": 0
+            },
+            {
+                "text": "ঘ. ডব্লিউ জি. পেরি",
+                "score": 0
+            }
+        ],
+        "correct_answer": "হার্বার্ট মার্শাল ম্যাকলুহান",
+        "hint": "কানাডিয়ান গণমাধ্যম তত্ত্ববিদ মার্শাল ম্যাকলুহান ১৯৬০-এর দশকে 'Global Village' বা বিশ্বগ্রাম ধারণাটির সর্বপ্রথম অবতারণা করেন।"
+    },
+    {
+        "question": "65. কমনওয়েলথ কোন ধরনের দেশ নিয়ে গঠিত?",
+        "answers": [
+            {
+                "text": "ক. ইংরেজ শাসন থেকে স্বাধীনতাপ্রাপ্ত দেশসমূহ",
+                "score": 1
+            },
+            {
+                "text": "খ. তেল উৎপাদনকারী দেশসমূহ",
+                "score": 0
+            },
+            {
+                "text": "গ. এশিয়া ও ইউরোপের দেশসমূহ",
+                "score": 0
+            },
+            {
+                "text": "ঘ. স্বল্প উন্নত দেশসমূহ",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ইংরেজ শাসন থেকে স্বাধীনতাপ্রাপ্ত দেশসমূহ",
+        "hint": "কমনওয়েলথ হলো অতীতে ব্রিটিশ সাম্রাজ্যের অংশ থাকা স্বাধীন দেশগুলোর একটি আন্তর্জাতিক সংস্থা।"
+    },
+    {
+        "question": "66. আন্তর্জাতিক ওজোন দিবস (International Day for the Preservation of the Ozone Layer) কত তারিখে পালিত হয়?",
+        "answers": [
+            {
+                "text": "ক. ২২ জুলাই",
+                "score": 0
+            },
+            {
+                "text": "খ. ২৮ জুলাই",
+                "score": 0
+            },
+            {
+                "text": "গ. ১৭ আগস্ট",
+                "score": 0
+            },
+            {
+                "text": "ঘ. ১৬ সেপ্টেম্বর",
+                "score": 1
+            }
+        ],
+        "correct_answer": "১৬ সেপ্টেম্বর",
+        "hint": "১৯৮৭ সালের মন্ট্রিঅল প্রোটোকল স্বাক্ষরের দিনটিকে স্মরণ করে প্রতি বছর ১৬ সেপ্টেম্বর বিশ্ব ওজোন দিবস পালিত হয়।"
+    },
+    {
+        "question": "67. কোন রাষ্ট্রের আইনসভা দ্বি-কক্ষ বিশিষ্ট?",
+        "answers": [
+            {
+                "text": "ক. যুক্তরাষ্ট্র",
+                "score": 0
+            },
+            {
+                "text": "খ. ভারত",
+                "score": 0
+            },
+            {
+                "text": "গ. যুক্তরাজ্য",
+                "score": 0
+            },
+            {
+                "text": "ঘ. উপরের সবগুলো",
+                "score": 1
+            }
+        ],
+        "correct_answer": "উপরের সবগুলো",
+        "hint": "যুক্তরাষ্ট্র (কংগ্রেস), ভারত (সংসদ) এবং যুক্তরাজ্য (পার্লামেন্ট)—তিনটি দেশের আইনসভাই উচ্চকক্ষ ও নিম্নকক্ষ বিশিষ্ট (দ্বিকক্ষ বিশিষ্ট)।"
+    },
+    {
+        "question": "68. অক্টোবর সমাজতান্ত্রিক বিপ্লব কত খ্রিস্টাব্দে সংঘটিত হয়?",
+        "answers": [
+            {
+                "text": "ক. ১৯১৭",
+                "score": 1
+            },
+            {
+                "text": "খ. ১৮৫৭",
+                "score": 0
+            },
+            {
+                "text": "গ. ১৮৪৯",
+                "score": 0
+            },
+            {
+                "text": "ঘ. ১৭৫৭",
+                "score": 0
+            }
+        ],
+        "correct_answer": "১৯১৭",
+        "hint": "১৯১৭ সালে ভ্লাদিমির লেনিনের নেতৃত্বে রাশিয়ায় ঐতিহাসিক বলশেভিক বা অক্টোবর বিপ্লব সংঘটিত হয়।"
+    },
+    {
+        "question": "69. নিচের কোন প্রতিষ্ঠান বাংলাদেশের ২১শে ফেব্রুয়ারির শহিদ দিবসকে 'আন্তর্জাতিক মাতৃভাষা দিবস' হিসেবে স্বীকৃতি প্রদান করে?",
+        "answers": [
+            {
+                "text": "ক. ইউনিসেফ",
+                "score": 0
+            },
+            {
+                "text": "খ. ইউনেসকো",
+                "score": 1
+            },
+            {
+                "text": "গ. ইউএন",
+                "score": 0
+            },
+            {
+                "text": "ঘ. এডিবি",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ইউনেসকো",
+        "hint": "১৯৯৯ সালের ১৭ নভেম্বর ইউনেস্কো (UNESCO) ২১শে ফেব্রুয়ারিকে আন্তর্জাতিক মাতৃভাষা দিবস হিসেবে ঐতিহাসিক স্বীকৃতি প্রদান করে।"
+    },
+    {
+        "question": "70. এশীয় দেশসমূহের মধ্যে কোনটি বিশ্বের উন্নত দেশ?",
+        "answers": [
+            {
+                "text": "ক. চীন",
+                "score": 0
+            },
+            {
+                "text": "খ. ভারত",
+                "score": 0
+            },
+            {
+                "text": "গ. জাপান",
+                "score": 1
+            },
+            {
+                "text": "ঘ. সিঙ্গাপুর",
+                "score": 0
+            }
+        ],
+        "correct_answer": "জাপান",
+        "hint": "G7 গোষ্ঠীভুক্ত এশিয়ার প্রথম পূর্ণাঙ্গ শিল্পোন্নত ও বিশ্বের অন্যতম শীর্ষ অর্থনৈতিক পরাশক্তি হলো জাপান।"
+    },
+    {
+        "question": "71. টেকসই উন্নয়ন লক্ষ্য (এসডিজি) অর্জনে নিচের কোনটির গুরুত্ব সবচেয়ে বেশী?",
+        "answers": [
+            {
+                "text": "ক. সক্ষমতা তৈরি",
+                "score": 0
+            },
+            {
+                "text": "খ. অংশীদারিত্ব",
+                "score": 0
+            },
+            {
+                "text": "গ. সমতা বিধান",
+                "score": 0
+            },
+            {
+                "text": "ঘ. উপরের সবগুলো",
+                "score": 1
+            }
+        ],
+        "correct_answer": "উপরের সবগুলো",
+        "hint": "SDG-র ১৭টি লক্ষ্যমাত্রা অর্জনে সার্বিক রূপায়ন, আঞ্চলিক অংশীদারিত্ব ও সক্ষমতা বৃদ্ধি সমানভাবে অপরিহার্য।"
+    },
+    {
+        "question": "72. মার্কিন যুক্তরাষ্ট্রের আইনসভার নাম কি?",
+        "answers": [
+            {
+                "text": "ক. পার্লামেন্ট",
+                "score": 0
+            },
+            {
+                "text": "খ. কংগ্রেস",
+                "score": 1
+            },
+            {
+                "text": "গ. সিনেট",
+                "score": 0
+            },
+            {
+                "text": "ঘ. কোনটিই নয়",
+                "score": 0
+            }
+        ],
+        "correct_answer": "কংগ্রেস",
+        "hint": "যুক্তরাষ্ট্রের আইনসভাকে বলা হয় 'Congress', যার দুটি কক্ষ—উচ্চকক্ষ সিনেট (Senate) এবং নিম্নকক্ষ হাউস অব রিপ্রেজেন্টেটিভস।"
+    },
+    {
+        "question": "73. কোনটি উন্নয়ন কার্যক্রমে ঋণ সহয়তাদানকারী সংস্থা?",
+        "answers": [
+            {
+                "text": "ক. ইউরোপীয় ইউনিয়ন",
+                "score": 0
+            },
+            {
+                "text": "খ. এশীয় উন্নয়ন ব্যাংক",
+                "score": 0
+            },
+            {
+                "text": "গ. বিশ্বব্যাংক",
+                "score": 0
+            },
+            {
+                "text": "ঘ. উপরের সবগুলো",
+                "score": 1
+            }
+        ],
+        "correct_answer": "উপরের সবগুলো",
+        "hint": "বিশ্বব্যাংক, এডিবি (ADB) এবং ইইউ (EU) আর্থিক অনুদান ও সহজ শর্তে ঋণ সহায়তার মাধ্যমে বিশ্বজুড়ে উন্নয়নমূলক কাজে অর্থায়ন করে।"
+    },
+    {
+        "question": "74. চীনের 'ওয়ান বেল্ট ওয়ান রোড' প্রকল্প কোন দেশসমূহের মধ্যে সংযোগ বৃদ্ধি করবে?",
+        "answers": [
+            {
+                "text": "ক. এশিয়া, ইউরোপ, আমেরিকা",
+                "score": 0
+            },
+            {
+                "text": "খ. এশিয়া, আফ্রিকা, আরব",
+                "score": 0
+            },
+            {
+                "text": "গ. এশিয়া, অস্ট্রেলিয়া, আফ্রিকা",
+                "score": 0
+            },
+            {
+                "text": "ঘ. এশিয়া, ইউরোপ, আফ্রিকা",
+                "score": 1
+            }
+        ],
+        "correct_answer": "এশিয়া, ইউরোপ, আফ্রিকা",
+        "hint": "চীনের বহুল আলোচিত 'One Belt One Road' (BRI) প্রাচীন রেশম পথকে পুনরুজ্জীবিত করে এশিয়া, ইউরোপ ও আফ্রিকার সাথে অবকাঠামোগত সংযোগ বৃদ্ধি করবে।"
+    },
+    {
+        "question": "75. প্রথম বিশ্বযুদ্ধের সমাপ্তিতে কোন চুক্তি স্বাক্ষরিত হয়?",
+        "answers": [
+            {
+                "text": "ক. সেভার্স চুক্তি",
+                "score": 0
+            },
+            {
+                "text": "খ. লুজেন (Lausanne) চুক্তি",
+                "score": 0
+            },
+            {
+                "text": "গ. ভার্সাই চুক্তি",
+                "score": 1
+            },
+            {
+                "text": "ঘ. প্যারিস চুক্তি",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ভার্সাই চুক্তি",
+        "hint": "১৯১৯ সালের ২৮ জুন ফ্রান্সের প্যারিসের ভার্সাই প্রাসাদে এই বিখ্যাত শান্তির চুক্তির মাধ্যমে প্রথম বিশ্বযুদ্ধের আনুষ্ঠানিক সমাপ্তি ঘটে।"
+    },
+    {
+        "question": "76. জাতিসংঘের কোন সংস্থা বাংলাদেশ ও মায়ানমারের মধ্যকার রোহিঙ্গা বিষয়ে মধ্যস্থতা করছে?",
+        "answers": [
+            {
+                "text": "ক. ইউএনডিপি",
+                "score": 0
+            },
+            {
+                "text": "খ. ইউনিসেফ",
+                "score": 0
+            },
+            {
+                "text": "গ. ইউএনএইচসিআর",
+                "score": 1
+            },
+            {
+                "text": "ঘ. ইউনেস্কো",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ইউএনএইচসিআর",
+        "hint": "জাতিসংঘের শরণার্থী বিষয়ক সংস্থা UNHCR প্রধানত উদ্বাস্তু ও শরণার্থীদের সুরক্ষা এবং প্রত্যাবাসন কার্যক্রমে মধ্যস্থতা করে।"
+    },
+    {
+        "question": "77. বর্তমান বিশ্বের কতটি দেশ জাতিসংঘের সদস্য?",
+        "answers": [
+            {
+                "text": "ক. ১৮৩",
+                "score": 0
+            },
+            {
+                "text": "খ. ১৮৮",
+                "score": 0
+            },
+            {
+                "text": "গ. ১৯৩",
+                "score": 1
+            },
+            {
+                "text": "ঘ. ১৯৭",
+                "score": 0
+            }
+        ],
+        "correct_answer": "১৯৩",
+        "hint": "দক্ষিণ সুদান ২০১১ সালের ১৪ জুলাই ১৯৩তম সদস্য হিসেবে অন্তর্ভুক্ত হওয়ার পর জাতিসংঘের পূর্ণ সদস্য দেশ বর্তমানে ১৯৩টি।"
+    },
+    {
+        "question": "78. জাতিসংঘ কবে আনুষ্ঠানিকভাবে আত্মপ্রকাশ করে?",
+        "answers": [
+            {
+                "text": "ক. ২৪ অক্টোবর, ১৯৪৫",
+                "score": 1
+            },
+            {
+                "text": "খ. ২৮ নভেম্বর, ১৯৪৩",
+                "score": 0
+            },
+            {
+                "text": "গ. ২৮ জানুয়ারি, ১৯৪৩",
+                "score": 0
+            },
+            {
+                "text": "ঘ. ২৪ ডিসেম্বর, ১৯৪৫",
+                "score": 0
+            }
+        ],
+        "correct_answer": "২৪ অক্টোবর, ১৯৪৫",
+        "hint": "১৯৪৫ সালের ২৪ অক্টোবর আনুষ্ঠানিকভাবে সনদ কার্যকর হওয়ার মাধ্যমে জাতিসংঘ (UN) আত্মপ্রকাশ করে; প্রতি বছর এ দিনে জাতিসংঘ দিবস উদযাপিত হয়।"
+    },
+    {
+        "question": "79. 'সাফটা' (SAFTA) চুক্তি কত সালে সম্পাদিত হয়?",
+        "answers": [
+            {
+                "text": "ক. ১৯৯৮",
+                "score": 0
+            },
+            {
+                "text": "খ. ২০০২",
+                "score": 0
+            },
+            {
+                "text": "গ. ২০০৪",
+                "score": 1
+            },
+            {
+                "text": "ঘ. ২০০৯",
+                "score": 0
+            }
+        ],
+        "correct_answer": "২০০৪",
+        "hint": "সার্কভুক্ত দেশগুলোর অবাধ বাণিজ্য চুক্তি 'SAFTA' ২০০৪ সালের ৬ জানুয়ারি ইসলামাবাদে স্বাক্ষরিত হয় এবং ১ জানুয়ারি ২০০৬ থেকে কার্যকর হয়।"
+    },
+    {
+        "question": "80. কোন ঘটনার কারণে ধরিত্রী দিবসের সূচনা হয়?",
+        "answers": [
+            {
+                "text": "ক. ব্যাপক বায়ু দূষণ",
+                "score": 0
+            },
+            {
+                "text": "খ. জলবায়ু পরিবর্তন",
+                "score": 0
+            },
+            {
+                "text": "গ. ব্যাপক তেল নিঃসরণ",
+                "score": 1
+            },
+            {
+                "text": "ঘ. পারমানবিক বিস্ফোরণ",
+                "score": 0
+            }
+        ],
+        "correct_answer": "ব্যাপক তেল নিঃসরণ",
+        "hint": "১৯৬৯ সালে মার্কিন যুক্তরাষ্ট্রের ক্যালিফোর্নিয়া উপকূলে সান্তা বারবারা সমুদ্রতীরে ভয়াবহ তেল নিঃসরণের বিপর্যয়ের পর ১৯৭০ সালে ২২ এপ্রিল প্রথম ধরিত্রী দিবস (Earth Day) পালিত হয়।"
+    },
+    {
+        "question": "81. কোনটি অশুদ্ধ বানান?",
+        "answers": [
+            {
+                "text": "ক. Pneumonia",
+                "score": 0
+            },
+            {
+                "text": "খ. Dyspepsia",
+                "score": 0
+            },
+            {
+                "text": "গ. Gastitris",
+                "score": 1
+            },
+            {
+                "text": "ঘ. Diarrhoea",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Gastitris",
+        "hint": "গ্যাস্ট্রিকের সঠিক বানান হলো G-a-s-t-r-i-t-i-s (Gastritis)। এখানে গ্যাস্ট্রিক বানানটি ভুলভাবে 'Gastitris' লেখা হয়েছে।"
+    },
+    {
+        "question": "82. নিচের চিত্রে BC এর মান কত?",
+        "answers": [
+            {
+                "text": "ক. 9 মিটার",
+                "score": 0
+            },
+            {
+                "text": "খ. 6 মিটার",
+                "score": 0
+            },
+            {
+                "text": "গ. 4 মিটার",
+                "score": 0
+            },
+            {
+                "text": "ঘ. 3 মিটার",
+                "score": 1
+            }
+        ],
+        "correct_answer": "3 মিটার",
+        "hint": "সমকোণী ত্রিভুজের পিথাগোরাসের সূত্রানুযায়ী, অতিভুজ² = ভূমি² + লম্ব² হিসাব থেকে BC-এর মান বের করা যায়।"
+    },
+    {
+        "question": "83. A(1, - 1), B(2, 2) এবং C(4, t) বিন্দুত্রয় সমরেখ হলে t এর মান কত?",
+        "answers": [
+            {
+                "text": "ক. 8",
+                "score": 1
+            },
+            {
+                "text": "খ. 6",
+                "score": 0
+            },
+            {
+                "text": "গ. 4",
+                "score": 0
+            },
+            {
+                "text": "ঘ. 7",
+                "score": 0
+            }
+        ],
+        "correct_answer": "8",
+        "hint": "তিনটি বিন্দু সমরেখ হলে AB রেখার ঢাল ও BC রেখার ঢাল সমান হবে। [ (২ - (-১)) / (২ - ১) = (t - ২) / (৪ - ২) => ৩ = (t - ২) / ২ => t = ৮ ]।"
+    },
+    {
+        "question": "84. নিচের চিত্রে মোট কয়টি ত্রিভুজ আছে?",
+        "answers": [
+            {
+                "text": "ক. ৪টি",
+                "score": 0
+            },
+            {
+                "text": "খ. ৫টি",
+                "score": 0
+            },
+            {
+                "text": "গ. ৬টি",
+                "score": 0
+            },
+            {
+                "text": "ঘ. ৭টি",
+                "score": 1
+            }
+        ],
+        "correct_answer": "৭টি",
+        "hint": "চিত্রে একক ও যৌথভাবে গঠিত ত্রিভুজগুলো গণনা করলে মোট ৭টি ত্রিভুজ পাওয়া যায়।"
+    },
+    {
+        "question": "85. একটি চৌবাচ্চার দৈর্ঘ্য, প্রস্থ ও উচ্চতা যথাক্রমে ৩ মিটার, ৪ মিটার ও ৫ মিটার হলে, এতে কত লিটার বিশুদ্ধ পানি ধরবে?",
+        "answers": [
+            {
+                "text": "ক. ৬০০০০০",
+                "score": 0
+            },
+            {
+                "text": "খ. ৬০০০০",
+                "score": 1
+            },
+            {
+                "text": "গ. ৬০০০",
+                "score": 0
+            },
+            {
+                "text": "ঘ. ৩০০",
+                "score": 0
+            }
+        ],
+        "correct_answer": "৬০০০০",
+        "hint": "চৌবাচ্চার আয়তন = ৩ × ৪ × ৫ = ৬০ ঘনমিটার। ১ ঘনমিটার = ১০০০ লিটার, সুতরাং ৬০ ঘনমিটার = ৬০,০০০ লিটার।"
+    },
+    {
+        "question": "86. log2 + log4 + log8 + .......... ধারাটির অষ্টম পদ কোনটি?",
+        "answers": [
+            {
+                "text": "ক. log256",
+                "score": 1
+            },
+            {
+                "text": "খ. log128",
+                "score": 0
+            },
+            {
+                "text": "গ. log64",
+                "score": 0
+            },
+            {
+                "text": "ঘ. log32",
+                "score": 0
+            }
+        ],
+        "correct_answer": "log256",
+        "hint": "ধারাটি হলো log2¹, log2², log2³.... এভাবে n-তম পদ = log(2ⁿ)। সুতরাং ৮ম পদ = log(2⁸) = log(256)।"
+    },
+    {
+        "question": "87. যদি U = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}, P = {1, 2, 5} এবং Q = {6, 7} হয় তবে P ∩ Q‘ এর মান কত?",
+        "answers": [
+            {
+                "text": "ক. P",
+                "score": 1
+            },
+            {
+                "text": "খ. Q",
+                "score": 0
+            },
+            {
+                "text": "গ. Q‘",
+                "score": 0
+            },
+            {
+                "text": "ঘ. P‘",
+                "score": 0
+            }
+        ],
+        "correct_answer": "P",
+        "hint": "Q' হলো U থেকে Q এর উপাদান বাদ দেওয়া সেট। যেহেতু P এবং Q সম্পূর্ণ আলাদা (disjoint), তাই P এর উপাদানসমূহ Q'-এর অন্তর্ভুক্ত থাকবে। ফলে P ∩ Q' = P।"
+    },
+    {
+        "question": "88. ২ ঘন্টা ৪০ মিনিট ৬ ঘন্টার কত অংশ?",
+        "answers": [
+            {
+                "text": "ক. ১/৬",
+                "score": 0
+            },
+            {
+                "text": "খ. ১/৫",
+                "score": 0
+            },
+            {
+                "text": "গ. ৪/৯",
+                "score": 1
+            },
+            {
+                "text": "ঘ. ১/৪",
+                "score": 0
+            }
+        ],
+        "correct_answer": "৪/৯",
+        "hint": "২ ঘণ্টা ৪০ মিনিট = ১৬০ মিনিট এবং ৬ ঘণ্টা = ৩৬০ মিনিট। অনুপাত = ১৬০ / ৩৬০ = ৪/৯ অংশ।"
+    },
+    {
+        "question": "90. যদি log10x = - 3 হয়, তবে x এর মান কত?",
+        "answers": [
+            {
+                "text": "ক. 0.1",
+                "score": 0
+            },
+            {
+                "text": "খ. 0.01",
+                "score": 0
+            },
+            {
+                "text": "গ. 0.001",
+                "score": 1
+            },
+            {
+                "text": "ঘ. 0.0001",
+                "score": 0
+            }
+        ],
+        "correct_answer": "0.001",
+        "hint": "লগারিদমের সংজ্ঞানুসারে, x = 10⁻³ = 1 / 10³ = 1 / 1000 = 0.001।"
+    },
+    {
+        "question": "91. যদি P = 16 এবং TAP = 37 হয় তবে CUP-কত?",
+        "answers": [
+            {
+                "text": "ক. 40",
+                "score": 1
+            },
+            {
+                "text": "খ. 38",
+                "score": 0
+            },
+            {
+                "text": "গ. 36",
+                "score": 0
+            },
+            {
+                "text": "ঘ. 39",
+                "score": 0
+            }
+        ],
+        "correct_answer": "40",
+        "hint": "বর্ণমালার অবস্থানের মান: C = 3, U = 21, P = 16। এদের যোগফল: 3 + 21 + 16 = 40।"
+    },
+    {
+        "question": "92. নিচের কোনটি যেকোনো সেটের উপসেট?",
+        "answers": [
+            {
+                "text": "ক. Ø",
+                "score": 1
+            },
+            {
+                "text": "খ. (Ø)",
+                "score": 0
+            },
+            {
+                "text": "গ. {Ø}",
+                "score": 0
+            },
+            {
+                "text": "ঘ. {0}",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Ø",
+        "hint": "ফাঁকা সেট (Empty set) বা Ø হলো প্রতিটি সেটেরই একটি সার্বিক উপসেট (Subset)।"
+    },
+    {
+        "question": "93. x + 1/x = 2 হলে x4 + 1/x4 এর মান কত?",
+        "answers": [
+            {
+                "text": "ক. 1",
+                "score": 0
+            },
+            {
+                "text": "খ. 0",
+                "score": 0
+            },
+            {
+                "text": "গ. 2",
+                "score": 1
+            },
+            {
+                "text": "ঘ. 1/2",
+                "score": 0
+            }
+        ],
+        "correct_answer": "2",
+        "hint": "x + 1/x = 2 হলে x = 1 হয়। সুতরাং x⁴ + 1/x⁴ = 1⁴ + 1/1⁴ = 1 + 1 = 2।"
+    },
+    {
+        "question": "94. একটি গাছের পাদদেশ হতে 26√3 মিটার দূরে একটি স্থানে গাছটির শীর্ষের উন্নতি কোণ 30° হলে, গাছটির উচ্চতা কত মিটার?",
+        "answers": [
+            {
+                "text": "ক. √3/26",
+                "score": 0
+            },
+            {
+                "text": "খ. 26/√3",
+                "score": 0
+            },
+            {
+                "text": "গ. 26",
+                "score": 1
+            },
+            {
+                "text": "ঘ. 78",
+                "score": 0
+            }
+        ],
+        "correct_answer": "26",
+        "hint": "tan 30° = উচ্চতা / ভূমি => 1/√3 = h / (26√3) => h = 26 মিটার।"
+    },
+    {
+        "question": "95. √(9/4) সংখ্যাটি-",
+        "answers": [
+            {
+                "text": "ক. স্বাভাবিক সংখ্যা",
+                "score": 0
+            },
+            {
+                "text": "খ. মূলদ সংখ্যা",
+                "score": 1
+            },
+            {
+                "text": "গ. অমূলদ সংখ্যা",
+                "score": 0
+            },
+            {
+                "text": "ঘ. জটিল সংখ্যা",
+                "score": 0
+            }
+        ],
+        "correct_answer": "মূলদ সংখ্যা",
+        "hint": "√(9/4) = 3/2, যাকে p/q আকারে প্রকাশ করা যায়, তাই এটি একটি মূলদ সংখ্যা (Rational number)।"
+    },
+    {
+        "question": "96. ।3x - 4। ≤ 2 এর সমাধান-",
+        "answers": [
+            {
+                "text": "ক. (2/3) ≤ x ≤ 2",
+                "score": 1
+            },
+            {
+                "text": "খ. (2/3) ≤ x < 2",
+                "score": 0
+            },
+            {
+                "text": "গ. (2/3) < x ≤ 2",
+                "score": 0
+            },
+            {
+                "text": "ঘ. (2/3) < x < 2",
+                "score": 0
+            }
+        ],
+        "correct_answer": "(2/3) ≤ x ≤ 2",
+        "hint": "-2 ≤ 3x - 4 ≤ 2 => 2 ≤ 3x ≤ 6 => (2/3) ≤ x ≤ 2।"
+    },
+    {
+        "question": "97. ১, ৪, ৯, ১৬, ২৫,..............অনুক্রমটির পরবর্তী সংখ্যাটি কত?",
+        "answers": [
+            {
+                "text": "ক. ৬৬",
+                "score": 0
+            },
+            {
+                "text": "খ. ৪৯",
+                "score": 0
+            },
+            {
+                "text": "গ. ৩৬",
+                "score": 1
+            },
+            {
+                "text": "ঘ. ৩৪",
+                "score": 0
+            }
+        ],
+        "correct_answer": "৩৬",
+        "hint": "পদগুলো হলো পর পর স্বাভাবিক সংখ্যার বর্গ: 1², 2², 3², 4², 5², সুতরাং ৬ষ্ঠ পদটি হবে 6² = 36।"
+    },
+    {
+        "question": "98. x - 2y - 10= 0 এবং 2x + y - 3 = 0 রেখাদ্বয়ের ঢালদ্বয়ের গুণফল কত?",
+        "answers": [
+            {
+                "text": "ক. - 2",
+                "score": 0
+            },
+            {
+                "text": "খ. 2",
+                "score": 0
+            },
+            {
+                "text": "গ. - 3",
+                "score": 0
+            },
+            {
+                "text": "ঘ. - 1",
+                "score": 1
+            }
+        ],
+        "correct_answer": "- 1",
+        "hint": "প্রথম রেখার ঢাল m₁ = 1/2 এবং দ্বিতীয় রেখার ঢাল m₂ = -2। ঢালদ্বয়ের গুণফল = (1/2) × (-2) = -1 (যেহেতু রেখাদ্বয় পরস্পর লম্ব)।"
+    },
+    {
+        "question": "99. যদি x : y = 4 : 3, y : z = 5 : 4 এবং x = 200 হয়, তবে z এর মান কত?",
+        "answers": [
+            {
+                "text": "ক. 100/3",
+                "score": 0
+            },
+            {
+                "text": "খ. 800/3",
+                "score": 0
+            },
+            {
+                "text": "গ. 150",
+                "score": 0
+            },
+            {
+                "text": "ঘ. 120",
+                "score": 1
+            }
+        ],
+        "correct_answer": "120",
+        "hint": "x:y = 20:15 এবং y:z = 15:12, সুতরাং x:y:z = 20:15:12। x = 200 হলে z = 120।"
+    },
+    {
+        "question": "100. k এর মান কত হলে kx2 + 3x + 4 রাশিটি পূর্ণবর্গ হবে?",
+        "answers": [
+            {
+                "text": "ক. - 16/9",
+                "score": 0
+            },
+            {
+                "text": "খ. - 9/16",
+                "score": 0
+            },
+            {
+                "text": "গ. 9/16",
+                "score": 1
+            },
+            {
+                "text": "ঘ. 16/9",
+                "score": 0
+            }
+        ],
+        "correct_answer": "9/16",
+        "hint": "দ্বিঘাত রাশি পূর্ণবর্গ হওয়ার শর্ত হলো নিশ্চায়ক b² - 4ac = 0 হতে হবে। [ 3² - 4(k)(4) = 0 => 9 - 16k = 0 => k = 9/16 ]।"
+    }
+,
+    {
+        "question": "101. Symptoms of mild shock is",
+        "answers": [
+            {
+                "text": "ক. Rise of respiratory rate",
+                "score": 1
+            },
+            {
+                "text": "খ. Fall of blood pressure",
+                "score": 0
+            },
+            {
+                "text": "গ. Reduced Urinary output",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Coma",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Rise of respiratory rate",
+        "hint": "In mild/compensated shock, compensatory mechanisms maintain blood pressure, but tachypnea (increased respiratory rate) and tachycardia occur early."
+    },
+    {
+        "question": "102. Majority of body fluid remains in",
+        "answers": [
+            {
+                "text": "ক. Blood",
+                "score": 0
+            },
+            {
+                "text": "খ. Intra cellular fluid",
+                "score": 1
+            },
+            {
+                "text": "গ. Interstitial fluid",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Lymph",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Intra cellular fluid",
+        "hint": "About 2/3 (67%) of total body water is contained within cells as Intracellular Fluid (ICF)."
+    },
+    {
+        "question": "103. Complication of Caesarean section is",
+        "answers": [
+            {
+                "text": "ক. Postpartum Hemorrhage",
+                "score": 1
+            },
+            {
+                "text": "খ. Vaginal stenosis",
+                "score": 0
+            },
+            {
+                "text": "গ. Low platelet count",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Injury to liver",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Postpartum Hemorrhage",
+        "hint": "Postpartum Hemorrhage (PPH) is a well-known major surgical complication following a Caesarean section."
+    },
+    {
+        "question": "104. The antigen presenting cell on skin is",
+        "answers": [
+            {
+                "text": "ক. Basal cells",
+                "score": 0
+            },
+            {
+                "text": "খ. Keralinocytes",
+                "score": 0
+            },
+            {
+                "text": "গ. Langerhan cells",
+                "score": 1
+            },
+            {
+                "text": "ঘ. Melanocytes",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Langerhan cells",
+        "hint": "Langerhans cells are specialized dendritic cells residing in the epidermis that function as antigen-presenting cells."
+    },
+    {
+        "question": "105. The largest tributaries that drain into inferior Vena Cava is",
+        "answers": [
+            {
+                "text": "ক. Left renal Vein",
+                "score": 0
+            },
+            {
+                "text": "খ. Lumber Veins",
+                "score": 0
+            },
+            {
+                "text": "গ. Hepatic Veins",
+                "score": 1
+            },
+            {
+                "text": "ঘ. Right Renal Vein",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Hepatic Veins",
+        "hint": "The hepatic veins are the largest visceral tributaries draining blood from the liver directly into the IVC."
+    },
+    {
+        "question": "106. Carpal tunnel consists of",
+        "answers": [
+            {
+                "text": "ক. Median nerve",
+                "score": 1
+            },
+            {
+                "text": "খ. Musculocutaneous nerve",
+                "score": 0
+            },
+            {
+                "text": "গ. Radial nerve",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Ulnar nerve",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Median nerve",
+        "hint": "The carpal tunnel contains 9 flexor tendons and the median nerve, compression of which causes Carpal Tunnel Syndrome."
+    },
+    {
+        "question": "107. Late sign of death is",
+        "answers": [
+            {
+                "text": "ক. adipocere formation",
+                "score": 1
+            },
+            {
+                "text": "খ. cooling of body",
+                "score": 0
+            },
+            {
+                "text": "গ. dilatation of pupils",
+                "score": 0
+            },
+            {
+                "text": "ঘ. rigor mortis",
+                "score": 0
+            }
+        ],
+        "correct_answer": "adipocere formation",
+        "hint": "Adipocere formation (saponification) occurs days to weeks after death, making it a late postmortem change."
+    },
+    {
+        "question": "108. Genital fistula can be prevented by",
+        "answers": [
+            {
+                "text": "ক. Improving essential obstetric care",
+                "score": 1
+            },
+            {
+                "text": "খ. Early operations of fibroid uterus",
+                "score": 0
+            },
+            {
+                "text": "গ. Treating PID cases",
+                "score": 0
+            },
+            {
+                "text": "ঘ. correcting maternal anaemia",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Improving essential obstetric care",
+        "hint": "Obstetric fistula is mainly caused by obstructed labor; timely and adequate emergency obstetric care prevents it."
+    },
+    {
+        "question": "109. Detection of hidden disease among apparently healthy population is done by",
+        "answers": [
+            {
+                "text": "ক. Screening",
+                "score": 1
+            },
+            {
+                "text": "খ. Intervention",
+                "score": 0
+            },
+            {
+                "text": "গ. Contact tracing",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Follow-up",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Screening",
+        "hint": "Screening tests are performed on asymptomatic/apparently healthy populations to identify unrecognized disease early."
+    },
+    {
+        "question": "110. Feature of atropinization is",
+        "answers": [
+            {
+                "text": "ক. Mild dialated pupil",
+                "score": 0
+            },
+            {
+                "text": "খ. Tachycardia",
+                "score": 1
+            },
+            {
+                "text": "গ. Crepitation in Lungs",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Bronchorrhoea",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Tachycardia",
+        "hint": "Signs of atropinization in OPC poisoning treatment include tachycardia (HR > 100/min), dry skin, dilated pupils, and clear lungs."
+    },
+    {
+        "question": "111. Indication of hospitalization of a burn patient is",
+        "answers": [
+            {
+                "text": "ক. 5% burn in the trunk of an adult patient",
+                "score": 0
+            },
+            {
+                "text": "খ. 10% burn in the trunk of a child",
+                "score": 0
+            },
+            {
+                "text": "গ. Inhalation burn",
+                "score": 1
+            },
+            {
+                "text": "ঘ. 10% Circumferential burn in the lower limb",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Inhalation burn",
+        "hint": "Inhalation injury threatens the airway and is a mandatory indication for admission to a specialized burn center or hospital."
+    },
+    {
+        "question": "112. The most common type of anaemia in pregnancy is",
+        "answers": [
+            {
+                "text": "ক. Thalassemia",
+                "score": 0
+            },
+            {
+                "text": "খ. Hereditary Spherocytosis",
+                "score": 0
+            },
+            {
+                "text": "গ. Iron deficiency anemia",
+                "score": 1
+            },
+            {
+                "text": "ঘ. Folic acid deficiency anaemia",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Iron deficiency anemia",
+        "hint": "Iron deficiency accounts for more than 75-80% of all anemias diagnosed during pregnancy."
+    },
+    {
+        "question": "113. Oligo hydromnios is sever in",
+        "answers": [
+            {
+                "text": "ক. Gestational Diabetes",
+                "score": 0
+            },
+            {
+                "text": "খ. Anencephaly",
+                "score": 0
+            },
+            {
+                "text": "গ. Nulliparous women",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Renal agenesis of fetus",
+                "score": 1
+            }
+        ],
+        "correct_answer": "Renal agenesis of fetus",
+        "hint": "Fetal urine is the main contributor to amniotic fluid in the 2nd and 3rd trimesters; renal agenesis leads to severe oligohydramnios (Potter sequence)."
+    },
+    {
+        "question": "114. Which of the following is not a typical presentation of pain in acute pancreatitis?",
+        "answers": [
+            {
+                "text": "ক. Severe constant upper abdominal pain",
+                "score": 0
+            },
+            {
+                "text": "খ. Radiation pain to back",
+                "score": 0
+            },
+            {
+                "text": "গ. Absent muscle guarding",
+                "score": 1
+            },
+            {
+                "text": "ঘ. Presence of rebound tenderness",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Absent muscle guarding",
+        "hint": "Acute pancreatitis causes peritonitis, which manifests as epigastric pain radiating to the back accompanied by abdominal tenderness and muscle guarding."
+    },
+    {
+        "question": "115. Which of the following signs is characteristic for Stevens-Jhonson syndrome?",
+        "answers": [
+            {
+                "text": "ক. Koebner phenomenon",
+                "score": 0
+            },
+            {
+                "text": "খ. Auspitz sign",
+                "score": 0
+            },
+            {
+                "text": "গ. Dimple sign",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Nikolsky sign",
+                "score": 1
+            }
+        ],
+        "correct_answer": "Nikolsky sign",
+        "hint": "Nikolsky sign (dislodgement of intact epidermis with lateral pressure) is positive in blistering disorders like Stevens-Johnson syndrome and TEN."
+    },
+    {
+        "question": "116. Nerve responsible for sensation of smell is",
+        "answers": [
+            {
+                "text": "ক. Olfactory",
+                "score": 1
+            },
+            {
+                "text": "খ. Trigeminal",
+                "score": 0
+            },
+            {
+                "text": "গ. Facial",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Oculomotor",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Olfactory",
+        "hint": "Cranial Nerve I (Olfactory nerve) transmits sensory information regarding smell to the brain."
+    },
+    {
+        "question": "117. Lining of urinary tract is",
+        "answers": [
+            {
+                "text": "ক. Ciliated Columnar epithelium",
+                "score": 0
+            },
+            {
+                "text": "খ. Endothelium",
+                "score": 0
+            },
+            {
+                "text": "গ. Mesothelium",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Transitional epithelium",
+                "score": 1
+            }
+        ],
+        "correct_answer": "Transitional epithelium",
+        "hint": "Transitional epithelium (urothelium) lines the urinary tract from the renal calyces to the prostatic urethra, accommodating stretching."
+    },
+    {
+        "question": "118. The base of heart is formed mainly by",
+        "answers": [
+            {
+                "text": "ক. Left atrium",
+                "score": 1
+            },
+            {
+                "text": "খ. Left Ventricle",
+                "score": 0
+            },
+            {
+                "text": "গ. Right atrium",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Right Ventricle",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Left atrium",
+        "hint": "The posterior aspect or base of the heart is formed predominantly (2/3) by the left atrium and a small part by the right atrium."
+    },
+    {
+        "question": "119. Causative Organism responsible for Cervical cancer",
+        "answers": [
+            {
+                "text": "ক. HSV",
+                "score": 0
+            },
+            {
+                "text": "খ. HPV",
+                "score": 1
+            },
+            {
+                "text": "গ. Chlamydia",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Herpes zoster",
+                "score": 0
+            }
+        ],
+        "correct_answer": "HPV",
+        "hint": "High-risk Human Papillomavirus (HPV) genotypes, particularly 16 and 18, cause over 90% of cervical cancers."
+    },
+    {
+        "question": "120. Feature of a malignant ulcer is",
+        "answers": [
+            {
+                "text": "ক. Undermined edge",
+                "score": 0
+            },
+            {
+                "text": "খ. Punched out edge",
+                "score": 0
+            },
+            {
+                "text": "গ. Everted edge",
+                "score": 1
+            },
+            {
+                "text": "ঘ. sloping edge",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Everted edge",
+        "hint": "An everted or raised/rolled edge is characteristic of a malignant ulcer (e.g., Carcinoma/BCC/SCC)."
+    },
+    {
+        "question": "121. Part of Parasympathetic nervous system is",
+        "answers": [
+            {
+                "text": "ক. Celiac ganglion",
+                "score": 0
+            },
+            {
+                "text": "খ. Cervical ganglion",
+                "score": 0
+            },
+            {
+                "text": "গ. Ciliary ganglion",
+                "score": 1
+            },
+            {
+                "text": "ঘ. Sacral ganglion",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Ciliary ganglion",
+        "hint": "Ciliary ganglion is a parasympathetic ganglion associated with Cranial Nerve III (Oculomotor)."
+    },
+    {
+        "question": "122. Example of probability sampling is",
+        "answers": [
+            {
+                "text": "ক. Stratified random sampling",
+                "score": 1
+            },
+            {
+                "text": "খ. Quota sampling",
+                "score": 0
+            },
+            {
+                "text": "গ. Purposive sampling",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Accidental sampling",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Stratified random sampling",
+        "hint": "Stratified random sampling gives every element a known non-zero probability of being selected."
+    },
+    {
+        "question": "123. Indication of Circumcision",
+        "answers": [
+            {
+                "text": "ক. Epispadias",
+                "score": 0
+            },
+            {
+                "text": "খ. Hypospadias",
+                "score": 0
+            },
+            {
+                "text": "গ. Undescended Testes",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Phimosis",
+                "score": 1
+            }
+        ],
+        "correct_answer": "Phimosis",
+        "hint": "Phimosis (inability to retract foreskin) is a medical indication for circumcision. Hypospadias is a contraindication because foreskin is needed for reconstruction."
+    },
+    {
+        "question": "124. Congenital malformation can be attributed to maternal infection with-",
+        "answers": [
+            {
+                "text": "ক. poliomyelitis",
+                "score": 0
+            },
+            {
+                "text": "খ. Measles",
+                "score": 0
+            },
+            {
+                "text": "গ. Chicken Pox",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Toxoplasmosis",
+                "score": 1
+            }
+        ],
+        "correct_answer": "Toxoplasmosis",
+        "hint": "Toxoplasmosis is a TORCH infection known to cause congenital malformations (hydrocephalus, chorioretinitis, intracranial calcifications)."
+    },
+    {
+        "question": "125. Programmed cell death is regulated by",
+        "answers": [
+            {
+                "text": "ক. Endoplasmic reticulum",
+                "score": 0
+            },
+            {
+                "text": "খ. Golgi apparatus",
+                "score": 0
+            },
+            {
+                "text": "গ. Lysosome",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Mitochondria",
+                "score": 1
+            }
+        ],
+        "correct_answer": "Mitochondria",
+        "hint": "Mitochondria play a central role in intrinsic apoptosis (programmed cell death) by releasing Cytochrome c into the cytosol."
+    },
+    {
+        "question": "126. Utero-vaginal prolapse",
+        "answers": [
+            {
+                "text": "ক. is a very painful condition",
+                "score": 0
+            },
+            {
+                "text": "খ. is worse in erect posture",
+                "score": 1
+            },
+            {
+                "text": "গ. is common in nulliparous women",
+                "score": 0
+            },
+            {
+                "text": "ঘ. may resolve spontaneously",
+                "score": 0
+            }
+        ],
+        "correct_answer": "is worse in erect posture",
+        "hint": "Gravity exerts downward pressure, making symptoms and protrusion worse in upright posture or upon standing/walking."
+    },
+    {
+        "question": "127. Fever is mediated by",
+        "answers": [
+            {
+                "text": "ক. Bradykinin",
+                "score": 0
+            },
+            {
+                "text": "খ. Complements",
+                "score": 0
+            },
+            {
+                "text": "গ. Hageman factor",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Interleukin-1",
+                "score": 1
+            }
+        ],
+        "correct_answer": "Interleukin-1",
+        "hint": "Endogenous pyrogens like Interleukin-1 (IL-1) and TNF-alpha stimulate PGE2 synthesis in the hypothalamus to induce fever."
+    },
+    {
+        "question": "128. ln Ectopic pregnancy",
+        "answers": [
+            {
+                "text": "ক. Bleeding precedes pain",
+                "score": 0
+            },
+            {
+                "text": "খ. Isthmus of fallopian tube in the commonest site of ectopic implantation",
+                "score": 0
+            },
+            {
+                "text": "গ. incidence is more common among women taking oral contraceptives for long time",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Abdominal pain preceded by amenorrhoea",
+                "score": 1
+            }
+        ],
+        "correct_answer": "Abdominal pain preceded by amenorrhoea",
+        "hint": "The classical triad of ectopic pregnancy includes amenorrhea, abdominal pain, and vaginal bleeding (pain usually precedes bleeding)."
+    },
+    {
+        "question": "129. Primary blood buffer system is",
+        "answers": [
+            {
+                "text": "ক. Ammonia buffer",
+                "score": 0
+            },
+            {
+                "text": "খ. Bicarbonate buffer",
+                "score": 1
+            },
+            {
+                "text": "গ. Phosphate buffer",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Protein buffer",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Bicarbonate buffer",
+        "hint": "Carbonic acid-bicarbonate (H2CO3/HCO3-) buffer system is the primary extracellular/blood buffering system in the human body."
+    },
+    {
+        "question": "130. Absolute indication of splenectomy is",
+        "answers": [
+            {
+                "text": "ক. Lymphoma",
+                "score": 0
+            },
+            {
+                "text": "খ. Thelassemia",
+                "score": 0
+            },
+            {
+                "text": "গ. Leukemia",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Grade V spleen injury",
+                "score": 1
+            }
+        ],
+        "correct_answer": "Grade V spleen injury",
+        "hint": "Grade V splenic injury (shattered spleen or hilar vascular avulsion) causes severe life-threatening hemorrhage requiring emergency splenectomy."
+    },
+    {
+        "question": "131. Leukocyte induced acute tissue injury is",
+        "answers": [
+            {
+                "text": "ক. Arthritis",
+                "score": 1
+            },
+            {
+                "text": "খ. Asthma",
+                "score": 0
+            },
+            {
+                "text": "গ. Atherosclerosis",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Pulmonary fibrosis",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Arthritis",
+        "hint": "Neutrophils/leukocytes release lysosomal enzymes and ROS into the synovial fluid causing acute tissue injury in inflammatory arthritis."
+    },
+    {
+        "question": "132. Most common cause of Epistaxis is",
+        "answers": [
+            {
+                "text": "ক. Idiopathic",
+                "score": 1
+            },
+            {
+                "text": "খ. Hypertension",
+                "score": 0
+            },
+            {
+                "text": "গ. Thrombocytopenia",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Coagulation disorder",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Idiopathic",
+        "hint": "In the majority of epistaxis cases, no specific cause is identified; thus, idiopathic/spontaneous trauma is most common."
+    },
+    {
+        "question": "133. Choice of intravenous fluid in burn patient is",
+        "answers": [
+            {
+                "text": "ক. Hartman's solution",
+                "score": 1
+            },
+            {
+                "text": "খ. 5% Dextrose in Aqua",
+                "score": 0
+            },
+            {
+                "text": "গ. 5% Dextrose in normal saline",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Hypertonic Normal saline",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Hartman's solution",
+        "hint": "Hartmann's solution (Ringer's Lactate) is the fluid of choice for resuscitation in burn patients according to the Parkland formula."
+    },
+    {
+        "question": "134. Most activity growing area of a long bone is",
+        "answers": [
+            {
+                "text": "ক. Diaphysis",
+                "score": 0
+            },
+            {
+                "text": "খ. Epiphysis",
+                "score": 0
+            },
+            {
+                "text": "গ. Epiphysial Cartilage",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Metaphysis",
+                "score": 1
+            }
+        ],
+        "correct_answer": "Metaphysis",
+        "hint": "The metaphysis has rich vascularity and rapid cell turnover, making it the most actively growing region of a long bone."
+    },
+    {
+        "question": "135. In ECG, which feature is indicative for thrombolytic therapy?",
+        "answers": [
+            {
+                "text": "ক. New onset LBBB",
+                "score": 1
+            },
+            {
+                "text": "খ. ST depression",
+                "score": 0
+            },
+            {
+                "text": "গ. Appearance of Q wave",
+                "score": 0
+            },
+            {
+                "text": "ঘ. T inversion",
+                "score": 0
+            }
+        ],
+        "correct_answer": "New onset LBBB",
+        "hint": "ST-segment elevation or a new/presumed new Left Bundle Branch Block (LBBB) is an indication for emergency thrombolysis/PCI in STEMI."
+    },
+    {
+        "question": "136. Secondary hypertension is caused by",
+        "answers": [
+            {
+                "text": "ক. Conn's Syndrome",
+                "score": 1
+            },
+            {
+                "text": "খ. Burn",
+                "score": 0
+            },
+            {
+                "text": "গ. Renal ischemia",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Septic Shock",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Conn's Syndrome",
+        "hint": "Conn's syndrome (primary hyperaldosteronism) is an endocrine cause of secondary hypertension."
+    },
+    {
+        "question": "137. Component of Active management of third stage of labour (AMTSL) is",
+        "answers": [
+            {
+                "text": "ক. Aortic compression",
+                "score": 0
+            },
+            {
+                "text": "খ. inj. Oxytocin 10 units IM",
+                "score": 1
+            },
+            {
+                "text": "গ. Perineal message",
+                "score": 0
+            },
+            {
+                "text": "ঘ. examination of cervix",
+                "score": 0
+            }
+        ],
+        "correct_answer": "inj. Oxytocin 10 units IM",
+        "hint": "The main steps of AMTSL are: administration of a uterotonic agent (inj. Oxytocin 10 IU IM within 1 min of birth), controlled cord traction, and uterine massage."
+    },
+    {
+        "question": "138. Mycobacterium tuberculosis is stained by",
+        "answers": [
+            {
+                "text": "ক. Giemsa stain",
+                "score": 0
+            },
+            {
+                "text": "খ. Gram stain",
+                "score": 0
+            },
+            {
+                "text": "গ. Silver stain",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Ziehl-Neelson stain",
+                "score": 1
+            }
+        ],
+        "correct_answer": "Ziehl-Neelson stain",
+        "hint": "Mycobacterium tuberculosis has a high lipid (mycolic acid) content in its cell wall, making it acid-fast upon Ziehl-Neelsen staining."
+    },
+    {
+        "question": "139. Cephalosporin appropriate for renal impairment is",
+        "answers": [
+            {
+                "text": "ক. Cefazolin",
+                "score": 0
+            },
+            {
+                "text": "খ. Cefotetan",
+                "score": 0
+            },
+            {
+                "text": "গ. Ceftriaxone",
+                "score": 1
+            },
+            {
+                "text": "ঘ. Cefuroxime",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Ceftriaxone",
+        "hint": "Ceftriaxone is eliminated via biliary/fecal route (as well as renal), so dose adjustment is generally not required in renal failure."
+    },
+    {
+        "question": "140. First step in blood coagulation is",
+        "answers": [
+            {
+                "text": "ক. Activation of clotting factors",
+                "score": 1
+            },
+            {
+                "text": "খ. Clot retraction",
+                "score": 0
+            },
+            {
+                "text": "গ. Fibrin mesh formation",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Platelet aggregation",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Activation of clotting factors",
+        "hint": "Coagulation cascade initiates via activation of clotting factors (prothrombin activator formation) following vessel wall or blood injury."
+    },
+    {
+        "question": "141. Acid-Peptic disease include",
+        "answers": [
+            {
+                "text": "ক. Inflammatory bowel disease",
+                "score": 0
+            },
+            {
+                "text": "খ. Irritable bowel syndrome",
+                "score": 0
+            },
+            {
+                "text": "গ. Non-ulcer dyspepsia",
+                "score": 1
+            },
+            {
+                "text": "ঘ. Pyloric stenosis",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Non-ulcer dyspepsia",
+        "hint": "Acid-Peptic Diseases (APD) encompass GERD, Gastritis, Peptic Ulcer Disease (PUD), and Non-Ulcer Dyspepsia (Functional Dyspepsia)."
+    },
+    {
+        "question": "142. Cause of maternal death in Eclumpsia is",
+        "answers": [
+            {
+                "text": "ক. Retained Placenta",
+                "score": 0
+            },
+            {
+                "text": "খ. Ruptured Uterus",
+                "score": 0
+            },
+            {
+                "text": "গ. Cerebral hemorrhage",
+                "score": 1
+            },
+            {
+                "text": "ঘ. Septicemia",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Cerebral hemorrhage",
+        "hint": "Cerebral hemorrhage / stroke secondary to severe uncontrolled hypertension is the leading cause of death in eclampsia."
+    },
+    {
+        "question": "143. Which of the following drug can be used in a pregnant lady with Rheumatoid Arthritis?",
+        "answers": [
+            {
+                "text": "ক. Methotrexate",
+                "score": 0
+            },
+            {
+                "text": "খ. Salfasalazine",
+                "score": 1
+            },
+            {
+                "text": "গ. Leflunamide",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Mycophenolate Mofetil",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Salfasalazine",
+        "hint": "Sulfasalazine and Hydroxychloroquine are DMARDs considered relatively safe for use during pregnancy."
+    },
+    {
+        "question": "144. Fibrinolysis is done by",
+        "answers": [
+            {
+                "text": "ক. Plasminogen",
+                "score": 1
+            },
+            {
+                "text": "খ. Prothrombin",
+                "score": 0
+            },
+            {
+                "text": "গ. Fibrinogen",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Haptoglobin",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Plasminogen",
+        "hint": "Plasminogen is converted to plasmin (the active enzyme), which breaks down fibrin clots in the fibrinolytic process."
+    },
+    {
+        "question": "145. Which of the following is true for wound healing by secondary intention?",
+        "answers": [
+            {
+                "text": "ক. Takes place is clean wound",
+                "score": 0
+            },
+            {
+                "text": "খ. Fine scar formation",
+                "score": 0
+            },
+            {
+                "text": "গ. Applicable for infected wound",
+                "score": 1
+            },
+            {
+                "text": "ঘ. Less evidence of inflammation",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Applicable for infected wound",
+        "hint": "Healing by secondary intention occurs in open, infected, or extensive wounds where tissue loss prevents primary closure."
+    },
+    {
+        "question": "146. A 35-year-old woman presented with palpitation, excessive sweating and heat intolerence for 02 weeks; her serum FT3 & FT4 levels were high and TSH level was undetectable; radio iodine uptake of thyroid gland was low. The most likely diagnosis is",
+        "answers": [
+            {
+                "text": "ক. Graves disease",
+                "score": 0
+            },
+            {
+                "text": "খ. Toxic adenoma",
+                "score": 0
+            },
+            {
+                "text": "গ. Toxic multi-noduler goitre",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Sub acute thyroiditis",
+                "score": 1
+            }
+        ],
+        "correct_answer": "Sub acute thyroiditis",
+        "hint": "Thyrotoxicosis with LOW radioactive iodine uptake (RAIU) points towards subacute thyroiditis or factitious thyrotoxicosis rather than Graves' disease."
+    },
+    {
+        "question": "147. Clinical feature of minor surgical site infection is",
+        "answers": [
+            {
+                "text": "ক. Mild sero-sanguineous discharge",
+                "score": 1
+            },
+            {
+                "text": "খ. Copious purulent discharge",
+                "score": 0
+            },
+            {
+                "text": "গ. Fever",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Formation of huge granulation tissue",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Mild sero-sanguineous discharge",
+        "hint": "Minor SSI presents locally with localized erythema, mild inflammation, or minor serosanguinous discharge without major systemic signs."
+    },
+    {
+        "question": "148. Megaloblastic anemia with peripheral neuropathy occur due to deficiency of",
+        "answers": [
+            {
+                "text": "ক. Folic acid",
+                "score": 0
+            },
+            {
+                "text": "খ. Iron",
+                "score": 0
+            },
+            {
+                "text": "গ. Pyridoxine",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Vit B12",
+                "score": 1
+            }
+        ],
+        "correct_answer": "Vit B12",
+        "hint": "Vitamin B12 deficiency causes both megaloblastic anemia and subacute combined degeneration / peripheral neuropathy. Folate deficiency does not cause neurological signs."
+    },
+    {
+        "question": "149. A 45-year-old man has been suffering from cirrhosis of liver due to Hepatitis B Virus; the sign of decompression of cirrhosis is",
+        "answers": [
+            {
+                "text": "ক. Loss of hair",
+                "score": 0
+            },
+            {
+                "text": "খ. Splenomegaly",
+                "score": 0
+            },
+            {
+                "text": "গ. Ascites",
+                "score": 1
+            },
+            {
+                "text": "ঘ. Testicular atrophy",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Ascites",
+        "hint": "Signs of decompensated cirrhosis include ascites, hepatic encephalopathy, variceal bleeding, or jaundice."
+    },
+    {
+        "question": "150. Causes of painless Jaundice in surgical ward is",
+        "answers": [
+            {
+                "text": "ক. Cholelithiasis",
+                "score": 0
+            },
+            {
+                "text": "খ. Cholangitis",
+                "score": 0
+            },
+            {
+                "text": "গ. Mucocele of gall bladder",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Peri-ampullary carcinoma",
+                "score": 1
+            }
+        ],
+        "correct_answer": "Peri-ampullary carcinoma",
+        "hint": "Painless progressive obstructive jaundice with a palpable non-tender gallbladder (Courvoisier's law) is classical for periampullary/pancreatic head carcinoma."
+    },
+    {
+        "question": "151. Autoimmune disease includes",
+        "answers": [
+            {
+                "text": "ক. Bronchial asthma",
+                "score": 0
+            },
+            {
+                "text": "খ. Hypertension",
+                "score": 0
+            },
+            {
+                "text": "গ. Heart failure",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Rheumatic fever",
+                "score": 1
+            }
+        ],
+        "correct_answer": "Rheumatic fever",
+        "hint": "Rheumatic fever is an autoimmune sequela of Group A Streptococcal pharyngitis driven by molecular mimicry."
+    },
+    {
+        "question": "152. Cause of intrauterine death (IUD) is",
+        "answers": [
+            {
+                "text": "ক. Diabetes Mellitus",
+                "score": 1
+            },
+            {
+                "text": "খ. Respiratory distress syndrome",
+                "score": 0
+            },
+            {
+                "text": "গ. Breech presentation",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Bicornuate Uterus",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Diabetes Mellitus",
+        "hint": "Uncontrolled maternal Diabetes Mellitus is a major maternal medical risk factor for intrauterine fetal demise (IUD)."
+    },
+    {
+        "question": "153. A 40-year old man presented at Medicine OPD with recurrent haemoptysis for last 05 years: general examination revealed clubbing. Which one of the following is the most likely diagnosis",
+        "answers": [
+            {
+                "text": "ক. Bronchiectasis",
+                "score": 1
+            },
+            {
+                "text": "খ. Interstitial Lung discase",
+                "score": 0
+            },
+            {
+                "text": "গ. Mitral Stenosis",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Lung Cancer",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Bronchiectasis",
+        "hint": "Long history of recurrent hemoptysis with copious sputum production and digital clubbing is typical for bronchiectasis."
+    },
+    {
+        "question": "154. The largest gland of human body is",
+        "answers": [
+            {
+                "text": "ক. Adrenal",
+                "score": 0
+            },
+            {
+                "text": "খ. Liver",
+                "score": 1
+            },
+            {
+                "text": "গ. Pancreas",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Thyroid",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Liver",
+        "hint": "Liver is the largest internal organ and the largest gland in the human body, weighing roughly 1.5 kg."
+    },
+    {
+        "question": "155. The following layer of digestive tract contains nerves & vessels",
+        "answers": [
+            {
+                "text": "ক. Mucosa",
+                "score": 0
+            },
+            {
+                "text": "খ. Muscular Layer",
+                "score": 0
+            },
+            {
+                "text": "গ. Serous Layer",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Submucosa",
+                "score": 1
+            }
+        ],
+        "correct_answer": "Submucosa",
+        "hint": "The submucosa contains larger blood vessels, lymphatic vessels, and the Meissner submucosal nerve plexus."
+    },
+    {
+        "question": "156. Consent become invalid if taken from",
+        "answers": [
+            {
+                "text": "ক. Insane person",
+                "score": 1
+            },
+            {
+                "text": "খ. Elderly person",
+                "score": 0
+            },
+            {
+                "text": "গ. Illiterate person",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Sick person",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Insane person",
+        "hint": "Legal consent requires mental capacity; an insane or mentally incompetent individual cannot give valid informed consent."
+    },
+    {
+        "question": "157. The EP| vaccine given at birth is",
+        "answers": [
+            {
+                "text": "ক. BCG",
+                "score": 1
+            },
+            {
+                "text": "খ. Diphtheria",
+                "score": 0
+            },
+            {
+                "text": "গ. Measles",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Tetanus",
+                "score": 0
+            }
+        ],
+        "correct_answer": "BCG",
+        "hint": "BCG vaccine (protecting against severe forms of Tuberculosis) is administered as early as possible after birth."
+    },
+    {
+        "question": "158. Ligature mark in typical hanging is",
+        "answers": [
+            {
+                "text": "ক. Completely encircling neck",
+                "score": 0
+            },
+            {
+                "text": "খ. Contineous",
+                "score": 0
+            },
+            {
+                "text": "গ. Obligue",
+                "score": 1
+            },
+            {
+                "text": "ঘ. Transverse",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Obligue",
+        "hint": "In typical hanging, the ligature mark is non-continuous, incomplete, and directed obliquely upwards towards the suspension point."
+    },
+    {
+        "question": "159. Which of the following is a common complication of SGLT2 inhibitors?",
+        "answers": [
+            {
+                "text": "ক. Genital infection",
+                "score": 1
+            },
+            {
+                "text": "খ. Lactic acidosis",
+                "score": 0
+            },
+            {
+                "text": "গ. Fluid retention",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Peripheral neuropathy",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Genital infection",
+        "hint": "SGLT2 inhibitors induce glucosuria, promoting fungal/bacterial growth and leading to mycotic genital infections and UTIs."
+    },
+    {
+        "question": "160. The structural and functional unit of Lung is",
+        "answers": [
+            {
+                "text": "ক. Alveoli",
+                "score": 1
+            },
+            {
+                "text": "খ. Bronchiole",
+                "score": 0
+            },
+            {
+                "text": "গ. Bronchus",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Trachea",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Alveoli",
+        "hint": "Alveoli are microscopic air sacs where gas exchange occurs, serving as the structural and functional units of the lungs."
+    },
+    {
+        "question": "161. In normal pregnancy",
+        "answers": [
+            {
+                "text": "ক. Factor X increases",
+                "score": 1
+            },
+            {
+                "text": "খ. Antithrombin III concentration increases",
+                "score": 0
+            },
+            {
+                "text": "গ. Venous pressure falls",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Iron binding capacity falls",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Factor X increases",
+        "hint": "Pregnancy is a hypercoagulable state with increases in clotting factors I, VII, VIII, IX, and X."
+    },
+    {
+        "question": "162. Antigen test for COVID-19 is featured by",
+        "answers": [
+            {
+                "text": "ক. High accuracy",
+                "score": 0
+            },
+            {
+                "text": "খ. High sensitivity",
+                "score": 0
+            },
+            {
+                "text": "গ. High specificity",
+                "score": 1
+            },
+            {
+                "text": "ঘ. Low cost",
+                "score": 0
+            }
+        ],
+        "correct_answer": "High specificity",
+        "hint": "Rapid Antigen tests (RAT) for COVID-19 have high specificity (few false positives) but moderate-to-lower sensitivity compared to RT-PCR."
+    },
+    {
+        "question": "163. Excess CO2 retention in blood leads to",
+        "answers": [
+            {
+                "text": "ক. Metabolic acidosis",
+                "score": 0
+            },
+            {
+                "text": "খ. Metabolic alkalosis",
+                "score": 0
+            },
+            {
+                "text": "গ. Respiratory acidosis",
+                "score": 1
+            },
+            {
+                "text": "ঘ. Respiratory alkalosis",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Respiratory acidosis",
+        "hint": "Hypoventilation causing retention of CO2 (hypercapnia) increases carbonic acid in plasma, resulting in respiratory acidosis."
+    },
+    {
+        "question": "164. Criteria of an ideal suture material is",
+        "answers": [
+            {
+                "text": "ক. Shrimable",
+                "score": 0
+            },
+            {
+                "text": "খ. Non Predictable tissue behavior",
+                "score": 0
+            },
+            {
+                "text": "গ. Non Electrolyte",
+                "score": 1
+            },
+            {
+                "text": "ঘ. Carcinogenic",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Non Electrolyte",
+        "hint": "An ideal suture material should be non-electrolytic, non-capillary, non-allergenic, and cause minimal tissue reaction."
+    },
+    {
+        "question": "165. Adverse drug reaction includes",
+        "answers": [
+            {
+                "text": "ক. Synergism",
+                "score": 0
+            },
+            {
+                "text": "খ. Antagonism",
+                "score": 0
+            },
+            {
+                "text": "গ. Idiosyncracy",
+                "score": 1
+            },
+            {
+                "text": "ঘ. Enzyme induction",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Idiosyncracy",
+        "hint": "Idiosyncrasy is a Type B (bizarre, unpredictable) adverse drug reaction that occurs due to genetic variations."
+    },
+    {
+        "question": "166. Co-administration of Phenobarbital & warfarin shows",
+        "answers": [
+            {
+                "text": "ক. Antiplatelet effect",
+                "score": 0
+            },
+            {
+                "text": "খ. Fibrinolytic effect",
+                "score": 0
+            },
+            {
+                "text": "গ. Increased bleeding tendency",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Thromboembolic episode",
+                "score": 1
+            }
+        ],
+        "correct_answer": "Thromboembolic episode",
+        "hint": "Phenobarbital is a potent hepatic enzyme inducer; it increases Warfarin metabolism, reducing its anticoagulant efficacy and leading to thromboembolic risk."
+    },
+    {
+        "question": "167. Ideal graft for coronary artery bipass graft is",
+        "answers": [
+            {
+                "text": "ক. Great saphenous vein",
+                "score": 0
+            },
+            {
+                "text": "খ. Ulner artery",
+                "score": 0
+            },
+            {
+                "text": "গ. Radial artery",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Left internal mammary artery",
+                "score": 1
+            }
+        ],
+        "correct_answer": "Left internal mammary artery",
+        "hint": "Left Internal Mammary Artery (LIMA) is the gold standard conduit for CABG due to superior long-term patency rates."
+    },
+    {
+        "question": "168. Which of the following is not a feature of acute type II respiratory failure",
+        "answers": [
+            {
+                "text": "ক. PaO2 < 8.0 kpa",
+                "score": 0
+            },
+            {
+                "text": "খ. PaCo2 > 6 kpa",
+                "score": 0
+            },
+            {
+                "text": "গ. HCO3- is increased",
+                "score": 1
+            },
+            {
+                "text": "ঘ. H+ is increased",
+                "score": 0
+            }
+        ],
+        "correct_answer": "HCO3- is increased",
+        "hint": "In ACUTE Type II respiratory failure, renal compensation has not yet occurred, so HCO3- remains normal (unlike chronic Type II failure where HCO3- is increased)."
+    },
+    {
+        "question": "169. Which of the following is a compressible swelling?",
+        "answers": [
+            {
+                "text": "ক. Neuro fibroma",
+                "score": 0
+            },
+            {
+                "text": "খ. Chondroma",
+                "score": 0
+            },
+            {
+                "text": "গ. Lymphoma",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Haemangioma",
+                "score": 1
+            }
+        ],
+        "correct_answer": "Haemangioma",
+        "hint": "Haemangiomas (vascular malformations/tumors) collapse on pressure and refill upon release, showing compressibility."
+    },
+    {
+        "question": "170. Irreversible sign of vitamin-A deficiency is",
+        "answers": [
+            {
+                "text": "ক. Bitot's spot",
+                "score": 0
+            },
+            {
+                "text": "খ. Xerosis Conjunctive",
+                "score": 0
+            },
+            {
+                "text": "গ. Keratomalacia",
+                "score": 1
+            },
+            {
+                "text": "ঘ. Night blindness",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Keratomalacia",
+        "hint": "Keratomalacia involves corneal softening and ulceration leading to permanent scarring and irreversible blindness."
+    },
+    {
+        "question": "171. Common feature to all Spondylo arthritis is",
+        "answers": [
+            {
+                "text": "ক. Symmetrical poly arthritis",
+                "score": 0
+            },
+            {
+                "text": "খ. Conjunctivitis",
+                "score": 0
+            },
+            {
+                "text": "গ. Positive HLA B27",
+                "score": 1
+            },
+            {
+                "text": "ঘ. Oral Ulceration",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Positive HLA B27",
+        "hint": "Spondyloarthropathies (Ankylosing spondylitis, Reactive arthritis, Psoriatic arthritis, Enteropathic arthritis) share a strong association with HLA-B27."
+    },
+    {
+        "question": "172. Clinical feature of raised intracranial pressure is",
+        "answers": [
+            {
+                "text": "ক. Raised respiratory rate",
+                "score": 0
+            },
+            {
+                "text": "খ. Bradycardia",
+                "score": 1
+            },
+            {
+                "text": "গ. Fever",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Hypotension",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Bradycardia",
+        "hint": "Cushing's triad of raised ICP includes Hypertension, Bradycardia, and Irregular/depressed respirations."
+    },
+    {
+        "question": "173. Bony metastasis may occur in",
+        "answers": [
+            {
+                "text": "ক. Carcinoma gall bladder",
+                "score": 0
+            },
+            {
+                "text": "খ. Malignant melanoma",
+                "score": 0
+            },
+            {
+                "text": "গ. Squamous Cell Carcinoma of skin",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Follicular Carcinoma of thyroid",
+                "score": 1
+            }
+        ],
+        "correct_answer": "Follicular Carcinoma of thyroid",
+        "hint": "Follicular thyroid carcinoma metastasizes hematogenously, frequently spreading to bone and lungs."
+    },
+    {
+        "question": "174. Which one is derived from mesoderm?",
+        "answers": [
+            {
+                "text": "ক. Muscle",
+                "score": 1
+            },
+            {
+                "text": "খ. Skin",
+                "score": 0
+            },
+            {
+                "text": "গ. Nail",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Mucous membrane",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Muscle",
+        "hint": "Mesoderm gives rise to skeletal, smooth, and cardiac muscle, bones, connective tissue, and cardiovascular structures."
+    },
+    {
+        "question": "175. Forensic radiology deals with determination of",
+        "answers": [
+            {
+                "text": "ক. Poison",
+                "score": 0
+            },
+            {
+                "text": "খ. Foreign body",
+                "score": 0
+            },
+            {
+                "text": "গ. Age",
+                "score": 1
+            },
+            {
+                "text": "ঘ. Pregnancy",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Age",
+        "hint": "Forensic radiology evaluates ossification centers of bones/epiphyseal fusion to estimate the age of an individual."
+    },
+    {
+        "question": "176. CA-125 is the tumor marker for",
+        "answers": [
+            {
+                "text": "ক. Breast cancer",
+                "score": 0
+            },
+            {
+                "text": "খ. Colon cancer",
+                "score": 0
+            },
+            {
+                "text": "গ. Ovarian cancer",
+                "score": 1
+            },
+            {
+                "text": "ঘ. Pancreatic cancer",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Ovarian cancer",
+        "hint": "Cancer Antigen 125 (CA-125) is the key serum tumor marker used in non-mucinous epithelial ovarian carcinoma."
+    },
+    {
+        "question": "177. Cause of severe dysmenorrhea in an adolescent girl is",
+        "answers": [
+            {
+                "text": "ক. Endometriosis",
+                "score": 1
+            },
+            {
+                "text": "খ. Polycystic ovary disease",
+                "score": 0
+            },
+            {
+                "text": "গ. Adenomyosis",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Trichomomiasis",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Endometriosis",
+        "hint": "Endometriosis is a common gynecological cause of secondary severe dysmenorrhea in adolescent females."
+    },
+    {
+        "question": "178. Ethambutol is rarely prescribed in children because it causes",
+        "answers": [
+            {
+                "text": "ক. Peripheral neuropathy",
+                "score": 0
+            },
+            {
+                "text": "খ. Hepatitis",
+                "score": 0
+            },
+            {
+                "text": "গ. Rash",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Retrobulbar neuritis",
+                "score": 1
+            }
+        ],
+        "correct_answer": "Retrobulbar neuritis",
+        "hint": "Ethambutol causes retrobulbar/optic neuritis; young children cannot reliably report early visual changes/color blindness."
+    },
+    {
+        "question": "179. In Bangladesh minimum recommended number of antenatal care (ANC) visit is",
+        "answers": [
+            {
+                "text": "ক. Four",
+                "score": 1
+            },
+            {
+                "text": "খ. Six",
+                "score": 0
+            },
+            {
+                "text": "গ. Eight",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Twelve",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Four",
+        "hint": "The national healthcare guideline (WHO focused ANC model) traditionally recommends a minimum of 4 ANC visits during pregnancy."
+    },
+    {
+        "question": "180. Which one of the following is reproductive organ?",
+        "answers": [
+            {
+                "text": "ক. Uterus",
+                "score": 1
+            },
+            {
+                "text": "খ. Urinary bladder",
+                "score": 0
+            },
+            {
+                "text": "গ. Urethra",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Bone",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Uterus",
+        "hint": "The uterus is a primary female secondary reproductive organ involved in menstruation, implantation, and gestation."
+    },
+    {
+        "question": "181. Viral disease that may cause thrombocytopenia is",
+        "answers": [
+            {
+                "text": "ক. SARS-Cov-2",
+                "score": 0
+            },
+            {
+                "text": "খ. Influenza",
+                "score": 0
+            },
+            {
+                "text": "গ. Dengue",
+                "score": 1
+            },
+            {
+                "text": "ঘ. Hepatitis B",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Dengue",
+        "hint": "Dengue viral fever characteristically causes bone marrow suppression and immune destruction of platelets leading to thrombocytopenia."
+    },
+    {
+        "question": "182. A 35-year-old man came to you with following reports HbsAg (-VE), Anti HBc lgG (+VE), Anti HBc IgM(-VE), Anti HBs (+VE) which senario will match with the above mentioned reports",
+        "answers": [
+            {
+                "text": "ক. Acute hepatitis (early)",
+                "score": 0
+            },
+            {
+                "text": "খ. Convalescence",
+                "score": 0
+            },
+            {
+                "text": "গ. Post infection",
+                "score": 1
+            },
+            {
+                "text": "ঘ. Immunization without infection",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Post infection",
+        "hint": "Presence of Anti-HBs and Anti-HBc IgG (with negative HBsAg) indicates immunity acquired from a past natural Hepatitis B infection."
+    },
+    {
+        "question": "183. Dose schedule of a drug with half life 03 hours will be",
+        "answers": [
+            {
+                "text": "ক. 3 hourly",
+                "score": 0
+            },
+            {
+                "text": "খ. 6 hourly",
+                "score": 1
+            },
+            {
+                "text": "গ. 12 hourly",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Once daily",
+                "score": 0
+            }
+        ],
+        "correct_answer": "6 hourly",
+        "hint": "Drugs with short half-lives (~3 hours) are commonly administered at intervals of roughly 1-2 half-lives (e.g., q6h) to maintain therapeutic concentration."
+    },
+    {
+        "question": "184. Solid tumor of ovary is",
+        "answers": [
+            {
+                "text": "ক. Chocolate cyst of ovary",
+                "score": 0
+            },
+            {
+                "text": "খ. Theca Lutein cyst",
+                "score": 0
+            },
+            {
+                "text": "গ. Fibroma",
+                "score": 1
+            },
+            {
+                "text": "ঘ. Parovarian cyst",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Fibroma",
+        "hint": "Ovarian fibroma is a benign solid sex-cord stromal tumor of the ovary."
+    },
+    {
+        "question": "185. Multidrug resistant tuberculosis is treated by",
+        "answers": [
+            {
+                "text": "ক. Amikacin",
+                "score": 1
+            },
+            {
+                "text": "খ. Streptomycin",
+                "score": 0
+            },
+            {
+                "text": "গ. Tazobactum",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Ethambutol",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Amikacin",
+        "hint": "Amikacin (an injectable aminoglycoside) is used as a second-line agent in multi-drug resistant tuberculosis (MDR-TB)."
+    },
+    {
+        "question": "186. Protein is digested by",
+        "answers": [
+            {
+                "text": "ক. Amylase",
+                "score": 0
+            },
+            {
+                "text": "খ. Bile Salt",
+                "score": 0
+            },
+            {
+                "text": "গ. Lipase",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Trypsin",
+                "score": 1
+            }
+        ],
+        "correct_answer": "Trypsin",
+        "hint": "Trypsin is a pancreatic proteolytic enzyme that cleaves proteins into smaller peptides."
+    },
+    {
+        "question": "187. Universally accepted indicator of health status of a population is",
+        "answers": [
+            {
+                "text": "ক. Child death rate",
+                "score": 0
+            },
+            {
+                "text": "খ. Case fatality rate",
+                "score": 0
+            },
+            {
+                "text": "গ. Infant mortality rate",
+                "score": 1
+            },
+            {
+                "text": "ঘ. Under-5 mortality rate",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Infant mortality rate",
+        "hint": "Infant Mortality Rate (IMR) is widely regarded as a single sensitive global indicator of overall health and socioeconomic development."
+    },
+    {
+        "question": "188. Bone metabolism is the primary concern of",
+        "answers": [
+            {
+                "text": "ক. Glucagon",
+                "score": 0
+            },
+            {
+                "text": "খ. Growth hormone",
+                "score": 0
+            },
+            {
+                "text": "গ. Parathyroid hormone",
+                "score": 1
+            },
+            {
+                "text": "ঘ. Thyroid stimulating hormone",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Parathyroid hormone",
+        "hint": "Parathyroid hormone (PTH) regulates serum calcium and phosphate by acting directly on bone resorption and renal reabsorption."
+    },
+    {
+        "question": "189. Scabies is characterized by",
+        "answers": [
+            {
+                "text": "ক. Comedon",
+                "score": 0
+            },
+            {
+                "text": "খ. Burrow",
+                "score": 1
+            },
+            {
+                "text": "গ. Silvery Scale",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Wickman Striae",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Burrow",
+        "hint": "The pathognomonic lesion of scabies (Sarcoptes scabiei infestation) is the intraepidermal burrow."
+    },
+    {
+        "question": "190. Cause of acute starvation is",
+        "answers": [
+            {
+                "text": "ক. Self refusal",
+                "score": 0
+            },
+            {
+                "text": "খ. Dysphasia",
+                "score": 0
+            },
+            {
+                "text": "গ. Anorexia",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Entrapment in mine",
+                "score": 1
+            }
+        ],
+        "correct_answer": "Entrapment in mine",
+        "hint": "Entrapment in a mine or severe accidental deprivation leads to involuntary acute starvation."
+    },
+    {
+        "question": "191. Which of the following is a compelling indication of calcium channel blocker in the management of Hypertension?",
+        "answers": [
+            {
+                "text": "ক. Heart failure",
+                "score": 0
+            },
+            {
+                "text": "খ. Secondary stroke prevention",
+                "score": 0
+            },
+            {
+                "text": "গ. Older patient",
+                "score": 1
+            },
+            {
+                "text": "ঘ. Left ventricular dysfunction",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Older patient",
+        "hint": "Calcium channel blockers (CCBs) and thiazide diuretics are preferred first-line agents in elderly patients with isolated systolic hypertension."
+    },
+    {
+        "question": "192. Component of secondary survey in a traumatic patient is",
+        "answers": [
+            {
+                "text": "ক. Airway and cervical spine control",
+                "score": 0
+            },
+            {
+                "text": "খ. Head to toe examination",
+                "score": 1
+            },
+            {
+                "text": "গ. Breathing and ventilation",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Circulation and control of haemorrhage",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Head to toe examination",
+        "hint": "Secondary survey in trauma management (ATLS) consists of a comprehensive head-to-toe examination and complete history once vital functions are stabilized."
+    },
+    {
+        "question": "193. Diabetes in pregnancy should be treated by",
+        "answers": [
+            {
+                "text": "ক. Glipizide",
+                "score": 0
+            },
+            {
+                "text": "খ. Metformin",
+                "score": 0
+            },
+            {
+                "text": "গ. Insulin",
+                "score": 1
+            },
+            {
+                "text": "ঘ. Rosiglitazone",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Insulin",
+        "hint": "Insulin is the medical gold standard treatment for diabetes in pregnancy as it does not cross the placenta."
+    },
+    {
+        "question": "194. Which of the following antidepressants does not have any weight gain property?",
+        "answers": [
+            {
+                "text": "ক. Escitalopram",
+                "score": 0
+            },
+            {
+                "text": "খ. Fluoxetine",
+                "score": 1
+            },
+            {
+                "text": "গ. Paroxetine",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Sertraline",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Fluoxetine",
+        "hint": "Fluoxetine is generally weight-neutral or may even cause transient weight loss during acute therapy compared to other SSRIs."
+    },
+    {
+        "question": "195. Respiratory Center is Located in",
+        "answers": [
+            {
+                "text": "ক. Medulla",
+                "score": 1
+            },
+            {
+                "text": "খ. Spinal Cord",
+                "score": 0
+            },
+            {
+                "text": "গ. Brain Cortex",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Cerebellum",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Medulla",
+        "hint": "The primary respiratory rhythm generators and respiratory centers are situated in the medulla oblongata and pons of the brainstem."
+    },
+    {
+        "question": "196. Amniotic fluid embolism causes",
+        "answers": [
+            {
+                "text": "ক. Hypertension",
+                "score": 0
+            },
+            {
+                "text": "খ. Bronchodilatation",
+                "score": 0
+            },
+            {
+                "text": "গ. Cyanosis",
+                "score": 1
+            },
+            {
+                "text": "ঘ. Sever anaemia",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Cyanosis",
+        "hint": "Amniotic fluid embolism leads to sudden severe hypoxia, cyanosis, cardiovascular collapse, and DIC."
+    },
+    {
+        "question": "197. The most reliable clinical feature of strangulaed inguinal hernia is",
+        "answers": [
+            {
+                "text": "ক. Pain",
+                "score": 0
+            },
+            {
+                "text": "খ. Fever",
+                "score": 0
+            },
+            {
+                "text": "গ. Tense and tender lump in the inguinal region",
+                "score": 1
+            },
+            {
+                "text": "ঘ. Vomiting",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Tense and tender lump in the inguinal region",
+        "hint": "A tense, painful/tender, irreducible hernia swelling with loss of cough impulse confirms strangulation."
+    },
+    {
+        "question": "198. Uterine contractions in labour",
+        "answers": [
+            {
+                "text": "ক. are consciously controllable",
+                "score": 0
+            },
+            {
+                "text": "খ. are efficient at 5 mmHg",
+                "score": 0
+            },
+            {
+                "text": "গ. start at fundus of uterus",
+                "score": 1
+            },
+            {
+                "text": "ঘ. are painful due to ischemia",
+                "score": 0
+            }
+        ],
+        "correct_answer": "start at fundus of uterus",
+        "hint": "Uterine contraction waves originate in pacemakers located near the uterotubal junctions in the fundus and spread downwards."
+    },
+    {
+        "question": "199. Normal anion gap metabolic acidosis is found in",
+        "answers": [
+            {
+                "text": "ক. Chronic renal failure",
+                "score": 0
+            },
+            {
+                "text": "খ. Diabetic keto acidosis",
+                "score": 0
+            },
+            {
+                "text": "গ. Methanol poisoning",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Renal tubular acidosis",
+                "score": 1
+            }
+        ],
+        "correct_answer": "Renal tubular acidosis",
+        "hint": "Renal Tubular Acidosis (RTA) and severe diarrhea are primary causes of normal anion gap (hyperchloremic) metabolic acidosis."
+    },
+    {
+        "question": "200. Plasma albumin helps in",
+        "answers": [
+            {
+                "text": "ক. Colloidal osmotic pressure maintenance",
+                "score": 1
+            },
+            {
+                "text": "খ. Blood clotting",
+                "score": 0
+            },
+            {
+                "text": "গ. Iron transport",
+                "score": 0
+            },
+            {
+                "text": "ঘ. Copper transport",
+                "score": 0
+            }
+        ],
+        "correct_answer": "Colloidal osmotic pressure maintenance",
+        "hint": "Serum albumin is responsible for approximately 75-80% of the intravascular oncotic (colloidal osmotic) pressure."
+    }
+]
